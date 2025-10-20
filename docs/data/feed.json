@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980239534483726507",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@bentossell @FactoryAI @EnoReyes thx Ben - I'm still to transition you to your dev rel for @FactoryAI instead of Ben's bites 😅\n\nI'm sure @EnoReyes had/have his hands full 👇🏽👇🏽 https://t.co/eqJ1Ef82Qg",
+    "url": "https://x.com/5aikat/status/1980239534483726507",
+    "timestamp": "2025-10-20T11:47:50.000Z",
+    "metadata": {
+      "conversation_id": "1980239534483726507",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980237784733618279",
     "source": "twitter",
     "author": "bentossell",
@@ -25,7 +40,7 @@
       "conversation_id": "1980237615384457532",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -298,18 +313,16 @@
     }
   },
   {
-    "id": "twitter_1980202754057682965",
-    "source": "twitter",
-    "author": "5aikat",
-    "content": "hey @FactoryAI @EnoReyes  is this caused by the us-east-1 outage issue? its not even opening the browser to log me in https://t.co/4zVH018Acf",
-    "url": "https://x.com/5aikat/status/1980202754057682965",
-    "timestamp": "2025-10-20T09:21:41.000Z",
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
     "metadata": {
-      "conversation_id": "1980202754057682965",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -326,7 +339,6 @@
     }
   },
   {
-<<<<<<< Updated upstream
     "id": "reddit_1ob2dsx",
     "source": "reddit",
     "author": "Conscious-Fee7844",
@@ -366,8 +378,6 @@
     }
   },
   {
-=======
->>>>>>> Stashed changes
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -378,6 +388,32 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "reddit_1oayeuk",
+    "source": "reddit",
+    "author": "Malek262",
+    "content": "\"Is Factory AI Real ?\" We heard there's a free trial of 20 million tokens , But i get Nothing\n\nI heard about Factory AI and Droid CLI from a friend. I downloaded Droid CLI and tried to create an account, expecting a 20 million token free trial to test things out. However, the signup process was a nightmare. It involved two-factor authentication, email verification, and repeatedly entering my phone number. I'd enter my number, they'd send a code, then it would ask for two-factor authentication. After setting that up, it would loop back to verifying my phone number again, requesting another",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oayeuk/is_factory_ai_real_we_heard_theres_a_free_trial/",
+    "timestamp": "2025-10-19T19:18:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oapxet",
+    "source": "reddit",
+    "author": "Chemical_Bid_2195",
+    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
+    "timestamp": "2025-10-19T13:40:51.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -472,6 +508,19 @@
     }
   },
   {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -485,7 +534,6 @@
     }
   },
   {
-<<<<<<< Updated upstream
     "id": "reddit_1o8tf0s",
     "source": "reddit",
     "author": "HanSkin-reynard",
@@ -495,19 +543,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o8t9pq",
-    "source": "reddit",
-    "author": "raghav0610",
-    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
-    "timestamp": "2025-10-17T05:47:17.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -525,8 +560,6 @@
     }
   },
   {
-=======
->>>>>>> Stashed changes
     "id": "github_issue_201",
     "source": "github",
     "author": "jakob1379",
@@ -537,6 +570,19 @@
       "type": "issue",
       "labels": [],
       "number": 201
+    }
+  },
+  {
+    "id": "reddit_1o86tci",
+    "source": "reddit",
+    "author": "mr_dudo",
+    "content": "TTY problem\n\nI’m not sure if it happened to someone else but the moment I installed droid cli I’m unable to use Claude code and opencode because it’s saying I don’t have TTY on my terminal, I’m not accusing you guys at factory but it just seemed strange to me, I’m able to run droid cli normally without colors.\n\nI have tried resetting the terminal settings and didn’t work but guess what fixed it? Uninstalling droid cli, I like droid and I’m still going to use it but I still want to use my z.ai sub of $3 when ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o86tci/tty_problem/",
+    "timestamp": "2025-10-16T13:55:41.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
