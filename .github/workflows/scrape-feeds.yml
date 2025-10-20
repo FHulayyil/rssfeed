@@ -7,6 +7,9 @@ on:
   push:
     branches: [main]  # Also run on push for testing
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -15,7 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.GH_PAT != '' && secrets.GH_PAT || github.token }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -28,7 +31,7 @@ jobs:
 
       - name: Run scraper
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT != '' && secrets.GH_PAT || github.token }}
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           TEAM_TWITTER_USERNAMES: ${{ secrets.TEAM_TWITTER_USERNAMES }}
         run: node src/scraper-cli.js
