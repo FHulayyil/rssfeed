@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1980662636841938986",
+    "source": "twitter",
+    "author": "davidapr07",
+    "content": "Everyone is talking about @FactoryAI , have you tried already? no? use this to get extra tokens https://t.co/39DfY29RWh",
+    "url": "https://x.com/davidapr07/status/1980662636841938986",
+    "timestamp": "2025-10-21T15:49:06.000Z",
+    "metadata": {
+      "conversation_id": "1980662636841938986",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980662364044419172",
+    "source": "twitter",
+    "author": "CyberBoyAyush",
+    "content": "Yes that will be a great idea. I am thinking to improving it, but it will stay as the planning tool only can include a write tool but for writing md files only and PRD’s for implemention and can handoff that context to any agentic tool there.\n\nBtw sir check your dm once there we can discuss some ideas if you wanted to.",
+    "url": "https://x.com/CyberBoyAyush/status/1980662364044419172",
+    "timestamp": "2025-10-21T15:48:01.000Z",
+    "metadata": {
+      "conversation_id": "1980662364044419172",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980661656779890702",
+    "source": "twitter",
+    "author": "itsbyrobin",
+    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @ankushdharkar You know what would be cool? Codex and Claude code SDK integration so you can use these models as part of your subscription.",
+    "url": "https://x.com/itsbyrobin/status/1980661656779890702",
+    "timestamp": "2025-10-21T15:45:12.000Z",
+    "metadata": {
+      "conversation_id": "1980661656779890702",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980658191311728788",
     "source": "twitter",
     "author": "CyberBoyAyush",
@@ -8,7 +53,7 @@
     "timestamp": "2025-10-21T15:31:26.000Z",
     "metadata": {
       "conversation_id": "1980658191311728788",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1980642981502939293",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@immoinulmoin @FactoryAI can you send me /bug report?",
-    "url": "https://x.com/bentossell/status/1980642981502939293",
-    "timestamp": "2025-10-21T14:31:00.000Z",
-    "metadata": {
-      "conversation_id": "1980642981502939293",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980642917556584740",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@pascallammers_ @FactoryAI how long did it take?",
-    "url": "https://x.com/bentossell/status/1980642917556584740",
-    "timestamp": "2025-10-21T14:30:44.000Z",
-    "metadata": {
-      "conversation_id": "1980642917556584740",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980642857926185165",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@CloudTrader4 @FactoryAI 🧠",
-    "url": "https://x.com/bentossell/status/1980642857926185165",
-    "timestamp": "2025-10-21T14:30:30.000Z",
-    "metadata": {
-      "conversation_id": "1980642857926185165",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_230",
     "source": "github",
     "author": "CodingOX",
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -638,15 +638,15 @@
     }
   },
   {
-    "id": "reddit_1o8t9pq",
+    "id": "reddit_1o8tf0s",
     "source": "reddit",
-    "author": "raghav0610",
-    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
-    "timestamp": "2025-10-17T05:47:17.000Z",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
     "metadata": {
-      "score": 1,
-      "num_comments": 3,
+      "score": 3,
+      "num_comments": 4,
       "subreddit": "FactoryAi"
     }
   },
