@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_1980678042914812011",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@iannuttall Plan mode: Sonnet 4.5 collaborating with GPT-5-Med via @RepoPrompt to create highly detailed PRD\n\nCode Mode: GLM 4.6 in Droid @FactoryAI",
+    "url": "https://x.com/mikez93/status/1980678042914812011",
+    "timestamp": "2025-10-21T16:50:19.000Z",
+    "metadata": {
+      "conversation_id": "1980678042914812011",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980677864526946415",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@ImranDeveloper @contxtkng @FactoryAI @claudeai @augmentcode @augmentcode could be better but they don’t have vibes…",
+    "url": "https://x.com/erd0xbc/status/1980677864526946415",
+    "timestamp": "2025-10-21T16:49:36.000Z",
+    "metadata": {
+      "conversation_id": "1980677864526946415",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980676798133465502",
+    "source": "twitter",
+    "author": "CyberBoyAyush",
+    "content": "@z_malloc @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar i have no idea about Taskmaster. What is it can you share the tool so i can check it out?&gt;",
+    "url": "https://x.com/CyberBoyAyush/status/1980676798133465502",
+    "timestamp": "2025-10-21T16:45:22.000Z",
+    "metadata": {
+      "conversation_id": "1980676798133465502",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980676538296308028",
+    "source": "twitter",
+    "author": "z_malloc",
+    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar how does this differ from Taskmaster?",
+    "url": "https://x.com/z_malloc/status/1980676538296308028",
+    "timestamp": "2025-10-21T16:44:20.000Z",
+    "metadata": {
+      "conversation_id": "1980676538296308028",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980676065262727371",
+    "source": "twitter",
+    "author": "_jus_nate",
+    "content": "@difficultyang Give @FactoryAI Droid CLI a try",
+    "url": "https://x.com/_jus_nate/status/1980676065262727371",
+    "timestamp": "2025-10-21T16:42:27.000Z",
+    "metadata": {
+      "conversation_id": "1980676065262727371",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980675508192047399",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@pascallammers_ @FactoryAI Yes!",
+    "url": "https://x.com/mikez93/status/1980675508192047399",
+    "timestamp": "2025-10-21T16:40:14.000Z",
+    "metadata": {
+      "conversation_id": "1980675508192047399",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980674666411733263",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@aerowindwalker @FactoryAI fixed!",
+    "url": "https://x.com/bentossell/status/1980674666411733263",
+    "timestamp": "2025-10-21T16:36:54.000Z",
+    "metadata": {
+      "conversation_id": "1980674666411733263",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980674351679558018",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@dawid_jordaan @pascallammers_ @FactoryAI Impressive! I remember setting up a monorepo and it was no easy task. Kudos to your droid for this efficiency.",
+    "url": "https://x.com/BillCrosby/status/1980674351679558018",
+    "timestamp": "2025-10-21T16:35:39.000Z",
+    "metadata": {
+      "conversation_id": "1980674351679558018",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980674257395843117",
+    "source": "twitter",
+    "author": "ozenhati",
+    "content": "@dgrreen @GroqInc @FactoryAI @cursor_ai @windsurf that would be great, but no plans yet! you can learn more about it and try here: https://t.co/7xrgcVhaMg",
+    "url": "https://x.com/ozenhati/status/1980674257395843117",
+    "timestamp": "2025-10-21T16:35:16.000Z",
+    "metadata": {
+      "conversation_id": "1980674257395843117",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980666373811695991",
     "source": "twitter",
     "author": "bentossell",
@@ -8,7 +143,7 @@
     "timestamp": "2025-10-21T16:03:57.000Z",
     "metadata": {
       "conversation_id": "1980666373811695991",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -158,141 +293,6 @@
     "timestamp": "2025-10-21T15:49:06.000Z",
     "metadata": {
       "conversation_id": "1980662636841938986",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980662364044419172",
-    "source": "twitter",
-    "author": "CyberBoyAyush",
-    "content": "Yes that will be a great idea. I am thinking to improving it, but it will stay as the planning tool only can include a write tool but for writing md files only and PRD’s for implemention and can handoff that context to any agentic tool there.\n\nBtw sir check your dm once there we can discuss some ideas if you wanted to.",
-    "url": "https://x.com/CyberBoyAyush/status/1980662364044419172",
-    "timestamp": "2025-10-21T15:48:01.000Z",
-    "metadata": {
-      "conversation_id": "1980662364044419172",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980661656779890702",
-    "source": "twitter",
-    "author": "itsbyrobin",
-    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @ankushdharkar You know what would be cool? Codex and Claude code SDK integration so you can use these models as part of your subscription.",
-    "url": "https://x.com/itsbyrobin/status/1980661656779890702",
-    "timestamp": "2025-10-21T15:45:12.000Z",
-    "metadata": {
-      "conversation_id": "1980661656779890702",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980658191311728788",
-    "source": "twitter",
-    "author": "CyberBoyAyush",
-    "content": "@VrandaaGarg @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar https://t.co/KFrdf7oA3j",
-    "url": "https://x.com/CyberBoyAyush/status/1980658191311728788",
-    "timestamp": "2025-10-21T15:31:26.000Z",
-    "metadata": {
-      "conversation_id": "1980658191311728788",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980657835123069332",
-    "source": "twitter",
-    "author": "VrandaaGarg",
-    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar Damnn too good..",
-    "url": "https://x.com/VrandaaGarg/status/1980657835123069332",
-    "timestamp": "2025-10-21T15:30:01.000Z",
-    "metadata": {
-      "conversation_id": "1980657835123069332",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980657488627396628",
-    "source": "twitter",
-    "author": "dawid_jordaan",
-    "content": "@pascallammers_ @FactoryAI My droid made meticulous changes for 45 minutes in one go to make 2 apps in a monorepo compatible with a large DB migration. Ran without errors. I'm still so impressed with @FactoryAI.",
-    "url": "https://x.com/dawid_jordaan/status/1980657488627396628",
-    "timestamp": "2025-10-21T15:28:38.000Z",
-    "metadata": {
-      "conversation_id": "1980657488627396628",
-      "likes": 5,
-      "retweets": 2,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980655596014821764",
-    "source": "twitter",
-    "author": "KaireiY9921",
-    "content": "@FactoryAI \nDroid is great! However, I don't find the manual of adding  GLM Coding Plan's GLM4.6 as BYOK into Droid so I memo it as the following:\n\nMethods for Using the GLM Coding Plan in Droid's BYOK mode.\n\nin ~/.factory/config.json , add the following \n{\n  \"custom_models\": [\n    {\n      \"model_display_name\": \"GLM-4.6 [Custom]\",\n      \"model\": \"glm-4.6\",\n      \"base_url\": \"https://t.co/JX8Vgl7IlF\",\n      \"api_key\": \"YOUR_API_KEY_FROM_ZAI\",\n      \"provider\": \"generic-chat-completion-api\",\n      \"max_tokens\": 16384\n    }\n  ]\n}\n\nYou may also try to add the https://t.co/qtLRVRzexT's API endpoint in anthropic compatible mode(\"https://t.co/WkTTnZuBux\") but I find it's somewhat slower and dumb compared to generic mode.",
-    "url": "https://x.com/KaireiY9921/status/1980655596014821764",
-    "timestamp": "2025-10-21T15:21:07.000Z",
-    "metadata": {
-      "conversation_id": "1980655596014821764",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980653965772718498",
-    "source": "twitter",
-    "author": "CyberBoyAyush",
-    "content": "@itsbyrobin @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @ankushdharkar Thankyou very much sir for your appreciation 🙏🥰",
-    "url": "https://x.com/CyberBoyAyush/status/1980653965772718498",
-    "timestamp": "2025-10-21T15:14:38.000Z",
-    "metadata": {
-      "conversation_id": "1980653965772718498",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980653677754138768",
-    "source": "twitter",
-    "author": "itsbyrobin",
-    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @ankushdharkar That's actually a really cool idea, man. Well done.",
-    "url": "https://x.com/itsbyrobin/status/1980653677754138768",
-    "timestamp": "2025-10-21T15:13:30.000Z",
-    "metadata": {
-      "conversation_id": "1980653677754138768",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980652200218226899",
-    "source": "twitter",
-    "author": "CyberBoyAyush",
-    "content": "@adxtyahq @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar 🙏😬☺️",
-    "url": "https://x.com/CyberBoyAyush/status/1980652200218226899",
-    "timestamp": "2025-10-21T15:07:37.000Z",
-    "metadata": {
-      "conversation_id": "1980652200218226899",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
