@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980527655188680816",
+    "source": "twitter",
+    "author": "MrJeberulz",
+    "content": "2 weeks off my regular 9-5.\n\nI upgraded my Claude Code subscription to MAX.\n\nI will be talking to the droid @FactoryAI to finish up https://t.co/x5ksvz9FVV\n\nHeads down, coding round the clock.\n\nI will be live-streaming as well, I want more designers to code with AI.",
+    "url": "https://x.com/MrJeberulz/status/1980527655188680816",
+    "timestamp": "2025-10-21T06:52:44.000Z",
+    "metadata": {
+      "conversation_id": "1980527655188680816",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980517042995273793",
     "source": "twitter",
     "author": "bentossell",
@@ -324,21 +339,6 @@
     }
   },
   {
-    "id": "twitter_1980414301535125830",
-    "source": "twitter",
-    "author": "leoisadev",
-    "content": "@bentossell @5aikat @FactoryAI @EnoReyes not up again... still stuck loading forever :( https://t.co/H2a8xuA9RP",
-    "url": "https://x.com/leoisadev/status/1980414301535125830",
-    "timestamp": "2025-10-20T23:22:18.000Z",
-    "metadata": {
-      "conversation_id": "1980414301535125830",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_219",
     "source": "github",
     "author": "tgerighty",
@@ -424,7 +424,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
