@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981114924236755426",
+    "source": "twitter",
+    "author": "buggyDcode",
+    "content": "Anyone experiencing this?\n @FactoryAI  , i did sign up 2 accounts \ni still can use the cli but cant login https://t.co/bWfPrLiCQc",
+    "url": "https://x.com/buggyDcode/status/1981114924236755426",
+    "timestamp": "2025-10-22T21:46:19.000Z",
+    "metadata": {
+      "conversation_id": "1981114924236755426",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981112839713804776",
     "source": "twitter",
     "author": "michiosw",
@@ -23,7 +38,7 @@
     "timestamp": "2025-10-22T21:32:21.000Z",
     "metadata": {
       "conversation_id": "1981111406994034993",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -66,7 +81,7 @@
     "timestamp": "2025-10-22T20:47:33.000Z",
     "metadata": {
       "conversation_id": "1981100132536897723",
-      "likes": 5,
+      "likes": 7,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -307,21 +322,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981075833612538303",
-    "source": "twitter",
-    "author": "dawid_jordaan",
-    "content": "@bentossell @FactoryAI does /bug automaticalle send it?",
-    "url": "https://x.com/dawid_jordaan/status/1981075833612538303",
-    "timestamp": "2025-10-22T19:10:59.000Z",
-    "metadata": {
-      "conversation_id": "1981075833612538303",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
