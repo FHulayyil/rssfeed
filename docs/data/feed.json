@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981084959814144040",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JaymeBuilds @FactoryAI @fabiorizzomatos @vindulaintranet @cursor_ai noted - discussing :)",
+    "url": "https://x.com/bentossell/status/1981084959814144040",
+    "timestamp": "2025-10-22T19:47:15.000Z",
+    "metadata": {
+      "conversation_id": "1981084959814144040",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981082248603484520",
     "source": "twitter",
     "author": "chigozzdev",
@@ -100,7 +115,7 @@
       "conversation_id": "1981078464569758080",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -278,21 +293,6 @@
     "timestamp": "2025-10-22T18:43:44.000Z",
     "metadata": {
       "conversation_id": "1981068975099597155",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981064964791292209",
-    "source": "twitter",
-    "author": "JaymeBuilds",
-    "content": "@FactoryAI @fabiorizzomatos @vindulaintranet @cursor_ai Can you just stack ultra plans instead of pay per use? While keeping it in an organization so tokens can be shared?",
-    "url": "https://x.com/JaymeBuilds/status/1981064964791292209",
-    "timestamp": "2025-10-22T18:27:48.000Z",
-    "metadata": {
-      "conversation_id": "1981064964791292209",
       "likes": 0,
       "retweets": 0,
       "replies": 1,
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -595,6 +595,19 @@
     "metadata": {
       "score": 1,
       "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oapxet",
+    "source": "reddit",
+    "author": "Chemical_Bid_2195",
+    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
+    "timestamp": "2025-10-19T13:40:51.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
