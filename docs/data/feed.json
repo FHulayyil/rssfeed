@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1981078630340886738",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@The_Anant_Raj @FactoryAI sonnet does",
+    "url": "https://x.com/bentossell/status/1981078630340886738",
+    "timestamp": "2025-10-22T19:22:06.000Z",
+    "metadata": {
+      "conversation_id": "1981078630340886738",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981078464569758080",
+    "source": "twitter",
+    "author": "JaymeBuilds",
+    "content": "@bentossell @FactoryAI @fabiorizzomatos @vindulaintranet @cursor_ai Haha when our dev team gets to the point where we are spending 20k/month on credits I will be a happy camper\n\nJust looking for a solution to avoid pay per use as it’s quite easy to work around it but wondering if it’s possible to buy multiple plans on one account",
+    "url": "https://x.com/JaymeBuilds/status/1981078464569758080",
+    "timestamp": "2025-10-22T19:21:27.000Z",
+    "metadata": {
+      "conversation_id": "1981078464569758080",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981078046095396884",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@dawid_jordaan @FactoryAI no you can email to ben @ factory . ai or shareable link - whatevers easier :)",
+    "url": "https://x.com/bentossell/status/1981078046095396884",
+    "timestamp": "2025-10-22T19:19:47.000Z",
+    "metadata": {
+      "conversation_id": "1981078046095396884",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981076754866311551",
     "source": "twitter",
     "author": "chigozzdev",
@@ -40,7 +85,7 @@
       "conversation_id": "1981075833612538303",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -55,7 +100,7 @@
       "conversation_id": "1981075464161513817",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -203,7 +248,7 @@
     "timestamp": "2025-10-22T18:25:34.000Z",
     "metadata": {
       "conversation_id": "1981064402183844148",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -218,7 +263,7 @@
     "timestamp": "2025-10-22T18:10:14.000Z",
     "metadata": {
       "conversation_id": "1981060543571251544",
-      "likes": 4,
+      "likes": 5,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -255,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1981047597079973898",
-    "source": "twitter",
-    "author": "correacristobal",
-    "content": "@FactoryAI Hey! Love the product, thanks for working on it 🦾 I'm wondering if there's any reports of the (Claude subagents  / droids) import functionality nor working? I (think I) have tried everything and nada 🫣 I opened an issue in the /factory/ repo but thought I'd ask via X too 😜",
-    "url": "https://x.com/correacristobal/status/1981047597079973898",
-    "timestamp": "2025-10-22T17:18:47.000Z",
-    "metadata": {
-      "conversation_id": "1981047597079973898",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_236",
     "source": "github",
     "author": "correa-cristobal",
@@ -280,36 +310,6 @@
       "type": "issue",
       "labels": [],
       "number": 236
-    }
-  },
-  {
-    "id": "twitter_1981042791347343547",
-    "source": "twitter",
-    "author": "falanfantana",
-    "content": "The GOAT himself @matanSF, CEO of @FactoryAI taking the main stage at #NextJSConf https://t.co/JOTi9ZoHX4",
-    "url": "https://x.com/falanfantana/status/1981042791347343547",
-    "timestamp": "2025-10-22T16:59:42.000Z",
-    "metadata": {
-      "conversation_id": "1981042791347343547",
-      "likes": 9,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981037876277129254",
-    "source": "twitter",
-    "author": "Keshavatearth",
-    "content": "droids from @FactoryAI just worked for 30 mins and updated my system to bun and uv\n\nmeself is a 10x dev now",
-    "url": "https://x.com/Keshavatearth/status/1981037876277129254",
-    "timestamp": "2025-10-22T16:40:10.000Z",
-    "metadata": {
-      "conversation_id": "1981037876277129254",
-      "likes": 4,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": 0
     }
   },
   {
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 9,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
