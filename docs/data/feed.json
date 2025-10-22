@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980862062612881774",
+    "source": "twitter",
+    "author": "MullerNavas",
+    "content": "It is the best. @FactoryAI",
+    "url": "https://x.com/MullerNavas/status/1980862062612881774",
+    "timestamp": "2025-10-22T05:01:33.000Z",
+    "metadata": {
+      "conversation_id": "1980862062612881774",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980846556640342481",
     "source": "twitter",
     "author": "jatob0y",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1980787622005059780",
-    "source": "twitter",
-    "author": "henryikoh_",
-    "content": "@aeitroc @immoinulmoin @FactoryAI Bro but codex is soo slow though",
-    "url": "https://x.com/henryikoh_/status/1980787622005059780",
-    "timestamp": "2025-10-22T00:05:44.000Z",
-    "metadata": {
-      "conversation_id": "1980787622005059780",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ocpe9w",
     "source": "reddit",
     "author": "FocusResponsible4499",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
     "timestamp": "2025-10-21T21:19:05.000Z",
     "metadata": {
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
