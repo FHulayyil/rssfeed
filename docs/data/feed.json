@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980880031489400921",
+    "source": "twitter",
+    "author": "aeitroc",
+    "content": "@henryikoh_ @immoinulmoin @FactoryAI Before you waited a developer one week to implement something, now you think codex is slow. Its like that meme : Men used to go to war, now they complain about codex being slow.",
+    "url": "https://x.com/aeitroc/status/1980880031489400921",
+    "timestamp": "2025-10-22T06:12:57.000Z",
+    "metadata": {
+      "conversation_id": "1980880031489400921",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980862062612881774",
     "source": "twitter",
     "author": "MullerNavas",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1980792517864952015",
-    "source": "twitter",
-    "author": "djasnive",
-    "content": "@CookingRobotGuy @immoinulmoin @FactoryAI The Factory AI 20$ Plan is like the 20$ free credit ?",
-    "url": "https://x.com/djasnive/status/1980792517864952015",
-    "timestamp": "2025-10-22T00:25:12.000Z",
-    "metadata": {
-      "conversation_id": "1980792517864952015",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ocpe9w",
     "source": "reddit",
     "author": "FocusResponsible4499",
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
