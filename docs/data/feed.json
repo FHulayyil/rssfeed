@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980846556640342481",
+    "source": "twitter",
+    "author": "jatob0y",
+    "content": "@osupernerd Algumas como o @FactoryAI tem explorados justamente esses agentes para pontuar + em benchmarks, algo semelhante ao que o @grok fez. Pode até ter atingido um plato em inteligência, mas não acha que alguns produtos realmente fazem sentido como edição de imagem? Explorar produtos",
+    "url": "https://x.com/jatob0y/status/1980846556640342481",
+    "timestamp": "2025-10-22T03:59:56.000Z",
+    "metadata": {
+      "conversation_id": "1980846556640342481",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980837003685163043",
     "source": "twitter",
     "author": "quantumaidev",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1980786721592594814",
-    "source": "twitter",
-    "author": "FrancoE114696",
-    "content": "@immoinulmoin @FactoryAI It's really good.",
-    "url": "https://x.com/FrancoE114696/status/1980786721592594814",
-    "timestamp": "2025-10-22T00:02:10.000Z",
-    "metadata": {
-      "conversation_id": "1980786721592594814",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ocpe9w",
     "source": "reddit",
     "author": "FocusResponsible4499",
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -638,6 +638,19 @@
     }
   },
   {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -648,6 +661,19 @@
       "type": "issue",
       "labels": [],
       "number": 203
+    }
+  },
+  {
+    "id": "reddit_1o8tf0s",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
     }
   },
   {
