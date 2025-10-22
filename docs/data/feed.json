@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1981027940449050974",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@aroussi @FactoryAI 👀",
+    "url": "https://x.com/bentossell/status/1981027940449050974",
+    "timestamp": "2025-10-22T16:00:41.000Z",
+    "metadata": {
+      "conversation_id": "1981027940449050974",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981027730159263850",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mandarinoapp @FactoryAI this should be all you need, set up the custom model in .factory/config.json \n\nthen --model custom:[model-id]\n\nlmk if it doesnt work! https://t.co/EvPlEyu3uz",
+    "url": "https://x.com/bentossell/status/1981027730159263850",
+    "timestamp": "2025-10-22T15:59:51.000Z",
+    "metadata": {
+      "conversation_id": "1981027730159263850",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981025266463076791",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@bentossell @FactoryAI Mmm, incredibly great timing",
+    "url": "https://x.com/GitMaxd/status/1981025266463076791",
+    "timestamp": "2025-10-22T15:50:03.000Z",
+    "metadata": {
+      "conversation_id": "1981025266463076791",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981018294401532017",
     "source": "twitter",
     "author": "JoelDeTeves",
@@ -25,7 +70,7 @@
       "conversation_id": "1981018060351062025",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -53,7 +98,7 @@
     "timestamp": "2025-10-22T15:06:14.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 0,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -81,9 +126,9 @@
     "timestamp": "2025-10-22T14:56:45.000Z",
     "metadata": {
       "conversation_id": "1981011852281983306",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -244,10 +289,10 @@
     "timestamp": "2025-10-22T13:59:49.000Z",
     "metadata": {
       "conversation_id": "1980997525021831219",
-      "likes": 21,
+      "likes": 23,
       "retweets": 2,
-      "replies": 5,
-      "quotes": 2
+      "replies": 6,
+      "quotes": 3
     }
   },
   {
@@ -277,51 +322,6 @@
       "likes": 3,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980987940223562015",
-    "source": "twitter",
-    "author": "codezera11",
-    "content": "Yeah, it’s wild how some folks make it sound like rocket science. Just give me a solid tool and let me tweak a few settings, not an entire manual for every line of code. Honestly, I’ve had good luck with @QodoAI catching stuff I’d overlook with all that complexity. Simplicity wins, man. Now, back to binge-watching.",
-    "url": "https://x.com/codezera11/status/1980987940223562015",
-    "timestamp": "2025-10-22T13:21:44.000Z",
-    "metadata": {
-      "conversation_id": "1980987940223562015",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980987735575028138",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@TCGsealed @kcosr @FactoryAI i wouldnt of replied if i wasn't going to :)",
-    "url": "https://x.com/bentossell/status/1980987735575028138",
-    "timestamp": "2025-10-22T13:20:55.000Z",
-    "metadata": {
-      "conversation_id": "1980987735575028138",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980987620265283778",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@kcosr @TCGsealed @FactoryAI was a big bug in your session thats being fixed atm",
-    "url": "https://x.com/bentossell/status/1980987620265283778",
-    "timestamp": "2025-10-22T13:20:28.000Z",
-    "metadata": {
-      "conversation_id": "1980987620265283778",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -635,19 +635,6 @@
       "type": "issue",
       "labels": [],
       "number": 208
-    }
-  },
-  {
-    "id": "reddit_1o98xc1",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
-    "timestamp": "2025-10-17T18:18:56.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {
