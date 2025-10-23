@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1981370871043518530",
+    "source": "twitter",
+    "author": "jpohhhh",
+    "content": "@bentossell @iannuttall @SvenMeyer @FactoryAI nope been that way forever and ever",
+    "url": "https://x.com/jpohhhh/status/1981370871043518530",
+    "timestamp": "2025-10-23T14:43:22.000Z",
+    "metadata": {
+      "conversation_id": "1981370871043518530",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981370054127292515",
+    "source": "twitter",
+    "author": "thielaut",
+    "content": "@bentossell @FactoryAI Great! thank you so much",
+    "url": "https://x.com/thielaut/status/1981370054127292515",
+    "timestamp": "2025-10-23T14:40:07.000Z",
+    "metadata": {
+      "conversation_id": "1981370054127292515",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981369091244900796",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@iannuttall @SvenMeyer @FactoryAI i hate having to think about reasoning ha",
+    "url": "https://x.com/bentossell/status/1981369091244900796",
+    "timestamp": "2025-10-23T14:36:18.000Z",
+    "metadata": {
+      "conversation_id": "1981369091244900796",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981369056209830048",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@iannuttall @SvenMeyer @FactoryAI oh maybe recently changed then",
+    "url": "https://x.com/bentossell/status/1981369056209830048",
+    "timestamp": "2025-10-23T14:36:09.000Z",
+    "metadata": {
+      "conversation_id": "1981369056209830048",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981368958088266188",
+    "source": "twitter",
+    "author": "iannuttall",
+    "content": "@bentossell @SvenMeyer @FactoryAI I think they are but I have come round to medium/auto and think it’s perfect model for coding",
+    "url": "https://x.com/iannuttall/status/1981368958088266188",
+    "timestamp": "2025-10-23T14:35:46.000Z",
+    "metadata": {
+      "conversation_id": "1981368958088266188",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981366577099370997",
+    "source": "twitter",
+    "author": "saeedjabbar",
+    "content": "@arafatkatze @erd0xbc @FactoryAI Cline does have the best UX out there :) Codex probably the worse. Would love to see project level MCPs, just one of things it's missing.",
+    "url": "https://x.com/saeedjabbar/status/1981366577099370997",
+    "timestamp": "2025-10-23T14:26:18.000Z",
+    "metadata": {
+      "conversation_id": "1981366577099370997",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981365557271093706",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@cupcake_trader @CloudTrader4 @github @FactoryAI oh will look into that. \n\ntheres a lot thats possible so id just take it piece by piece and you'll fall into your flow",
+    "url": "https://x.com/bentossell/status/1981365557271093706",
+    "timestamp": "2025-10-23T14:22:15.000Z",
+    "metadata": {
+      "conversation_id": "1981365557271093706",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981365215704076608",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@SvenMeyer @iannuttall @FactoryAI thats what openai recommends and i dont actually think reasoning levels are available in the api?",
+    "url": "https://x.com/bentossell/status/1981365215704076608",
+    "timestamp": "2025-10-23T14:20:54.000Z",
+    "metadata": {
+      "conversation_id": "1981365215704076608",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981364024010035468",
     "source": "twitter",
     "author": "arafatkatze",
@@ -10,7 +130,7 @@
       "conversation_id": "1981364024010035468",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -23,9 +143,9 @@
     "timestamp": "2025-10-23T14:07:17.000Z",
     "metadata": {
       "conversation_id": "1981361791998579068",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,7 +233,7 @@
       "conversation_id": "1981355086212448625",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -189,126 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981340796009009549",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@bentossell @FactoryAI ok, that's a start ! 🙏👍",
-    "url": "https://x.com/SvenMeyer/status/1981340796009009549",
-    "timestamp": "2025-10-23T12:43:51.000Z",
-    "metadata": {
-      "conversation_id": "1981340796009009549",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981340693286076524",
-    "source": "twitter",
-    "author": "pon_o_",
-    "content": "@bentossell @fabiorizzomatos @vindulaintranet @cursor_ai @FactoryAI It is more about IDE vs CLI than direct product comparisons. I’m power user of droid - you guys are doing extremely good work!",
-    "url": "https://x.com/pon_o_/status/1981340693286076524",
-    "timestamp": "2025-10-23T12:43:27.000Z",
-    "metadata": {
-      "conversation_id": "1981340693286076524",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981335459809628360",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "Minor UX polish \n- /mcp: ability to reconnect/disconnect\n- /slash commands: tab shouldn’t execute but rather allow input or show hints\n- overly verbose MCP output not collapsed\n\nE.g., my Mac was on fire and I created a /syshealth slash command to investigate and help kill rouge processes.",
-    "url": "https://x.com/erd0xbc/status/1981335459809628360",
-    "timestamp": "2025-10-23T12:22:39.000Z",
-    "metadata": {
-      "conversation_id": "1981335459809628360",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981332750050173379",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "@itsbyrobin @FactoryAI is almost there.",
-    "url": "https://x.com/erd0xbc/status/1981332750050173379",
-    "timestamp": "2025-10-23T12:11:53.000Z",
-    "metadata": {
-      "conversation_id": "1981332750050173379",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981331793140715882",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@5aikat @FactoryAI ah known issue with codex. if you can generate /bug report in this session and email / dm to me i can take a look",
-    "url": "https://x.com/bentossell/status/1981331793140715882",
-    "timestamp": "2025-10-23T12:08:05.000Z",
-    "metadata": {
-      "conversation_id": "1981331793140715882",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981331558100292013",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@pon_o_ @fabiorizzomatos @vindulaintranet @cursor_ai @FactoryAI curious why not factory for review-oriented + drivers seat :) appreciate the mention tho",
-    "url": "https://x.com/bentossell/status/1981331558100292013",
-    "timestamp": "2025-10-23T12:07:09.000Z",
-    "metadata": {
-      "conversation_id": "1981331558100292013",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981331053743591793",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@dawid_jordaan @DanKulkov @FactoryAI 👀",
-    "url": "https://x.com/bentossell/status/1981331053743591793",
-    "timestamp": "2025-10-23T12:05:09.000Z",
-    "metadata": {
-      "conversation_id": "1981331053743591793",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981317827052392559",
-    "source": "twitter",
-    "author": "leodoan_",
-    "content": "just ran a single session in Droid from @FactoryAI with gpt-5-codex for about 2 hours. solved the complex problem pretty well (just need to tweak a bit, but it's fine). \n\nthe downside? It's super slow, and every 40-50 minutes the session gets interrupted. i had to type \"continue\" to keep it going. \n\ni can wait, but it’d be nice not to have to keep my eyes on it tbh",
-    "url": "https://x.com/leodoan_/status/1981317827052392559",
-    "timestamp": "2025-10-23T11:12:35.000Z",
-    "metadata": {
-      "conversation_id": "1981317827052392559",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
