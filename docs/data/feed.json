@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1981282733818335589",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "anyone has good @FactoryAI cli agents/commands collections? share please",
+    "url": "https://x.com/immoinulmoin/status/1981282733818335589",
+    "timestamp": "2025-10-23T08:53:08.000Z",
+    "metadata": {
+      "conversation_id": "1981282733818335589",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981277752167977022",
+    "source": "twitter",
+    "author": "cupcake_trader",
+    "content": "@bentossell @CloudTrader4 @github @FactoryAI awesome, cheers for that. Going to watch it this morning and try it out.",
+    "url": "https://x.com/cupcake_trader/status/1981277752167977022",
+    "timestamp": "2025-10-23T08:33:21.000Z",
+    "metadata": {
+      "conversation_id": "1981277752167977022",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_239",
     "source": "github",
     "author": "iota9star",
@@ -259,7 +289,7 @@
     "timestamp": "2025-10-22T22:25:36.000Z",
     "metadata": {
       "conversation_id": "1981124809808622073",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -292,36 +322,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981114924236755426",
-    "source": "twitter",
-    "author": "buggyDcode",
-    "content": "Anyone experiencing this?\n @FactoryAI  , i did sign up 2 accounts \ni still can use the cli but cant login https://t.co/bWfPrLiCQc",
-    "url": "https://x.com/buggyDcode/status/1981114924236755426",
-    "timestamp": "2025-10-22T21:46:19.000Z",
-    "metadata": {
-      "conversation_id": "1981114924236755426",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981112839713804776",
-    "source": "twitter",
-    "author": "michiosw",
-    "content": "currently in Droid from @FactoryAI , gpt-5-codex often halts unexpectedly  and I have to tell it continue -- as chat history grows, I’m getting zero-change patches and misused tool calls a lot",
-    "url": "https://x.com/michiosw/status/1981112839713804776",
-    "timestamp": "2025-10-22T21:38:02.000Z",
-    "metadata": {
-      "conversation_id": "1981112839713804776",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -647,19 +647,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 10,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oapxet",
-    "source": "reddit",
-    "author": "Chemical_Bid_2195",
-    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
-    "timestamp": "2025-10-19T13:40:51.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
