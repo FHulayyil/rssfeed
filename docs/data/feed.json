@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981808804233720028",
+    "source": "twitter",
+    "author": "OxFrancesco_",
+    "content": "@bentossell @GoogleAIStudio @AmpCode @FactoryAI @Zai_org Shit... ok is time to move my Droid video higher in the prio list. I still need to try the Droid GLM core thinghy and the sub agents....",
+    "url": "https://x.com/OxFrancesco_/status/1981808804233720028",
+    "timestamp": "2025-10-24T19:43:33.000Z",
+    "metadata": {
+      "conversation_id": "1981808804233720028",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981806669211611350",
     "source": "twitter",
     "author": "crazy_tech80",
@@ -38,9 +53,9 @@
     "timestamp": "2025-10-24T19:33:28.000Z",
     "metadata": {
       "conversation_id": "1981806264775540972",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -53,7 +68,7 @@
     "timestamp": "2025-10-24T18:39:44.000Z",
     "metadata": {
       "conversation_id": "1981792743086338059",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -214,7 +229,7 @@
     "timestamp": "2025-10-24T15:07:36.000Z",
     "metadata": {
       "conversation_id": "1981739358131560726",
-      "likes": 15,
+      "likes": 16,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -307,21 +322,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981729383023837196",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@verioussmith @matanSF @TheGregYang @FactoryAI i'll check w the team on this! i hear ya",
-    "url": "https://x.com/bentossell/status/1981729383023837196",
-    "timestamp": "2025-10-24T14:27:58.000Z",
-    "metadata": {
-      "conversation_id": "1981729383023837196",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -712,19 +712,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ob0d6z",
-    "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
-    "metadata": {
-      "score": 10,
-      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
