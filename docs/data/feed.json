@@ -1,5 +1,63 @@
 [
   {
+    "id": "github_issue_258",
+    "source": "github",
+    "author": "britannio",
+    "content": "[Issue] `droid exec --output-format stream-json` is missing a matching id in tool_result messages\n\nPreviously, tool calls and tool call results would contain a matching `id` field to correlate tool call results with tool calls.\n\nHere's an example trace taken a few days ago.\nhttps://github.com/BloopAI/vibe-kanban/blob/fa7245c632ac774ec71a98e26094e0fb6d70cf14/crates/executors/tests/droid_snapshots/fixtures/edits-and-execution.jsonl#L3-L4\n\nIn v0.22.2, this `id` field is omitted from the tool result messages. Since tools can be called in parallel and thus tool result ordering isn't stable, it's h",
+    "url": "https://github.com/Factory-AI/factory/issues/258",
+    "timestamp": "2025-10-24T21:13:11Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 258
+    }
+  },
+  {
+    "id": "twitter_1981828973312323634",
+    "source": "twitter",
+    "author": "xmok_",
+    "content": "@curiouslychase @AmpCode @FactoryAI knew of mytra but not of elodin!\nlooks really cool! scrolled down then saw they’re the guys behind “aleph” which i remember reading about. this is real hardcore ml tbh.",
+    "url": "https://x.com/xmok_/status/1981828973312323634",
+    "timestamp": "2025-10-24T21:03:42.000Z",
+    "metadata": {
+      "conversation_id": "1981828973312323634",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981827947205210317",
+    "source": "twitter",
+    "author": "curiouslychase",
+    "content": "@xmok_ @AmpCode @FactoryAI We talked about MytraAI (https://t.co/buAbqRUYOQ) and Elodin Systems (https://t.co/i6PuH19dLc) so like, embedded AI I guess?",
+    "url": "https://x.com/curiouslychase/status/1981827947205210317",
+    "timestamp": "2025-10-24T20:59:37.000Z",
+    "metadata": {
+      "conversation_id": "1981827947205210317",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981827658674844111",
+    "source": "twitter",
+    "author": "xmok_",
+    "content": "@curiouslychase @AmpCode @FactoryAI “Interesting hardware companies” - does that mean hardware+ai like friend or just generally leveraging ai in hardware product workflows?",
+    "url": "https://x.com/xmok_/status/1981827658674844111",
+    "timestamp": "2025-10-24T20:58:29.000Z",
+    "metadata": {
+      "conversation_id": "1981827658674844111",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981826867897544709",
     "source": "twitter",
     "author": "curiouslychase",
@@ -8,9 +66,9 @@
     "timestamp": "2025-10-24T20:55:20.000Z",
     "metadata": {
       "conversation_id": "1981826867897544709",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -277,51 +335,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981741000813928882",
-    "source": "twitter",
-    "author": "PythagoraAI",
-    "content": "@OxFrancesco_ @GoogleAIStudio @AmpCode @FactoryAI @Zai_org can you show us next? we would love to see your feedback",
-    "url": "https://x.com/PythagoraAI/status/1981741000813928882",
-    "timestamp": "2025-10-24T15:14:08.000Z",
-    "metadata": {
-      "conversation_id": "1981741000813928882",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981739358131560726",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "Living in basement ❌\nLiving in Terminal ✅\n\nFirecrawl MCP sauce on Droid \n\n @FactoryAI 🤝 @firecrawl_dev https://t.co/dvvmSZfOLm",
-    "url": "https://x.com/CloudTrader4/status/1981739358131560726",
-    "timestamp": "2025-10-24T15:07:36.000Z",
-    "metadata": {
-      "conversation_id": "1981739358131560726",
-      "likes": 18,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981736263247110195",
-    "source": "twitter",
-    "author": "verioussmith",
-    "content": "@bentossell @matanSF @TheGregYang @FactoryAI Much appreciated! 🙏🏾",
-    "url": "https://x.com/verioussmith/status/1981736263247110195",
-    "timestamp": "2025-10-24T14:55:18.000Z",
-    "metadata": {
-      "conversation_id": "1981736263247110195",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -726,19 +739,6 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
-    }
-  },
-  {
-    "id": "github_issue_213",
-    "source": "github",
-    "author": "joeldeteves",
-    "content": "[Issue] BUG: custom droids can no longer assign tasks\n\nAs of the latest hotfix, my specialized \"orchestrator\" droid is failing to assign tasks to other droids.\n\nThis was one of my most powerful droid workflows but it doesn't work any more because of this change.\n\nThis seems like a new behavior - it always fails with \"Task failed.\"\n\nWhen i queried droid CLI as to why it was failing, it reported as follows:\n\nThe Problem:\n The orchestrator droid is designed to call the Task tool internally to delegate work to specialized droids. But when the orchestrat",
-    "url": "https://github.com/Factory-AI/factory/issues/213",
-    "timestamp": "2025-10-19T05:42:08Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 213
     }
   },
   {
