@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981683474064093365",
+    "source": "twitter",
+    "author": "crazy_tech80",
+    "content": "@FactoryAI  With new update the Droid crash and is not working if I downgrade to older version it works but as soon as it updates to the new version it fails Have remove support for older xeon server.",
+    "url": "https://x.com/crazy_tech80/status/1981683474064093365",
+    "timestamp": "2025-10-24T11:25:32.000Z",
+    "metadata": {
+      "conversation_id": "1981683474064093365",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981666917543977207",
     "source": "twitter",
     "author": "immoinulmoin",
@@ -305,21 +320,6 @@
     "metadata": {
       "conversation_id": "1981516466047373521",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981513583801303191",
-    "source": "twitter",
-    "author": "AliDTwitt",
-    "content": "@EnoReyes @FactoryAI MLX GPU support would be lovely. Not everyone wants to run GGUF models while they have Mac's.",
-    "url": "https://x.com/AliDTwitt/status/1981513583801303191",
-    "timestamp": "2025-10-24T00:10:27.000Z",
-    "metadata": {
-      "conversation_id": "1981513583801303191",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
