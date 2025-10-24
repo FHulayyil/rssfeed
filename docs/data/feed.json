@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1981811559362904257",
+    "source": "twitter",
+    "author": "OxFrancesco_",
+    "content": "@bentossell @GoogleAIStudio @AmpCode @FactoryAI @Zai_org 💯",
+    "url": "https://x.com/OxFrancesco_/status/1981811559362904257",
+    "timestamp": "2025-10-24T19:54:30.000Z",
+    "metadata": {
+      "conversation_id": "1981811559362904257",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981811452399714525",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@OxFrancesco_ @GoogleAIStudio @AmpCode @FactoryAI @Zai_org lmk how it goes! ❤️",
+    "url": "https://x.com/bentossell/status/1981811452399714525",
+    "timestamp": "2025-10-24T19:54:05.000Z",
+    "metadata": {
+      "conversation_id": "1981811452399714525",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981808804233720028",
     "source": "twitter",
     "author": "OxFrancesco_",
@@ -8,9 +38,9 @@
     "timestamp": "2025-10-24T19:43:33.000Z",
     "metadata": {
       "conversation_id": "1981808804233720028",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -290,36 +320,6 @@
     "metadata": {
       "conversation_id": "1981729924332269934",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981729527886758384",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@AdamTossell @FactoryAI 🔥",
-    "url": "https://x.com/bentossell/status/1981729527886758384",
-    "timestamp": "2025-10-24T14:28:32.000Z",
-    "metadata": {
-      "conversation_id": "1981729527886758384",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981729465764917452",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@trieloff @FactoryAI oh seems like a bug - could you email support@factory.ai please?",
-    "url": "https://x.com/bentossell/status/1981729465764917452",
-    "timestamp": "2025-10-24T14:28:18.000Z",
-    "metadata": {
-      "conversation_id": "1981729465764917452",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
