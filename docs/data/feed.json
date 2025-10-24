@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_252",
+    "source": "github",
+    "author": "mdcnick",
+    "content": "[Issue] vscode droid extension\n\nwhen using droid in vscode the tab sometimes does the glitching scroll up and down its mad annoying i am now using it on a separate terminal lbvvvsss :/ ",
+    "url": "https://github.com/Factory-AI/factory/issues/252",
+    "timestamp": "2025-10-24T08:40:58Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 252
+    }
+  },
+  {
+    "id": "twitter_1981640734802694343",
+    "source": "twitter",
+    "author": "zhangjintao9020",
+    "content": "@bentossell @matanSF @FactoryAI Thank you! I will add support to the mail thread",
+    "url": "https://x.com/zhangjintao9020/status/1981640734802694343",
+    "timestamp": "2025-10-24T08:35:42.000Z",
+    "metadata": {
+      "conversation_id": "1981640734802694343",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981620551748874317",
     "source": "twitter",
     "author": "Fahad_Mustafa1",
@@ -98,9 +126,9 @@
     "timestamp": "2025-10-24T05:11:55.000Z",
     "metadata": {
       "conversation_id": "1981589447293419992",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -188,7 +216,7 @@
       "conversation_id": "1981524723399086550",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -249,7 +277,7 @@
       "likes": 2,
       "retweets": 0,
       "replies": 1,
-      "quotes": 1
+      "quotes": 0
     }
   },
   {
@@ -263,7 +291,7 @@
       "conversation_id": "1981503584211546333",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -292,21 +320,6 @@
     "metadata": {
       "conversation_id": "1981497634134413805",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981494658153791528",
-    "source": "twitter",
-    "author": "dessignnet",
-    "content": "@francesca_lab @FactoryAI Love your business model .. featured on my site .. 🚀🚀 https://t.co/sFrDTb70nV",
-    "url": "https://x.com/dessignnet/status/1981494658153791528",
-    "timestamp": "2025-10-23T22:55:15.000Z",
-    "metadata": {
-      "conversation_id": "1981494658153791528",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -658,7 +671,20 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oazqru",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
+    "metadata": {
+      "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -726,19 +752,6 @@
       "type": "issue",
       "labels": [],
       "number": 208
-    }
-  },
-  {
-    "id": "github_issue_203",
-    "source": "github",
-    "author": "a112121788",
-    "content": "[Issue] RubyMine  Integrations\n\nhttps://docs.factory.ai/cli/configuration/ide-integrations\n\nJetBrains IDEs Support",
-    "url": "https://github.com/Factory-AI/factory/issues/203",
-    "timestamp": "2025-10-17T06:55:04Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 203
     }
   },
   {
