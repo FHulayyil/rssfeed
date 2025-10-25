@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982027253879066935",
+    "source": "twitter",
+    "author": "crazy_tech80",
+    "content": "So I thought I might be doing something wrong so I asked claude to help me install fresh and see if there is an error and it seems still we are getting an error\n\n  Installation details:\n  - Version: v0.22.3 (latest)\n  - Platform: Linux x64\n  - Installation path: /home/dockerops/.local/bin/droid\n  - Additional components: Ripgrep was also updated and installed to\n  /home/dockerops/.factory/bin/rg\n  The installation script confirmed:\n  - Checksum verification passed ✅\n  - PATH already configured ✅\n  - Factory CLI v0.22.3 installed successfully ✅\n  Note: There appears to be a compatibility issue with the binary on this\n  specific system (still getting illegal instruction errors), but the\n  installation itself was successful and you have the latest version. This\n  might be due to system architecture or glibc version differences.",
+    "url": "https://x.com/crazy_tech80/status/1982027253879066935",
+    "timestamp": "2025-10-25T10:11:36.000Z",
+    "metadata": {
+      "conversation_id": "1982027253879066935",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982020496729526654",
     "source": "twitter",
     "author": "5aikat",
@@ -145,7 +160,7 @@
       "conversation_id": "1981993413990928738",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1981941227357638874",
-    "source": "twitter",
-    "author": "alphatozeta8148",
-    "content": "@FactoryAI let us fork a droid off from any point in a conversation please 🙏 way too many times I have a tangential question but don't want to distract my main droid.",
-    "url": "https://x.com/alphatozeta8148/status/1981941227357638874",
-    "timestamp": "2025-10-25T04:29:45.000Z",
-    "metadata": {
-      "conversation_id": "1981941227357638874",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_260",
     "source": "github",
     "author": "a112121788",
@@ -349,19 +349,6 @@
       "type": "issue",
       "labels": [],
       "number": 257
-    }
-  },
-  {
-    "id": "github_issue_256",
-    "source": "github",
-    "author": "dusancv22",
-    "content": "[Issue] Login doesn't work\n\nhttps://s3.us-east-1.amazonaws.com/exercise.files/Temp+Download/login_01.png\n\nI just installed Droid on Windows, and when I typed \"Droid\", I just had the option to \"Login\" and \"Exit\".\n\nWhen I click on \"Login\", I just get a warning:\nAuthentication failed:\nWas there a typo in the url or port?\n\nWhat is the issue here? \n\n",
-    "url": "https://github.com/Factory-AI/factory/issues/256",
-    "timestamp": "2025-10-24T13:35:49Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 256
     }
   },
   {
@@ -596,6 +583,19 @@
       "type": "issue",
       "labels": [],
       "number": 222
+    }
+  },
+  {
+    "id": "github_issue_217",
+    "source": "github",
+    "author": "dvcrn",
+    "content": "[Issue] Sonnet through custom provider with same id conflicts with built-in model\n\nFor example using the Sonnet/Haiku models through Copilot:\n\n```\n    {\n      \"model_display_name\": \"claude-sonnet-4.5 (Copilot)\",\n      \"model\": \"claude-sonnet-4.5\",\n      \"base_url\": \"http://localhost:9871/v1\",\n      \"api_key\": \"xxx\",\n      \"provider\": \"generic-chat-completion-api\"\n    },\n    {\n      \"model_display_name\": \"claude-haiku-4.5 (Copilot)\",\n      \"model\": \"claude-haiku-4.5\",\n      \"base_url\": \"http://localhost:9871/v1\",\n      \"api_key\": \"xxx\",\n      \"provider\": \"generic-chat-completio",
+    "url": "https://github.com/Factory-AI/factory/issues/217",
+    "timestamp": "2025-10-20T11:29:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 217
     }
   },
   {
