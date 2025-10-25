@@ -1,5 +1,91 @@
 [
   {
+    "id": "twitter_1981912265357193618",
+    "source": "twitter",
+    "author": "cooosyku23",
+    "content": "I'm currently having a go at @FactoryAI. Can you select which droid you want to use on the CLI? It loooks like you can do so on the web app.",
+    "url": "https://x.com/cooosyku23/status/1981912265357193618",
+    "timestamp": "2025-10-25T02:34:40.000Z",
+    "metadata": {
+      "conversation_id": "1981912265357193618",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_260",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Spec Mode support save spec md doc Only\n\nNow I have to choose Proceed with implementation  and then cancel.",
+    "url": "https://github.com/Factory-AI/factory/issues/260",
+    "timestamp": "2025-10-25T02:26:07Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 260
+    }
+  },
+  {
+    "id": "twitter_1981909781645554005",
+    "source": "twitter",
+    "author": "verioussmith",
+    "content": "Maybe there is hope for the Mac Intel crowd to use @FactoryAI Droid like all the cool kids.",
+    "url": "https://x.com/verioussmith/status/1981909781645554005",
+    "timestamp": "2025-10-25T02:24:48.000Z",
+    "metadata": {
+      "conversation_id": "1981909781645554005",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981909278764958045",
+    "source": "twitter",
+    "author": "Slyndc",
+    "content": "@CloudTrader4 @OpenRouterAI @Zai_org @FactoryAI We need a setup guide.",
+    "url": "https://x.com/Slyndc/status/1981909278764958045",
+    "timestamp": "2025-10-25T02:22:48.000Z",
+    "metadata": {
+      "conversation_id": "1981909278764958045",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981907315432296770",
+    "source": "twitter",
+    "author": "AInsider0x",
+    "content": "Just stumbled on this “Mixed Models” feature in Droid CLI from @FactoryAI – it’s got me thinking about how we devs juggle planning vs. building. No hype, just real thoughts 👇",
+    "url": "https://x.com/AInsider0x/status/1981907315432296770",
+    "timestamp": "2025-10-25T02:15:00.000Z",
+    "metadata": {
+      "conversation_id": "1981907315432296770",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_259",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Custom Model Support think Field\n\n\"reasoningEffort\": \"high\",",
+    "url": "https://github.com/Factory-AI/factory/issues/259",
+    "timestamp": "2025-10-25T01:54:31Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 259
+    }
+  },
+  {
     "id": "twitter_1981892207347945747",
     "source": "twitter",
     "author": "mjs527",
@@ -113,9 +199,9 @@
     "timestamp": "2025-10-24T22:25:56.000Z",
     "metadata": {
       "conversation_id": "1981849667270029642",
-      "likes": 46,
+      "likes": 53,
       "retweets": 1,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -249,66 +335,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981811559362904257",
-    "source": "twitter",
-    "author": "OxFrancesco_",
-    "content": "@bentossell @GoogleAIStudio @AmpCode @FactoryAI @Zai_org 💯",
-    "url": "https://x.com/OxFrancesco_/status/1981811559362904257",
-    "timestamp": "2025-10-24T19:54:30.000Z",
-    "metadata": {
-      "conversation_id": "1981811559362904257",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981811452399714525",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@OxFrancesco_ @GoogleAIStudio @AmpCode @FactoryAI @Zai_org lmk how it goes! ❤️",
-    "url": "https://x.com/bentossell/status/1981811452399714525",
-    "timestamp": "2025-10-24T19:54:05.000Z",
-    "metadata": {
-      "conversation_id": "1981811452399714525",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981808804233720028",
-    "source": "twitter",
-    "author": "OxFrancesco_",
-    "content": "@bentossell @GoogleAIStudio @AmpCode @FactoryAI @Zai_org Shit... ok is time to move my Droid video higher in the prio list. I still need to try the Droid GLM core thinghy and the sub agents....",
-    "url": "https://x.com/OxFrancesco_/status/1981808804233720028",
-    "timestamp": "2025-10-24T19:43:33.000Z",
-    "metadata": {
-      "conversation_id": "1981808804233720028",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981806669211611350",
-    "source": "twitter",
-    "author": "crazy_tech80",
-    "content": "HI @FactoryAI with the new update Droid has broken and tried to troubleshoot it works with old version but new version it fails so start the diagnose and this is the issue.\n\nYour Intel Xeon E5-2407 v2 CPU lacks AVX2/FMA instructions required by the new Droid version. Download an older Droid version or try the CPU compatibility mode flag if available",
-    "url": "https://x.com/crazy_tech80/status/1981806669211611350",
-    "timestamp": "2025-10-24T19:35:04.000Z",
-    "metadata": {
-      "conversation_id": "1981806669211611350",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -677,19 +703,6 @@
     }
   },
   {
-    "id": "github_issue_217",
-    "source": "github",
-    "author": "dvcrn",
-    "content": "[Issue] Sonnet through custom provider with same id conflicts with built-in model\n\nFor example using the Sonnet/Haiku models through Copilot:\n\n```\n    {\n      \"model_display_name\": \"claude-sonnet-4.5 (Copilot)\",\n      \"model\": \"claude-sonnet-4.5\",\n      \"base_url\": \"http://localhost:9871/v1\",\n      \"api_key\": \"xxx\",\n      \"provider\": \"generic-chat-completion-api\"\n    },\n    {\n      \"model_display_name\": \"claude-haiku-4.5 (Copilot)\",\n      \"model\": \"claude-haiku-4.5\",\n      \"base_url\": \"http://localhost:9871/v1\",\n      \"api_key\": \"xxx\",\n      \"provider\": \"generic-chat-completio",
-    "url": "https://github.com/Factory-AI/factory/issues/217",
-    "timestamp": "2025-10-20T11:29:17Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 217
-    }
-  },
-  {
     "id": "reddit_1obd1tm",
     "source": "reddit",
     "author": "HanSkin-reynard",
@@ -703,19 +716,6 @@
     }
   },
   {
-    "id": "github_issue_215",
-    "source": "github",
-    "author": "iota9star",
-    "content": "[Issue] JSON Parse error occurs during execution (versions 0.19–0.21.4)\n\n<img width=\"732\" height=\"408\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/1d96dc85-9c3d-4866-bf12-06e6330fe069\" />\n\n**Environment:**\n- **OS:** macOS  \n- **Editor:** VSCode and Terminal  \n- **Droid Version:** 0.21.4  \n\n**Description:**  \nDuring execution, Droid occasionally encounters a JSON parsing error.  \nThis has been happening since version **0.19** and still occurs in **0.21.4**.  \nThe issue typically appears after a command such as:  \n```\nEXECUTE (git add ., impact: high)\n ",
-    "url": "https://github.com/Factory-AI/factory/issues/215",
-    "timestamp": "2025-10-20T02:12:28Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 215
-    }
-  },
-  {
     "id": "reddit_1ob2dsx",
     "source": "reddit",
     "author": "Conscious-Fee7844",
@@ -725,6 +725,19 @@
     "metadata": {
       "score": 1,
       "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ob0d6z",
+    "source": "reddit",
+    "author": "Daed0802",
+    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
+    "timestamp": "2025-10-19T20:35:03.000Z",
+    "metadata": {
+      "score": 10,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
