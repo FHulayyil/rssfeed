@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1981951818339930204",
+    "source": "twitter",
+    "author": "CXL_LAB",
+    "content": "@cataluna84 @FactoryAI Let’s connect bro",
+    "url": "https://x.com/CXL_LAB/status/1981951818339930204",
+    "timestamp": "2025-10-25T05:11:51.000Z",
+    "metadata": {
+      "conversation_id": "1981951818339930204",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981951336485937233",
+    "source": "twitter",
+    "author": "Miccom16",
+    "content": "@CloudTrader4 @OpenRouterAI @Zai_org @FactoryAI Just started using Droid AI but the credit usage feels high for a single project.\n•How do you use it efficiently?\n•What plan are you on?\n•How does it compare to other AI IDEs?",
+    "url": "https://x.com/Miccom16/status/1981951336485937233",
+    "timestamp": "2025-10-25T05:09:56.000Z",
+    "metadata": {
+      "conversation_id": "1981951336485937233",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981941227357638874",
     "source": "twitter",
     "author": "alphatozeta8148",
@@ -94,7 +124,7 @@
     "timestamp": "2025-10-25T03:02:00.000Z",
     "metadata": {
       "conversation_id": "1981919144212586710",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -315,39 +345,9 @@
     "timestamp": "2025-10-24T22:25:56.000Z",
     "metadata": {
       "conversation_id": "1981849667270029642",
-      "likes": 69,
+      "likes": 73,
       "retweets": 1,
-      "replies": 3,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981844452118614421",
-    "source": "twitter",
-    "author": "AVGVSTVS96",
-    "content": "@CloudTrader4 @FactoryAI @firecrawl_dev How is Firecrawl better than the built in web search tool?",
-    "url": "https://x.com/AVGVSTVS96/status/1981844452118614421",
-    "timestamp": "2025-10-24T22:05:12.000Z",
-    "metadata": {
-      "conversation_id": "1981844452118614421",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981841364636815495",
-    "source": "twitter",
-    "author": "bakek_c",
-    "content": "@ItIsAny @hqmank @FactoryAI How to have it free?",
-    "url": "https://x.com/bakek_c/status/1981841364636815495",
-    "timestamp": "2025-10-24T21:52:56.000Z",
-    "metadata": {
-      "conversation_id": "1981841364636815495",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
+      "replies": 4,
       "quotes": 0
     }
   },
@@ -725,19 +725,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
