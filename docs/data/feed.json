@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1982103219762290982",
+    "source": "twitter",
+    "author": "bitdoze",
+    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org How is difderent from the GLM coding plan?",
+    "url": "https://x.com/bitdoze/status/1982103219762290982",
+    "timestamp": "2025-10-25T15:13:27.000Z",
+    "metadata": {
+      "conversation_id": "1982103219762290982",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982102092018839662",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@ben_vargas @AmpCode @FactoryAI How is the experience vs. Droid? Need to explore now.",
+    "url": "https://x.com/erd0xbc/status/1982102092018839662",
+    "timestamp": "2025-10-25T15:08:59.000Z",
+    "metadata": {
+      "conversation_id": "1982102092018839662",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982099432498708849",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@8my41 @OpenRouterAI @FactoryAI @Zai_org Yeah exactly, chads at @OpenRouterAI did some real magic \n\nAlso higly recommend reading this\n\nReally well written by @canvrno @cline \n\nhttps://t.co/7uHcnivydR",
+    "url": "https://x.com/CloudTrader4/status/1982099432498708849",
+    "timestamp": "2025-10-25T14:58:24.000Z",
+    "metadata": {
+      "conversation_id": "1982099432498708849",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982098957867352286",
+    "source": "twitter",
+    "author": "8my41",
+    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org Interesting, had no idea https://t.co/5lw9eOsHP7 supported exacto endpoint. That one is way better at tool camping right?",
+    "url": "https://x.com/8my41/status/1982098957867352286",
+    "timestamp": "2025-10-25T14:56:31.000Z",
+    "metadata": {
+      "conversation_id": "1982098957867352286",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982098699296931929",
     "source": "twitter",
     "author": "immoinulmoin",
@@ -234,66 +294,6 @@
     "metadata": {
       "conversation_id": "1982067314984935735",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982067304197435848",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@Slyndc @OpenRouterAI @Zai_org @FactoryAI https://t.co/FAHYyGWXTv",
-    "url": "https://x.com/CloudTrader4/status/1982067304197435848",
-    "timestamp": "2025-10-25T12:50:45.000Z",
-    "metadata": {
-      "conversation_id": "1982067304197435848",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982067248773644428",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "How to setup @OpenRouterAI 's Custom Models (BYOK) in @FactoryAI Droid?\n\n1- Create a \".factory\" folder in your root folder if not exists\n(for MacOS ~/.factory)\n2- Create a \"config.json\" file\n(~/.factory/config.json)\n3- Below is the conde snippet for setting up @Zai_org 's GLM-4.6 with @OpenRouterAI (exacto) endpoint.\n4- Then relaunch droid inside your terminal or IDE\n5- After entering \"/model\" command, you should see it under \"Custom Models\" with display name we set. You can set the display name however you want but model name has to be copied from @OpenRouterAI",
-    "url": "https://x.com/CloudTrader4/status/1982067248773644428",
-    "timestamp": "2025-10-25T12:50:31.000Z",
-    "metadata": {
-      "conversation_id": "1982067248773644428",
-      "likes": 10,
-      "retweets": 2,
-      "replies": 2,
-      "quotes": 2
-    }
-  },
-  {
-    "id": "twitter_1982066993877643512",
-    "source": "twitter",
-    "author": "the_omicron",
-    "content": "@FactoryAI hey, do you guys have discord or forum I could get into? I have some difficulties and need to ask someone",
-    "url": "https://x.com/the_omicron/status/1982066993877643512",
-    "timestamp": "2025-10-25T12:49:31.000Z",
-    "metadata": {
-      "conversation_id": "1982066993877643512",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982027253879066935",
-    "source": "twitter",
-    "author": "crazy_tech80",
-    "content": "So I thought I might be doing something wrong so I asked claude to help me install fresh and see if there is an error and it seems still we are getting an error\n\n  Installation details:\n  - Version: v0.22.3 (latest)\n  - Platform: Linux x64\n  - Installation path: /home/dockerops/.local/bin/droid\n  - Additional components: Ripgrep was also updated and installed to\n  /home/dockerops/.factory/bin/rg\n  The installation script confirmed:\n  - Checksum verification passed ✅\n  - PATH already configured ✅\n  - Factory CLI v0.22.3 installed successfully ✅\n  Note: There appears to be a compatibility issue with the binary on this\n  specific system (still getting illegal instruction errors), but the\n  installation itself was successful and you have the latest version. This\n  might be due to system architecture or glibc version differences.",
-    "url": "https://x.com/crazy_tech80/status/1982027253879066935",
-    "timestamp": "2025-10-25T10:11:36.000Z",
-    "metadata": {
-      "conversation_id": "1982027253879066935",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
