@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982504886978883637",
+    "source": "twitter",
+    "author": "Ryanskickz",
+    "content": "@etashio @chasebrignac @FactoryAI Don’t listen to this guy he thinks he has to hit enter to approve commands. Bro doesn’t know how to use cc",
+    "url": "https://x.com/Ryanskickz/status/1982504886978883637",
+    "timestamp": "2025-10-26T17:49:32.000Z",
+    "metadata": {
+      "conversation_id": "1982504886978883637",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982501121613820042",
     "source": "twitter",
     "author": "youflavio",
@@ -291,21 +306,6 @@
     "timestamp": "2025-10-26T14:34:27.000Z",
     "metadata": {
       "conversation_id": "1982455792604266581",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982455589495058532",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Ra1kshit @FactoryAI odd not the experience i’ve had - it’s my daily driver. happy to look into your acct to see what’s going on",
-    "url": "https://x.com/bentossell/status/1982455589495058532",
-    "timestamp": "2025-10-26T14:33:39.000Z",
-    "metadata": {
-      "conversation_id": "1982455589495058532",
       "likes": 0,
       "retweets": 0,
       "replies": 1,
