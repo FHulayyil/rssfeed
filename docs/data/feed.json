@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982508166127722742",
+    "source": "twitter",
+    "author": "tridentasia",
+    "content": "@etashio @FactoryAI It is very token hungry and not so capable.",
+    "url": "https://x.com/tridentasia/status/1982508166127722742",
+    "timestamp": "2025-10-26T18:02:34.000Z",
+    "metadata": {
+      "conversation_id": "1982508166127722742",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982504886978883637",
     "source": "twitter",
     "author": "Ryanskickz",
@@ -291,21 +306,6 @@
     "timestamp": "2025-10-26T14:34:38.000Z",
     "metadata": {
       "conversation_id": "1982455836069798201",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982455792604266581",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@crypto_vert @etashio @FactoryAI lmk your account i’ll see what’s going on for you",
-    "url": "https://x.com/bentossell/status/1982455792604266581",
-    "timestamp": "2025-10-26T14:34:27.000Z",
-    "metadata": {
-      "conversation_id": "1982455792604266581",
       "likes": 0,
       "retweets": 0,
       "replies": 1,
