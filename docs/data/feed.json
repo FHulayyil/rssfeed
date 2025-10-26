@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982488161948254455",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@Zai_org coding plan let you setup in most of the coding tools with the API key they give you.\nIt is independent from @OpenRouterAI , because there has been a confusion and people were asking\n\"why do you use openrouter just use glm coding plan\"\n\nThe reason for using @OpenRouterAI is to test their new (exacto) endpoint.\n\nhttps://t.co/wW0rF8R1yQ",
+    "url": "https://x.com/CloudTrader4/status/1982488161948254455",
+    "timestamp": "2025-10-26T16:43:05.000Z",
+    "metadata": {
+      "conversation_id": "1982488161948254455",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982486109344211259",
+    "source": "twitter",
+    "author": "dctmfoo",
+    "content": "First time building an app with @golang using @FactoryAI droid and after 3000 lines of code, I am yet to experience a single build error or half baked feature implementation. This is actually more enjoyable!",
+    "url": "https://x.com/dctmfoo/status/1982486109344211259",
+    "timestamp": "2025-10-26T16:34:55.000Z",
+    "metadata": {
+      "conversation_id": "1982486109344211259",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982481372179783950",
     "source": "twitter",
     "author": "alexsheppert",
@@ -113,7 +143,7 @@
       "conversation_id": "1982465584215253076",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -283,49 +313,6 @@
     }
   },
   {
-    "id": "twitter_1982455270698565885",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@arnaud_breton @FactoryAI known issues working on it sorry",
-    "url": "https://x.com/bentossell/status/1982455270698565885",
-    "timestamp": "2025-10-26T14:32:23.000Z",
-    "metadata": {
-      "conversation_id": "1982455270698565885",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982455127857307784",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@308Greenfield @etashio @FactoryAI nope actually",
-    "url": "https://x.com/bentossell/status/1982455127857307784",
-    "timestamp": "2025-10-26T14:31:49.000Z",
-    "metadata": {
-      "conversation_id": "1982455127857307784",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "github_issue_263",
-    "source": "github",
-    "author": "tgerighty",
-    "content": "[Issue] No todos being deployed again\n\nUgraded to Droid v.0.22.3 OSX Tahoe and no longer displaying the todos as it creates and works through them\n\n<img width=\"712\" height=\"241\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4e0d6420-b1e6-41f7-b384-59eaef4f6d6e\" />",
-    "url": "https://github.com/Factory-AI/factory/issues/263",
-    "timestamp": "2025-10-26T04:10:42Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 263
-    }
-  },
-  {
     "id": "github_issue_262",
     "source": "github",
     "author": "tofunori",
@@ -336,6 +323,45 @@
       "type": "issue",
       "labels": [],
       "number": 262
+    }
+  },
+  {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh9so",
+    "source": "reddit",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh3rn",
+    "source": "reddit",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -651,6 +677,19 @@
     }
   },
   {
+    "id": "github_issue_226",
+    "source": "github",
+    "author": "britannio",
+    "content": "[Issue] MCP tools are not available when using `droid exec`\n\n<img width=\"4064\" height=\"2334\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/39cb7733-4906-445c-9877-6cff44ab29a3\" />\n\n\n\n~/.factory/mcp.json\n```json\n{\n  \"mcpServers\": {\n    \"playwright\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"@playwright/mcp@latest\"\n      ]\n    }\n  }\n}\n```",
+    "url": "https://github.com/Factory-AI/factory/issues/226",
+    "timestamp": "2025-10-21T10:39:22Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 226
+    }
+  },
+  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -699,32 +738,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ob2dsx",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
-    "timestamp": "2025-10-19T21:56:23.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 4,
       "subreddit": "FactoryAi"
     }
   },
