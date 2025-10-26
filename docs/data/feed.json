@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982338714132189199",
+    "source": "twitter",
+    "author": "dalu_hey",
+    "content": "@etashio @FactoryAI feelings are subjective",
+    "url": "https://x.com/dalu_hey/status/1982338714132189199",
+    "timestamp": "2025-10-26T06:49:14.000Z",
+    "metadata": {
+      "conversation_id": "1982338714132189199",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982338068616294851",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@2mawi2W @steipete @iannuttall @perplexity_ai Updated Comprehensive Guide: Running Multiple AI Agents in Parallel with Git Worktrees\n\nFixed it. I did a new research run with @perplexity_ai and Schaltwerk came pretty much out #1, also due to built-in @FactoryAI DROID CLI support\n\nhttps://t.co/ZQiLiktN3l https://t.co/3Eq8KxLjlp",
+    "url": "https://x.com/SvenMeyer/status/1982338068616294851",
+    "timestamp": "2025-10-26T06:46:40.000Z",
+    "metadata": {
+      "conversation_id": "1982338068616294851",
+      "likes": 0,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982334877640106492",
     "source": "twitter",
     "author": "heykandoi",
@@ -277,36 +307,6 @@
     "metadata": {
       "conversation_id": "1982261054538158143",
       "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982260652249960595",
-    "source": "twitter",
-    "author": "chasebrignac",
-    "content": "@etashio @FactoryAI Honestly when I switch from Claude code to codex every single time I get 10x further than cc can. Not to mention pressing enter over and over and over to approve cc commands is the worst user experience over.",
-    "url": "https://x.com/chasebrignac/status/1982260652249960595",
-    "timestamp": "2025-10-26T01:39:02.000Z",
-    "metadata": {
-      "conversation_id": "1982260652249960595",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982251589810241873",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@CloudTrader4 @bitdoze @OpenRouterAI @FactoryAI @Zai_org @OpenAI I just happen to come acroos the option to select model-provider combinations on @ArtificialAnlys \nI can at least confirm that @DeepInfra was better and @novita_labs was the worst - 100% match with the chart.\nhttps://t.co/veJWCGXP8d",
-    "url": "https://x.com/SvenMeyer/status/1982251589810241873",
-    "timestamp": "2025-10-26T01:03:02.000Z",
-    "metadata": {
-      "conversation_id": "1982251589810241873",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
