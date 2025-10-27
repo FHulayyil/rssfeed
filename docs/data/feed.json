@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1982697090477408264",
+    "source": "twitter",
+    "author": "ronaldmannak",
+    "content": "One major gap in Swift’s AI stack is a Markdown renderer that:\n🐇 Streams efficiently\n∑ Renders formulas\n🎯 Supports full-text selection across messages\n\nI used @FactoryAI Droid to build a prototype.\nHere’s a real-time preview of PicoMarkdownView running on @GroqInc. \nWhat do you think?",
+    "url": "https://x.com/ronaldmannak/status/1982697090477408264",
+    "timestamp": "2025-10-27T06:33:17.000Z",
+    "metadata": {
+      "conversation_id": "1982697090477408264",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982696900160868531",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "Do you know that @voicetypr is the first PH listed product that has @FactoryAI cli in the launch team :') https://t.co/6VoNUTnc4M",
+    "url": "https://x.com/immoinulmoin/status/1982696900160868531",
+    "timestamp": "2025-10-27T06:32:32.000Z",
+    "metadata": {
+      "conversation_id": "1982696900160868531",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982694865097146682",
+    "source": "twitter",
+    "author": "revskill",
+    "content": "@dctmfoo @golang @FactoryAI Easy problem.",
+    "url": "https://x.com/revskill/status/1982694865097146682",
+    "timestamp": "2025-10-27T06:24:27.000Z",
+    "metadata": {
+      "conversation_id": "1982694865097146682",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982694595398910406",
+    "source": "twitter",
+    "author": "_01010101",
+    "content": "@francesca_lab @chasebrignac @etashio @FactoryAI This is the way 🙏",
+    "url": "https://x.com/_01010101/status/1982694595398910406",
+    "timestamp": "2025-10-27T06:23:22.000Z",
+    "metadata": {
+      "conversation_id": "1982694595398910406",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982693015601975756",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@FactoryAI https://t.co/p93fmA89zQ",
+    "url": "https://x.com/SvenMeyer/status/1982693015601975756",
+    "timestamp": "2025-10-27T06:17:06.000Z",
+    "metadata": {
+      "conversation_id": "1982693015601975756",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982689069273645483",
+    "source": "twitter",
+    "author": "MinChonChiSF",
+    "content": "@tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai Interesting to see Droid compared to Claude's code capabilities.",
+    "url": "https://x.com/MinChonChiSF/status/1982689069273645483",
+    "timestamp": "2025-10-27T06:01:25.000Z",
+    "metadata": {
+      "conversation_id": "1982689069273645483",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982684816639394110",
     "source": "twitter",
     "author": "CyprianWetende",
@@ -8,7 +98,7 @@
     "timestamp": "2025-10-27T05:44:31.000Z",
     "metadata": {
       "conversation_id": "1982684816639394110",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -66,7 +156,7 @@
     "timestamp": "2025-10-27T04:56:03.000Z",
     "metadata": {
       "conversation_id": "1982672620505215162",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -83,7 +173,7 @@
       "conversation_id": "1982660409514770823",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -141,7 +231,7 @@
     "timestamp": "2025-10-27T04:02:37.000Z",
     "metadata": {
       "conversation_id": "1982659173646291338",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -236,96 +326,6 @@
     }
   },
   {
-    "id": "twitter_1982631515742957825",
-    "source": "twitter",
-    "author": "vikram_davhfc",
-    "content": "@mjs527 @FactoryAI MCP servers + Factory droids is the combo. The real magic happens when local tools start orchestrating each other. What's your favorite server integration so far?",
-    "url": "https://x.com/vikram_davhfc/status/1982631515742957825",
-    "timestamp": "2025-10-27T02:12:43.000Z",
-    "metadata": {
-      "conversation_id": "1982631515742957825",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982627563135775131",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "Finally took a break from @FactoryAI and tried @AmpCode. I must say the oracle validation look has some nice polish.",
-    "url": "https://x.com/erd0xbc/status/1982627563135775131",
-    "timestamp": "2025-10-27T01:57:01.000Z",
-    "metadata": {
-      "conversation_id": "1982627563135775131",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982621472381370578",
-    "source": "twitter",
-    "author": "sir4K_zen",
-    "content": "@tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai That kind of automation is wild. Makes you wonder what else it can do, right?",
-    "url": "https://x.com/sir4K_zen/status/1982621472381370578",
-    "timestamp": "2025-10-27T01:32:48.000Z",
-    "metadata": {
-      "conversation_id": "1982621472381370578",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982605358444200426",
-    "source": "twitter",
-    "author": "AonSayyed",
-    "content": "@DatSciX @etashio @FactoryAI @conductor_build should have but @cursor_ai might",
-    "url": "https://x.com/AonSayyed/status/1982605358444200426",
-    "timestamp": "2025-10-27T00:28:47.000Z",
-    "metadata": {
-      "conversation_id": "1982605358444200426",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982596393526304842",
-    "source": "twitter",
-    "author": "AlisherFarhadi",
-    "content": "@tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai The other day, it went to my downloads folder and pulled in the assets I needed. Scary amount of access but useful",
-    "url": "https://x.com/AlisherFarhadi/status/1982596393526304842",
-    "timestamp": "2025-10-26T23:53:09.000Z",
-    "metadata": {
-      "conversation_id": "1982596393526304842",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982591069725524248",
-    "source": "twitter",
-    "author": "0xblacklight",
-    "content": "@etashio @FactoryAI Pigeon theory",
-    "url": "https://x.com/0xblacklight/status/1982591069725524248",
-    "timestamp": "2025-10-26T23:32:00.000Z",
-    "metadata": {
-      "conversation_id": "1982591069725524248",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_264",
     "source": "github",
     "author": "a112121788",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
