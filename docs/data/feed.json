@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1982724351335252105",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@fire @FactoryAI will take a look",
+    "url": "https://x.com/bentossell/status/1982724351335252105",
+    "timestamp": "2025-10-27T08:21:37.000Z",
+    "metadata": {
+      "conversation_id": "1982724351335252105",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982723667542073568",
+    "source": "twitter",
+    "author": "Gary__Harrison",
+    "content": "@DatSciX @etashio @FactoryAI I have this in a MCP kinda. Check it out!\n\nhttps://t.co/Q9Hm2J9Pla",
+    "url": "https://x.com/Gary__Harrison/status/1982723667542073568",
+    "timestamp": "2025-10-27T08:18:54.000Z",
+    "metadata": {
+      "conversation_id": "1982723667542073568",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982720351999275428",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@FactoryAI also maybe this is fine? I remembered to generate a bug report this time if it's not expected\n\ncc: @bentossell",
+    "url": "https://x.com/fire/status/1982720351999275428",
+    "timestamp": "2025-10-27T08:05:43.000Z",
+    "metadata": {
+      "conversation_id": "1982720351999275428",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982717525889614327",
+    "source": "twitter",
+    "author": "Binary_Bonanza",
+    "content": "On the topic - I've been using @FactoryAI for a week now and for this short period of time one of their #droid managed to create from scratch such an advanced and sophisticated bot, that all the other models that I gave them to audit it said it's 10/10 engineering.",
+    "url": "https://x.com/Binary_Bonanza/status/1982717525889614327",
+    "timestamp": "2025-10-27T07:54:29.000Z",
+    "metadata": {
+      "conversation_id": "1982717525889614327",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982716330026672367",
     "source": "twitter",
     "author": "ichebykin",
@@ -25,7 +85,7 @@
       "conversation_id": "1982709396246532335",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -128,7 +188,7 @@
     "timestamp": "2025-10-27T06:17:06.000Z",
     "metadata": {
       "conversation_id": "1982693015601975756",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -216,7 +276,7 @@
     "timestamp": "2025-10-27T04:56:03.000Z",
     "metadata": {
       "conversation_id": "1982672620505215162",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -246,54 +306,9 @@
     "timestamp": "2025-10-27T04:06:17.000Z",
     "metadata": {
       "conversation_id": "1982660097676583248",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982659755568185513",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@FactoryAI @iannuttall @steipete 2/3: To fix this, DROID needs better session management:\n\n* Show full date/time (started/closed/last-used) instead of just relative time.\n\n* Allow switching to a session by its unique ID within the DROID CLI (/session &lt;id&gt;).\n\n* Add `--session-id` option to interactive DROID",
-    "url": "https://x.com/SvenMeyer/status/1982659755568185513",
-    "timestamp": "2025-10-27T04:04:56.000Z",
-    "metadata": {
-      "conversation_id": "1982659755568185513",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982659552131891674",
-    "source": "twitter",
-    "author": "lovvrEth",
-    "content": "@DatSciX @etashio @FactoryAI @tsi_org can aitutor  ultra plan do this with beam?",
-    "url": "https://x.com/lovvrEth/status/1982659552131891674",
-    "timestamp": "2025-10-27T04:04:07.000Z",
-    "metadata": {
-      "conversation_id": "1982659552131891674",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982659173646291338",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@FactoryAI FEATURE REQUEST :\n1/3 Finding a previous DROID sessions from a few days ago is difficult ! Generic labels like \"3 day\" make it difficult to find the right one if you do not recognize the session by its title. (cc @iannuttall @steipete for distribution)",
-    "url": "https://x.com/SvenMeyer/status/1982659173646291338",
-    "timestamp": "2025-10-27T04:02:37.000Z",
-    "metadata": {
-      "conversation_id": "1982659173646291338",
       "likes": 2,
       "retweets": 0,
-      "replies": 2,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -308,21 +323,6 @@
       "type": "issue",
       "labels": [],
       "number": 265
-    }
-  },
-  {
-    "id": "twitter_1982655882128453858",
-    "source": "twitter",
-    "author": "tribbloid",
-    "content": "@mjs527 @TrygenticAI @FactoryAI still can't understand why you have to activate and configure them manually, topology for every parallelizable job is unique and become obsolete instantly. If the orchestrator can't spawn them without human intervention it won't be used often",
-    "url": "https://x.com/tribbloid/status/1982655882128453858",
-    "timestamp": "2025-10-27T03:49:32.000Z",
-    "metadata": {
-      "conversation_id": "1982655882128453858",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
     }
   },
   {
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 7,
+      "score": 9,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -703,19 +703,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,6 +713,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
     }
   },
   {
