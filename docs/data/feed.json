@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1982846748113744346",
+    "source": "twitter",
+    "author": "Slyndc",
+    "content": "@jarrodWattsDev @FactoryAI",
+    "url": "https://x.com/Slyndc/status/1982846748113744346",
+    "timestamp": "2025-10-27T16:27:58.000Z",
+    "metadata": {
+      "conversation_id": "1982846748113744346",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982845850335502609",
+    "source": "twitter",
+    "author": "bradyjeong",
+    "content": "@erd0xbc @FactoryAI @AmpCode the oracle is wise :)",
+    "url": "https://x.com/bradyjeong/status/1982845850335502609",
+    "timestamp": "2025-10-27T16:24:24.000Z",
+    "metadata": {
+      "conversation_id": "1982845850335502609",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982845763508965582",
+    "source": "twitter",
+    "author": "GiusMarci",
+    "content": "For what it seems it’s passing wayyyyy too much context - I was working on it so I can add Claude Code oauth on anyllm for droid https://t.co/C7WT0xHnUf\n\nThat’s all I have as of now below plus logs in markdown of prompts I can run more tests if u like without the prompts and send it over",
+    "url": "https://x.com/GiusMarci/status/1982845763508965582",
+    "timestamp": "2025-10-27T16:24:04.000Z",
+    "metadata": {
+      "conversation_id": "1982845763508965582",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982843619855028729",
+    "source": "twitter",
+    "author": "SevNightingale",
+    "content": "@CloudTrader4 @FactoryAI @GoogleCloudTech @Context7AI currently building a fully autonomous trading agent using claude agent sdk\n\nshould I try googles ADK? are you restricted to google models?",
+    "url": "https://x.com/SevNightingale/status/1982843619855028729",
+    "timestamp": "2025-10-27T16:15:33.000Z",
+    "metadata": {
+      "conversation_id": "1982843619855028729",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982841489848676637",
+    "source": "twitter",
+    "author": "PopVerseYT",
+    "content": "Fun fact:\n\nI don`t think I have an \"go to\" CLI/IDE right now.\n\nI pretty much try on all of them, and one of them always surpasses the other for a brief time.\n\nFor example, last week I was all in into @FactoryAI, but the droids starting messing things up for some reason, then I tried @AmpCode again and well, one shotted everything again.\n\nPrior that I was into @OpenAI Codex.\n\nSo... I dont know why, but this seems like a pattern.\n\nTried the same prompt on all of them.",
+    "url": "https://x.com/PopVerseYT/status/1982841489848676637",
+    "timestamp": "2025-10-27T16:07:05.000Z",
+    "metadata": {
+      "conversation_id": "1982841489848676637",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982839094938878034",
+    "source": "twitter",
+    "author": "luccasveg",
+    "content": "Also, organizing Droid sessions by Projects + renaming the session -- would be a cheap win. @FactoryAI",
+    "url": "https://x.com/luccasveg/status/1982839094938878034",
+    "timestamp": "2025-10-27T15:57:34.000Z",
+    "metadata": {
+      "conversation_id": "1982839094938878034",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982838871269544233",
+    "source": "twitter",
+    "author": "ronaldmannak",
+    "content": "@daniel_nguyenx @FactoryAI @GroqInc I know and I don’t blame you 😂 hopefully this repo will eventually be good enough for you to replace the web view",
+    "url": "https://x.com/ronaldmannak/status/1982838871269544233",
+    "timestamp": "2025-10-27T15:56:40.000Z",
+    "metadata": {
+      "conversation_id": "1982838871269544233",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982837306131398963",
     "source": "twitter",
     "author": "JoelDeTeves",
@@ -8,7 +113,7 @@
     "timestamp": "2025-10-27T15:50:27.000Z",
     "metadata": {
       "conversation_id": "1982837306131398963",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,9 +143,9 @@
     "timestamp": "2025-10-27T15:31:26.000Z",
     "metadata": {
       "conversation_id": "1982832519268663537",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -98,7 +203,7 @@
       "conversation_id": "1982827328926605699",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -221,96 +326,6 @@
     }
   },
   {
-    "id": "twitter_1982820930452648329",
-    "source": "twitter",
-    "author": "GiusMarci",
-    "content": "So I gave it a go today on this one @bentossell, but I noticed that DROID is eating so many tokens? Just ran some tests: 11 requests in total, sending 1M+ tokens per input. Is this a bug? \n\nTested Claude Code directly on Droid, killed a full 5-hour limit session in no time - around a hour (I'm on MAX).\n\nI've logged the stats and calls being sent to the proxy as well to see what was going on, it would be awesome to understand better the issue because it's sending way too much context per call.\n\nPlease let me know if there is a fix on this one, I definitely need to use DROID with my CC SUB! :D",
-    "url": "https://x.com/GiusMarci/status/1982820930452648329",
-    "timestamp": "2025-10-27T14:45:23.000Z",
-    "metadata": {
-      "conversation_id": "1982820930452648329",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982815974622453890",
-    "source": "twitter",
-    "author": "centerfreshgum",
-    "content": "@thorstenball Same feeling for @FactoryAI website for this",
-    "url": "https://x.com/centerfreshgum/status/1982815974622453890",
-    "timestamp": "2025-10-27T14:25:41.000Z",
-    "metadata": {
-      "conversation_id": "1982815974622453890",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982812503491928415",
-    "source": "twitter",
-    "author": "pvncher",
-    "content": "@ronaldmannak @FactoryAI @GroqInc How does it do after 50-100 messages in a chat?",
-    "url": "https://x.com/pvncher/status/1982812503491928415",
-    "timestamp": "2025-10-27T14:11:54.000Z",
-    "metadata": {
-      "conversation_id": "1982812503491928415",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982791999120908746",
-    "source": "twitter",
-    "author": "AsimPaudel4",
-    "content": "@FactoryAI Droid is magical.",
-    "url": "https://x.com/AsimPaudel4/status/1982791999120908746",
-    "timestamp": "2025-10-27T12:50:25.000Z",
-    "metadata": {
-      "conversation_id": "1982791999120908746",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982787032318370107",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai What was wrong with your config",
-    "url": "https://x.com/martin_ict_algo/status/1982787032318370107",
-    "timestamp": "2025-10-27T12:30:41.000Z",
-    "metadata": {
-      "conversation_id": "1982787032318370107",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982784837220999213",
-    "source": "twitter",
-    "author": "TCGsealed",
-    "content": "@tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai @warpdotdev does this also",
-    "url": "https://x.com/TCGsealed/status/1982784837220999213",
-    "timestamp": "2025-10-27T12:21:58.000Z",
-    "metadata": {
-      "conversation_id": "1982784837220999213",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_267",
     "source": "github",
     "author": "jakob1379",
@@ -321,21 +336,6 @@
       "type": "issue",
       "labels": [],
       "number": 267
-    }
-  },
-  {
-    "id": "twitter_1982769575126298821",
-    "source": "twitter",
-    "author": "stevyhacker",
-    "content": "Just tried @FactoryAI today and it's really good.\nPerformance wise on par with codex and has a nicer UX on par with claude. \nSo it's best of both worlds and the free trial package is quite generous. Highly recommended 🤖",
-    "url": "https://x.com/stevyhacker/status/1982769575126298821",
-    "timestamp": "2025-10-27T11:21:19.000Z",
-    "metadata": {
-      "conversation_id": "1982769575126298821",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -372,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
