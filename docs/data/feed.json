@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1982851713737322723",
+    "source": "twitter",
+    "author": "marcgregory_",
+    "content": "@tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai Droid agent is insane. What is your default model with it?",
+    "url": "https://x.com/marcgregory_/status/1982851713737322723",
+    "timestamp": "2025-10-27T16:47:42.000Z",
+    "metadata": {
+      "conversation_id": "1982851713737322723",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982850461284872489",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@steipete @_Sagiquarius_ @FactoryAI anyone do them well ?",
+    "url": "https://x.com/bentossell/status/1982850461284872489",
+    "timestamp": "2025-10-27T16:42:44.000Z",
+    "metadata": {
+      "conversation_id": "1982850461284872489",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982849505352675648",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@bentossell @_Sagiquarius_ @FactoryAI to be fair codex cli’s diffs are even worse, it mostly just python and you are blind!",
+    "url": "https://x.com/steipete/status/1982849505352675648",
+    "timestamp": "2025-10-27T16:38:56.000Z",
+    "metadata": {
+      "conversation_id": "1982849505352675648",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982846748113744346",
     "source": "twitter",
     "author": "Slyndc",
@@ -218,7 +263,7 @@
       "conversation_id": "1982827030531228139",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -281,51 +326,6 @@
     }
   },
   {
-    "id": "twitter_1982822956515414374",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@immoinulmoin @voicetypr @FactoryAI 🤖",
-    "url": "https://x.com/bentossell/status/1982822956515414374",
-    "timestamp": "2025-10-27T14:53:26.000Z",
-    "metadata": {
-      "conversation_id": "1982822956515414374",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982822760893108691",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@stevyhacker @FactoryAI ❤️",
-    "url": "https://x.com/bentossell/status/1982822760893108691",
-    "timestamp": "2025-10-27T14:52:39.000Z",
-    "metadata": {
-      "conversation_id": "1982822760893108691",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982822125305278488",
-    "source": "twitter",
-    "author": "_Sagiquarius_",
-    "content": "@steipete @FactoryAI can the diff view be improved? I love how the codex ide extension shows all its changes. Stock droid diff view is hard on the eyes imo",
-    "url": "https://x.com/_Sagiquarius_/status/1982822125305278488",
-    "timestamp": "2025-10-27T14:50:08.000Z",
-    "metadata": {
-      "conversation_id": "1982822125305278488",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_267",
     "source": "github",
     "author": "jakob1379",
@@ -372,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -726,6 +726,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
     }
   },
   {
