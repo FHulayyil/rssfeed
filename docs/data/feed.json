@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1982958255048671405",
+    "source": "twitter",
+    "author": "DanielMiessler",
+    "content": "@moderat10n @FactoryAI @opencode @AmpCode @simonw Agent Platform",
+    "url": "https://x.com/DanielMiessler/status/1982958255048671405",
+    "timestamp": "2025-10-27T23:51:04.000Z",
+    "metadata": {
+      "conversation_id": "1982958255048671405",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982949016532103383",
     "source": "twitter",
     "author": "BillCrosby",
@@ -70,7 +85,7 @@
       "conversation_id": "1982934834063519786",
       "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -233,7 +248,7 @@
     "timestamp": "2025-10-27T21:05:52.000Z",
     "metadata": {
       "conversation_id": "1982916681279189422",
-      "likes": 15,
+      "likes": 17,
       "retweets": 4,
       "replies": 1,
       "quotes": 0
@@ -282,21 +297,6 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982915233963442609",
-    "source": "twitter",
-    "author": "every",
-    "content": "We’ve been testing @FactoryAI’s Droid coding agents inside Every, and they’re fast becoming part of our workflow.\n\nThis Friday, we’re going hands-on with @bentossell at Droid Camp:\n\nDetails: https://t.co/V5bAR6PDTv",
-    "url": "https://x.com/every/status/1982915233963442609",
-    "timestamp": "2025-10-27T21:00:07.000Z",
-    "metadata": {
-      "conversation_id": "1982915233963442609",
-      "likes": 25,
-      "retweets": 3,
-      "replies": 1,
-      "quotes": 3
     }
   },
   {
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -451,7 +451,7 @@
     "timestamp": "2025-10-24T16:13:54.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 2,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
