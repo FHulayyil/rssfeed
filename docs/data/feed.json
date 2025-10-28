@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1983282383626682375",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "@FactoryAI 🔥",
+    "url": "https://x.com/NathanLands/status/1983282383626682375",
+    "timestamp": "2025-10-28T21:19:02.000Z",
+    "metadata": {
+      "conversation_id": "1983282383626682375",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983280782551781461",
+    "source": "twitter",
+    "author": "fredrivett",
+    "content": "@aidenybai @FactoryAI @AmpCode @windsurf @shadcn @base_ui @reui_io @storybookjs @playwrightweb @vitest_dev @bunjavascript @prisma @supabase @ExaAILabs @mastra_ai also keeping tabs on changes and keeping the core architecture in my head when ai is moving fast, i've struggled to get ai to write good docs / keep them up to date, asking it to update a @mermaidjs_ doc has been the best so far but this area feels lagging behind the state of ai",
+    "url": "https://x.com/fredrivett/status/1983280782551781461",
+    "timestamp": "2025-10-28T21:12:40.000Z",
+    "metadata": {
+      "conversation_id": "1983280782551781461",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983280155586867344",
+    "source": "twitter",
+    "author": "fredrivett",
+    "content": "most:\n\n- crafting great products that add to the world\n- building something with care (whether hand coding or llm teammate)\n- mastery (vim w/ coc.nvim + ale + biome is lovely)\n- tools that bring clarity (TS, prisma, biome etc)\n\nleast:\n\n- copy pasting errors to coding agents (why can't they see my logs easily yet)\n- working on a poorly spec'd ticket that i don't have autonomy over the solution\n- losing flow when waiting for ai to respond\n- boring generic ui's\n- deep perf issues\n- flakey hard to repro bugs\n- cross browser/platform testing",
+    "url": "https://x.com/fredrivett/status/1983280155586867344",
+    "timestamp": "2025-10-28T21:10:11.000Z",
+    "metadata": {
+      "conversation_id": "1983280155586867344",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983279227421270100",
+    "source": "twitter",
+    "author": "ain3sh",
+    "content": "@tsi_org @the_machine_ai @FactoryAI Custom model endpoint config pls 🥹also access code por favor",
+    "url": "https://x.com/ain3sh/status/1983279227421270100",
+    "timestamp": "2025-10-28T21:06:30.000Z",
+    "metadata": {
+      "conversation_id": "1983279227421270100",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983276795609919875",
+    "source": "twitter",
+    "author": "ThatImagin4361",
+    "content": "Sitting at my day job Droiding, Cursoring, and Clining to my dream job 🚀 \n\n@FactoryAI @cursor_ai @cline",
+    "url": "https://x.com/ThatImagin4361/status/1983276795609919875",
+    "timestamp": "2025-10-28T20:56:50.000Z",
+    "metadata": {
+      "conversation_id": "1983276795609919875",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983275496214519923",
     "source": "twitter",
     "author": "codewithimanshu",
@@ -225,81 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983245660536062297",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@FactoryAI 🚢",
-    "url": "https://x.com/bentossell/status/1983245660536062297",
-    "timestamp": "2025-10-28T18:53:07.000Z",
-    "metadata": {
-      "conversation_id": "1983245660536062297",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983245634149716065",
-    "source": "twitter",
-    "author": "milan_morte",
-    "content": "Been trying droid for the first time. And here is my experience. @FactoryAI https://t.co/l9yZSEFyLV",
-    "url": "https://x.com/milan_morte/status/1983245634149716065",
-    "timestamp": "2025-10-28T18:53:00.000Z",
-    "metadata": {
-      "conversation_id": "1983245634149716065",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983244756244213928",
-    "source": "twitter",
-    "author": "MickeyShaughnes",
-    "content": "@sayidislearning @FactoryAI It's just fun to use and it's only going to get better https://t.co/qt5uTC4LG6",
-    "url": "https://x.com/MickeyShaughnes/status/1983244756244213928",
-    "timestamp": "2025-10-28T18:49:31.000Z",
-    "metadata": {
-      "conversation_id": "1983244756244213928",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983244433169461350",
-    "source": "twitter",
-    "author": "MickeyShaughnes",
-    "content": "@sayidislearning @FactoryAI 😊 I do when I'm using the computer and taking a shower",
-    "url": "https://x.com/MickeyShaughnes/status/1983244433169461350",
-    "timestamp": "2025-10-28T18:48:14.000Z",
-    "metadata": {
-      "conversation_id": "1983244433169461350",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983244111269240884",
-    "source": "twitter",
-    "author": "sayidislearning",
-    "content": "@MickeyShaughnes @FactoryAI Didn’t know you wore glasses Mickey.",
-    "url": "https://x.com/sayidislearning/status/1983244111269240884",
-    "timestamp": "2025-10-28T18:46:57.000Z",
-    "metadata": {
-      "conversation_id": "1983244111269240884",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_278",
     "source": "github",
     "author": "jakob1379",
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -726,6 +726,32 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
