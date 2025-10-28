@@ -1,5 +1,170 @@
 [
   {
+    "id": "twitter_1983161844522164237",
+    "source": "twitter",
+    "author": "MullerNavas",
+    "content": "@hqmank @FactoryAI @Hailuo_AI How do you add the custom models. @FactoryAI",
+    "url": "https://x.com/MullerNavas/status/1983161844522164237",
+    "timestamp": "2025-10-28T13:20:03.000Z",
+    "metadata": {
+      "conversation_id": "1983161844522164237",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983161074867417382",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@FactoryAI droid buys",
+    "url": "https://x.com/draslan_eth/status/1983161074867417382",
+    "timestamp": "2025-10-28T13:17:00.000Z",
+    "metadata": {
+      "conversation_id": "1983161074867417382",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983156122849816752",
+    "source": "twitter",
+    "author": "arnaud_breton",
+    "content": "@bentossell @FactoryAI Great! Is there public issues tracking this? I’ll probably put Factory on the side until it’s fixed as it really breaks the flow 😟. Yesterday I had to run the command manually to achieve what I needed, frustrating. Hope it’s fixed soon, I love the CLI!",
+    "url": "https://x.com/arnaud_breton/status/1983156122849816752",
+    "timestamp": "2025-10-28T12:57:19.000Z",
+    "metadata": {
+      "conversation_id": "1983156122849816752",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983155841311354997",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@CloudTrader4 @FactoryAI *we hope models get better",
+    "url": "https://x.com/bentossell/status/1983155841311354997",
+    "timestamp": "2025-10-28T12:56:12.000Z",
+    "metadata": {
+      "conversation_id": "1983155841311354997",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983155381611217000",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@hqmank @FactoryAI @Hailuo_AI 👂",
+    "url": "https://x.com/bentossell/status/1983155381611217000",
+    "timestamp": "2025-10-28T12:54:22.000Z",
+    "metadata": {
+      "conversation_id": "1983155381611217000",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983155278175711497",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@immoinulmoin @FactoryAI 🧠",
+    "url": "https://x.com/bentossell/status/1983155278175711497",
+    "timestamp": "2025-10-28T12:53:58.000Z",
+    "metadata": {
+      "conversation_id": "1983155278175711497",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983155168696054036",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@cirucetam @CloudTrader4 @FactoryAI just ask :)",
+    "url": "https://x.com/bentossell/status/1983155168696054036",
+    "timestamp": "2025-10-28T12:53:32.000Z",
+    "metadata": {
+      "conversation_id": "1983155168696054036",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983155010495275214",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@arnaud_breton @FactoryAI oh a different issue then - a.match - fixes being worked on",
+    "url": "https://x.com/bentossell/status/1983155010495275214",
+    "timestamp": "2025-10-28T12:52:54.000Z",
+    "metadata": {
+      "conversation_id": "1983155010495275214",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983154895059632512",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@cheatyyyy @FactoryAI done",
+    "url": "https://x.com/bentossell/status/1983154895059632512",
+    "timestamp": "2025-10-28T12:52:26.000Z",
+    "metadata": {
+      "conversation_id": "1983154895059632512",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983154242967003403",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@NoBanksNearby @cheatyyyy @FactoryAI you gotta stop these. blocking",
+    "url": "https://x.com/bentossell/status/1983154242967003403",
+    "timestamp": "2025-10-28T12:49:51.000Z",
+    "metadata": {
+      "conversation_id": "1983154242967003403",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983154104483660151",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@pascallammers_ @FactoryAI will look into it",
+    "url": "https://x.com/bentossell/status/1983154104483660151",
+    "timestamp": "2025-10-28T12:49:18.000Z",
+    "metadata": {
+      "conversation_id": "1983154104483660151",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983153490382991519",
     "source": "twitter",
     "author": "Ricardo_Nth",
@@ -98,9 +263,9 @@
     "timestamp": "2025-10-28T12:16:50.000Z",
     "metadata": {
       "conversation_id": "1983145933266092504",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -128,174 +293,9 @@
     "timestamp": "2025-10-28T10:02:59.000Z",
     "metadata": {
       "conversation_id": "1983112248827531572",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983111661360951408",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "Don't know why but Sonnet 4.5 feels much smoother than GPT-5-Codex in @FactoryAI",
-    "url": "https://x.com/pascallammers_/status/1983111661360951408",
-    "timestamp": "2025-10-28T10:00:39.000Z",
-    "metadata": {
-      "conversation_id": "1983111661360951408",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983081577002479687",
-    "source": "twitter",
-    "author": "M2Fauzaan",
-    "content": "@ronaldmannak @FactoryAI @GroqInc @pluk_sh DM me your email, and I’ll send you an invite 🙆🏻‍♂️",
-    "url": "https://x.com/M2Fauzaan/status/1983081577002479687",
-    "timestamp": "2025-10-28T08:01:06.000Z",
-    "metadata": {
-      "conversation_id": "1983081577002479687",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983081056770175296",
-    "source": "twitter",
-    "author": "ronaldmannak",
-    "content": "@M2Fauzaan @FactoryAI @GroqInc @pluk_sh Oh interesting app. I’ll check it out",
-    "url": "https://x.com/ronaldmannak/status/1983081056770175296",
-    "timestamp": "2025-10-28T07:59:02.000Z",
-    "metadata": {
-      "conversation_id": "1983081056770175296",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983077905031713096",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "Going All-In Today \n\n1) Finalising a client project with @FactoryAI Droid and Sonnet 4.5 \n2) Pushing my own app forward I was working on the last week and trying Codex for Frontend - Coding today\n\nLet's see how far we come 🔥",
-    "url": "https://x.com/pascallammers_/status/1983077905031713096",
-    "timestamp": "2025-10-28T07:46:31.000Z",
-    "metadata": {
-      "conversation_id": "1983077905031713096",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983071179486228503",
-    "source": "twitter",
-    "author": "cheatyyyy",
-    "content": "hi @FactoryAI @bentossell pls check dms having a payment issue with your product, thanks :)",
-    "url": "https://x.com/cheatyyyy/status/1983071179486228503",
-    "timestamp": "2025-10-28T07:19:47.000Z",
-    "metadata": {
-      "conversation_id": "1983071179486228503",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983068196858171612",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@SkylerMiao7 Thanks for the explanation. Would @MiniMax__AI M2 work (out of the box) with @FactoryAI ? They support sonnet and got so I am wondering how and if I define in their config what protocol to use, just set 'provider: generic-chat-completion-api' ?",
-    "url": "https://x.com/SvenMeyer/status/1983068196858171612",
-    "timestamp": "2025-10-28T07:07:56.000Z",
-    "metadata": {
-      "conversation_id": "1983068196858171612",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983065059099308080",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@luccasveg @FactoryAI definitely! 👍",
-    "url": "https://x.com/SvenMeyer/status/1983065059099308080",
-    "timestamp": "2025-10-28T06:55:28.000Z",
-    "metadata": {
-      "conversation_id": "1983065059099308080",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983064790152233211",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "Alright my daily driver is @FactoryAI cli with chatgpt pro, this just works bro",
-    "url": "https://x.com/immoinulmoin/status/1983064790152233211",
-    "timestamp": "2025-10-28T06:54:24.000Z",
-    "metadata": {
-      "conversation_id": "1983064790152233211",
-      "likes": 10,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983047064939577664",
-    "source": "twitter",
-    "author": "pancrisp",
-    "content": "@cirucetam @CloudTrader4 @FactoryAI It does, I’ve seen it in action",
-    "url": "https://x.com/pancrisp/status/1983047064939577664",
-    "timestamp": "2025-10-28T05:43:58.000Z",
-    "metadata": {
-      "conversation_id": "1983047064939577664",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983043813330280904",
-    "source": "twitter",
-    "author": "WeLivetoServe",
-    "content": "@simonw @moderat10n @FactoryAI @opencode @AmpCode wen https://t.co/bsF8nmOcoy?",
-    "url": "https://x.com/WeLivetoServe/status/1983043813330280904",
-    "timestamp": "2025-10-28T05:31:02.000Z",
-    "metadata": {
-      "conversation_id": "1983043813330280904",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983042813806948625",
-    "source": "twitter",
-    "author": "cirucetam",
-    "content": "@CloudTrader4 @FactoryAI I just hope Droid has the same Parallel Subagent ability like in CC",
-    "url": "https://x.com/cirucetam/status/1983042813806948625",
-    "timestamp": "2025-10-28T05:27:04.000Z",
-    "metadata": {
-      "conversation_id": "1983042813806948625",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -726,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
     }
   },
   {
