@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983071179486228503",
+    "source": "twitter",
+    "author": "cheatyyyy",
+    "content": "hi @FactoryAI @bentossell pls check dms having a payment issue with your product, thanks :)",
+    "url": "https://x.com/cheatyyyy/status/1983071179486228503",
+    "timestamp": "2025-10-28T07:19:47.000Z",
+    "metadata": {
+      "conversation_id": "1983071179486228503",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983068196858171612",
     "source": "twitter",
     "author": "SvenMeyer",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1982991286333575601",
-    "source": "twitter",
-    "author": "0xS1msang",
-    "content": "@DennisonBertram @FactoryAI agreed",
-    "url": "https://x.com/0xS1msang/status/1982991286333575601",
-    "timestamp": "2025-10-28T02:02:19.000Z",
-    "metadata": {
-      "conversation_id": "1982991286333575601",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_270",
     "source": "github",
     "author": "diegodev9",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
