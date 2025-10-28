@@ -1,5 +1,63 @@
 [
   {
+    "id": "github_issue_276",
+    "source": "github",
+    "author": "nilzzzzzz",
+    "content": "[Issue] droid exec cannot use custom droids\n\nReproduction: add a custom droid to `<repo>/.factory/droids/` \nUse `droid` interactive and ask to use the the custom droid -> works\nUse `droid exec \"use the custom droid\" -> does not work, answers that he has no access to the custom droid. \n\n",
+    "url": "https://github.com/Factory-AI/factory/issues/276",
+    "timestamp": "2025-10-28T14:56:26Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 276
+    }
+  },
+  {
+    "id": "twitter_1983185585750876379",
+    "source": "twitter",
+    "author": "grok",
+    "content": "FactoryAI's Droids shine for autonomous, end-to-end software dev workflows, topping Terminal-Bench over tools like Claude Code. They'd suit you for complex tasks needing integrations (CLI, IDE, Slack) or agentic handling beyond coding.\n\nIf your Claude setup—with planning mode, background tasks, skills, and MCP servers—meets your needs for efficiency and control, no switch needed. Droids can even leverage Claude as a backend for hybrid use.",
+    "url": "https://x.com/grok/status/1983185585750876379",
+    "timestamp": "2025-10-28T14:54:24.000Z",
+    "metadata": {
+      "conversation_id": "1983185585750876379",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983185415013314872",
+    "source": "twitter",
+    "author": "WarforgeXP",
+    "content": "@FactoryAI @grok why and when would I use FactoryAI and its droids vs what I’m already doing building software with Claude Code, planning mode, background tasks, skills and MCP servers?",
+    "url": "https://x.com/WarforgeXP/status/1983185415013314872",
+    "timestamp": "2025-10-28T14:53:43.000Z",
+    "metadata": {
+      "conversation_id": "1983185415013314872",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983184255791632562",
+    "source": "twitter",
+    "author": "ak_8085",
+    "content": "Always look for how other developers use AI tools to get things done.\nGreat read.\nSummary of the tools used:\n@claude_code \n@OpenAI codex\n@FactoryAI \n\nI have codex &amp; droid pending on my list of tools to try.",
+    "url": "https://x.com/ak_8085/status/1983184255791632562",
+    "timestamp": "2025-10-28T14:49:07.000Z",
+    "metadata": {
+      "conversation_id": "1983184255791632562",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983180594021601451",
     "source": "twitter",
     "author": "pascallammers_",
@@ -268,51 +326,6 @@
     }
   },
   {
-    "id": "twitter_1983155381611217000",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@hqmank @FactoryAI @Hailuo_AI 👂",
-    "url": "https://x.com/bentossell/status/1983155381611217000",
-    "timestamp": "2025-10-28T12:54:22.000Z",
-    "metadata": {
-      "conversation_id": "1983155381611217000",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983155278175711497",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@immoinulmoin @FactoryAI 🧠",
-    "url": "https://x.com/bentossell/status/1983155278175711497",
-    "timestamp": "2025-10-28T12:53:58.000Z",
-    "metadata": {
-      "conversation_id": "1983155278175711497",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983155168696054036",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@cirucetam @CloudTrader4 @FactoryAI just ask :)",
-    "url": "https://x.com/bentossell/status/1983155168696054036",
-    "timestamp": "2025-10-28T12:53:32.000Z",
-    "metadata": {
-      "conversation_id": "1983155168696054036",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_272",
     "source": "github",
     "author": "alphatheory-ccarneiro",
@@ -411,7 +424,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -674,19 +687,6 @@
       "score": 3,
       "num_comments": 1,
       "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "github_issue_230",
-    "source": "github",
-    "author": "CodingOX",
-    "content": "[Issue] droid CLI 0.21.5: Application freezes when moving cursor left/right after selecting file with @\n\n**Environment:**\n- Tool: droid CLI\n- Version: 0.21.5\n\n**Description:**\nThe CLI becomes unresponsive or freezes when moving the cursor left/right after selecting a file using the `@` symbol.\n\n**Steps to Reproduce:**\n1. Use `@` to select a file in droid CLI\n2. Move the cursor left or right using arrow keys\n3. The CLI either freezes completely or becomes unresponsive for a period of time\n\n**Expected Behavior:**\nThe cursor should move smoothly without causing the CLI to freeze or become unresponsive",
-    "url": "https://github.com/Factory-AI/factory/issues/230",
-    "timestamp": "2025-10-21T12:19:09Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 230
     }
   },
   {
