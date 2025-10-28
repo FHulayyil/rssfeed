@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1983267710130892955",
+    "source": "twitter",
+    "author": "Pranav2278",
+    "content": "@FactoryAI Can we get 2 way communication in slack like Devin has?\n\nI like your product, but I need it as an employee",
+    "url": "https://x.com/Pranav2278/status/1983267710130892955",
+    "timestamp": "2025-10-28T20:20:44.000Z",
+    "metadata": {
+      "conversation_id": "1983267710130892955",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983267369205281062",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@FactoryAI I need this btw https://t.co/qp70CTHzkP",
+    "url": "https://x.com/CloudTrader4/status/1983267369205281062",
+    "timestamp": "2025-10-28T20:19:22.000Z",
+    "metadata": {
+      "conversation_id": "1983267369205281062",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983267313173594229",
+    "source": "twitter",
+    "author": "karanjagtiani04",
+    "content": "@hqmank @FactoryAI @Hailuo_AI Any updates on the Grok x Droid performance? Curious to see those benchmark results.",
+    "url": "https://x.com/karanjagtiani04/status/1983267313173594229",
+    "timestamp": "2025-10-28T20:19:09.000Z",
+    "metadata": {
+      "conversation_id": "1983267313173594229",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983266844934058300",
+    "source": "twitter",
+    "author": "ben_rapaport",
+    "content": "@matanSF @FactoryAI @AmpCode 8.2M tokens and counting... https://t.co/Od9T2josK2",
+    "url": "https://x.com/ben_rapaport/status/1983266844934058300",
+    "timestamp": "2025-10-28T20:17:17.000Z",
+    "metadata": {
+      "conversation_id": "1983266844934058300",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983262356781101184",
+    "source": "twitter",
+    "author": "Lukhanyo_19",
+    "content": "@FactoryAI I'm having trouble setting up the @MiniMax__AI APi as a custom model",
+    "url": "https://x.com/Lukhanyo_19/status/1983262356781101184",
+    "timestamp": "2025-10-28T19:59:27.000Z",
+    "metadata": {
+      "conversation_id": "1983262356781101184",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983256775672676681",
     "source": "twitter",
     "author": "ChrisVanDerKlau",
@@ -234,81 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983227348687433788",
-    "source": "twitter",
-    "author": "mujahidsan",
-    "content": "@Euforbo @hqmank @FactoryAI @Hailuo_AI How to unset it?",
-    "url": "https://x.com/mujahidsan/status/1983227348687433788",
-    "timestamp": "2025-10-28T17:40:21.000Z",
-    "metadata": {
-      "conversation_id": "1983227348687433788",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983225225857691916",
-    "source": "twitter",
-    "author": "tsi_org",
-    "content": "This is going to be fun! @the_machine_ai @FactoryAI https://t.co/qOeU4RWYKv",
-    "url": "https://x.com/tsi_org/status/1983225225857691916",
-    "timestamp": "2025-10-28T17:31:55.000Z",
-    "metadata": {
-      "conversation_id": "1983225225857691916",
-      "likes": 24,
-      "retweets": 2,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983224169836773651",
-    "source": "twitter",
-    "author": "aibuilderclub_",
-    "content": "@hqmank @FactoryAI @Hailuo_AI yesirrr!",
-    "url": "https://x.com/aibuilderclub_/status/1983224169836773651",
-    "timestamp": "2025-10-28T17:27:43.000Z",
-    "metadata": {
-      "conversation_id": "1983224169836773651",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983221710577893387",
-    "source": "twitter",
-    "author": "dalu_hey",
-    "content": "@bentossell @alvinsng @FactoryAI yeah, and you rug-pulled the referrals. scam",
-    "url": "https://x.com/dalu_hey/status/1983221710577893387",
-    "timestamp": "2025-10-28T17:17:56.000Z",
-    "metadata": {
-      "conversation_id": "1983221710577893387",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983221361284919374",
-    "source": "twitter",
-    "author": "areeburrub",
-    "content": "@fredrivett @aidenybai @FactoryAI @AmpCode @windsurf @shadcn @base_ui @reui_io @storybookjs @playwrightweb @vitest_dev @bunjavascript @prisma @supabase @ExaAILabs @mastra_ai How to decide when to use storybook? I feel like using it from start is kind a overkill as ui keeps changing a lot.",
-    "url": "https://x.com/areeburrub/status/1983221361284919374",
-    "timestamp": "2025-10-28T17:16:33.000Z",
-    "metadata": {
-      "conversation_id": "1983221361284919374",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -726,32 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
