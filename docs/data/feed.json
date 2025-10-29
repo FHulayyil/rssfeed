@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1983588550093537332",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "I can't quite figure out the reason droid from @FactoryAI is so much fun to use and I'm not sure I want to find out. \n\nhttps://t.co/CLo3prPP4n https://t.co/gjeAo6Zybt",
+    "url": "https://x.com/MickeyShaughnes/status/1983588550093537332",
+    "timestamp": "2025-10-29T17:35:38.000Z",
+    "metadata": {
+      "conversation_id": "1983588550093537332",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1983586296879579489",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Tekhenra @FactoryAI we will have some guides on this v soon!",
+    "url": "https://x.com/bentossell/status/1983586296879579489",
+    "timestamp": "2025-10-29T17:26:41.000Z",
+    "metadata": {
+      "conversation_id": "1983586296879579489",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983586220308623706",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Tekhenra @FactoryAI haha i hear you!",
+    "url": "https://x.com/bentossell/status/1983586220308623706",
+    "timestamp": "2025-10-29T17:26:22.000Z",
+    "metadata": {
+      "conversation_id": "1983586220308623706",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983585722704752981",
+    "source": "twitter",
+    "author": "Tekhenra",
+    "content": "@bentossell @FactoryAI That said, I think you're doing a great job overall!\nI might consider switching to a paid plan soon, but first I have to review &amp; prioritize all my subscriptions, otherwise I won't be able to keep up with everything!🤣",
+    "url": "https://x.com/Tekhenra/status/1983585722704752981",
+    "timestamp": "2025-10-29T17:24:24.000Z",
+    "metadata": {
+      "conversation_id": "1983585722704752981",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983585340402057511",
+    "source": "twitter",
+    "author": "Tekhenra",
+    "content": "I only used CLI, couldn't use web due to bridge not finishing indexing the project -> Already DM'd a few days ago: https://t.co/j7L8oDAmUi\n\nRegarding context: For sure it could be due to the setup and agents . md. I burned half of the tokens without even knowing how to properly manage agents... My bad!",
+    "url": "https://x.com/Tekhenra/status/1983585340402057511",
+    "timestamp": "2025-10-29T17:22:53.000Z",
+    "metadata": {
+      "conversation_id": "1983585340402057511",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -21,9 +96,9 @@
     "timestamp": "2025-10-29T16:32:25.000Z",
     "metadata": {
       "conversation_id": "1983572644000612361",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -251,66 +326,6 @@
     }
   },
   {
-    "id": "twitter_1983555845347852528",
-    "source": "twitter",
-    "author": "reyneill_",
-    "content": "@FactoryAI Far from the screen it looked like the sofa arms were his legs",
-    "url": "https://x.com/reyneill_/status/1983555845347852528",
-    "timestamp": "2025-10-29T15:25:40.000Z",
-    "metadata": {
-      "conversation_id": "1983555845347852528",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983551100377571750",
-    "source": "twitter",
-    "author": "Tekhenra",
-    "content": "@FactoryAI's Droid goes brrrrrr🔥 with tokens https://t.co/wFDPvCwYYq",
-    "url": "https://x.com/Tekhenra/status/1983551100377571750",
-    "timestamp": "2025-10-29T15:06:49.000Z",
-    "metadata": {
-      "conversation_id": "1983551100377571750",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983548713713947100",
-    "source": "twitter",
-    "author": "0xnihilism",
-    "content": "@Fernand48030346 @Dimillian Both used to be great. Now they’re greedy ever since they got partnerships with big companies.\n\n@FactoryAI is the next step. So much better than hard forking vscode.",
-    "url": "https://x.com/0xnihilism/status/1983548713713947100",
-    "timestamp": "2025-10-29T14:57:20.000Z",
-    "metadata": {
-      "conversation_id": "1983548713713947100",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983546440472526883",
-    "source": "twitter",
-    "author": "BillCrosby",
-    "content": "@every @FactoryAI @bentossell @danshipper the @FactoryAI's Droids sound great - as a developer, seems like a game-changer for routine tasks.",
-    "url": "https://x.com/BillCrosby/status/1983546440472526883",
-    "timestamp": "2025-10-29T14:48:18.000Z",
-    "metadata": {
-      "conversation_id": "1983546440472526883",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_280",
     "source": "github",
     "author": "Bob5k",
@@ -321,21 +336,6 @@
       "type": "issue",
       "labels": [],
       "number": 280
-    }
-  },
-  {
-    "id": "twitter_1983544190085849482",
-    "source": "twitter",
-    "author": "every",
-    "content": "@bentossell @FactoryAI @danshipper https://t.co/xuja7xbBmj",
-    "url": "https://x.com/every/status/1983544190085849482",
-    "timestamp": "2025-10-29T14:39:22.000Z",
-    "metadata": {
-      "conversation_id": "1983544190085849482",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
