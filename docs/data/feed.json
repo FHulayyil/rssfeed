@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1983493533622321509",
+    "source": "twitter",
+    "author": "fredrivett",
+    "content": "@bikbrar @aidenybai @FactoryAI @AmpCode @windsurf @shadcn @base_ui @reui_io @storybookjs @playwrightweb @vitest_dev @bunjavascript @prisma @supabase @ExaAILabs @mastra_ai nah nothing for animation atm, always thought https://t.co/5m1MRKz2A1 was cool but i'm sure there are better ways now\n\nhad some fun with https://t.co/nOF7o12aTL recently\n\nfrontend starter templates, not so much, just nextjs + prisma + supabase etc\nhttps://t.co/fsKOck4oSg",
+    "url": "https://x.com/fredrivett/status/1983493533622321509",
+    "timestamp": "2025-10-29T11:18:04.000Z",
+    "metadata": {
+      "conversation_id": "1983493533622321509",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983491719279853628",
+    "source": "twitter",
+    "author": "bikbrar",
+    "content": "@fredrivett @aidenybai @FactoryAI @AmpCode @windsurf @shadcn @base_ui @reui_io @storybookjs @playwrightweb @vitest_dev @bunjavascript @prisma @supabase @ExaAILabs @mastra_ai Do you use anything for framer motion style animations? Or any frontend starter templates?",
+    "url": "https://x.com/bikbrar/status/1983491719279853628",
+    "timestamp": "2025-10-29T11:10:52.000Z",
+    "metadata": {
+      "conversation_id": "1983491719279853628",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983489295584538934",
+    "source": "twitter",
+    "author": "sha_sujin",
+    "content": "@pascallammers_ @FactoryAI How to use factory freely",
+    "url": "https://x.com/sha_sujin/status/1983489295584538934",
+    "timestamp": "2025-10-29T11:01:14.000Z",
+    "metadata": {
+      "conversation_id": "1983489295584538934",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983488450604282198",
+    "source": "twitter",
+    "author": "BlakeFolgado",
+    "content": "@bentossell @FactoryAI would be cool to have keyboard shortcut to switch models vs standard /model stuff",
+    "url": "https://x.com/BlakeFolgado/status/1983488450604282198",
+    "timestamp": "2025-10-29T10:57:52.000Z",
+    "metadata": {
+      "conversation_id": "1983488450604282198",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983488337035038987",
+    "source": "twitter",
+    "author": "BlakeFolgado",
+    "content": "@bentossell @FactoryAI would be cool to switch model without compression. finding more often now I plan with 4.5 and use glm or haiku to execute",
+    "url": "https://x.com/BlakeFolgado/status/1983488337035038987",
+    "timestamp": "2025-10-29T10:57:25.000Z",
+    "metadata": {
+      "conversation_id": "1983488337035038987",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983487607242949057",
     "source": "twitter",
     "author": "jkudish",
@@ -145,7 +220,7 @@
       "conversation_id": "1983424099629355281",
       "likes": 19,
       "retweets": 4,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -232,81 +307,6 @@
     "metadata": {
       "conversation_id": "1983406329416098284",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983399819642388656",
-    "source": "twitter",
-    "author": "ryanalldridge",
-    "content": "@mikez93 @pascallammers_ @RayFernando1337 @FactoryAI Very interesting! How do you use that in practice? What kind of situations work best? Sorry! Still learning here 🙂",
-    "url": "https://x.com/ryanalldridge/status/1983399819642388656",
-    "timestamp": "2025-10-29T05:05:41.000Z",
-    "metadata": {
-      "conversation_id": "1983399819642388656",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983389216768978992",
-    "source": "twitter",
-    "author": "mikez93",
-    "content": "@pascallammers_ @RayFernando1337 @FactoryAI Actually, this should more properly  be a \n/command",
-    "url": "https://x.com/mikez93/status/1983389216768978992",
-    "timestamp": "2025-10-29T04:23:33.000Z",
-    "metadata": {
-      "conversation_id": "1983389216768978992",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983388960924504271",
-    "source": "twitter",
-    "author": "dhasandev",
-    "content": "@alvinsng @FactoryAI Love the aesthetic",
-    "url": "https://x.com/dhasandev/status/1983388960924504271",
-    "timestamp": "2025-10-29T04:22:32.000Z",
-    "metadata": {
-      "conversation_id": "1983388960924504271",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983387488443134045",
-    "source": "twitter",
-    "author": "MullerNavas",
-    "content": "@FactoryAI Wow!",
-    "url": "https://x.com/MullerNavas/status/1983387488443134045",
-    "timestamp": "2025-10-29T04:16:41.000Z",
-    "metadata": {
-      "conversation_id": "1983387488443134045",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983383946760262000",
-    "source": "twitter",
-    "author": "connortbot",
-    "content": "@ben_rapaport @FactoryAI @AmpCode I still see it everyday, can't escape the factory glaze\n\nseems deserved",
-    "url": "https://x.com/connortbot/status/1983383946760262000",
-    "timestamp": "2025-10-29T04:02:37.000Z",
-    "metadata": {
-      "conversation_id": "1983383946760262000",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -726,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
     }
   },
   {
