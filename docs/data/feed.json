@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983592975721754702",
+    "source": "twitter",
+    "author": "lovedashmatcher",
+    "content": "Speed matters a lot with AI - the longer it takes, the lower the performance.\n\n1:14 here to implement a minor change on me with droid from @FactoryAI  🏇. https://t.co/lqzH1aoqxU",
+    "url": "https://x.com/lovedashmatcher/status/1983592975721754702",
+    "timestamp": "2025-10-29T17:53:13.000Z",
+    "metadata": {
+      "conversation_id": "1983592975721754702",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983591705191329985",
     "source": "twitter",
     "author": "noelhatem",
@@ -306,21 +321,6 @@
       "conversation_id": "1983559050035098008",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983558369400045778",
-    "source": "twitter",
-    "author": "ilyatkcv",
-    "content": "@alvinsng @FactoryAI We’re building the tooling to make this easy and accessible to all developers. Writing linter rules is pretty hard + time consuming. Especially if you make breaking code changes and the linter rule is now broken.",
-    "url": "https://x.com/ilyatkcv/status/1983558369400045778",
-    "timestamp": "2025-10-29T15:35:42.000Z",
-    "metadata": {
-      "conversation_id": "1983558369400045778",
-      "likes": 1,
-      "retweets": 1,
       "replies": 0,
       "quotes": 0
     }
