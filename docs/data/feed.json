@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1983563104379081155",
+    "source": "twitter",
+    "author": "Dillon_Carter",
+    "content": "@danshipper @every @_catwu Thoughts on @FactoryAI &gt; @claudeai code?",
+    "url": "https://x.com/Dillon_Carter/status/1983563104379081155",
+    "timestamp": "2025-10-29T15:54:31.000Z",
+    "metadata": {
+      "conversation_id": "1983563104379081155",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983562467008495859",
+    "source": "twitter",
+    "author": "kylezantos",
+    "content": "Another example of @every validating the worth of my subscription. \n\n@FactoryAI Droids are super compelling but I still have some knowledge gaps/questions from my experimentation.\n\nNow I get a full hour with the Every team &amp; @bentossell to get 🤓 about 🤖",
+    "url": "https://x.com/kylezantos/status/1983562467008495859",
+    "timestamp": "2025-10-29T15:51:59.000Z",
+    "metadata": {
+      "conversation_id": "1983562467008495859",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983560698274927085",
     "source": "twitter",
     "author": "kylezantos",
@@ -279,36 +309,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983537538246852617",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@ejc3 @ben_rapaport @FactoryAI @AmpCode we see it very differently :)",
-    "url": "https://x.com/bentossell/status/1983537538246852617",
-    "timestamp": "2025-10-29T14:12:56.000Z",
-    "metadata": {
-      "conversation_id": "1983537538246852617",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983534862557663599",
-    "source": "twitter",
-    "author": "every",
-    "content": "We’ve been testing @FactoryAI’s Droids—AI assistants built for developer tasks like coding, incident management, and documentation.\n\nThis Friday, @bentossell joins @danshipper and the Every team for our subscribers-only Droid camp.\n\nRSVP here: https://t.co/Iv2goPhxUl https://t.co/81GaYUELsy",
-    "url": "https://x.com/every/status/1983534862557663599",
-    "timestamp": "2025-10-29T14:02:18.000Z",
-    "metadata": {
-      "conversation_id": "1983534862557663599",
-      "likes": 13,
-      "retweets": 2,
-      "replies": 4,
       "quotes": 0
     }
   },
