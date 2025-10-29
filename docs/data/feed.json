@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983654105781604358",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@JuiceSharp @FactoryAI Thought I am the only one with the slash commands issue glad sharing this\n\nAlso highly recommend working with MCPs, performs better than CC\n\nI am also using GLM for small tasks and works surprisingly well",
+    "url": "https://x.com/CloudTrader4/status/1983654105781604358",
+    "timestamp": "2025-10-29T21:56:07.000Z",
+    "metadata": {
+      "conversation_id": "1983654105781604358",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983653714138427684",
+    "source": "twitter",
+    "author": "kieran_hunt",
+    "content": "@alvinsng @FactoryAI I’ve been doing this too. I think the cycle of enforcing corrections through linting is a really context efficient way to steer LLMs. \n\nTrying to replicate it through words in AGENT dot md is super fuzzy, open to bike shedding and hard to measure its success.",
+    "url": "https://x.com/kieran_hunt/status/1983653714138427684",
+    "timestamp": "2025-10-29T21:54:34.000Z",
+    "metadata": {
+      "conversation_id": "1983653714138427684",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983653452296417491",
+    "source": "twitter",
+    "author": "explosivesox",
+    "content": "You can just build things. \nMade possible by @FactoryAI 🧠 in Rust.\nPolymarket alpha every hour, of every day.\nv0.1.0 live; front-end pending\nPartnered with @BlinkOnChain ; GET $BETTER https://t.co/w0CzFLNCYB",
+    "url": "https://x.com/explosivesox/status/1983653452296417491",
+    "timestamp": "2025-10-29T21:53:32.000Z",
+    "metadata": {
+      "conversation_id": "1983653452296417491",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983646249753702618",
     "source": "twitter",
     "author": "leonidng",
@@ -143,9 +188,9 @@
     "timestamp": "2025-10-29T20:18:19.000Z",
     "metadata": {
       "conversation_id": "1983629493114904794",
-      "likes": 6,
+      "likes": 7,
       "retweets": 0,
-      "replies": 2,
+      "replies": 3,
       "quotes": 1
     }
   },
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983592975721754702",
-    "source": "twitter",
-    "author": "lovedashmatcher",
-    "content": "Speed matters a lot with AI - the longer it takes, the lower the performance.\n\n1:14 here to implement a minor change on me with droid from @FactoryAI  🏇. https://t.co/lqzH1aoqxU",
-    "url": "https://x.com/lovedashmatcher/status/1983592975721754702",
-    "timestamp": "2025-10-29T17:53:13.000Z",
-    "metadata": {
-      "conversation_id": "1983592975721754702",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983591705191329985",
-    "source": "twitter",
-    "author": "noelhatem",
-    "content": "@pascallammers_ @FactoryAI thanks for sharing, my team is on it already!",
-    "url": "https://x.com/noelhatem/status/1983591705191329985",
-    "timestamp": "2025-10-29T17:48:10.000Z",
-    "metadata": {
-      "conversation_id": "1983591705191329985",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983588550093537332",
-    "source": "twitter",
-    "author": "MickeyShaughnes",
-    "content": "I can't quite figure out the reason droid from @FactoryAI is so much fun to use and I'm not sure I want to find out. \n\nhttps://t.co/CLo3prPP4n https://t.co/gjeAo6Zybt",
-    "url": "https://x.com/MickeyShaughnes/status/1983588550093537332",
-    "timestamp": "2025-10-29T17:35:38.000Z",
-    "metadata": {
-      "conversation_id": "1983588550093537332",
-      "likes": 8,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 1
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -713,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
