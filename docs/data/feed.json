@@ -1,5 +1,123 @@
 [
   {
+    "id": "twitter_1983349687416697073",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "I know this is captain obvious to most (brain not working today) but is Max mode 200m tokens shared across all users (+5 per additional user/seat), or 200m per user/seat? I think it's shared but ¯\\_(ツ)_/¯\n\ncc @FactoryAI @bentossell https://t.co/OlCSOdBWrH",
+    "url": "https://x.com/launchaddict/status/1983349687416697073",
+    "timestamp": "2025-10-29T01:46:28.000Z",
+    "metadata": {
+      "conversation_id": "1983349687416697073",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983345168440017385",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@embirico @code @github @githubuniverse The next step though, committing to that mindset, would be removing the system prompt validation on the backend api endpoint so we can use our subs via @FactoryAI or @AmpCode or any other preferred harness. Right now that policy isn’t extended to other harnesses sans codex cli.",
+    "url": "https://x.com/ben_vargas/status/1983345168440017385",
+    "timestamp": "2025-10-29T01:28:31.000Z",
+    "metadata": {
+      "conversation_id": "1983345168440017385",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983344541513162787",
+    "source": "twitter",
+    "author": "MeTrevorLoucks",
+    "content": "@alvinsng @FactoryAI Yes, my custom rules ast-grep rules grows everyday, much better than writing rules in https://t.co/50uDWzyJfx",
+    "url": "https://x.com/MeTrevorLoucks/status/1983344541513162787",
+    "timestamp": "2025-10-29T01:26:02.000Z",
+    "metadata": {
+      "conversation_id": "1983344541513162787",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983334409647599841",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "A lint rule a day keeps the agents from going astray.\n\nAt @FactoryAI, we're continuously generating custom lint rules whenever we think of them. Don't waste time wrangling your agents when you can define the rules ahead of time.\n\nRead more about this on our blog: https://t.co/5rr3lCpgAj",
+    "url": "https://x.com/alvinsng/status/1983334409647599841",
+    "timestamp": "2025-10-29T00:45:46.000Z",
+    "metadata": {
+      "conversation_id": "1983334409647599841",
+      "likes": 12,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983333731025953066",
+    "source": "twitter",
+    "author": "EddieBe",
+    "content": "tmr came early!!!!\n\nthank you @FactoryAI team for sorting me out so quick. insta sub based on customer service response and a great product. welcome to the id8labs tool belt. \n\nwe’re so back https://t.co/gEtVy9kg69",
+    "url": "https://x.com/EddieBe/status/1983333731025953066",
+    "timestamp": "2025-10-29T00:43:04.000Z",
+    "metadata": {
+      "conversation_id": "1983333731025953066",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983324597136306419",
+    "source": "twitter",
+    "author": "ClaytonFarr",
+    "content": "@ben_rapaport @FactoryAI @AmpCode I've worn a set of clothes for longer than the shelf-life of 'favorite' LLM clis/harnesses - hard to imagine an area to build in where users are less sticky right now. Been impressed by UX and performance of both Factory &amp; Amp - glad to see them both pushing hard on new ideas.",
+    "url": "https://x.com/ClaytonFarr/status/1983324597136306419",
+    "timestamp": "2025-10-29T00:06:47.000Z",
+    "metadata": {
+      "conversation_id": "1983324597136306419",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_1983322800124518875",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "It is so much easier to set MCP servers in @FactoryAI droid\n\nAll you had to do is this:\n\"\"\"\n/mcp add myserver https://api[.]example[.]com/mcp --type http -H \"Authorization: Bearer token123\"\n\"\"\"\n\nAccess everywhere, no issues whatsoever, works flawlessly",
+    "url": "https://x.com/CloudTrader4/status/1983322800124518875",
+    "timestamp": "2025-10-28T23:59:38.000Z",
+    "metadata": {
+      "conversation_id": "1983322800124518875",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983315053206974956",
     "source": "twitter",
     "author": "davidrsdlife",
@@ -8,7 +126,7 @@
     "timestamp": "2025-10-28T23:28:51.000Z",
     "metadata": {
       "conversation_id": "1983315053206974956",
-      "likes": 0,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,7 +141,7 @@
     "timestamp": "2025-10-28T23:15:56.000Z",
     "metadata": {
       "conversation_id": "1983311802730742159",
-      "likes": 2,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -188,114 +306,9 @@
     "timestamp": "2025-10-28T21:52:31.000Z",
     "metadata": {
       "conversation_id": "1983290807927914856",
-      "likes": 8,
+      "likes": 9,
       "retweets": 0,
       "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983288088299475267",
-    "source": "twitter",
-    "author": "Arindam_1729",
-    "content": "@FactoryAI 🔥🔥🔥",
-    "url": "https://x.com/Arindam_1729/status/1983288088299475267",
-    "timestamp": "2025-10-28T21:41:42.000Z",
-    "metadata": {
-      "conversation_id": "1983288088299475267",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983287736670035989",
-    "source": "twitter",
-    "author": "RayFernando1337",
-    "content": "@BTConnector_ @FactoryAI I gotchu. Sent you a dm",
-    "url": "https://x.com/RayFernando1337/status/1983287736670035989",
-    "timestamp": "2025-10-28T21:40:18.000Z",
-    "metadata": {
-      "conversation_id": "1983287736670035989",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983286359675830526",
-    "source": "twitter",
-    "author": "EddieBe",
-    "content": "my claude purgatory has driven me to @FactoryAI so far. i dig it. https://t.co/x6SRs75N8G",
-    "url": "https://x.com/EddieBe/status/1983286359675830526",
-    "timestamp": "2025-10-28T21:34:50.000Z",
-    "metadata": {
-      "conversation_id": "1983286359675830526",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 1
-    }
-  },
-  {
-    "id": "twitter_1983283848424423729",
-    "source": "twitter",
-    "author": "grok",
-    "content": "Hola, soy Nikhil de Factory. En la versión 1.9 lanzamos planificación con modelos mixtos, subagentes personalizados y app de GitHub para revisiones de PR. Ahora puedes planificar y ejecutar con diferentes modelos en una sesión. La CLI permite esbozar specs con Opus y ejecutar con Sonnet. Crea subagentes para tareas como exploración de código y revisión de seguridad. La app automatiza revisiones con feedback en línea. Planifica con el modelo adecuado, aplica guardrails, recibe notificaciones y revisa PR. ¡Nos vemos en la próxima!",
-    "url": "https://x.com/grok/status/1983283848424423729",
-    "timestamp": "2025-10-28T21:24:51.000Z",
-    "metadata": {
-      "conversation_id": "1983283848424423729",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983282383626682375",
-    "source": "twitter",
-    "author": "NathanLands",
-    "content": "@FactoryAI 🔥",
-    "url": "https://x.com/NathanLands/status/1983282383626682375",
-    "timestamp": "2025-10-28T21:19:02.000Z",
-    "metadata": {
-      "conversation_id": "1983282383626682375",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983280782551781461",
-    "source": "twitter",
-    "author": "fredrivett",
-    "content": "@aidenybai @FactoryAI @AmpCode @windsurf @shadcn @base_ui @reui_io @storybookjs @playwrightweb @vitest_dev @bunjavascript @prisma @supabase @ExaAILabs @mastra_ai also keeping tabs on changes and keeping the core architecture in my head when ai is moving fast, i've struggled to get ai to write good docs / keep them up to date, asking it to update a @mermaidjs_ doc has been the best so far but this area feels lagging behind the state of ai",
-    "url": "https://x.com/fredrivett/status/1983280782551781461",
-    "timestamp": "2025-10-28T21:12:40.000Z",
-    "metadata": {
-      "conversation_id": "1983280782551781461",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983280155586867344",
-    "source": "twitter",
-    "author": "fredrivett",
-    "content": "most:\n\n- crafting great products that add to the world\n- building something with care (whether hand coding or llm teammate)\n- mastery (vim w/ coc.nvim + ale + biome is lovely)\n- tools that bring clarity (TS, prisma, biome etc)\n\nleast:\n\n- copy pasting errors to coding agents (why can't they see my logs easily yet)\n- working on a poorly spec'd ticket that i don't have autonomy over the solution\n- losing flow when waiting for ai to respond\n- boring generic ui's\n- deep perf issues\n- flakey hard to repro bugs\n- cross browser/platform testing",
-    "url": "https://x.com/fredrivett/status/1983280155586867344",
-    "timestamp": "2025-10-28T21:10:11.000Z",
-    "metadata": {
-      "conversation_id": "1983280155586867344",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -450,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -700,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
