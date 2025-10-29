@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983376090501657067",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@colesmcintosh @FactoryAI Esp if you're talking about software for Waymo!",
+    "url": "https://x.com/alvinsng/status/1983376090501657067",
+    "timestamp": "2025-10-29T03:31:23.000Z",
+    "metadata": {
+      "conversation_id": "1983376090501657067",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983375815078559829",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@MeTrevorLoucks @FactoryAI Work smarter not harder!",
+    "url": "https://x.com/alvinsng/status/1983375815078559829",
+    "timestamp": "2025-10-29T03:30:18.000Z",
+    "metadata": {
+      "conversation_id": "1983375815078559829",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983371231106912290",
+    "source": "twitter",
+    "author": "colesmcintosh",
+    "content": "@alvinsng @FactoryAI Linting and tests save lives",
+    "url": "https://x.com/colesmcintosh/status/1983371231106912290",
+    "timestamp": "2025-10-29T03:12:05.000Z",
+    "metadata": {
+      "conversation_id": "1983371231106912290",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983365777790292059",
     "source": "twitter",
     "author": "francesca_lab",
@@ -23,7 +68,7 @@
     "timestamp": "2025-10-29T02:49:11.000Z",
     "metadata": {
       "conversation_id": "1983365467017461956",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,7 +83,7 @@
     "timestamp": "2025-10-29T02:34:59.000Z",
     "metadata": {
       "conversation_id": "1983361893466284476",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -98,9 +143,9 @@
     "timestamp": "2025-10-29T01:26:02.000Z",
     "metadata": {
       "conversation_id": "1983344541513162787",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,9 +158,9 @@
     "timestamp": "2025-10-29T00:45:46.000Z",
     "metadata": {
       "conversation_id": "1983334409647599841",
-      "likes": 19,
-      "retweets": 1,
-      "replies": 1,
+      "likes": 30,
+      "retweets": 2,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -128,9 +173,9 @@
     "timestamp": "2025-10-29T00:43:04.000Z",
     "metadata": {
       "conversation_id": "1983333731025953066",
-      "likes": 8,
+      "likes": 9,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -158,7 +203,7 @@
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 5,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
@@ -171,7 +216,7 @@
     "timestamp": "2025-10-28T23:59:38.000Z",
     "metadata": {
       "conversation_id": "1983322800124518875",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -264,51 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983301739559432306",
-    "source": "twitter",
-    "author": "EddieBe",
-    "content": "dear universe, not sure what you’re testing me for, but pls let me just release v2. \n\n@matanSF @FactoryAI  @francesca_lab \ncan i has my organization back? https://t.co/1BC7bgpaI6",
-    "url": "https://x.com/EddieBe/status/1983301739559432306",
-    "timestamp": "2025-10-28T22:35:57.000Z",
-    "metadata": {
-      "conversation_id": "1983301739559432306",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983300280201687272",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "@slow_developer Agreed... finding a workflow where you can use them both together is ideal. Both @FactoryAI and @AmpCode are good options for achieving this kind of streamlined workflow where Sonnet is allowed to work but validated/corrected along the way.",
-    "url": "https://x.com/ben_vargas/status/1983300280201687272",
-    "timestamp": "2025-10-28T22:30:09.000Z",
-    "metadata": {
-      "conversation_id": "1983300280201687272",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983297856636367328",
-    "source": "twitter",
-    "author": "fire",
-    "content": "@bentossell @abhagsain @FactoryAI cool, so whenever 22.5 drops? ( this is on 22.4 )",
-    "url": "https://x.com/fire/status/1983297856636367328",
-    "timestamp": "2025-10-28T22:20:31.000Z",
-    "metadata": {
-      "conversation_id": "1983297856636367328",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,8 +684,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -700,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
