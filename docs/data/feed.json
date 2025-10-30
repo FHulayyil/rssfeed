@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1983793414794510443",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@fire @FactoryAI you can use one command https://t.co/RA0dffqG5Y",
+    "url": "https://x.com/bentossell/status/1983793414794510443",
+    "timestamp": "2025-10-30T07:09:41.000Z",
+    "metadata": {
+      "conversation_id": "1983793414794510443",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983789824302801348",
+    "source": "twitter",
+    "author": "The_Anant_Raj",
+    "content": "@denneai @cursor_ai @AmpCode @Kombaico @FactoryAI Specialization is the moat for smaller startups\n\nThats how they gonna win against the giants like google, openAI and anthropic",
+    "url": "https://x.com/The_Anant_Raj/status/1983789824302801348",
+    "timestamp": "2025-10-30T06:55:25.000Z",
+    "metadata": {
+      "conversation_id": "1983789824302801348",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983788529311477966",
     "source": "twitter",
     "author": "SvenMeyer",
@@ -8,7 +38,7 @@
     "timestamp": "2025-10-30T06:50:17.000Z",
     "metadata": {
       "conversation_id": "1983788529311477966",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,9 +53,9 @@
     "timestamp": "2025-10-30T06:49:53.000Z",
     "metadata": {
       "conversation_id": "1983788429184749809",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -115,7 +145,7 @@
       "conversation_id": "1983750387187511796",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983719719367799191",
-    "source": "twitter",
-    "author": "explosivesox",
-    "content": "@BlinkOnChain @FactoryAI utility szn https://t.co/Dinhz9Zxyr",
-    "url": "https://x.com/explosivesox/status/1983719719367799191",
-    "timestamp": "2025-10-30T02:16:51.000Z",
-    "metadata": {
-      "conversation_id": "1983719719367799191",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983718224504975439",
-    "source": "twitter",
-    "author": "JuiceSharp",
-    "content": "Another fresh idea … so many models do not support image processing … you have already Droid Core (no pictures).. add Droid Core Vision … that”s can be as affordable as call to Gemini Flash or any viable alternative (there are even more affordable OS options presented) … be creative. Text to Image compaction on short contexts works well. I am guessing Anthropic already adopted that in their desktop version may help you save some tokens as well.",
-    "url": "https://x.com/JuiceSharp/status/1983718224504975439",
-    "timestamp": "2025-10-30T02:10:55.000Z",
-    "metadata": {
-      "conversation_id": "1983718224504975439",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -713,6 +713,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
