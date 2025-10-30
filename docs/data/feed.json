@@ -8,7 +8,7 @@
     "timestamp": "2025-10-30T19:58:17.000Z",
     "metadata": {
       "conversation_id": "1983986837644628137",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -203,8 +203,8 @@
     "timestamp": "2025-10-30T18:38:02.000Z",
     "metadata": {
       "conversation_id": "1983966643350118665",
-      "likes": 25,
-      "retweets": 0,
+      "likes": 27,
+      "retweets": 1,
       "replies": 4,
       "quotes": 0
     }
@@ -248,7 +248,7 @@
     "timestamp": "2025-10-30T17:16:51.000Z",
     "metadata": {
       "conversation_id": "1983946210261319863",
-      "likes": 61,
+      "likes": 63,
       "retweets": 11,
       "replies": 2,
       "quotes": 2
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -713,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
