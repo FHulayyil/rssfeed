@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1983930690451206299",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@ayantolo_ @FactoryAI ty",
+    "url": "https://x.com/bentossell/status/1983930690451206299",
+    "timestamp": "2025-10-30T16:15:10.000Z",
+    "metadata": {
+      "conversation_id": "1983930690451206299",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983929924659372494",
+    "source": "twitter",
+    "author": "_lparadisemusic",
+    "content": "@bentossell @FactoryAI Sure, thank you very much. I'll run it later and take ss",
+    "url": "https://x.com/_lparadisemusic/status/1983929924659372494",
+    "timestamp": "2025-10-30T16:12:08.000Z",
+    "metadata": {
+      "conversation_id": "1983929924659372494",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983929349020459429",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@alvinjamur @FactoryAI ❤️\n\nyou can email support@factory.ai and should get a response within 24hrs",
+    "url": "https://x.com/bentossell/status/1983929349020459429",
+    "timestamp": "2025-10-30T16:09:51.000Z",
+    "metadata": {
+      "conversation_id": "1983929349020459429",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983929081746825269",
+    "source": "twitter",
+    "author": "Ryanskickz",
+    "content": "@JuiceSharp @FactoryAI I personally find splitting work between CC and droid then having them review and fix mistakes of eachother to be almost perfect excecution coordinated as a team. Also u can use your cc sub on droid just gotta hack the path custom model",
+    "url": "https://x.com/Ryanskickz/status/1983929081746825269",
+    "timestamp": "2025-10-30T16:08:47.000Z",
+    "metadata": {
+      "conversation_id": "1983929081746825269",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983928703873626170",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@PhongGT @JuiceSharp @FactoryAI we hear ya!",
+    "url": "https://x.com/bentossell/status/1983928703873626170",
+    "timestamp": "2025-10-30T16:07:17.000Z",
+    "metadata": {
+      "conversation_id": "1983928703873626170",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983928543974203842",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@_lparadisemusic @FactoryAI very odd. can you email support@factory.ai with the bug report when you run /bug please? will take a look for you\n\ncan cc me ben @",
+    "url": "https://x.com/bentossell/status/1983928543974203842",
+    "timestamp": "2025-10-30T16:06:39.000Z",
+    "metadata": {
+      "conversation_id": "1983928543974203842",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983920436522959245",
     "source": "twitter",
     "author": "akkytech1",
@@ -25,7 +115,7 @@
       "conversation_id": "1983916255389110704",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,7 +128,7 @@
     "timestamp": "2025-10-30T15:15:33.000Z",
     "metadata": {
       "conversation_id": "1983915686909874329",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -83,9 +173,9 @@
     "timestamp": "2025-10-30T14:13:18.000Z",
     "metadata": {
       "conversation_id": "1983900021566120444",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -98,8 +188,8 @@
     "timestamp": "2025-10-30T14:09:25.000Z",
     "metadata": {
       "conversation_id": "1983899044691996866",
-      "likes": 0,
-      "retweets": 0,
+      "likes": 1,
+      "retweets": 1,
       "replies": 1,
       "quotes": 0
     }
@@ -210,96 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983866396128825609",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@thedanifrim @JuiceSharp @FactoryAI discussing internally :)",
-    "url": "https://x.com/bentossell/status/1983866396128825609",
-    "timestamp": "2025-10-30T11:59:41.000Z",
-    "metadata": {
-      "conversation_id": "1983866396128825609",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983866184027238603",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@nest_elf @slow_developer @FactoryAI ❤️",
-    "url": "https://x.com/bentossell/status/1983866184027238603",
-    "timestamp": "2025-10-30T11:58:51.000Z",
-    "metadata": {
-      "conversation_id": "1983866184027238603",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983866056851812489",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@_lparadisemusic @FactoryAI could you lmk whats happening for you?",
-    "url": "https://x.com/bentossell/status/1983866056851812489",
-    "timestamp": "2025-10-30T11:58:21.000Z",
-    "metadata": {
-      "conversation_id": "1983866056851812489",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983865562762821656",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@YourDesigncoza @FactoryAI discussing :)",
-    "url": "https://x.com/bentossell/status/1983865562762821656",
-    "timestamp": "2025-10-30T11:56:23.000Z",
-    "metadata": {
-      "conversation_id": "1983865562762821656",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983860962739302504",
-    "source": "twitter",
-    "author": "YourDesigncoza",
-    "content": "@bentossell @FactoryAI Hi, @bentossell Yip a $100/mo plan with 100M tokens would be good ::: 😉",
-    "url": "https://x.com/YourDesigncoza/status/1983860962739302504",
-    "timestamp": "2025-10-30T11:38:06.000Z",
-    "metadata": {
-      "conversation_id": "1983860962739302504",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983856072025592232",
-    "source": "twitter",
-    "author": "ayantolo_",
-    "content": "Has anyone also had the issue with the new update from @FactoryAI about getting the droid stuck and having to interrupt and saying continue for it to finally get going?",
-    "url": "https://x.com/ayantolo_/status/1983856072025592232",
-    "timestamp": "2025-10-30T11:18:40.000Z",
-    "metadata": {
-      "conversation_id": "1983856072025592232",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,8 +359,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
-      "num_comments": 20,
+      "score": 5,
+      "num_comments": 21,
       "subreddit": "FactoryAi"
     }
   },
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
