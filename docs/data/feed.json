@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984042815081665003",
+    "source": "twitter",
+    "author": "Stygianwind",
+    "content": "@AshwinRamaswami @FactoryAI 🔥🔥🔥",
+    "url": "https://x.com/Stygianwind/status/1984042815081665003",
+    "timestamp": "2025-10-30T23:40:43.000Z",
+    "metadata": {
+      "conversation_id": "1984042815081665003",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984042098484781067",
     "source": "twitter",
     "author": "withmegg",
@@ -23,7 +38,7 @@
     "timestamp": "2025-10-30T23:31:42.000Z",
     "metadata": {
       "conversation_id": "1984040544872624281",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,9 +83,9 @@
     "timestamp": "2025-10-30T23:20:28.000Z",
     "metadata": {
       "conversation_id": "1984037719966929353",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1,
+      "likes": 6,
+      "retweets": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -113,8 +128,8 @@
     "timestamp": "2025-10-30T23:06:30.000Z",
     "metadata": {
       "conversation_id": "1984034205752492104",
-      "likes": 6,
-      "retweets": 0,
+      "likes": 9,
+      "retweets": 1,
       "replies": 3,
       "quotes": 2
     }
@@ -143,7 +158,7 @@
     "timestamp": "2025-10-30T21:56:01.000Z",
     "metadata": {
       "conversation_id": "1984016464697810989",
-      "likes": 2,
+      "likes": 4,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -281,21 +296,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983986837644628137",
-    "source": "twitter",
-    "author": "tsi_org",
-    "content": "This got a lot of attention! Lets use that attention to teach. Do You guys want a @FactoryAI tutorial of how I use it?",
-    "url": "https://x.com/tsi_org/status/1983986837644628137",
-    "timestamp": "2025-10-30T19:58:17.000Z",
-    "metadata": {
-      "conversation_id": "1983986837644628137",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -713,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
