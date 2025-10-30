@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983750387187511796",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@bentossell @FactoryAI also definitely not a fan of losing the mcp add commands completely, I don't want to navigate through a menu when I could just paste one line https://t.co/agsxoJnY5O",
+    "url": "https://x.com/fire/status/1983750387187511796",
+    "timestamp": "2025-10-30T04:18:43.000Z",
+    "metadata": {
+      "conversation_id": "1983750387187511796",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983749572368461934",
+    "source": "twitter",
+    "author": "sanerc110",
+    "content": "@pascallammers_ @FactoryAI we have to get vim mode for editing the prompt",
+    "url": "https://x.com/sanerc110/status/1983749572368461934",
+    "timestamp": "2025-10-30T04:15:28.000Z",
+    "metadata": {
+      "conversation_id": "1983749572368461934",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983746376770195530",
+    "source": "twitter",
+    "author": "quyettruon37828",
+    "content": "@JuiceSharp @FactoryAI claude sonnet 4.5 best everything sucks(or gpt5), wait and see m2 from minimax",
+    "url": "https://x.com/quyettruon37828/status/1983746376770195530",
+    "timestamp": "2025-10-30T04:02:47.000Z",
+    "metadata": {
+      "conversation_id": "1983746376770195530",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983742629323141434",
     "source": "twitter",
     "author": "kageiit",
@@ -128,7 +173,7 @@
     "timestamp": "2025-10-30T02:16:51.000Z",
     "metadata": {
       "conversation_id": "1983719719367799191",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983696412945829898",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "@EnoReyes @JuiceSharp @FactoryAI +1\n\n&gt; but habits developed in CC are very difficult to fight.\nThis hit me a bunch too, CC polish is the mental default.",
-    "url": "https://x.com/erd0xbc/status/1983696412945829898",
-    "timestamp": "2025-10-30T00:44:14.000Z",
-    "metadata": {
-      "conversation_id": "1983696412945829898",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983692330940166326",
-    "source": "twitter",
-    "author": "EveryDevAi",
-    "content": "New on EveryDev: Factory @FactoryAI is an agent-native platform that embeds autonomous dev agents (Droids) into your IDE, CLI, and CI/CD. Automate coding, refactors, and incident response without changing your workflow.",
-    "url": "https://x.com/EveryDevAi/status/1983692330940166326",
-    "timestamp": "2025-10-30T00:28:01.000Z",
-    "metadata": {
-      "conversation_id": "1983692330940166326",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983690912564965887",
-    "source": "twitter",
-    "author": "TheRomanFly",
-    "content": "@pascallammers_ @FactoryAI where svelte droid",
-    "url": "https://x.com/TheRomanFly/status/1983690912564965887",
-    "timestamp": "2025-10-30T00:22:23.000Z",
-    "metadata": {
-      "conversation_id": "1983690912564965887",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -713,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
