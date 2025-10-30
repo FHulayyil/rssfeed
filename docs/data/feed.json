@@ -120,21 +120,6 @@
     }
   },
   {
-    "id": "twitter_1983999453293105574",
-    "source": "twitter",
-    "author": "whitellm",
-    "content": "@explosivesox @FactoryAI @BlinkOnChain CA?",
-    "url": "https://x.com/whitellm/status/1983999453293105574",
-    "timestamp": "2025-10-30T20:48:25.000Z",
-    "metadata": {
-      "conversation_id": "1983999453293105574",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "twitter_1983998379614187776",
     "source": "twitter",
     "author": "ankurkumarz",
@@ -300,6 +285,21 @@
     }
   },
   {
+    "id": "twitter_1983970020217782745",
+    "source": "twitter",
+    "author": "cmricksen",
+    "content": "@anthonyronning_ @DannyAziz97 @FactoryAI @every love to hear this - keep us posted on your experience building with Droids!",
+    "url": "https://x.com/cmricksen/status/1983970020217782745",
+    "timestamp": "2025-10-30T18:51:27.000Z",
+    "metadata": {
+      "conversation_id": "1983970020217782745",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 22,
       "subreddit": "FactoryAi"
     }
@@ -677,19 +677,6 @@
     }
   },
   {
-    "id": "reddit_1ocv9jx",
-    "source": "reddit",
-    "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
-    "timestamp": "2025-10-22T01:34:31.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1ocpe9w",
     "source": "reddit",
     "author": "FocusResponsible4499",
@@ -716,6 +703,19 @@
     }
   },
   {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,6 +726,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
     }
   },
   {
