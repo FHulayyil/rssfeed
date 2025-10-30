@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983902556146561215",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@kieran_hunt @FactoryAI Absolutely! That's why we made so many lint rules!",
+    "url": "https://x.com/alvinsng/status/1983902556146561215",
+    "timestamp": "2025-10-30T14:23:23.000Z",
+    "metadata": {
+      "conversation_id": "1983902556146561215",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983900021566120444",
+    "source": "twitter",
+    "author": "PhongGT",
+    "content": "@JuiceSharp @FactoryAI same experience here, lots of value for the price and would love a $40-$50 plan\n\ni understand they gotta make money though and that 2.6x overage cost is where they recoup on inference",
+    "url": "https://x.com/PhongGT/status/1983900021566120444",
+    "timestamp": "2025-10-30T14:13:18.000Z",
+    "metadata": {
+      "conversation_id": "1983900021566120444",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983899044691996866",
+    "source": "twitter",
+    "author": "akkytech1",
+    "content": "@FactoryAI  の紹介記事を作成しました！\nAI駆動開発カンファレンスなどで興味を持たれた方の参考になれば幸いです！\nhttps://t.co/ZkflFtXBvR\n\n#aiddcon2025\n#factory #AI駆動開発",
+    "url": "https://x.com/akkytech1/status/1983899044691996866",
+    "timestamp": "2025-10-30T14:09:25.000Z",
+    "metadata": {
+      "conversation_id": "1983899044691996866",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983887975705399340",
     "source": "twitter",
     "author": "bentossell",
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983793414794510443",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@fire @FactoryAI you can use one command https://t.co/RA0dffqG5Y",
-    "url": "https://x.com/bentossell/status/1983793414794510443",
-    "timestamp": "2025-10-30T07:09:41.000Z",
-    "metadata": {
-      "conversation_id": "1983793414794510443",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983789824302801348",
-    "source": "twitter",
-    "author": "The_Anant_Raj",
-    "content": "@denneai @cursor_ai @AmpCode @Kombaico @FactoryAI Specialization is the moat for smaller startups\n\nThats how they gonna win against the giants like google, openAI and anthropic",
-    "url": "https://x.com/The_Anant_Raj/status/1983789824302801348",
-    "timestamp": "2025-10-30T06:55:25.000Z",
-    "metadata": {
-      "conversation_id": "1983789824302801348",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983788529311477966",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@xiaotuanT just use @FactoryAI DROID CLI",
-    "url": "https://x.com/SvenMeyer/status/1983788529311477966",
-    "timestamp": "2025-10-30T06:50:17.000Z",
-    "metadata": {
-      "conversation_id": "1983788529311477966",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 16,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -713,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
