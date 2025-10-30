@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1983788529311477966",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@xiaotuanT just use @FactoryAI DROID CLI",
+    "url": "https://x.com/SvenMeyer/status/1983788529311477966",
+    "timestamp": "2025-10-30T06:50:17.000Z",
+    "metadata": {
+      "conversation_id": "1983788529311477966",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983788429184749809",
+    "source": "twitter",
+    "author": "denneai",
+    "content": "@The_Anant_Raj @cursor_ai @AmpCode @Kombaico @FactoryAI The more features you add to an llm the more the quality drops. Having a specialized coding model is one of the best things",
+    "url": "https://x.com/denneai/status/1983788429184749809",
+    "timestamp": "2025-10-30T06:49:53.000Z",
+    "metadata": {
+      "conversation_id": "1983788429184749809",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983778347558826001",
     "source": "twitter",
     "author": "farizkamini",
@@ -23,7 +53,7 @@
     "timestamp": "2025-10-30T05:24:02.000Z",
     "metadata": {
       "conversation_id": "1983766827340853362",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -70,7 +100,7 @@
       "conversation_id": "1983760170774896807",
       "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -173,7 +203,7 @@
     "timestamp": "2025-10-30T03:09:02.000Z",
     "metadata": {
       "conversation_id": "1983732852626997555",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983714325760987427",
-    "source": "twitter",
-    "author": "JuiceSharp",
-    "content": "Thank you. I know that might be too much, but the ability to see at a glance how full (in numbers) the current context is is important as well. One should know how far away we are from the efficient usable window for a model. Let’s say I finished a spec with a current context of 55k. I may decide to push another follow-up, but if I am in the middle of a to-do list along the spec with 85k tokens, I will just click ESC at the convenient moment and call a handoff command.",
-    "url": "https://x.com/JuiceSharp/status/1983714325760987427",
-    "timestamp": "2025-10-30T01:55:25.000Z",
-    "metadata": {
-      "conversation_id": "1983714325760987427",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983710299929890905",
-    "source": "twitter",
-    "author": "EnoReyes",
-    "content": "@JuiceSharp @erd0xbc @FactoryAI This is great. We’ll work on fixing these one at a time!",
-    "url": "https://x.com/EnoReyes/status/1983710299929890905",
-    "timestamp": "2025-10-30T01:39:25.000Z",
-    "metadata": {
-      "conversation_id": "1983710299929890905",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
