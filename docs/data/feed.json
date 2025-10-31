@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984127625036755249",
+    "source": "twitter",
+    "author": "LzyIndTky",
+    "content": "@CloudTrader4 @FactoryAI Ahh I think you can thank me for this 😛\n\nhttps://t.co/XrKFJ7iRDN",
+    "url": "https://x.com/LzyIndTky/status/1984127625036755249",
+    "timestamp": "2025-10-31T05:17:43.000Z",
+    "metadata": {
+      "conversation_id": "1984127625036755249",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984117654370840956",
     "source": "twitter",
     "author": "morganlinton",
@@ -83,7 +98,7 @@
     "timestamp": "2025-10-31T03:48:49.000Z",
     "metadata": {
       "conversation_id": "1984105252812103688",
-      "likes": 5,
+      "likes": 7,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -98,7 +113,7 @@
     "timestamp": "2025-10-31T03:33:45.000Z",
     "metadata": {
       "conversation_id": "1984101461886943453",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984068055480316060",
-    "source": "twitter",
-    "author": "aislepartnersai",
-    "content": "@corbin_braun Similar themes. What’s your go-to multi-agent dev tool rn? \n@FactoryAI is 💪",
-    "url": "https://x.com/aislepartnersai/status/1984068055480316060",
-    "timestamp": "2025-10-31T01:21:01.000Z",
-    "metadata": {
-      "conversation_id": "1984068055480316060",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 22,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
