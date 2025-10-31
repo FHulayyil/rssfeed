@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1984354610069594129",
+    "source": "twitter",
+    "author": "ReubenKib",
+    "content": "@amirmxt @BTConnector_ @webflow @FactoryAI https://t.co/SqmIx6mWbH",
+    "url": "https://x.com/ReubenKib/status/1984354610069594129",
+    "timestamp": "2025-10-31T20:19:41.000Z",
+    "metadata": {
+      "conversation_id": "1984354610069594129",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984352841193148905",
+    "source": "twitter",
+    "author": "amirmxt",
+    "content": "@BTConnector_ @webflow @FactoryAI im tired of using new tools man",
+    "url": "https://x.com/amirmxt/status/1984352841193148905",
+    "timestamp": "2025-10-31T20:12:39.000Z",
+    "metadata": {
+      "conversation_id": "1984352841193148905",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984351606692069600",
+    "source": "twitter",
+    "author": "BTConnector_",
+    "content": "@amirmxt @webflow You think you can do something like this with @FactoryAI ?",
+    "url": "https://x.com/BTConnector_/status/1984351606692069600",
+    "timestamp": "2025-10-31T20:07:45.000Z",
+    "metadata": {
+      "conversation_id": "1984351606692069600",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984351145561899045",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Tgerighty @pascallammers_ @FactoryAI got their own context + loaded when called \n\nwe dont - we should! i'll add to my todos :)",
+    "url": "https://x.com/bentossell/status/1984351145561899045",
+    "timestamp": "2025-10-31T20:05:55.000Z",
+    "metadata": {
+      "conversation_id": "1984351145561899045",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984350848546185404",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nkgoutham @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1984350848546185404",
+    "timestamp": "2025-10-31T20:04:44.000Z",
+    "metadata": {
+      "conversation_id": "1984350848546185404",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984350788945395794",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@henrywdennis @FactoryAI oh not sure - will take a look.",
+    "url": "https://x.com/bentossell/status/1984350788945395794",
+    "timestamp": "2025-10-31T20:04:30.000Z",
+    "metadata": {
+      "conversation_id": "1984350788945395794",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984350723560321307",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@nkgoutham @claudeai @FactoryAI flyin",
+    "url": "https://x.com/bentossell/status/1984350723560321307",
+    "timestamp": "2025-10-31T20:04:14.000Z",
+    "metadata": {
+      "conversation_id": "1984350723560321307",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984350579725123988",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@ngmarley @FactoryAI i have shift+enter in ghostty. \n\ntry adding \n\nkeybind = shift+enter=text:\\n\n\nto the bottom of your ghostty config",
+    "url": "https://x.com/bentossell/status/1984350579725123988",
+    "timestamp": "2025-10-31T20:03:40.000Z",
+    "metadata": {
+      "conversation_id": "1984350579725123988",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984347599101456846",
     "source": "twitter",
     "author": "Tgerighty",
@@ -10,7 +130,7 @@
       "conversation_id": "1984347599101456846",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -53,7 +173,7 @@
       "conversation_id": "1984341252645798389",
       "likes": 0,
       "retweets": 0,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -66,9 +186,9 @@
     "timestamp": "2025-10-31T19:13:55.000Z",
     "metadata": {
       "conversation_id": "1984338062105784394",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -98,7 +218,7 @@
       "conversation_id": "1984315933918466442",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -141,7 +261,7 @@
     "timestamp": "2025-10-31T17:20:13.000Z",
     "metadata": {
       "conversation_id": "1984309448848867356",
-      "likes": 8,
+      "likes": 9,
       "retweets": 2,
       "replies": 0,
       "quotes": 0
@@ -190,126 +310,6 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984299700095246370",
-    "source": "twitter",
-    "author": "karanjagtiani04",
-    "content": "@DannyAziz97 @bentossell @kieranklaassen @danshipper @FactoryAI Sounds fun! Curious to see how the Droid CLI agent performs in action.",
-    "url": "https://x.com/karanjagtiani04/status/1984299700095246370",
-    "timestamp": "2025-10-31T16:41:29.000Z",
-    "metadata": {
-      "conversation_id": "1984299700095246370",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984297054802174151",
-    "source": "twitter",
-    "author": "constantin_e21",
-    "content": "@raizamrtn This is basically what I do with my obsidian vault for personal notes, but recently I’ve been using Droid from @FactoryAI instead of Claude Code. \n\nSince it runs in headless mode I can set up cron jobs to prepare a morning brief in text every morning. Not unlike how I use Huxe!",
-    "url": "https://x.com/constantin_e21/status/1984297054802174151",
-    "timestamp": "2025-10-31T16:30:58.000Z",
-    "metadata": {
-      "conversation_id": "1984297054802174151",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984296508183970003",
-    "source": "twitter",
-    "author": "magic_rook",
-    "content": "@nkgoutham @bentossell @FactoryAI @claudeai cool thanks!",
-    "url": "https://x.com/magic_rook/status/1984296508183970003",
-    "timestamp": "2025-10-31T16:28:48.000Z",
-    "metadata": {
-      "conversation_id": "1984296508183970003",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984294621028180075",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "pricing - a lot cheaper.\nso far, i haven't been slapped with rate limits (unlike @claudeai and claude code)\nUI - looks beginner friendly \n\nand mostly, the model's understanding of what i want. will keep sharing more as i use it further next week and over the weekend. \n\ni am yet to experimnet if i can do sub-agents and other things claude code can do",
-    "url": "https://x.com/nkgoutham/status/1984294621028180075",
-    "timestamp": "2025-10-31T16:21:18.000Z",
-    "metadata": {
-      "conversation_id": "1984294621028180075",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984292663764619275",
-    "source": "twitter",
-    "author": "magic_rook",
-    "content": "@nkgoutham @bentossell @FactoryAI what is the difference? (vs claude code?)",
-    "url": "https://x.com/magic_rook/status/1984292663764619275",
-    "timestamp": "2025-10-31T16:13:32.000Z",
-    "metadata": {
-      "conversation_id": "1984292663764619275",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984292658894745804",
-    "source": "twitter",
-    "author": "raw_works",
-    "content": "@steipete cc my favorite agent peeps @AmpCode @FactoryAI @EnoReyes @ryancarson @thdxr @trq212 @dkundel - \"time travel\" seems like a very useful checkpointing feature.",
-    "url": "https://x.com/raw_works/status/1984292658894745804",
-    "timestamp": "2025-10-31T16:13:30.000Z",
-    "metadata": {
-      "conversation_id": "1984292658894745804",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984291286694953153",
-    "source": "twitter",
-    "author": "Abe_Froman_SKC",
-    "content": "@DannyAziz97 @FactoryAI @every The coca cola effect @chamath mentioned.",
-    "url": "https://x.com/Abe_Froman_SKC/status/1984291286694953153",
-    "timestamp": "2025-10-31T16:08:03.000Z",
-    "metadata": {
-      "conversation_id": "1984291286694953153",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984290327243743303",
-    "source": "twitter",
-    "author": "raw_works",
-    "content": "please share anything that happens in droid camp... \n@danshipper @FactoryAI @every https://t.co/83RaBwMTlD",
-    "url": "https://x.com/raw_works/status/1984290327243743303",
-    "timestamp": "2025-10-31T16:04:15.000Z",
-    "metadata": {
-      "conversation_id": "1984290327243743303",
-      "likes": 10,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": 3
     }
   },
   {
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -697,8 +697,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
