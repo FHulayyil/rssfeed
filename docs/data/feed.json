@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_1984190241075552691",
+    "source": "twitter",
+    "author": "_ahahq",
+    "content": "@Scobleizer @gregisenberg @flowith @FactoryAI @lovart_ai The three most important phases of building a great product. Thanks for trusting us Robert.",
+    "url": "https://x.com/_ahahq/status/1984190241075552691",
+    "timestamp": "2025-10-31T09:26:32.000Z",
+    "metadata": {
+      "conversation_id": "1984190241075552691",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_292",
+    "source": "github",
+    "author": "krit3dvanced",
+    "content": "[Issue] How to select branch other than main in web?\n\nI want to create a document of my project (dev branch) using knowledge droid.\nBut I cannot find a menu to switch branch from `main` to `dev` branch",
+    "url": "https://github.com/Factory-AI/factory/issues/292",
+    "timestamp": "2025-10-31T09:00:34Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 292
+    }
+  },
+  {
     "id": "twitter_1984178153976365449",
     "source": "twitter",
     "author": "cukil_com",
@@ -324,21 +352,6 @@
     }
   },
   {
-    "id": "twitter_1984141400225804516",
-    "source": "twitter",
-    "author": "CavalliniPosada",
-    "content": "I never left claude for codex but @FactoryAI droid is my mainly driver. It just works, feels smooth. The permissions system is really good.",
-    "url": "https://x.com/CavalliniPosada/status/1984141400225804516",
-    "timestamp": "2025-10-31T06:12:28.000Z",
-    "metadata": {
-      "conversation_id": "1984141400225804516",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -398,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -599,19 +612,6 @@
     }
   },
   {
-    "id": "github_issue_257",
-    "source": "github",
-    "author": "johnhowelljr",
-    "content": "[Issue] droid cli in a command prompt get's slower and slower over time\n\nWhen using the droid cli on windows in a command prompt, the key response get's slower and slower overtime.\n\nAfter a few hours , it's only take a keypress every few seconds.  I have to quit and start a new instance of droid and it will be ok for a few hours until the chat history has built up a while then it get's slower and slower until it's unusable and you have to start again.",
-    "url": "https://github.com/Factory-AI/factory/issues/257",
-    "timestamp": "2025-10-24T17:47:15Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 257
-    }
-  },
-  {
     "id": "reddit_1of1zjv",
     "source": "reddit",
     "author": "hrdn",
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -713,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
