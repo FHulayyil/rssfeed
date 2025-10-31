@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984151347583758563",
+    "source": "twitter",
+    "author": "dawid_jordaan",
+    "content": "The only coding agent I trust to implement features end-to-end is @FactoryAI’s droids. Using the droid with Codex is good but slow, sometimes taking 15 or even 30 minutes on big features. Planning with Sonnet 4.5 and implementing with GLM 4.6 felt much faster. Still don’t trust GLM on its own though.",
+    "url": "https://x.com/dawid_jordaan/status/1984151347583758563",
+    "timestamp": "2025-10-31T06:51:59.000Z",
+    "metadata": {
+      "conversation_id": "1984151347583758563",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984148677053857929",
+    "source": "twitter",
+    "author": "rezaul_arif",
+    "content": "@archimagos @FactoryAI @MiniMax__AI @chutes_ai @OpenRouterAI True. But pretty hard to beat this https://t.co/WXJ6h8yerq",
+    "url": "https://x.com/rezaul_arif/status/1984148677053857929",
+    "timestamp": "2025-10-31T06:41:22.000Z",
+    "metadata": {
+      "conversation_id": "1984148677053857929",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984146105454490028",
     "source": "twitter",
     "author": "_01010101",
@@ -53,9 +83,9 @@
     "timestamp": "2025-10-31T06:23:30.000Z",
     "metadata": {
       "conversation_id": "1984144179682013595",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -188,7 +218,7 @@
     "timestamp": "2025-10-31T06:14:47.000Z",
     "metadata": {
       "conversation_id": "1984141985436057879",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984132650072993807",
-    "source": "twitter",
-    "author": "Ripann_",
-    "content": "@DannyAziz97 @FactoryAI @every Besides coding claude max is super for learning and prototyping ideas using artifacts in tge Claude app. Claude Max 5 is sufficient for the mix.\nI start with deep research on topics  and then asking it to visually explain me in artifacts.",
-    "url": "https://x.com/Ripann_/status/1984132650072993807",
-    "timestamp": "2025-10-31T05:37:41.000Z",
-    "metadata": {
-      "conversation_id": "1984132650072993807",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984127625036755249",
-    "source": "twitter",
-    "author": "LzyIndTky",
-    "content": "@CloudTrader4 @FactoryAI Ahh I think you can thank me for this 😛\n\nhttps://t.co/XrKFJ7iRDN",
-    "url": "https://x.com/LzyIndTky/status/1984127625036755249",
-    "timestamp": "2025-10-31T05:17:43.000Z",
-    "metadata": {
-      "conversation_id": "1984127625036755249",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,8 +359,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 3,
-      "num_comments": 22,
+      "score": 7,
+      "num_comments": 23,
       "subreddit": "FactoryAi"
     }
   },
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -673,19 +673,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocv9jx",
-    "source": "reddit",
-    "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
-    "timestamp": "2025-10-22T01:34:31.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 15,
       "subreddit": "FactoryAi"
     }
   },
