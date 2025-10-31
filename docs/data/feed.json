@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1984105252812103688",
+    "source": "twitter",
+    "author": "rezaul_arif",
+    "content": "Here is the @FactoryAI 's custom config.json file you will need to run @MiniMax__AI M2 running on @chutes_ai at 80+ tps 🙃 enjoy!\n\n{\n  \"custom_models\": [\n    {\n      \"model_display_name\": \"MiniMax-M2\",\n      \"model\": \"MiniMaxAI/MiniMax-M2\",\n      \"base_url\": \"https://t.co/dBIwRSoLCV\",\n      \"api_key\": \"YOUR_API_KEY_HERE\",\n      \"provider\": \"generic-chat-completion-api\",\n      \"max_tokens\": 204800\n    }\n  ]\n}",
+    "url": "https://x.com/rezaul_arif/status/1984105252812103688",
+    "timestamp": "2025-10-31T03:48:49.000Z",
+    "metadata": {
+      "conversation_id": "1984105252812103688",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984101461886943453",
+    "source": "twitter",
+    "author": "Ra1kshit",
+    "content": "Also a huge shoutout to @FactoryAI for the free AI credits allowing me to speed up the dev.\n\nthanks @bentossell 🫡",
+    "url": "https://x.com/Ra1kshit/status/1984101461886943453",
+    "timestamp": "2025-10-31T03:33:45.000Z",
+    "metadata": {
+      "conversation_id": "1984101461886943453",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984101138057326792",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "@TCGsealed @tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai @warpdotdev https://t.co/5mNRnlIYy9",
+    "url": "https://x.com/nest_elf/status/1984101138057326792",
+    "timestamp": "2025-10-31T03:32:28.000Z",
+    "metadata": {
+      "conversation_id": "1984101138057326792",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984098538201215484",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "@elie2222 use @windsurf swe 1.5. 5x as fast and scores higher on the benchmarks and unlimited for 15$. for accuracy use @FactoryAI",
+    "url": "https://x.com/nest_elf/status/1984098538201215484",
+    "timestamp": "2025-10-31T03:22:08.000Z",
+    "metadata": {
+      "conversation_id": "1984098538201215484",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984091947187974237",
     "source": "twitter",
     "author": "DannyAziz97",
@@ -218,7 +278,7 @@
     "timestamp": "2025-10-31T00:14:52.000Z",
     "metadata": {
       "conversation_id": "1984051408572969434",
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -233,66 +293,6 @@
     "timestamp": "2025-10-31T00:04:04.000Z",
     "metadata": {
       "conversation_id": "1984048689841934467",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984046662495711302",
-    "source": "twitter",
-    "author": "jackhcable",
-    "content": "We’re thrilled to integrate with @FactoryAI! Read more on the integration:",
-    "url": "https://x.com/jackhcable/status/1984046662495711302",
-    "timestamp": "2025-10-30T23:56:00.000Z",
-    "metadata": {
-      "conversation_id": "1984046662495711302",
-      "likes": 8,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984046628563775966",
-    "source": "twitter",
-    "author": "metaforismoo",
-    "content": "@zeeg I just saw a video where @FactoryAI write code with factory, or at least that's what it looked like",
-    "url": "https://x.com/metaforismoo/status/1984046628563775966",
-    "timestamp": "2025-10-30T23:55:52.000Z",
-    "metadata": {
-      "conversation_id": "1984046628563775966",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984045937438908679",
-    "source": "twitter",
-    "author": "metaforismoo",
-    "content": "@alvinsng @FactoryAI Wow, more content like this, please!",
-    "url": "https://x.com/metaforismoo/status/1984045937438908679",
-    "timestamp": "2025-10-30T23:53:07.000Z",
-    "metadata": {
-      "conversation_id": "1984045937438908679",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984045150234976400",
-    "source": "twitter",
-    "author": "Aizkmusic",
-    "content": "@explosivesox @FactoryAI @BlinkOnChain @aidan_mclau",
-    "url": "https://x.com/Aizkmusic/status/1984045150234976400",
-    "timestamp": "2025-10-30T23:50:00.000Z",
-    "metadata": {
-      "conversation_id": "1984045150234976400",
       "likes": 1,
       "retweets": 0,
       "replies": 0,
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
