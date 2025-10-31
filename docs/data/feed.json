@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_1984072895967195583",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "cool. i can automate even pr's now. thanks @FactoryAI",
+    "url": "https://x.com/nest_elf/status/1984072895967195583",
+    "timestamp": "2025-10-31T01:40:15.000Z",
+    "metadata": {
+      "conversation_id": "1984072895967195583",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984071380405801379",
+    "source": "twitter",
+    "author": "iamcienlim",
+    "content": "my current AI coding tools\n\n1. @cursor_ai (the 2.0 version combo with composer model is 🔥)\n2. @FactoryAI (droid CLI feels so bullish and getting better with updates)\n3. @windsurf (gonna try it with their recent SWE-1.5 model update)\n\ndrop @warpdotdev bcs still no gpt5-codex 😩",
+    "url": "https://x.com/iamcienlim/status/1984071380405801379",
+    "timestamp": "2025-10-31T01:34:14.000Z",
+    "metadata": {
+      "conversation_id": "1984071380405801379",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984068055480316060",
+    "source": "twitter",
+    "author": "aislepartnersai",
+    "content": "@corbin_braun Similar themes. What’s your go-to multi-agent dev tool rn? \n@FactoryAI is 💪",
+    "url": "https://x.com/aislepartnersai/status/1984068055480316060",
+    "timestamp": "2025-10-31T01:21:01.000Z",
+    "metadata": {
+      "conversation_id": "1984068055480316060",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984065174257725862",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "People are starting to catch on that @FactoryAI Droids are insanely good.\n\nThe models from different labs keep being good at different things. I don’t think that trend will stop. \n\nBy combining models in a smart way, Factory will always be better than a tool from a single lab.",
+    "url": "https://x.com/NathanLands/status/1984065174257725862",
+    "timestamp": "2025-10-31T01:09:34.000Z",
+    "metadata": {
+      "conversation_id": "1984065174257725862",
+      "likes": 11,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984055454000148968",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@SvenMeyer @FactoryAI Not totally new just easier implementation.\n\nAlso /mcp command lets you select from UI inside droid session.",
+    "url": "https://x.com/CloudTrader4/status/1984055454000148968",
+    "timestamp": "2025-10-31T00:30:56.000Z",
+    "metadata": {
+      "conversation_id": "1984055454000148968",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984052784992575810",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@CloudTrader4 @FactoryAI that is new ? ... anyway I preferred to just edit / copy-paste MCP definitions into the json config. A secure API key management would be good and the ability to quickly switch them all off and selectively. UI like /model selector.",
+    "url": "https://x.com/SvenMeyer/status/1984052784992575810",
+    "timestamp": "2025-10-31T00:20:20.000Z",
+    "metadata": {
+      "conversation_id": "1984052784992575810",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984051408572969434",
+    "source": "twitter",
+    "author": "rezaul_arif",
+    "content": "Huge thanks to whoever revamped the MCP implementation in @FactoryAI CLI v0.22.6! 🫶🏼",
+    "url": "https://x.com/rezaul_arif/status/1984051408572969434",
+    "timestamp": "2025-10-31T00:14:52.000Z",
+    "metadata": {
+      "conversation_id": "1984051408572969434",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984048689841934467",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@jackhcable @FactoryAI Corridor 🤝 Factory",
+    "url": "https://x.com/francesca_lab/status/1984048689841934467",
+    "timestamp": "2025-10-31T00:04:04.000Z",
+    "metadata": {
+      "conversation_id": "1984048689841934467",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984046662495711302",
     "source": "twitter",
     "author": "jackhcable",
@@ -8,9 +128,9 @@
     "timestamp": "2025-10-30T23:56:00.000Z",
     "metadata": {
       "conversation_id": "1984046662495711302",
-      "likes": 0,
+      "likes": 7,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -23,7 +143,7 @@
     "timestamp": "2025-10-30T23:55:52.000Z",
     "metadata": {
       "conversation_id": "1984046628563775966",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -98,7 +218,7 @@
     "timestamp": "2025-10-30T23:31:42.000Z",
     "metadata": {
       "conversation_id": "1984040544872624281",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -158,7 +278,7 @@
     "timestamp": "2025-10-30T23:15:41.000Z",
     "metadata": {
       "conversation_id": "1984036514372972690",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,127 +293,7 @@
     "timestamp": "2025-10-30T23:07:12.000Z",
     "metadata": {
       "conversation_id": "1984034379858124889",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984034205752492104",
-    "source": "twitter",
-    "author": "CorridorSecure",
-    "content": "The future of software development will be powered by intelligent agents, but only if those agents can build securely.\n\nThat’s why we’re excited to share our Corridor MCP integration with @FactoryAI and their work to bring true autonomy to software engineering. Factory’s Droids let developers delegate complete tasks directly within their existing tools.\n\nWith Corridor’s security layer, those Droids can now write more secure code by default.\n\nTogether, Corridor and Factory are shaping a new era of software engineering — one where autonomous development is both fast and secure.\n\nAutonomy without security is risk at scale. With Corridor + Factory, teams can confidently delegate to Droids knowing every change meets their security standards.",
-    "url": "https://x.com/CorridorSecure/status/1984034205752492104",
-    "timestamp": "2025-10-30T23:06:30.000Z",
-    "metadata": {
-      "conversation_id": "1984034205752492104",
-      "likes": 10,
-      "retweets": 1,
-      "replies": 3,
-      "quotes": 2
-    }
-  },
-  {
-    "id": "twitter_1984017323767034333",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@FactoryAI You can implement in two ways:\n\n1- Use CLI commands like \"droid mcp add\" for quick server setup and automation\n2- Use /mcp within droid for an interactive visual interface.",
-    "url": "https://x.com/CloudTrader4/status/1984017323767034333",
-    "timestamp": "2025-10-30T21:59:25.000Z",
-    "metadata": {
-      "conversation_id": "1984017323767034333",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984016464697810989",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "Droid from @FactoryAI just pushed an update on MCP implementation, it become so easy to add any MCP server you wish \n\nAdding HTTP servers:\n```\ndroid mcp add <name> <url> --type http [--header \"KEY: VALUE\"...]\n```\n\nAdding Stdio Servers:\n```\ndroid mcp add <name> \"<command>\" [--env KEY=VALUE...]\n```",
-    "url": "https://x.com/CloudTrader4/status/1984016464697810989",
-    "timestamp": "2025-10-30T21:56:01.000Z",
-    "metadata": {
-      "conversation_id": "1984016464697810989",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984012903935307839",
-    "source": "twitter",
-    "author": "EmmaLustre90",
-    "content": "@DannyAziz97 @FactoryAI @every How much do they pay you guys?",
-    "url": "https://x.com/EmmaLustre90/status/1984012903935307839",
-    "timestamp": "2025-10-30T21:41:52.000Z",
-    "metadata": {
-      "conversation_id": "1984012903935307839",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984011303174992219",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@bechiche_ @FactoryAI 🧑‍🍳",
-    "url": "https://x.com/bentossell/status/1984011303174992219",
-    "timestamp": "2025-10-30T21:35:30.000Z",
-    "metadata": {
-      "conversation_id": "1984011303174992219",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984009378975060161",
-    "source": "twitter",
-    "author": "nathanpareo",
-    "content": "Is Droid having issues? I am getting \nError: 413 {\"error\":{\"code\":\"413\",\"message\":\"Request Entity Too Large\"}}\n\n@FactoryAI",
-    "url": "https://x.com/nathanpareo/status/1984009378975060161",
-    "timestamp": "2025-10-30T21:27:51.000Z",
-    "metadata": {
-      "conversation_id": "1984009378975060161",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984007777535344671",
-    "source": "twitter",
-    "author": "fire",
-    "content": "@bentossell @FactoryAI o7\n\nI would like to see live command output when running stuff in bash mode; right now it seems like I only get the output once it completes? ( this script[1] is running ffmpeg and encoding a video for example, but the cli only flushed the response[2] on its exit ) https://t.co/ksmlMoAJJT",
-    "url": "https://x.com/fire/status/1984007777535344671",
-    "timestamp": "2025-10-30T21:21:29.000Z",
-    "metadata": {
-      "conversation_id": "1984007777535344671",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984003220558246405",
-    "source": "twitter",
-    "author": "LevJampolsky",
-    "content": "@alvinsng @FactoryAI Love it. Can it really be called an office if there's not at least one foosball table or one ping pong table 😎",
-    "url": "https://x.com/LevJampolsky/status/1984003220558246405",
-    "timestamp": "2025-10-30T21:03:23.000Z",
-    "metadata": {
-      "conversation_id": "1984003220558246405",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -349,19 +349,6 @@
       "type": "issue",
       "labels": [],
       "number": 279
-    }
-  },
-  {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 22,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -508,32 +495,6 @@
     }
   },
   {
-    "id": "reddit_1ofmunx",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
-    "timestamp": "2025-10-25T09:01:37.000Z",
-    "metadata": {
-      "score": 10,
-      "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh9so",
-    "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1ofh3rn",
     "source": "reddit",
     "author": "zhangjun3371",
@@ -651,19 +612,6 @@
     }
   },
   {
-    "id": "reddit_1odjcfl",
-    "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 9,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1odatnb",
     "source": "reddit",
     "author": "Conscious-Fee7844",
@@ -716,6 +664,19 @@
     }
   },
   {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,6 +687,45 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oazqru",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
