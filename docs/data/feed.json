@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984554667364290958",
+    "source": "twitter",
+    "author": "ciekawskiktos",
+    "content": "@hexawulf @FactoryAI I hit limits on CC all the time, but somehow software hopping feels to hard for me. \n\nEveryday there's \"a new big thing that changed everything\", so I just stick to what I know.\n\nDoes Droid have, hooks, custom commands and subagents?",
+    "url": "https://x.com/ciekawskiktos/status/1984554667364290958",
+    "timestamp": "2025-11-01T09:34:38.000Z",
+    "metadata": {
+      "conversation_id": "1984554667364290958",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984552749925609926",
+    "source": "twitter",
+    "author": "BlakeFolgado",
+    "content": "@immoinulmoin @FactoryAI so good",
+    "url": "https://x.com/BlakeFolgado/status/1984552749925609926",
+    "timestamp": "2025-11-01T09:27:01.000Z",
+    "metadata": {
+      "conversation_id": "1984552749925609926",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984552094079295694",
     "source": "twitter",
     "author": "zhangjintao9020",
@@ -33,7 +63,7 @@
     "id": "reddit_1oljgx4",
     "source": "reddit",
     "author": "steve1215",
-    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
+    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
@@ -246,9 +276,9 @@
     "timestamp": "2025-11-01T08:50:28.000Z",
     "metadata": {
       "conversation_id": "1984543552148554198",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -278,36 +308,6 @@
       "conversation_id": "1984542037925146896",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984540127298011417",
-    "source": "twitter",
-    "author": "RayFernando1337",
-    "content": "@hexawulf @FactoryAI I’ve also come up with this prompt you can use to generate the agents files: https://t.co/WT7Wv6UZvo",
-    "url": "https://x.com/RayFernando1337/status/1984540127298011417",
-    "timestamp": "2025-11-01T08:36:51.000Z",
-    "metadata": {
-      "conversation_id": "1984540127298011417",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984539923886572022",
-    "source": "twitter",
-    "author": "aeitroc",
-    "content": "We have come to a point that using coding models without coding agents like @AmpCode, @FactoryAI droid, @CodebuffAI or  @opencode, is an awful time lost experience trying to fix bugs the model created. No matter how smart models become, coding agents will always boost further their coding performance.",
-    "url": "https://x.com/aeitroc/status/1984539923886572022",
-    "timestamp": "2025-11-01T08:36:03.000Z",
-    "metadata": {
-      "conversation_id": "1984539923886572022",
-      "likes": 1,
-      "retweets": 1,
       "replies": 0,
       "quotes": 0
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
