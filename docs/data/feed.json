@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1984493369150914719",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@towrywang @claudeai @FactoryAI well - so far, i haven’t hit this yet so let’s see 😅\nwhat are you building?!",
+    "url": "https://x.com/nkgoutham/status/1984493369150914719",
+    "timestamp": "2025-11-01T05:31:03.000Z",
+    "metadata": {
+      "conversation_id": "1984493369150914719",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984493209297506413",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@_lparadisemusic @FactoryAI @GiusMarci Oh interesting. Thanks for sharing this. I’ll try this out. Does this compare with Cline?",
+    "url": "https://x.com/nkgoutham/status/1984493209297506413",
+    "timestamp": "2025-11-01T05:30:25.000Z",
+    "metadata": {
+      "conversation_id": "1984493209297506413",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984492918384857345",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@codewithimanshu @FactoryAI Yep! My only spite with Claude Code is that it slaps you with rate limits too soon. Makes me hesitant in getting the $100 plan",
+    "url": "https://x.com/nkgoutham/status/1984492918384857345",
+    "timestamp": "2025-11-01T05:29:16.000Z",
+    "metadata": {
+      "conversation_id": "1984492918384857345",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984492712503235000",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@AdsQnn @magic_rook @bentossell @FactoryAI @claudeai yeah! been experimenting with sub agents. this is fun!",
+    "url": "https://x.com/nkgoutham/status/1984492712503235000",
+    "timestamp": "2025-11-01T05:28:27.000Z",
+    "metadata": {
+      "conversation_id": "1984492712503235000",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984492520056009055",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@CryptoSolana_OG @claudeai @FactoryAI Haha yeah - I was doing a speedrun, giving large prompts and multiple steps. \n\nI usually switch between Claude, https://t.co/0yTsrOitX4 and Cursor but this time I’ve been building using only Droid. Including brainstorming, bug fixes, copywriting and coding",
+    "url": "https://x.com/nkgoutham/status/1984492520056009055",
+    "timestamp": "2025-11-01T05:27:41.000Z",
+    "metadata": {
+      "conversation_id": "1984492520056009055",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984477138989588845",
     "source": "twitter",
     "author": "towrywang",
@@ -10,7 +85,7 @@
       "conversation_id": "1984477138989588845",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,9 +113,9 @@
     "timestamp": "2025-11-01T02:52:33.000Z",
     "metadata": {
       "conversation_id": "1984453478274466055",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -98,7 +173,7 @@
     "timestamp": "2025-11-01T01:40:21.000Z",
     "metadata": {
       "conversation_id": "1984435309896220924",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -225,81 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984417980349104201",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@CorridorSecure @FactoryAI Ah, intelligent agents, right? Totally agree with Corridor, security is key if these droids are to take over, no?",
-    "url": "https://x.com/codewithimanshu/status/1984417980349104201",
-    "timestamp": "2025-11-01T00:31:29.000Z",
-    "metadata": {
-      "conversation_id": "1984417980349104201",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984412290444300458",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@fire @FactoryAI Ya, I also forgot about the trial, fire. Let's see how those third-party models perform, sounds quite exciting, no?",
-    "url": "https://x.com/codewithimanshu/status/1984412290444300458",
-    "timestamp": "2025-11-01T00:08:53.000Z",
-    "metadata": {
-      "conversation_id": "1984412290444300458",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984409927650324858",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@dawid_jordaan @FactoryAI Dawid, that's a valid point about FactoryAI's droids, but the speed difference is quite a head-scratcher, no?",
-    "url": "https://x.com/codewithimanshu/status/1984409927650324858",
-    "timestamp": "2025-10-31T23:59:29.000Z",
-    "metadata": {
-      "conversation_id": "1984409927650324858",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984408108970676254",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@nkgoutham @FactoryAI True that, Krishna! Droid is showing serious promise, though Claude's still got some tricks up its sleeve, no?",
-    "url": "https://x.com/codewithimanshu/status/1984408108970676254",
-    "timestamp": "2025-10-31T23:52:16.000Z",
-    "metadata": {
-      "conversation_id": "1984408108970676254",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984406525058900383",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@nkgoutham @claudeai @FactoryAI Wow, Krishna, five hours is quite a feat, and you're still on the free trial? That's some impressive work!",
-    "url": "https://x.com/codewithimanshu/status/1984406525058900383",
-    "timestamp": "2025-10-31T23:45:58.000Z",
-    "metadata": {
-      "conversation_id": "1984406525058900383",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1okwodb",
     "source": "reddit",
     "author": "Uzeii",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -697,8 +697,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
