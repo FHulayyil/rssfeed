@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1984624172312522759",
+    "source": "twitter",
+    "author": "Louis__Meyer",
+    "content": "@hexawulf @FactoryAI Droid is a good agent, but nothing beats the native Claude Code CLI experience, both in speed, features and quality output, in my experience.",
+    "url": "https://x.com/Louis__Meyer/status/1984624172312522759",
+    "timestamp": "2025-11-01T14:10:49.000Z",
+    "metadata": {
+      "conversation_id": "1984624172312522759",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984623980485955906",
+    "source": "twitter",
+    "author": "Aristotleless",
+    "content": "@hexawulf @FactoryAI At least it seems to be scarily good; I've yet to see the project compile but it looks PROMISING like seriously 30x Codex and Amp which I've also tried.",
+    "url": "https://x.com/Aristotleless/status/1984623980485955906",
+    "timestamp": "2025-11-01T14:10:04.000Z",
+    "metadata": {
+      "conversation_id": "1984623980485955906",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984620148741828932",
+    "source": "twitter",
+    "author": "8johnf",
+    "content": "@matzero6 @hexawulf @FactoryAI Which one do you prefer ? Codex CLI ?",
+    "url": "https://x.com/8johnf/status/1984620148741828932",
+    "timestamp": "2025-11-01T13:54:50.000Z",
+    "metadata": {
+      "conversation_id": "1984620148741828932",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984619447441842400",
+    "source": "twitter",
+    "author": "curiouslychase",
+    "content": "Welp, after some waffling this week...\n\nIt's back to tmux + nvim + yazi + worktrees + @FactoryAI Droid. https://t.co/nBbUHeZj9L",
+    "url": "https://x.com/curiouslychase/status/1984619447441842400",
+    "timestamp": "2025-11-01T13:52:03.000Z",
+    "metadata": {
+      "conversation_id": "1984619447441842400",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984615991847109077",
     "source": "twitter",
     "author": "bentossell",
@@ -190,7 +250,7 @@
       "conversation_id": "1984599189934756311",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -234,66 +294,6 @@
     "metadata": {
       "conversation_id": "1984582063412977885",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984573039808299029",
-    "source": "twitter",
-    "author": "Ra1kshit",
-    "content": "had shifted to @FactoryAI droid's but Cursor's composer got me back. Now using them both :)",
-    "url": "https://x.com/Ra1kshit/status/1984573039808299029",
-    "timestamp": "2025-11-01T10:47:38.000Z",
-    "metadata": {
-      "conversation_id": "1984573039808299029",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984572981712986297",
-    "source": "twitter",
-    "author": "thedanifrim",
-    "content": "@bentossell @fire @FactoryAI lol. good one Ben",
-    "url": "https://x.com/thedanifrim/status/1984572981712986297",
-    "timestamp": "2025-11-01T10:47:25.000Z",
-    "metadata": {
-      "conversation_id": "1984572981712986297",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984572498894319629",
-    "source": "twitter",
-    "author": "NihilSineTheo",
-    "content": "@hexawulf @FactoryAI I thought this post reads like an ad/shill, for what it's worth\n\nProbably others too while scrolling past it\n\nI think it's because you posted just a plain screenshot of the tool's landing screen",
-    "url": "https://x.com/NihilSineTheo/status/1984572498894319629",
-    "timestamp": "2025-11-01T10:45:29.000Z",
-    "metadata": {
-      "conversation_id": "1984572498894319629",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984569454794351059",
-    "source": "twitter",
-    "author": "ImmonenPietari",
-    "content": "@hexawulf @FactoryAI Haven't tried it. Maybe I should",
-    "url": "https://x.com/ImmonenPietari/status/1984569454794351059",
-    "timestamp": "2025-11-01T10:33:24.000Z",
-    "metadata": {
-      "conversation_id": "1984569454794351059",
-      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -521,15 +521,28 @@
     }
   },
   {
-    "id": "reddit_1ofmunx",
+    "id": "reddit_1ofh9so",
     "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
-    "timestamp": "2025-10-25T09:01:37.000Z",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
     "metadata": {
-      "score": 10,
-      "num_comments": 11,
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh3rn",
+    "source": "reddit",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -606,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -632,21 +645,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -736,7 +736,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
