@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984678311969120732",
+    "source": "twitter",
+    "author": "Ludocyte",
+    "content": "@nkgoutham @claudeai @FactoryAI ok but you consumed 40% of your monthly usage in 5 hours lmao",
+    "url": "https://x.com/Ludocyte/status/1984678311969120732",
+    "timestamp": "2025-11-01T17:45:57.000Z",
+    "metadata": {
+      "conversation_id": "1984678311969120732",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984678169765642425",
+    "source": "twitter",
+    "author": "explorersofai",
+    "content": "My top AI tools 2025\n\n@pixio_ai \n@myaitutor \n@midjourney \n@FactoryAI \n@the_machine_ai \n@ComfyUI \n\nStarting a Channel on YouTube where I show you how to create with AI\n\nYou don't want to miss this! https://t.co/CcvTcEfcBB",
+    "url": "https://x.com/explorersofai/status/1984678169765642425",
+    "timestamp": "2025-11-01T17:45:23.000Z",
+    "metadata": {
+      "conversation_id": "1984678169765642425",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_299",
     "source": "github",
     "author": "Slyvester-cyber",
@@ -309,36 +339,6 @@
     }
   },
   {
-    "id": "twitter_1984631252033441822",
-    "source": "twitter",
-    "author": "markobilal",
-    "content": "@hexawulf @FactoryAI I find the opposite",
-    "url": "https://x.com/markobilal/status/1984631252033441822",
-    "timestamp": "2025-11-01T14:38:57.000Z",
-    "metadata": {
-      "conversation_id": "1984631252033441822",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984630648959635618",
-    "source": "twitter",
-    "author": "kostasbotonakis",
-    "content": "@hexawulf @FactoryAI Definitely just you",
-    "url": "https://x.com/kostasbotonakis/status/1984630648959635618",
-    "timestamp": "2025-11-01T14:36:34.000Z",
-    "metadata": {
-      "conversation_id": "1984630648959635618",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oljgx4",
     "source": "reddit",
     "author": "steve1215",
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -659,7 +659,7 @@
     "timestamp": "2025-10-23T22:10:56.000Z",
     "metadata": {
       "score": 0,
-      "num_comments": 16,
+      "num_comments": 17,
       "subreddit": "FactoryAi"
     }
   },
@@ -684,8 +684,34 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1odatnb",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
+    "timestamp": "2025-10-22T15:06:14.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 15,
       "subreddit": "FactoryAi"
     }
   },
