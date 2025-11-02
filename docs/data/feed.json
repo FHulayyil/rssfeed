@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984982413597192590",
+    "source": "twitter",
+    "author": "enisbeharmenda",
+    "content": "@hexawulf @FactoryAI started using today, first impression quite nice.",
+    "url": "https://x.com/enisbeharmenda/status/1984982413597192590",
+    "timestamp": "2025-11-02T13:54:21.000Z",
+    "metadata": {
+      "conversation_id": "1984982413597192590",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984979968036655607",
     "source": "twitter",
     "author": "JorgeMenaDev",
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1984925464826421286",
-    "source": "twitter",
-    "author": "amans_twt",
-    "content": "@nkgoutham @FactoryAI Which model are you using for building the UI?",
-    "url": "https://x.com/amans_twt/status/1984925464826421286",
-    "timestamp": "2025-11-02T10:08:03.000Z",
-    "metadata": {
-      "conversation_id": "1984925464826421286",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_300",
     "source": "github",
     "author": "dpalfery",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -697,8 +697,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1odatnb",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
+    "timestamp": "2025-10-22T15:06:14.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
