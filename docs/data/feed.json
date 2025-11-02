@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984911788228386817",
+    "source": "twitter",
+    "author": "hoopstheoryX",
+    "content": "@explorersofai @pixio_ai @myaitutor @midjourney @FactoryAI @the_machine_ai @ComfyUI Let’s go!",
+    "url": "https://x.com/hoopstheoryX/status/1984911788228386817",
+    "timestamp": "2025-11-02T09:13:42.000Z",
+    "metadata": {
+      "conversation_id": "1984911788228386817",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984904016317595971",
     "source": "twitter",
     "author": "adityagharawar8",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984848042886091237",
-    "source": "twitter",
-    "author": "nelwin_catalogo",
-    "content": "@immoinulmoin @FactoryAI they all sucks.. the only worthy for production codebase is augmentcode.. as it learns the code pattern in the codebase.. the only downside is the price.. it's too much",
-    "url": "https://x.com/nelwin_catalogo/status/1984848042886091237",
-    "timestamp": "2025-11-02T05:00:24.000Z",
-    "metadata": {
-      "conversation_id": "1984848042886091237",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_300",
     "source": "github",
     "author": "dpalfery",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
