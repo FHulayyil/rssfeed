@@ -1,5 +1,78 @@
 [
   {
+    "id": "twitter_1985018759254294728",
+    "source": "twitter",
+    "author": "peterbowyer",
+    "content": "@FactoryAI Hi, is there a way to do sandboxing like https://t.co/mSS2Fk2o6W provides? I want to let Droid loose but have some protection!",
+    "url": "https://x.com/peterbowyer/status/1985018759254294728",
+    "timestamp": "2025-11-02T16:18:46.000Z",
+    "metadata": {
+      "conversation_id": "1985018759254294728",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1omlc3f",
+    "source": "reddit",
+    "author": "IslandOceanWater",
+    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
+    "timestamp": "2025-11-02T16:11:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_1985015866086334757",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@the_ido_levi @opencode @FactoryAI @RayFernando1337 😳😅 awesome\nWill look into it",
+    "url": "https://x.com/pascallammers_/status/1985015866086334757",
+    "timestamp": "2025-11-02T16:07:16.000Z",
+    "metadata": {
+      "conversation_id": "1985015866086334757",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985014385182462138",
+    "source": "twitter",
+    "author": "roshan_mishra",
+    "content": "I started to use Droid- @FactoryAI last week and was surprised by how good it is. Not paid to say this, btw.\n\nI had reached out to @bentossell before the workshop. He was very helpful in making it available. Thank you.\n\nI had a great time introducing droid &amp; not just for coding.",
+    "url": "https://x.com/roshan_mishra/status/1985014385182462138",
+    "timestamp": "2025-11-02T16:01:23.000Z",
+    "metadata": {
+      "conversation_id": "1985014385182462138",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985014343885287737",
+    "source": "twitter",
+    "author": "roshan_mishra",
+    "content": "Vibe Engineering &gt; Vibe Coding\n\nYesterday we ran our biggest AI building workshop in Bangalore (120+ registered devs!)\n\nfrom messy ideas → production apps in 3 hours using @bolt_new @GoogleAI Stitch, @figma, Droid from @FactoryAI , &amp; ChatGPT\n\nHere's the exact workflow we used https://t.co/fkaedeHruM",
+    "url": "https://x.com/roshan_mishra/status/1985014343885287737",
+    "timestamp": "2025-11-02T16:01:14.000Z",
+    "metadata": {
+      "conversation_id": "1985014343885287737",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985012286071931224",
     "source": "twitter",
     "author": "JoelDeTeves",
@@ -8,7 +81,7 @@
     "timestamp": "2025-11-02T15:53:03.000Z",
     "metadata": {
       "conversation_id": "1985012286071931224",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -240,66 +313,6 @@
     }
   },
   {
-    "id": "twitter_1984990023306072085",
-    "source": "twitter",
-    "author": "malikwas1f",
-    "content": "@SkylerMiao7 @SvenMeyer @FactoryAI @MiniMax__AI @OpenRouterAI When I played with droid and M2, it would crash occasionally using anthropic endpoint, and on openrouter endpoint I faced issues with the missing thinking tags. I've since moved onto using Claude code until droid fix the crashes.",
-    "url": "https://x.com/malikwas1f/status/1984990023306072085",
-    "timestamp": "2025-11-02T14:24:35.000Z",
-    "metadata": {
-      "conversation_id": "1984990023306072085",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984986444985926035",
-    "source": "twitter",
-    "author": "curiouslychase",
-    "content": "@harveyfullstack @FactoryAI I've been using tmux for a very long time. \n\nWhat's the benefit of switching in your opinion?",
-    "url": "https://x.com/curiouslychase/status/1984986444985926035",
-    "timestamp": "2025-11-02T14:10:22.000Z",
-    "metadata": {
-      "conversation_id": "1984986444985926035",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984985554740539803",
-    "source": "twitter",
-    "author": "harveyfullstack",
-    "content": "@curiouslychase @FactoryAI Why not Zellij?",
-    "url": "https://x.com/harveyfullstack/status/1984985554740539803",
-    "timestamp": "2025-11-02T14:06:50.000Z",
-    "metadata": {
-      "conversation_id": "1984985554740539803",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984982413597192590",
-    "source": "twitter",
-    "author": "enisbeharmenda",
-    "content": "@hexawulf @FactoryAI started using today, first impression quite nice.",
-    "url": "https://x.com/enisbeharmenda/status/1984982413597192590",
-    "timestamp": "2025-11-02T13:54:21.000Z",
-    "metadata": {
-      "conversation_id": "1984982413597192590",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -489,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -647,19 +660,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1of1zjv",
-    "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 5,
       "subreddit": "FactoryAi"
     }
   },
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
