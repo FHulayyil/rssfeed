@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984858327885725897",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@geo_anima @immoinulmoin @FactoryAI Yes 👆",
+    "url": "https://x.com/GitMaxd/status/1984858327885725897",
+    "timestamp": "2025-11-02T05:41:16.000Z",
+    "metadata": {
+      "conversation_id": "1984858327885725897",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984853519636050138",
     "source": "twitter",
     "author": "solanker_ai",
@@ -53,9 +68,9 @@
     "timestamp": "2025-11-02T05:11:14.000Z",
     "metadata": {
       "conversation_id": "1984850766738190578",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,7 +128,7 @@
     "timestamp": "2025-11-02T04:35:12.000Z",
     "metadata": {
       "conversation_id": "1984841698732556721",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -128,7 +143,7 @@
     "timestamp": "2025-11-02T04:31:33.000Z",
     "metadata": {
       "conversation_id": "1984840780570038544",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -291,21 +306,6 @@
     "timestamp": "2025-11-02T02:20:58.000Z",
     "metadata": {
       "conversation_id": "1984807919486218470",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984801755868381687",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@CipherVectors @immoinulmoin @FactoryAI https://t.co/okjr9eD7ty",
-    "url": "https://x.com/SvenMeyer/status/1984801755868381687",
-    "timestamp": "2025-11-02T01:56:29.000Z",
-    "metadata": {
-      "conversation_id": "1984801755868381687",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
