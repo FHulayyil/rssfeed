@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1984974598094397501",
+    "source": "twitter",
+    "author": "jonhillymakes",
+    "content": "typically, yes, I use branches in github, especially when trying out something new, and I always prompt and plan first. But, truth be told, the reason I was scrolling through X in the first place was because I had code fatigue. Really, it was the wrong mindset to try FactoryAI, because what it meant was, I skipped the github branch (i'd even forgot to commit my recent changes, which was actually  quite a chunk of work) and I allowed Droid to dictate the path forward with little of my own input (I was very impressed with it's initial analysis of my project). So, all in all, I think I am being a little unfair, certainly with a test sample of 1.",
+    "url": "https://x.com/jonhillymakes/status/1984974598094397501",
+    "timestamp": "2025-11-02T13:23:17.000Z",
+    "metadata": {
+      "conversation_id": "1984974598094397501",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984973124581142855",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "Ah - I get the disappointment. It happened to me with a few other products I've been working on, too. \n\nJust a quick check:\n- do you use branches in your github repo for version control?\n- do you prompt and plan first (either with droid, or Claude/ChatGPT), get the AI to prepare a plan of action with context of the project updated, and then build? \n\nUsually, these two approaches prevent a lot of hallucinations and broken code.",
+    "url": "https://x.com/nkgoutham/status/1984973124581142855",
+    "timestamp": "2025-11-02T13:17:26.000Z",
+    "metadata": {
+      "conversation_id": "1984973124581142855",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984972545083179344",
+    "source": "twitter",
+    "author": "vamshi_nenu",
+    "content": "@curiouslychase @FactoryAI I use zellij",
+    "url": "https://x.com/vamshi_nenu/status/1984972545083179344",
+    "timestamp": "2025-11-02T13:15:08.000Z",
+    "metadata": {
+      "conversation_id": "1984972545083179344",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984972541946126713",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@noelhatem @FactoryAI yup :)\n10M free tokens! you can switch models too",
+    "url": "https://x.com/nkgoutham/status/1984972541946126713",
+    "timestamp": "2025-11-02T13:15:07.000Z",
+    "metadata": {
+      "conversation_id": "1984972541946126713",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984972387851370655",
+    "source": "twitter",
+    "author": "jonhillymakes",
+    "content": "Functionality. I'd decided to give it a try after seeing one of your posts about it's performance, actually. It made several improvement recommendations initially, so we made a plan and I asked it to implement. Almost 3/4's of my trial limit was used allowing it to \"fix\" what it broke, until I turned it off and went back to my ol' faithful.",
+    "url": "https://x.com/jonhillymakes/status/1984972387851370655",
+    "timestamp": "2025-11-02T13:14:30.000Z",
+    "metadata": {
+      "conversation_id": "1984972387851370655",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984971459244994654",
     "source": "twitter",
     "author": "noelhatem",
@@ -8,9 +83,9 @@
     "timestamp": "2025-11-02T13:10:49.000Z",
     "metadata": {
       "conversation_id": "1984971459244994654",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -85,7 +160,7 @@
       "conversation_id": "1984966102322151540",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -238,81 +313,6 @@
     }
   },
   {
-    "id": "twitter_1984919442460176467",
-    "source": "twitter",
-    "author": "thinkbuildnext",
-    "content": "New workflow\n\n- @xai grok-code-fast-1\n- @FactoryAI droid (bring your own key)\n\nCheap tokens, more than acceptable performance.",
-    "url": "https://x.com/thinkbuildnext/status/1984919442460176467",
-    "timestamp": "2025-11-02T09:44:07.000Z",
-    "metadata": {
-      "conversation_id": "1984919442460176467",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984914415574241702",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@launchaddict @FactoryAI @Zai_org 🔥",
-    "url": "https://x.com/bentossell/status/1984914415574241702",
-    "timestamp": "2025-11-02T09:24:09.000Z",
-    "metadata": {
-      "conversation_id": "1984914415574241702",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984914291405758622",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@JoelDeTeves @immoinulmoin @FactoryAI you can ask the models for clarifying qs, but yeah that seems nice and we may look at what to implement here",
-    "url": "https://x.com/bentossell/status/1984914291405758622",
-    "timestamp": "2025-11-02T09:23:39.000Z",
-    "metadata": {
-      "conversation_id": "1984914291405758622",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984914092264390707",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@CipherVectors @immoinulmoin @FactoryAI what do you want to see",
-    "url": "https://x.com/bentossell/status/1984914092264390707",
-    "timestamp": "2025-11-02T09:22:52.000Z",
-    "metadata": {
-      "conversation_id": "1984914092264390707",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984913957941817854",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@JennyChops88 @farizkamini @FactoryAI claude models 🙃",
-    "url": "https://x.com/bentossell/status/1984913957941817854",
-    "timestamp": "2025-11-02T09:22:20.000Z",
-    "metadata": {
-      "conversation_id": "1984913957941817854",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_300",
     "source": "github",
     "author": "dpalfery",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
