@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1984914415574241702",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@launchaddict @FactoryAI @Zai_org 🔥",
+    "url": "https://x.com/bentossell/status/1984914415574241702",
+    "timestamp": "2025-11-02T09:24:09.000Z",
+    "metadata": {
+      "conversation_id": "1984914415574241702",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984914291405758622",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JoelDeTeves @immoinulmoin @FactoryAI you can ask the models for clarifying qs, but yeah that seems nice and we may look at what to implement here",
+    "url": "https://x.com/bentossell/status/1984914291405758622",
+    "timestamp": "2025-11-02T09:23:39.000Z",
+    "metadata": {
+      "conversation_id": "1984914291405758622",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984914092264390707",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@CipherVectors @immoinulmoin @FactoryAI what do you want to see",
+    "url": "https://x.com/bentossell/status/1984914092264390707",
+    "timestamp": "2025-11-02T09:22:52.000Z",
+    "metadata": {
+      "conversation_id": "1984914092264390707",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984913957941817854",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JennyChops88 @farizkamini @FactoryAI claude models 🙃",
+    "url": "https://x.com/bentossell/status/1984913957941817854",
+    "timestamp": "2025-11-02T09:22:20.000Z",
+    "metadata": {
+      "conversation_id": "1984913957941817854",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984913465396592933",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@launchaddict @FactoryAI put in your https://t.co/UbRwToH5z7 :)",
+    "url": "https://x.com/bentossell/status/1984913465396592933",
+    "timestamp": "2025-11-02T09:20:22.000Z",
+    "metadata": {
+      "conversation_id": "1984913465396592933",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984911788228386817",
     "source": "twitter",
     "author": "hoopstheoryX",
@@ -38,9 +113,9 @@
     "timestamp": "2025-11-02T08:13:32.000Z",
     "metadata": {
       "conversation_id": "1984896644324921384",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -225,81 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984858327885725897",
-    "source": "twitter",
-    "author": "GitMaxd",
-    "content": "@geo_anima @immoinulmoin @FactoryAI Yes 👆",
-    "url": "https://x.com/GitMaxd/status/1984858327885725897",
-    "timestamp": "2025-11-02T05:41:16.000Z",
-    "metadata": {
-      "conversation_id": "1984858327885725897",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984853519636050138",
-    "source": "twitter",
-    "author": "solanker_ai",
-    "content": "Sorry, there was an error processing your request.",
-    "url": "https://x.com/solanker_ai/status/1984853519636050138",
-    "timestamp": "2025-11-02T05:22:10.000Z",
-    "metadata": {
-      "conversation_id": "1984853519636050138",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984853457581588636",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@DowClem @CipherVectors @FactoryAI i said cursor, not claude, it has better ui/ux that can impress the non/less tech guy more than devs",
-    "url": "https://x.com/immoinulmoin/status/1984853457581588636",
-    "timestamp": "2025-11-02T05:21:55.000Z",
-    "metadata": {
-      "conversation_id": "1984853457581588636",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984852993674735968",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@nelwin_catalogo @FactoryAI I could argue, but I am avoiding, keep using what works best fr u",
-    "url": "https://x.com/immoinulmoin/status/1984852993674735968",
-    "timestamp": "2025-11-02T05:20:05.000Z",
-    "metadata": {
-      "conversation_id": "1984852993674735968",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984850766738190578",
-    "source": "twitter",
-    "author": "geo_anima",
-    "content": "@immoinulmoin @FactoryAI I’d love to see Factory bring GPT-5 Pro to Droid. I want to use it for spec mode.",
-    "url": "https://x.com/geo_anima/status/1984850766738190578",
-    "timestamp": "2025-11-02T05:11:14.000Z",
-    "metadata": {
-      "conversation_id": "1984850766738190578",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_300",
     "source": "github",
     "author": "dpalfery",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -697,8 +697,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocv9jx",
+    "source": "reddit",
+    "author": "heretiqal",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
+    "timestamp": "2025-10-22T01:34:31.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 15,
       "subreddit": "FactoryAi"
     }
   },
