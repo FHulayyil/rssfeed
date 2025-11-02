@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985076846380376452",
+    "source": "twitter",
+    "author": "contxtkng",
+    "content": "@charliebholtz @FactoryAI next! Please don’t force me to go to cursor",
+    "url": "https://x.com/contxtkng/status/1985076846380376452",
+    "timestamp": "2025-11-02T20:09:35.000Z",
+    "metadata": {
+      "conversation_id": "1985076846380376452",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985074016810377571",
     "source": "twitter",
     "author": "lower_case_b",
@@ -83,7 +98,7 @@
     "timestamp": "2025-11-02T19:01:58.000Z",
     "metadata": {
       "conversation_id": "1985059828100743378",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985025439468040533",
-    "source": "twitter",
-    "author": "curiouslychase",
-    "content": "@mohit__kulhari @FactoryAI That's one of the reasons I like it!\n\nI have a friend who made a CLI tool that manages those for you using tmux. It's *super* cool: https://t.co/N8rWap10yt",
-    "url": "https://x.com/curiouslychase/status/1985025439468040533",
-    "timestamp": "2025-11-02T16:45:19.000Z",
-    "metadata": {
-      "conversation_id": "1985025439468040533",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1omlc3f",
     "source": "reddit",
     "author": "IslandOceanWater",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
