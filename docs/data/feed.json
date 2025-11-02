@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984875578491896284",
+    "source": "twitter",
+    "author": "JuiceSharp",
+    "content": "@CipherVectors @RayFernando1337 @FactoryAI I meant Pro in droid",
+    "url": "https://x.com/JuiceSharp/status/1984875578491896284",
+    "timestamp": "2025-11-02T06:49:49.000Z",
+    "metadata": {
+      "conversation_id": "1984875578491896284",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984874346104447141",
+    "source": "twitter",
+    "author": "JuiceSharp",
+    "content": "@CipherVectors @RayFernando1337 @FactoryAI I actually also have a Pro plan but for a different reason. I just believe the good effort must be paid well. They crafted a very good product under the given constraints.",
+    "url": "https://x.com/JuiceSharp/status/1984874346104447141",
+    "timestamp": "2025-11-02T06:44:55.000Z",
+    "metadata": {
+      "conversation_id": "1984874346104447141",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984870437164368234",
     "source": "twitter",
     "author": "CipherVectors",
@@ -10,7 +40,7 @@
       "conversation_id": "1984870437164368234",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984819923236110763",
-    "source": "twitter",
-    "author": "SkylerMiao7",
-    "content": "@SvenMeyer @FactoryAI @MiniMax__AI @OpenRouterAI Not sure... We will try it and give you the feedback!",
-    "url": "https://x.com/SkylerMiao7/status/1984819923236110763",
-    "timestamp": "2025-11-02T03:08:40.000Z",
-    "metadata": {
-      "conversation_id": "1984819923236110763",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984817626879500358",
-    "source": "twitter",
-    "author": "DavidPrenticeJr",
-    "content": "@fernandooghh @uratmangun2 @FactoryAI @ollama Thanks will check this out. Been using composer 1",
-    "url": "https://x.com/DavidPrenticeJr/status/1984817626879500358",
-    "timestamp": "2025-11-02T02:59:33.000Z",
-    "metadata": {
-      "conversation_id": "1984817626879500358",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_300",
     "source": "github",
     "author": "dpalfery",
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -690,15 +690,15 @@
     }
   },
   {
-    "id": "reddit_1odjcfl",
+    "id": "reddit_1odatnb",
     "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
+    "author": "Conscious-Fee7844",
+    "content": "BUG: When using @ to find/\"read\" a file.. everything slows down very badly\n\nJust a heads up to the authors.. I am in a \"root\" folder, and trying to find/load a .md file I had generated the day before for context. Basically summary of work/etc done and what was left. In Claude Code this works very fast in the CLI. But in Droid.. as I am in a folder that has lots of sub folders AND files.. it starts off not bad but as I try to get to the ../ path (a folder that is a sibling of the one I am in) OR even starting in the top folder and trying to do the '@ path/path2/path3/fil",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odatnb/bug_when_using_to_findread_a_file_everything/",
+    "timestamp": "2025-10-22T15:06:14.000Z",
     "metadata": {
-      "score": 4,
-      "num_comments": 9,
+      "score": 1,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
