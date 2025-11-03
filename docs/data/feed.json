@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_303",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Checkout new method for contexts compression by Deepseek\n\nhttps://github.com/deepseek-ai/DeepSeek-OCR\n\nSeems promising as a method for compressing context which could improve various aspects of the app",
+    "url": "https://github.com/Factory-AI/factory/issues/303",
+    "timestamp": "2025-11-03T14:53:31Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 303
+    }
+  },
+  {
+    "id": "twitter_1985357488460304476",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@nkgoutham @Aymen94Jelassi @FactoryAI My Factory referral code grants $40 in Droid credit for each of us 🍻\n\nhttps://t.co/l3dCug8gJX",
+    "url": "https://x.com/geo_anima/status/1985357488460304476",
+    "timestamp": "2025-11-03T14:44:46.000Z",
+    "metadata": {
+      "conversation_id": "1985357488460304476",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985354625722241141",
     "source": "twitter",
     "author": "nkgoutham",
@@ -285,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985282882462429660",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@jdryguy @FactoryAI 🧠",
-    "url": "https://x.com/bentossell/status/1985282882462429660",
-    "timestamp": "2025-11-03T09:48:18.000Z",
-    "metadata": {
-      "conversation_id": "1985282882462429660",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_302",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -321,7 +334,7 @@
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
       "score": 4,
-      "num_comments": 0,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -373,7 +386,7 @@
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
       "score": 5,
-      "num_comments": 8,
+      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },
@@ -425,7 +438,7 @@
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
       "score": 4,
-      "num_comments": 0,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -625,19 +638,6 @@
     }
   },
   {
-    "id": "github_issue_268",
-    "source": "github",
-    "author": "tickideas",
-    "content": "[Issue] Markdown file not generated for spec and plan when explicitly requested with custom model\n\nWhen I run Factory AI Droid with a custom model and request the output of spec and plan to a markdown file, the file is not generated. This behavior occurs even when I specify the output option. The same option works as expected with predefined models, but fails with a custom model.",
-    "url": "https://github.com/Factory-AI/factory/issues/268",
-    "timestamp": "2025-10-27T14:53:28Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 268
-    }
-  },
-  {
     "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
