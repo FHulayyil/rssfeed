@@ -333,8 +333,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 6,
-      "num_comments": 5,
+      "score": 4,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
@@ -372,7 +372,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -700,6 +700,19 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
+    }
+  },
+  {
+    "id": "reddit_1odjcfl",
+    "source": "reddit",
+    "author": "Hassan_A2H",
+    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
+    "timestamp": "2025-10-22T20:20:05.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
     }
   },
   {
