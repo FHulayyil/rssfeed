@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985210685626708221",
+    "source": "twitter",
+    "author": "jdryguy",
+    "content": "I'm surprised I don't see more posts about @FactoryAI . It is very cool. It seems to really keep GPT Codex and Claude focused",
+    "url": "https://x.com/jdryguy/status/1985210685626708221",
+    "timestamp": "2025-11-03T05:01:25.000Z",
+    "metadata": {
+      "conversation_id": "1985210685626708221",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985205371158368742",
     "source": "twitter",
     "author": "nkgoutham",
@@ -53,7 +68,7 @@
     "timestamp": "2025-11-03T04:35:34.000Z",
     "metadata": {
       "conversation_id": "1985204181339136044",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985106082533105939",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@juanmackie @ivanfioravanti can you run a Claude Code as various instances with different models at the same time, does cc only read the config at startup?\nBeside that I prefer to run the different models in @FactoryAI DROID where I can easily add models and switch anytime, even mid way.",
-    "url": "https://x.com/SvenMeyer/status/1985106082533105939",
-    "timestamp": "2025-11-02T22:05:46.000Z",
-    "metadata": {
-      "conversation_id": "1985106082533105939",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1omo14j",
     "source": "reddit",
     "author": "HanSkin-reynard",
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -686,19 +686,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oegs4w",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 18,
       "subreddit": "FactoryAi"
     }
   },
