@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985930456823710041",
+    "source": "twitter",
+    "author": "pgbouncer",
+    "content": "@jeffreyhuber Are they really underrated though? Feel like there’s lots of talk around what eg @FactoryAI are doing to improve harness experience",
+    "url": "https://x.com/pgbouncer/status/1985930456823710041",
+    "timestamp": "2025-11-05T04:41:32.000Z",
+    "metadata": {
+      "conversation_id": "1985930456823710041",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985922655279857822",
     "source": "twitter",
     "author": "garyfung",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985854714676912519",
-    "source": "twitter",
-    "author": "dogancanbaris",
-    "content": "@5aikat @FactoryAI Droid is straight garbage. Like tried all the models, in very different ways it is far worse than codex and cc. It is sometimes so bad that no matter how smart models are being used in droid, it won’t still work for users",
-    "url": "https://x.com/dogancanbaris/status/1985854714676912519",
-    "timestamp": "2025-11-04T23:40:34.000Z",
-    "metadata": {
-      "conversation_id": "1985854714676912519",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oomptx",
     "source": "reddit",
     "author": "samplifyk",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -698,19 +698,6 @@
     "timestamp": "2025-10-25T03:21:56.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh3rn",
-    "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
-    "metadata": {
-      "score": 2,
       "num_comments": 1,
       "subreddit": "FactoryAi"
     }
