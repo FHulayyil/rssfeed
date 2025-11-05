@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1986045094487847375",
+    "source": "twitter",
+    "author": "rezaul_arif",
+    "content": "Thank you, @FactoryAI pleasure 🤝 https://t.co/gxby6hXVqp",
+    "url": "https://x.com/rezaul_arif/status/1986045094487847375",
+    "timestamp": "2025-11-05T12:17:04.000Z",
+    "metadata": {
+      "conversation_id": "1986045094487847375",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986044661912527189",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "@LeeLeepenkman @FactoryAI ain't it the way",
+    "url": "https://x.com/MickeyShaughnes/status/1986044661912527189",
+    "timestamp": "2025-11-05T12:15:20.000Z",
+    "metadata": {
+      "conversation_id": "1986044661912527189",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986044303324627025",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@edels0n @matanSF @FactoryAI that was a very insightful chat, @edels0n and @matanSF. great look into the future of AI.",
+    "url": "https://x.com/BillCrosby/status/1986044303324627025",
+    "timestamp": "2025-11-05T12:13:55.000Z",
+    "metadata": {
+      "conversation_id": "1986044303324627025",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986042356689223873",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@dogancanbaris @5aikat @FactoryAI oh no - not the experience we've heard often. are you using sonnet and have instructions in agents/claude.md files? happy to take a look to see what went wrong for you",
+    "url": "https://x.com/bentossell/status/1986042356689223873",
+    "timestamp": "2025-11-05T12:06:11.000Z",
+    "metadata": {
+      "conversation_id": "1986042356689223873",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986025624088068537",
     "source": "twitter",
     "author": "NikolasTsa12265",
@@ -188,7 +248,7 @@
     "timestamp": "2025-11-05T04:41:32.000Z",
     "metadata": {
       "conversation_id": "1985930456823710041",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985921608977092801",
-    "source": "twitter",
-    "author": "garyfung",
-    "content": "@brexton @cursor_ai @AmpCode @FactoryAI interesting! Factory seems like a winner on quality code and cost efficiency",
-    "url": "https://x.com/garyfung/status/1985921608977092801",
-    "timestamp": "2025-11-05T04:06:22.000Z",
-    "metadata": {
-      "conversation_id": "1985921608977092801",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985920641749696770",
-    "source": "twitter",
-    "author": "LeeLeepenkman",
-    "content": "@MickeyShaughnes @FactoryAI yea nice that worked asking it to self test :D",
-    "url": "https://x.com/LeeLeepenkman/status/1985920641749696770",
-    "timestamp": "2025-11-05T04:02:32.000Z",
-    "metadata": {
-      "conversation_id": "1985920641749696770",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985916677918507172",
-    "source": "twitter",
-    "author": "MickeyShaughnes",
-    "content": "@LeeLeepenkman I like to switch to integration tests at a time like this.\n\nAlso you might like to try droid from @factoryAI",
-    "url": "https://x.com/MickeyShaughnes/status/1985916677918507172",
-    "timestamp": "2025-11-05T03:46:47.000Z",
-    "metadata": {
-      "conversation_id": "1985916677918507172",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985914685930230008",
-    "source": "twitter",
-    "author": "Beareka",
-    "content": "@offchan420 @EashanSinha @windsurf @verdent_ai @FactoryAI I confirm Cascade in Windsurf is very good in following previous instructions if you from some reasons have to prompt \"Continue\", which is quite rare and imho depends a bit on the model you choose",
-    "url": "https://x.com/Beareka/status/1985914685930230008",
-    "timestamp": "2025-11-05T03:38:52.000Z",
-    "metadata": {
-      "conversation_id": "1985914685930230008",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oomptx",
     "source": "reddit",
     "author": "samplifyk",
@@ -308,7 +308,7 @@
     "timestamp": "2025-11-04T23:17:50.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 0,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 7,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -547,19 +547,6 @@
     }
   },
   {
-    "id": "github_issue_279",
-    "source": "github",
-    "author": "denysvitali",
-    "content": "[Issue] Can't run Droid on Alpine Linux\n\nWhen running Droid on Alpine Linux in x86_64 I get:\n\n```\nError relocating /usr/bin/droid: unsupported relocation type 37\n```\n\nPerplexity (with GPT-5 Thinking) says:\n\n> This fails because the droid binary uses the GNU IFUNC relocation R_X86_64_IRELATIVE (relocation type 37), which Alpine’s musl dynamic loader does not support, so the loader rejects it with “unsupported relocation type 37.” [1][2][3]\n> To run it, either use a glibc-based environment or a build compiled for musl (or rebuild without",
-    "url": "https://github.com/Factory-AI/factory/issues/279",
-    "timestamp": "2025-10-29T06:13:13Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 279
-    }
-  },
-  {
     "id": "reddit_1oipsqf",
     "source": "reddit",
     "author": "StrixGGUY",
@@ -567,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -674,6 +661,19 @@
       "type": "issue",
       "labels": [],
       "number": 265
+    }
+  },
+  {
+    "id": "github_issue_262",
+    "source": "github",
+    "author": "tofunori",
+    "content": "[Issue] [Bug] Droid CLI duplicates infinitely when opening new tab in PowerShell (Windows)\n\n## Description\nWhen opening a new tab in PowerShell on Windows, the droid CLI process starts duplicating infinitely, creating multiple \"Thinking...\" processes that cannot be stopped.\n\n## Steps to Reproduce\n1. Open PowerShell on Windows\n2. Run the droid CLI\n3. Open a new PowerShell tab\n4. Observe the infinite duplication\n\n## Expected Behavior\nOpening a new tab should not trigger any duplication or unexpected behavior in the droid CLI.\n\n## Actual Behavior\nThe droid CLI starts creating infinite \"Th",
+    "url": "https://github.com/Factory-AI/factory/issues/262",
+    "timestamp": "2025-10-26T00:00:41Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 262
     }
   },
   {
