@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1986025624088068537",
+    "source": "twitter",
+    "author": "NikolasTsa12265",
+    "content": "Dear @FactoryAI \n\nCan't we use subagents while on FREE tier?\n\nI use the BYOK functionality, but looks like subagents return a 402/403 error.",
+    "url": "https://x.com/NikolasTsa12265/status/1986025624088068537",
+    "timestamp": "2025-11-05T10:59:42.000Z",
+    "metadata": {
+      "conversation_id": "1986025624088068537",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985994523252871532",
     "source": "twitter",
     "author": "hexawulf",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985906845647573438",
-    "source": "twitter",
-    "author": "lurklaughlaunch",
-    "content": "@theo please do a review of @FactoryAI , I see so much hype but need to hear a review from a known trustworthy voice",
-    "url": "https://x.com/lurklaughlaunch/status/1985906845647573438",
-    "timestamp": "2025-11-05T03:07:43.000Z",
-    "metadata": {
-      "conversation_id": "1985906845647573438",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oomptx",
     "source": "reddit",
     "author": "samplifyk",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
