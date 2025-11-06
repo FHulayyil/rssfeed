@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1986441206046372075",
+    "source": "twitter",
+    "author": "mnair1",
+    "content": "@snyksec + @FactoryAI 🚀\nAI is writing code — now it can secure it too.\n\nBy embedding Snyk Studio into Factory’s AI Droids, every line of AI-generated code is secured at inception and remediated intelligently.\n\n🎥👇\nhttps://t.co/4i3etkjKmq\n\n⌨️ https://t.co/a6SjJtyEUT\n\n@matanSF 💥",
+    "url": "https://x.com/mnair1/status/1986441206046372075",
+    "timestamp": "2025-11-06T14:31:04.000Z",
+    "metadata": {
+      "conversation_id": "1986441206046372075",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986440627312001303",
     "source": "twitter",
     "author": "pascallammers_",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-06T14:28:46.000Z",
     "metadata": {
       "conversation_id": "1986440627312001303",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -263,7 +278,7 @@
     "timestamp": "2025-11-06T09:55:15.000Z",
     "metadata": {
       "conversation_id": "1986371793414680840",
-      "likes": 19,
+      "likes": 21,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -278,21 +293,6 @@
     "timestamp": "2025-11-06T08:38:09.000Z",
     "metadata": {
       "conversation_id": "1986352390690512940",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986352056064745575",
-    "source": "twitter",
-    "author": "dctmfoo",
-    "content": "@bitdoze @AmpCode @GeminiApp @FactoryAI 😴 too long man",
-    "url": "https://x.com/dctmfoo/status/1986352056064745575",
-    "timestamp": "2025-11-06T08:36:49.000Z",
-    "metadata": {
-      "conversation_id": "1986352056064745575",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -557,6 +557,19 @@
       "type": "issue",
       "labels": [],
       "number": 282
+    }
+  },
+  {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 23,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -677,27 +690,14 @@
     }
   },
   {
-    "id": "reddit_1ofmunx",
+    "id": "reddit_1ofh3rn",
     "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
-    "timestamp": "2025-10-25T09:01:37.000Z",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
     "metadata": {
-      "score": 11,
-      "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh9so",
-    "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
-    "metadata": {
-      "score": 1,
+      "score": 2,
       "num_comments": 1,
       "subreddit": "FactoryAi"
     }
