@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1986310856788103188",
+    "source": "twitter",
+    "author": "heySoumyo",
+    "content": "@abhi1thakur @FactoryAI is missing from the list.",
+    "url": "https://x.com/heySoumyo/status/1986310856788103188",
+    "timestamp": "2025-11-06T05:53:06.000Z",
+    "metadata": {
+      "conversation_id": "1986310856788103188",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986308789549895854",
+    "source": "twitter",
+    "author": "NLilichenko",
+    "content": "@acoustik @matanSF @FactoryAI Small bug on our end! Shouldn’t be an issue anymore.",
+    "url": "https://x.com/NLilichenko/status/1986308789549895854",
+    "timestamp": "2025-11-06T05:44:53.000Z",
+    "metadata": {
+      "conversation_id": "1986308789549895854",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986303165827035448",
     "source": "twitter",
     "author": "contxtkng",
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1986203009315926471",
-    "source": "twitter",
-    "author": "lurklaughlaunch",
-    "content": "@theo Try out Droid from @FactoryAI \nI’m totally unaffiliated I’ve just seen a bunch of hype about it and wanna know how it stacks up to other harnesses",
-    "url": "https://x.com/lurklaughlaunch/status/1986203009315926471",
-    "timestamp": "2025-11-05T22:44:33.000Z",
-    "metadata": {
-      "conversation_id": "1986203009315926471",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986201993602326609",
-    "source": "twitter",
-    "author": "thedockpod",
-    "content": "Building @FactoryAI after being an investor.\nFrom investor to DevRel w/ @bentossell.\n\nSearch “Omar Waseem” on YouTube for the full episode. https://t.co/hntzj0i26D",
-    "url": "https://x.com/thedockpod/status/1986201993602326609",
-    "timestamp": "2025-11-05T22:40:31.000Z",
-    "metadata": {
-      "conversation_id": "1986201993602326609",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1op6njm",
     "source": "reddit",
     "author": "Sakrilegi0us",
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 13,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
