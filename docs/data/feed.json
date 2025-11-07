@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1986937365685018900",
+    "source": "twitter",
+    "author": "sporadica",
+    "content": "@FactoryAI you mean to tell me this is who i'm chatting with\n\nam i being cat-fished https://t.co/t4qxaYmz8d",
+    "url": "https://x.com/sporadica/status/1986937365685018900",
+    "timestamp": "2025-11-07T23:22:38.000Z",
+    "metadata": {
+      "conversation_id": "1986937365685018900",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986936468691165592",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "@shinboson @FactoryAI 💪",
+    "url": "https://x.com/MickeyShaughnes/status/1986936468691165592",
+    "timestamp": "2025-11-07T23:19:04.000Z",
+    "metadata": {
+      "conversation_id": "1986936468691165592",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986936349203857758",
+    "source": "twitter",
+    "author": "shinboson",
+    "content": "@MickeyShaughnes @FactoryAI I'll take a look!",
+    "url": "https://x.com/shinboson/status/1986936349203857758",
+    "timestamp": "2025-11-07T23:18:35.000Z",
+    "metadata": {
+      "conversation_id": "1986936349203857758",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986934942735982858",
+    "source": "twitter",
+    "author": "jxhnnyheo",
+    "content": "@nathandrake claude code on the web or @FactoryAI",
+    "url": "https://x.com/jxhnnyheo/status/1986934942735982858",
+    "timestamp": "2025-11-07T23:13:00.000Z",
+    "metadata": {
+      "conversation_id": "1986934942735982858",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986932368427635134",
+    "source": "twitter",
+    "author": "rachelldev",
+    "content": "@thedanifrim @FactoryAI have you tried Codex?",
+    "url": "https://x.com/rachelldev/status/1986932368427635134",
+    "timestamp": "2025-11-07T23:02:46.000Z",
+    "metadata": {
+      "conversation_id": "1986932368427635134",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986931949265723680",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@gilhildebrand @cursor_ai @FactoryAI Why just for the hard stuff?",
+    "url": "https://x.com/matanSF/status/1986931949265723680",
+    "timestamp": "2025-11-07T23:01:06.000Z",
+    "metadata": {
+      "conversation_id": "1986931949265723680",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986926119187046605",
     "source": "twitter",
     "author": "gilhildebrand",
@@ -8,9 +98,9 @@
     "timestamp": "2025-11-07T22:37:56.000Z",
     "metadata": {
       "conversation_id": "1986926119187046605",
-      "likes": 0,
+      "likes": 3,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -201,7 +291,7 @@
     "timestamp": "2025-11-07T20:52:51.000Z",
     "metadata": {
       "conversation_id": "1986899672217362924",
-      "likes": 5,
+      "likes": 6,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -223,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1986895843685732731",
-    "source": "twitter",
-    "author": "nathanpareo",
-    "content": "@bentossell @OpenAI @GeminiApp @FactoryAI @cursor_ai @claudeai You are doing a great job! I am mostly a lurker there.\n\nThe sub is small right now, and that may impact the sentiment, but as a user, I am very happy with Droid.",
-    "url": "https://x.com/nathanpareo/status/1986895843685732731",
-    "timestamp": "2025-11-07T20:37:38.000Z",
-    "metadata": {
-      "conversation_id": "1986895843685732731",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1or5cow",
     "source": "reddit",
     "author": "Durst123",
@@ -248,81 +323,6 @@
       "score": 1,
       "num_comments": 4,
       "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "twitter_1986891389666533476",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@nathanpareo @OpenAI @GeminiApp @FactoryAI @cursor_ai @claudeai 😮 im new to being a mod - we just got access to our page. need to figure out how to make it great :)",
-    "url": "https://x.com/bentossell/status/1986891389666533476",
-    "timestamp": "2025-11-07T20:19:56.000Z",
-    "metadata": {
-      "conversation_id": "1986891389666533476",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986890849905520979",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@explorersofai @myaitutor @FactoryAI soon - sorry, you can byok with openrouter or others theres some examples in our docs too https://t.co/MGaQMD9zZy",
-    "url": "https://x.com/bentossell/status/1986890849905520979",
-    "timestamp": "2025-11-07T20:17:47.000Z",
-    "metadata": {
-      "conversation_id": "1986890849905520979",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986887038671474984",
-    "source": "twitter",
-    "author": "thedanifrim",
-    "content": "@thevibecodr @FactoryAI Maybe that’s been your experience. \n\nI haven’t done A/B testing, I use CC and Droid for real projects that go into production. \n\nRight now, I trust Droid more than CC because it gives me more reliable results.",
-    "url": "https://x.com/thedanifrim/status/1986887038671474984",
-    "timestamp": "2025-11-07T20:02:39.000Z",
-    "metadata": {
-      "conversation_id": "1986887038671474984",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986886148183236729",
-    "source": "twitter",
-    "author": "mikez93",
-    "content": "@RepoPrompt @FactoryAI @pvncher Cool I figured there was a good reason. Thanks for the reply.",
-    "url": "https://x.com/mikez93/status/1986886148183236729",
-    "timestamp": "2025-11-07T19:59:06.000Z",
-    "metadata": {
-      "conversation_id": "1986886148183236729",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986885975537316196",
-    "source": "twitter",
-    "author": "RepoPrompt",
-    "content": "@mikez93 @FactoryAI @pvncher Yeah we dont yet have support for Codex in that way because its not possible to fully turn off tool calls on codex and I've been relunctant to make this work the same way. That said, working on options to make it possible",
-    "url": "https://x.com/RepoPrompt/status/1986885975537316196",
-    "timestamp": "2025-11-07T19:58:25.000Z",
-    "metadata": {
-      "conversation_id": "1986885975537316196",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
     }
   },
   {
@@ -346,7 +346,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -700,6 +700,19 @@
       "type": "issue",
       "labels": [],
       "number": 265
+    }
+  },
+  {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 11,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
     }
   },
   {
