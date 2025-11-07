@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1986848229489537148",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Alberto8793 @matanSF @FactoryAI sonnet or codex",
+    "url": "https://x.com/bentossell/status/1986848229489537148",
+    "timestamp": "2025-11-07T17:28:26.000Z",
+    "metadata": {
+      "conversation_id": "1986848229489537148",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986838511865954476",
     "source": "twitter",
     "author": "bentossell",
@@ -40,7 +55,7 @@
       "conversation_id": "1986838133011313124",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,9 +128,9 @@
     "timestamp": "2025-11-07T15:55:30.000Z",
     "metadata": {
       "conversation_id": "1986824843388391778",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -248,7 +263,7 @@
     "timestamp": "2025-11-07T15:20:35.000Z",
     "metadata": {
       "conversation_id": "1986816054073376779",
-      "likes": 6,
+      "likes": 7,
       "retweets": 1,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1986806279818408358",
-    "source": "twitter",
-    "author": "thedanifrim",
-    "content": "They are really going to make me pay for that 200M plan...\n\nI just find Droid @FactoryAI to be more reliable than CC.\n\nWhen something doesn't work I always go to Droid, and it solves it. https://t.co/sE1GrbYVFa",
-    "url": "https://x.com/thedanifrim/status/1986806279818408358",
-    "timestamp": "2025-11-07T14:41:44.000Z",
-    "metadata": {
-      "conversation_id": "1986806279818408358",
-      "likes": 17,
-      "retweets": 1,
-      "replies": 5,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_319",
     "source": "github",
     "author": "Bladed3d",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 12,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -699,19 +699,6 @@
     "metadata": {
       "score": 12,
       "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh9so",
-    "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
