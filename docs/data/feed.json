@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1987534120252035379",
+    "source": "twitter",
+    "author": "truffle",
+    "content": "@SvenMeyer @luongnv89 @lucas_montano @FactoryAI @ollama Claude code limitations? My heart hurts every time I use other CLIs.",
+    "url": "https://x.com/truffle/status/1987534120252035379",
+    "timestamp": "2025-11-09T14:53:55.000Z",
+    "metadata": {
+      "conversation_id": "1987534120252035379",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1987534039126012080",
+    "source": "twitter",
+    "author": "coyotevn",
+    "content": "@bentossell @FactoryAI Yeah. Would love to know more of your agents .md file too. \n\nI’m switching from Claude, and Droid is super wonderful and easy to use for a semi-non tech :D",
+    "url": "https://x.com/coyotevn/status/1987534039126012080",
+    "timestamp": "2025-11-09T14:53:36.000Z",
+    "metadata": {
+      "conversation_id": "1987534039126012080",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1987527995246989386",
     "source": "twitter",
     "author": "TSpencer260",
@@ -100,7 +130,7 @@
       "conversation_id": "1987516865820705202",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -148,6 +178,19 @@
     }
   },
   {
+    "id": "reddit_1osf7sj",
+    "source": "reddit",
+    "author": "LittleChallenge8717",
+    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI), \n\n  \n\"\n\n WEB SEARCH  (\"current bitcoin price BTC USD\")\n\n Search failed: Error: Error performing web search: Fetch failed\n\n\n\n WEB SEARCH  (\"ethereum ETH price USD current\")\n\n Search failed: Error: Error performing web search: Fetch failed\n\n  \n\"\n\n  \n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n ⚠ Task failed\n\n\n\n TASK  (seo-meta-optimizer: \"Optimize metadata for ar",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
+    "timestamp": "2025-11-09T09:35:38.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_329",
     "source": "github",
     "author": "TheSingular",
@@ -171,7 +214,7 @@
       "conversation_id": "1987437062052774322",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -184,7 +227,7 @@
     "timestamp": "2025-11-09T06:06:13.000Z",
     "metadata": {
       "conversation_id": "1987401318953308522",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -214,7 +257,7 @@
     "timestamp": "2025-11-09T03:34:39.000Z",
     "metadata": {
       "conversation_id": "1987363177433341996",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -261,7 +304,7 @@
       "conversation_id": "1987294289123287451",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -296,36 +339,6 @@
     }
   },
   {
-    "id": "twitter_1987260479891296270",
-    "source": "twitter",
-    "author": "leoisadev",
-    "content": "@bentossell @thedanifrim @FactoryAI @osschat I'll check that out with droid, hopefully it will be good!",
-    "url": "https://x.com/leoisadev/status/1987260479891296270",
-    "timestamp": "2025-11-08T20:46:34.000Z",
-    "metadata": {
-      "conversation_id": "1987260479891296270",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987258411730252173",
-    "source": "twitter",
-    "author": "peterdedene",
-    "content": "@bindureddy That 6-month gap is evaporating. Can’t wait for this model to find its way to platforms like @FactoryAI or @cerebras",
-    "url": "https://x.com/peterdedene/status/1987258411730252173",
-    "timestamp": "2025-11-08T20:38:21.000Z",
-    "metadata": {
-      "conversation_id": "1987258411730252173",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_328",
     "source": "github",
     "author": "a112121788",
@@ -352,6 +365,19 @@
     }
   },
   {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_319",
     "source": "github",
     "author": "Bladed3d",
@@ -362,6 +388,19 @@
       "type": "issue",
       "labels": [],
       "number": 319
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 14,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -430,6 +469,32 @@
     }
   },
   {
+    "id": "reddit_1omo14j",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
+    "timestamp": "2025-11-02T17:56:04.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omlc3f",
+    "source": "reddit",
+    "author": "IslandOceanWater",
+    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
+    "timestamp": "2025-11-02T16:11:56.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -453,6 +518,19 @@
       "type": "issue",
       "labels": [],
       "number": 300
+    }
+  },
+  {
+    "id": "reddit_1om3tvt",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "Good work guys, just keep doing it!\n\nhttps://preview.redd.it/9n6ma7a6pqyf1.png?width=1637&amp;format=png&amp;auto=webp&amp;s=6888d3623cebb5cd9517a6e4c4142b6f29713f33\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
+    "timestamp": "2025-11-02T00:38:45.000Z",
+    "metadata": {
+      "score": 9,
+      "num_comments": 13,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -560,19 +638,6 @@
     }
   },
   {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 23,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_278",
     "source": "github",
     "author": "jakob1379",
@@ -638,58 +703,6 @@
     }
   },
   {
-    "id": "reddit_1ofmunx",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
-    "timestamp": "2025-10-25T09:01:37.000Z",
-    "metadata": {
-      "score": 12,
-      "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh9so",
-    "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh3rn",
-    "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1of1zjv",
-    "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -700,19 +713,6 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
-    }
-  },
-  {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -729,19 +729,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -752,19 +739,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
     }
   },
   {
