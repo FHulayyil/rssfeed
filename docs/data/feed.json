@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1987517301575262513",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@peterdedene @bindureddy @FactoryAI @cerebras looking at it :)",
+    "url": "https://x.com/bentossell/status/1987517301575262513",
+    "timestamp": "2025-11-09T13:47:05.000Z",
+    "metadata": {
+      "conversation_id": "1987517301575262513",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1987517235741798802",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@fire @FactoryAI @Kimi_Moonshot @nahcrof should be in monday/tuesday :) (for both)",
+    "url": "https://x.com/bentossell/status/1987517235741798802",
+    "timestamp": "2025-11-09T13:46:49.000Z",
+    "metadata": {
+      "conversation_id": "1987517235741798802",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1987517131844469050",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JoelDeTeves @FactoryAI you can run new worktrees in new windows (im doing it rn for the first time in my life!) \n\nbut coming soon to a web product near you",
+    "url": "https://x.com/bentossell/status/1987517131844469050",
+    "timestamp": "2025-11-09T13:46:25.000Z",
+    "metadata": {
+      "conversation_id": "1987517131844469050",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1987516971920068948",
     "source": "twitter",
     "author": "bentossell",
@@ -23,7 +68,7 @@
     "timestamp": "2025-11-09T13:45:21.000Z",
     "metadata": {
       "conversation_id": "1987516865820705202",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -73,6 +118,19 @@
     }
   },
   {
+    "id": "reddit_1osf7sj",
+    "source": "reddit",
+    "author": "LittleChallenge8717",
+    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI), \n\n  \n\"\n\n WEB SEARCH  (\"current bitcoin price BTC USD\")\n\n Search failed: Error: Error performing web search: Fetch failed\n\n\n\n WEB SEARCH  (\"ethereum ETH price USD current\")\n\n Search failed: Error: Error performing web search: Fetch failed\n\n  \n\"\n\n  \n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n ⚠ Task failed\n\n\n\n TASK  (seo-meta-optimizer: \"Optimize metadata for ar",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
+    "timestamp": "2025-11-09T09:35:38.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_329",
     "source": "github",
     "author": "TheSingular",
@@ -96,7 +154,7 @@
       "conversation_id": "1987437062052774322",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -109,7 +167,7 @@
     "timestamp": "2025-11-09T06:06:13.000Z",
     "metadata": {
       "conversation_id": "1987401318953308522",
-      "likes": 1,
+      "likes": 0,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -139,7 +197,7 @@
     "timestamp": "2025-11-09T03:34:39.000Z",
     "metadata": {
       "conversation_id": "1987363177433341996",
-      "likes": 3,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -186,7 +244,7 @@
       "conversation_id": "1987294289123287451",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -199,7 +257,7 @@
     "timestamp": "2025-11-08T21:35:14.000Z",
     "metadata": {
       "conversation_id": "1987272726411976800",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -216,7 +274,7 @@
       "conversation_id": "1987265243261858033",
       "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -244,9 +302,9 @@
     "timestamp": "2025-11-08T20:38:21.000Z",
     "metadata": {
       "conversation_id": "1987258411730252173",
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -281,51 +339,6 @@
     }
   },
   {
-    "id": "twitter_1987247779249594714",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@tinscape @FactoryAI coming!",
-    "url": "https://x.com/bentossell/status/1987247779249594714",
-    "timestamp": "2025-11-08T19:56:06.000Z",
-    "metadata": {
-      "conversation_id": "1987247779249594714",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987246842724143107",
-    "source": "twitter",
-    "author": "leoisadev",
-    "content": "Forgot to mention this but Claude $200 subscription also gives me a website with \"research\" mode, while I am making @osschat to make a better website with more customizability etc, I understand it's hard to compete with bigger tech giants but there has to be some kind of benefit of Droid.\n\nI have tried droid before and I did like the planning mode a lot lot lot more than others because it was very nice and useful, but unless you can proxy a claude code subscription like opencode lets you I don't see a real point of buying the $200 plan from @FactoryAI",
-    "url": "https://x.com/leoisadev/status/1987246842724143107",
-    "timestamp": "2025-11-08T19:52:23.000Z",
-    "metadata": {
-      "conversation_id": "1987246842724143107",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987245878441066551",
-    "source": "twitter",
-    "author": "leoisadev",
-    "content": "Just wondering why \"we're better\" is the case?\n\nI like codex cli it doesn't have background agents and subagents but other than that it's really good. Plus perplexity did some math and with the $20 plan with glm 4.6 I only get 80 million tokens while for $30 more I can get a cerebras code subscription to get 24 million tokens per day and lets say I hit each day 24 million then it'll be 720,000,000 million tokens per month. Would be cool if factory ai made their own model like cursor or windsurf and gave very high rate limits and if it's just on par with 4 sonnet it would be good enough.",
-    "url": "https://x.com/leoisadev/status/1987245878441066551",
-    "timestamp": "2025-11-08T19:48:33.000Z",
-    "metadata": {
-      "conversation_id": "1987245878441066551",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_328",
     "source": "github",
     "author": "a112121788",
@@ -352,6 +365,19 @@
     }
   },
   {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_319",
     "source": "github",
     "author": "Bladed3d",
@@ -362,6 +388,32 @@
       "type": "issue",
       "labels": [],
       "number": 319
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 14,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oomptx",
+    "source": "reddit",
+    "author": "samplifyk",
+    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
+    "timestamp": "2025-11-04T23:17:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -404,6 +456,32 @@
     }
   },
   {
+    "id": "reddit_1oneja7",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
+    "timestamp": "2025-11-03T15:20:27.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omo14j",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
+    "timestamp": "2025-11-02T17:56:04.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1omlc3f",
     "source": "reddit",
     "author": "IslandOceanWater",
@@ -411,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 7,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -450,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -560,19 +638,6 @@
     }
   },
   {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 7,
-      "num_comments": 23,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_278",
     "source": "github",
     "author": "jakob1379",
@@ -638,58 +703,6 @@
     }
   },
   {
-    "id": "reddit_1ofmunx",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
-    "timestamp": "2025-10-25T09:01:37.000Z",
-    "metadata": {
-      "score": 12,
-      "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh9so",
-    "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh3rn",
-    "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1of1zjv",
-    "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -700,19 +713,6 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
-    }
-  },
-  {
-    "id": "reddit_1odjcfl",
-    "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 9,
-      "subreddit": "FactoryAi"
     }
   },
   {
