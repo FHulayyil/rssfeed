@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1987521915745882490",
+    "source": "twitter",
+    "author": "luongnv89",
+    "content": "@SvenMeyer @lucas_montano @FactoryAI @ollama There are plenty of similar products out there. I have tried several of them. And I am still learning to use Claude Code. But in my opinion, Claude Code likes iPhone, and then the rest. Here is my learning journey: Discovering Claude Code: Slash Commands https://t.co/1y424NKquX",
+    "url": "https://x.com/luongnv89/status/1987521915745882490",
+    "timestamp": "2025-11-09T14:05:25.000Z",
+    "metadata": {
+      "conversation_id": "1987521915745882490",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1987517301575262513",
     "source": "twitter",
     "author": "bentossell",
@@ -83,7 +98,7 @@
     "timestamp": "2025-11-09T13:42:57.000Z",
     "metadata": {
       "conversation_id": "1987516258737090846",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -113,7 +128,7 @@
       "conversation_id": "1987455002374545562",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -324,21 +339,6 @@
     }
   },
   {
-    "id": "twitter_1987257307009536325",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@leoisadev @thedanifrim @FactoryAI @osschat you can use CLIproxy :) one day i hope we can convince you",
-    "url": "https://x.com/bentossell/status/1987257307009536325",
-    "timestamp": "2025-11-08T20:33:58.000Z",
-    "metadata": {
-      "conversation_id": "1987257307009536325",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_328",
     "source": "github",
     "author": "a112121788",
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 9,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
