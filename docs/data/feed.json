@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1987917485866156232",
+    "source": "twitter",
+    "author": "malikatifsaleem",
+    "content": "@fire @FactoryAI @Kimi_Moonshot @nahcrof Man, I like @FactoryAI and @nahcrof because the people behind them seem humble, honest, and attentive. I have a soft spot for @cline and @zeddotdev too because they listen and have the best interests of their users.",
+    "url": "https://x.com/malikatifsaleem/status/1987917485866156232",
+    "timestamp": "2025-11-10T16:17:17.000Z",
+    "metadata": {
+      "conversation_id": "1987917485866156232",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_335",
     "source": "github",
     "author": "etwk",
@@ -92,7 +107,7 @@
     "timestamp": "2025-11-10T00:04:17.000Z",
     "metadata": {
       "conversation_id": "1987672625674404338",
-      "likes": 6,
+      "likes": 7,
       "retweets": 1,
       "replies": 0,
       "quotes": 0
@@ -376,21 +391,6 @@
     }
   },
   {
-    "id": "twitter_1987437062052774322",
-    "source": "twitter",
-    "author": "Ricardo_Nth",
-    "content": "@FactoryAI @bentossell can we have the sound play when a plan is finished after spec mode?\n\nThe sound is awesome, and is useful for agent tasks of course, but when I use spec mode and then change screens for something else, theres no 'ping' when spec mode is done and asking me if i want to continue with the plan. Instead it plays after ive chosen to either continue or if i want to iterate the plan somemore.\n\n(image doesn't show plan mode, just there for padding)",
-    "url": "https://x.com/Ricardo_Nth/status/1987437062052774322",
-    "timestamp": "2025-11-09T08:28:15.000Z",
-    "metadata": {
-      "conversation_id": "1987437062052774322",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_328",
     "source": "github",
     "author": "a112121788",
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
