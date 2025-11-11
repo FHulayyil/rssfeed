@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1988272081222726014",
+    "source": "twitter",
+    "author": "lovedashmatcher",
+    "content": "Droid is my go-to tool lately, they keep pushing updates almost daily, I really like how the plan stays at the bottom, kind of like a task-specific progress bar. Well done 🫡, thanks @factoryAI https://t.co/o3MrdxoNga",
+    "url": "https://x.com/lovedashmatcher/status/1988272081222726014",
+    "timestamp": "2025-11-11T15:46:19.000Z",
+    "metadata": {
+      "conversation_id": "1988272081222726014",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988271447316316614",
     "source": "twitter",
     "author": "jhomra21",
@@ -158,7 +173,7 @@
     "timestamp": "2025-11-11T13:31:05.000Z",
     "metadata": {
       "conversation_id": "1988238050019967288",
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1988191459388846293",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988191144296026266",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@klyndrud1 @thedanifrim @FactoryAI shouldnt be any more 😊 \n\na few bugs here and there like anything but got a ton of people ripping and loving it",
-    "url": "https://x.com/bentossell/status/1988191144296026266",
-    "timestamp": "2025-11-11T10:24:42.000Z",
-    "metadata": {
-      "conversation_id": "1988191144296026266",
-      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
