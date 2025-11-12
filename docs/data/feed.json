@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1988706129980092737",
+    "source": "twitter",
+    "author": "kuba_shev",
+    "content": "you know she's a keeper when you come home from work and she serves you the brilliant feature you've been lowkey waiting for @FactoryAI https://t.co/s84SXVVl67",
+    "url": "https://x.com/kuba_shev/status/1988706129980092737",
+    "timestamp": "2025-11-12T20:31:04.000Z",
+    "metadata": {
+      "conversation_id": "1988706129980092737",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988701732734660713",
     "source": "twitter",
     "author": "captaink99",
@@ -8,8 +23,8 @@
     "timestamp": "2025-11-12T20:13:36.000Z",
     "metadata": {
       "conversation_id": "1988701732734660713",
-      "likes": 0,
-      "retweets": 0,
+      "likes": 4,
+      "retweets": 1,
       "replies": 0,
       "quotes": 0
     }
@@ -68,7 +83,7 @@
     "timestamp": "2025-11-12T19:45:15.000Z",
     "metadata": {
       "conversation_id": "1988694599725105200",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1988631055721435417",
-    "source": "twitter",
-    "author": "shreyas1009",
-    "content": "@melodykoh @FactoryAI @claudeai @OpenAI About 6 I wonder why they don’t parse the memory (conversation history, tool calls) from previous model to the next model’s format.. should be doable clearly",
-    "url": "https://x.com/shreyas1009/status/1988631055721435417",
-    "timestamp": "2025-11-12T15:32:45.000Z",
-    "metadata": {
-      "conversation_id": "1988631055721435417",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_341",
     "source": "github",
     "author": "580ai",
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
