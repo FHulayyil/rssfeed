@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1988939898511106336",
+    "source": "twitter",
+    "author": "AdhamAlkhaja",
+    "content": "@munoncode @FactoryAI goldmine, been using them side by side but didnt know you can use it... im on the $200 max plan so it should be good.",
+    "url": "https://x.com/AdhamAlkhaja/status/1988939898511106336",
+    "timestamp": "2025-11-13T11:59:59.000Z",
+    "metadata": {
+      "conversation_id": "1988939898511106336",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988939588719833525",
+    "source": "twitter",
+    "author": "munoncode",
+    "content": "@AdhamAlkhaja @FactoryAI The 20m token plan runs out quickly.\n\nThe most cost/output effective way is to use your claude code subscription with droid. \n\nI'm in the $100 cc max plan + droid, and i have never hit claude limits.",
+    "url": "https://x.com/munoncode/status/1988939588719833525",
+    "timestamp": "2025-11-13T11:58:45.000Z",
+    "metadata": {
+      "conversation_id": "1988939588719833525",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988935056992399622",
     "source": "twitter",
     "author": "AdhamAlkhaja",
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1988894251325747547",
-    "source": "twitter",
-    "author": "bierlingm",
-    "content": "@pmitu No, Droid from @FactoryAI",
-    "url": "https://x.com/bierlingm/status/1988894251325747547",
-    "timestamp": "2025-11-13T08:58:36.000Z",
-    "metadata": {
-      "conversation_id": "1988894251325747547",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988892807273005414",
-    "source": "twitter",
-    "author": "googlewaqas",
-    "content": "@jeffreyhuber @stripepress @tbpn @FactoryAI @NousResearch @vercel @WorkOS @EricNewcomer You sell too?",
-    "url": "https://x.com/googlewaqas/status/1988892807273005414",
-    "timestamp": "2025-11-13T08:52:51.000Z",
-    "metadata": {
-      "conversation_id": "1988892807273005414",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_345",
     "source": "github",
     "author": "xianzou",
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -677,15 +677,15 @@
     }
   },
   {
-    "id": "reddit_1okwodb",
+    "id": "reddit_1oljgx4",
     "source": "reddit",
-    "author": "Uzeii",
-    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
-    "timestamp": "2025-10-31T14:51:05.000Z",
+    "author": "steve1215",
+    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
+    "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 1,
-      "num_comments": 3,
+      "score": 6,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
