@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1988935056992399622",
+    "source": "twitter",
+    "author": "AdhamAlkhaja",
+    "content": "@mdsiaofficial @FactoryAI Droids take over",
+    "url": "https://x.com/AdhamAlkhaja/status/1988935056992399622",
+    "timestamp": "2025-11-13T11:40:44.000Z",
+    "metadata": {
+      "conversation_id": "1988935056992399622",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988935015431061628",
+    "source": "twitter",
+    "author": "AdhamAlkhaja",
+    "content": "@RaghavKoch13613 @FactoryAI Will try this for sure",
+    "url": "https://x.com/AdhamAlkhaja/status/1988935015431061628",
+    "timestamp": "2025-11-13T11:40:34.000Z",
+    "metadata": {
+      "conversation_id": "1988935015431061628",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988934952344514997",
+    "source": "twitter",
+    "author": "AdhamAlkhaja",
+    "content": "@thedanifrim @FactoryAI Haha 😆",
+    "url": "https://x.com/AdhamAlkhaja/status/1988934952344514997",
+    "timestamp": "2025-11-13T11:40:19.000Z",
+    "metadata": {
+      "conversation_id": "1988934952344514997",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988934914390258080",
+    "source": "twitter",
+    "author": "AdhamAlkhaja",
+    "content": "@bentossell @FactoryAI Building an app generator in arabic and following dubai requirements and standards and culture … excited to share",
+    "url": "https://x.com/AdhamAlkhaja/status/1988934914390258080",
+    "timestamp": "2025-11-13T11:40:10.000Z",
+    "metadata": {
+      "conversation_id": "1988934914390258080",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988933235376795829",
     "source": "twitter",
     "author": "Jborgwing",
@@ -23,9 +83,9 @@
     "timestamp": "2025-11-13T11:19:37.000Z",
     "metadata": {
       "conversation_id": "1988929742834393380",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -115,7 +175,7 @@
       "conversation_id": "1988918689329012815",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -247,66 +307,6 @@
     "metadata": {
       "conversation_id": "1988892807273005414",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988892536774000796",
-    "source": "twitter",
-    "author": "basedanarki",
-    "content": "@FactoryAI if anyone else had this issue pop up, this fixed it for me instantly",
-    "url": "https://x.com/basedanarki/status/1988892536774000796",
-    "timestamp": "2025-11-13T08:51:47.000Z",
-    "metadata": {
-      "conversation_id": "1988892536774000796",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988889803216015702",
-    "source": "twitter",
-    "author": "MoummarNawafleh",
-    "content": "@jeffreyhuber @stripepress @tbpn @FactoryAI @NousResearch @vercel @WorkOS @EricNewcomer need to send you one https://t.co/je8zwMAyy1",
-    "url": "https://x.com/MoummarNawafleh/status/1988889803216015702",
-    "timestamp": "2025-11-13T08:40:55.000Z",
-    "metadata": {
-      "conversation_id": "1988889803216015702",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988881424754033148",
-    "source": "twitter",
-    "author": "Tgerighty",
-    "content": "@AdhamAlkhaja @FactoryAI That’s exactly the issue I have with it, create results but super token heavy usage. The factory plans themselves just get used up so quickly even using GLM.",
-    "url": "https://x.com/Tgerighty/status/1988881424754033148",
-    "timestamp": "2025-11-13T08:07:37.000Z",
-    "metadata": {
-      "conversation_id": "1988881424754033148",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988880163862364467",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@martin_ict_algo @FactoryAI ah ok - that may be the issue. we'll be supporting grok natively v soon",
-    "url": "https://x.com/bentossell/status/1988880163862364467",
-    "timestamp": "2025-11-13T08:02:37.000Z",
-    "metadata": {
-      "conversation_id": "1988880163862364467",
-      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,21 +684,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1okwodb",
-    "source": "reddit",
-    "author": "Uzeii",
-    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
-    "timestamp": "2025-10-31T14:51:05.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
