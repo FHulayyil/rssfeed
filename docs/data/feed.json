@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1988895649698337043",
+    "source": "twitter",
+    "author": "pmitu",
+    "content": "@bierlingm @FactoryAI cool, what have you built with it?",
+    "url": "https://x.com/pmitu/status/1988895649698337043",
+    "timestamp": "2025-11-13T09:04:09.000Z",
+    "metadata": {
+      "conversation_id": "1988895649698337043",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_348",
+    "source": "github",
+    "author": "aranej",
+    "content": "[Issue] 🚀 Feature Request: Native Task Queue Support for Interactive Mode\n\n## 📋 Summary\n\nRequest for **native task queuing functionality** in Droid CLI interactive mode, allowing users to queue multiple prompts for sequential or parallel processing without waiting for each task to complete before submitting the next one.\n\n## 🎯 Problem Statement\n\n### Current User Experience (Frustrating)\n\n```bash\n> /sys-info is running...\n[User types: /init-prompt]\n❌ Command doesn't register - must wait for completion\n\n[After 30 seconds...]\n✅ /sys-info completed\n\n[User must now re-typ",
+    "url": "https://github.com/Factory-AI/factory/issues/348",
+    "timestamp": "2025-11-13T09:01:07Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 348
+    }
+  },
+  {
+    "id": "twitter_1988894251325747547",
+    "source": "twitter",
+    "author": "bierlingm",
+    "content": "@pmitu No, Droid from @FactoryAI",
+    "url": "https://x.com/bierlingm/status/1988894251325747547",
+    "timestamp": "2025-11-13T08:58:36.000Z",
+    "metadata": {
+      "conversation_id": "1988894251325747547",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988892807273005414",
     "source": "twitter",
     "author": "googlewaqas",
@@ -23,7 +66,7 @@
     "timestamp": "2025-11-13T08:51:47.000Z",
     "metadata": {
       "conversation_id": "1988892536774000796",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1988795737648558321",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@FactoryAI when grok code fast in droid cli?",
-    "url": "https://x.com/martin_ict_algo/status/1988795737648558321",
-    "timestamp": "2025-11-13T02:27:08.000Z",
-    "metadata": {
-      "conversation_id": "1988795737648558321",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988794908459893239",
-    "source": "twitter",
-    "author": "HaasOnSaaS",
-    "content": "POV: your AI coding assistant has better git hygiene than most senior engineers and you’re reviewing its autonomous PR workflow from your phone before dinner in the back of a Waymo. \n\nThanks @FactoryAI 🙏 https://t.co/8xFVeityOj",
-    "url": "https://x.com/HaasOnSaaS/status/1988794908459893239",
-    "timestamp": "2025-11-13T02:23:50.000Z",
-    "metadata": {
-      "conversation_id": "1988794908459893239",
-      "likes": 10,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 1
-    }
-  },
-  {
     "id": "github_issue_345",
     "source": "github",
     "author": "xianzou",
@@ -515,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 7,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -671,21 +684,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1okwodb",
-    "source": "reddit",
-    "author": "Uzeii",
-    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
-    "timestamp": "2025-10-31T14:51:05.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -700,19 +700,6 @@
       "type": "issue",
       "labels": [],
       "number": 292
-    }
-  },
-  {
-    "id": "github_issue_291",
-    "source": "github",
-    "author": "zzkkui",
-    "content": "[Issue] displays garbled characters\n\nAfter I send it, it displays garbled characters, and any character other than alphanumeric characters will also display garbled characters. The environment is Windows, and the droid version is 0.22.7.\n\nMy terminal runs Claude code without any garbled characters.\n\n<img width=\"2076\" height=\"916\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/e04e92b0-0e92-4c0f-9f64-da59f86947de\" />\n\n<img width=\"2196\" height=\"1004\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/76a3d798-fc",
-    "url": "https://github.com/Factory-AI/factory/issues/291",
-    "timestamp": "2025-10-31T08:29:09Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 291
     }
   },
   {
