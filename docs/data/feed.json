@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -660,19 +660,6 @@
     "metadata": {
       "score": 5,
       "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1omlc3f",
-    "source": "reddit",
-    "author": "IslandOceanWater",
-    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
-    "timestamp": "2025-11-02T16:11:56.000Z",
-    "metadata": {
-      "score": 7,
-      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },
