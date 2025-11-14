@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1989172853099622450",
+    "source": "twitter",
+    "author": "raulsaavedra_",
+    "content": "@ben_vargas @FactoryAI Wow I might try this out! Thanks for sharing Ben!",
+    "url": "https://x.com/raulsaavedra_/status/1989172853099622450",
+    "timestamp": "2025-11-14T03:25:39.000Z",
+    "metadata": {
+      "conversation_id": "1989172853099622450",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989172333953839483",
+    "source": "twitter",
+    "author": "drabdullahijaz",
+    "content": "@CloudTrader4 @FactoryAI What actually do you use for creating plans?",
+    "url": "https://x.com/drabdullahijaz/status/1989172333953839483",
+    "timestamp": "2025-11-14T03:23:36.000Z",
+    "metadata": {
+      "conversation_id": "1989172333953839483",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989165945143848986",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": ".@FactoryAI droid CLI understands dorid CLI. 🧠🫡",
+    "url": "https://x.com/erd0xbc/status/1989165945143848986",
+    "timestamp": "2025-11-14T02:58:12.000Z",
+    "metadata": {
+      "conversation_id": "1989165945143848986",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989163446345297957",
     "source": "twitter",
     "author": "farizkamini",
@@ -113,9 +158,9 @@
     "timestamp": "2025-11-14T01:32:00.000Z",
     "metadata": {
       "conversation_id": "1989144252224577709",
-      "likes": 1,
+      "likes": 3,
       "retweets": 1,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -173,9 +218,9 @@
     "timestamp": "2025-11-13T23:03:33.000Z",
     "metadata": {
       "conversation_id": "1989106889787941323",
-      "likes": 26,
+      "likes": 29,
       "retweets": 1,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -248,51 +293,6 @@
     "timestamp": "2025-11-13T22:24:09.000Z",
     "metadata": {
       "conversation_id": "1989096977934741559",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989096806350045439",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@FactoryAI I used a trial code 1~2 weeks ago to sign up and only got 10 instead of the advertised 40 million tokens, even with mobile registration. Is that the new default amount ?",
-    "url": "https://x.com/SvenMeyer/status/1989096806350045439",
-    "timestamp": "2025-11-13T22:23:28.000Z",
-    "metadata": {
-      "conversation_id": "1989096806350045439",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989094756794921423",
-    "source": "twitter",
-    "author": "BehnamEbrahimi",
-    "content": "@bentossell @FactoryAI @RayFernando1337 @FactoryAI",
-    "url": "https://x.com/BehnamEbrahimi/status/1989094756794921423",
-    "timestamp": "2025-11-13T22:15:20.000Z",
-    "metadata": {
-      "conversation_id": "1989094756794921423",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989092148151742854",
-    "source": "twitter",
-    "author": "moeintechoff",
-    "content": "@jeffreyhuber @stripepress @tbpn @FactoryAI @NousResearch @vercel @WorkOS @EricNewcomer Love to see it!",
-    "url": "https://x.com/moeintechoff/status/1989092148151742854",
-    "timestamp": "2025-11-13T22:04:58.000Z",
-    "metadata": {
-      "conversation_id": "1989092148151742854",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -660,19 +660,6 @@
     "metadata": {
       "score": 6,
       "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1omlc3f",
-    "source": "reddit",
-    "author": "IslandOceanWater",
-    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
-    "timestamp": "2025-11-02T16:11:56.000Z",
-    "metadata": {
-      "score": 8,
-      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },
