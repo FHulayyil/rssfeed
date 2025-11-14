@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989468608234389946",
+    "source": "twitter",
+    "author": "jdbowman",
+    "content": "Started to use \"droid\" today, a very nice command-line agentic coding assistant by @FactoryAI. I used it to tune some complex LLM API calls in my code (looking at you, OpenAI /responses API!) The droid cli did a fabulous job! Without consuming tokens indiscriminately.",
+    "url": "https://x.com/jdbowman/status/1989468608234389946",
+    "timestamp": "2025-11-14T23:00:53.000Z",
+    "metadata": {
+      "conversation_id": "1989468608234389946",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989467923174625333",
+    "source": "twitter",
+    "author": "xmok_",
+    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor i started using ampcode this week!\nI’m using it with vs code and really enjoying the tab prompts so far.\nmy current use is i ask it write implementation plans for me in a folder “amp” and then i do it myself (for now)",
+    "url": "https://x.com/xmok_/status/1989467923174625333",
+    "timestamp": "2025-11-14T22:58:10.000Z",
+    "metadata": {
+      "conversation_id": "1989467923174625333",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989461969720823879",
     "source": "twitter",
     "author": "curiouslychase",
@@ -10,7 +40,7 @@
       "conversation_id": "1989461969720823879",
       "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -316,36 +346,6 @@
     "metadata": {
       "conversation_id": "1989405646245302719",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989403060578521468",
-    "source": "twitter",
-    "author": "aeitroc",
-    "content": "@Star_Knight12 Use Droid from @FactoryAI , plan with GPT 5.1,execute with Claude. It's the best you could do with the models we have so far.",
-    "url": "https://x.com/aeitroc/status/1989403060578521468",
-    "timestamp": "2025-11-14T18:40:25.000Z",
-    "metadata": {
-      "conversation_id": "1989403060578521468",
-      "likes": 6,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989395903082631510",
-    "source": "twitter",
-    "author": "Mng64218162",
-    "content": "@melodykoh @AnthropicAI @FactoryAI most of the time you save now by using ai will be the bottleneck later when your project gets bigger and then you will need an engineer to maintain it and an engineer will need much more time than what you saved to understand what ai did and fix many stuff if that was possible",
-    "url": "https://x.com/Mng64218162/status/1989395903082631510",
-    "timestamp": "2025-11-14T18:11:59.000Z",
-    "metadata": {
-      "conversation_id": "1989395903082631510",
-      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
