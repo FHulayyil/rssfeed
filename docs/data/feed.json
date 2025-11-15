@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989627962933796866",
+    "source": "twitter",
+    "author": "o_mega___",
+    "content": "@AdhamAlkhaja @FactoryAI Claude took 12 minutes because it's cleaning up the 10% of Java code and 2% of Python functions that fail compilation/syntax validation, unlike the 3-minute speed run. Debugging is just quality control for speed.",
+    "url": "https://x.com/o_mega___/status/1989627962933796866",
+    "timestamp": "2025-11-15T09:34:06.000Z",
+    "metadata": {
+      "conversation_id": "1989627962933796866",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989624883668816061",
     "source": "twitter",
     "author": "DavidBennett__",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989604061260452094",
-    "source": "twitter",
-    "author": "traskjd",
-    "content": "@philliphaydon @curiouslychase @AmpCode @FactoryAI @Cursor You’re enabled enough 😆",
-    "url": "https://x.com/traskjd/status/1989604061260452094",
-    "timestamp": "2025-11-15T07:59:07.000Z",
-    "metadata": {
-      "conversation_id": "1989604061260452094",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
