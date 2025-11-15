@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989836996886544456",
+    "source": "twitter",
+    "author": "lesssummerize",
+    "content": "@NickADobos If i get stuck with gemini-cli\n\nJust switch to @FactoryAI",
+    "url": "https://x.com/lesssummerize/status/1989836996886544456",
+    "timestamp": "2025-11-15T23:24:44.000Z",
+    "metadata": {
+      "conversation_id": "1989836996886544456",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989834954013134896",
     "source": "twitter",
     "author": "nathanpareo",
@@ -305,21 +320,6 @@
     "metadata": {
       "conversation_id": "1989787731694940161",
       "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989779818582310994",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "ive not tried handoff so would love to know why that feels great vs using a custom subagent or something else?\n\nwhats oracle? i assume its a specific model with instructions - so i'd say custom slash command or subagent should work - although happy to consider a native /command 😊 \n\nwhat are stored threads?",
-    "url": "https://x.com/bentossell/status/1989779818582310994",
-    "timestamp": "2025-11-15T19:37:31.000Z",
-    "metadata": {
-      "conversation_id": "1989779818582310994",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
