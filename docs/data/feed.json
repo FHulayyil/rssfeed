@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1989605298638631336",
+    "source": "twitter",
+    "author": "magma_man_dd",
+    "content": "@FactoryAI Just another cheap shitty harness that will die once it runs out of vs money to burn on credits. Literally a cc clone. Thats it.",
+    "url": "https://x.com/magma_man_dd/status/1989605298638631336",
+    "timestamp": "2025-11-15T08:04:02.000Z",
+    "metadata": {
+      "conversation_id": "1989605298638631336",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989604061260452094",
+    "source": "twitter",
+    "author": "traskjd",
+    "content": "@philliphaydon @curiouslychase @AmpCode @FactoryAI @Cursor You’re enabled enough 😆",
+    "url": "https://x.com/traskjd/status/1989604061260452094",
+    "timestamp": "2025-11-15T07:59:07.000Z",
+    "metadata": {
+      "conversation_id": "1989604061260452094",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989604017891414300",
+    "source": "twitter",
+    "author": "traskjd",
+    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor I’d agree if this was late 2023, a year in.\n\nBut end of 2025? No way.",
+    "url": "https://x.com/traskjd/status/1989604017891414300",
+    "timestamp": "2025-11-15T07:58:57.000Z",
+    "metadata": {
+      "conversation_id": "1989604017891414300",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989603706149777905",
+    "source": "twitter",
+    "author": "AdhamAlkhaja",
+    "content": "I just told claude code to find the source of the bug and dig deep to know exactly what to fix... it tooks 12 minutes.\n\n@FactoryAI took 3 mins (including spec creation time)... how come?\n\nEither its super efficient or skipping everything else.",
+    "url": "https://x.com/AdhamAlkhaja/status/1989603706149777905",
+    "timestamp": "2025-11-15T07:57:43.000Z",
+    "metadata": {
+      "conversation_id": "1989603706149777905",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989603477987668116",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@NZT2048 @Context7AI @FactoryAI fabulous",
+    "url": "https://x.com/bentossell/status/1989603477987668116",
+    "timestamp": "2025-11-15T07:56:48.000Z",
+    "metadata": {
+      "conversation_id": "1989603477987668116",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989603142724718613",
+    "source": "twitter",
+    "author": "grok",
+    "content": "OpenAI's GPT-5.1 Codex API costs $1.25 per million input tokens and $10 per million output tokens. For 2 billion total tokens, the monthly cost depends on the input/output split. Example: all input = $2,500; all output = $20,000; 80% input/20% output = ~$4,000. Check OpenAI for exact usage.",
+    "url": "https://x.com/grok/status/1989603142724718613",
+    "timestamp": "2025-11-15T07:55:28.000Z",
+    "metadata": {
+      "conversation_id": "1989603142724718613",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989600585726005426",
     "source": "twitter",
     "author": "iamRamavar",
@@ -25,7 +115,7 @@
       "conversation_id": "1989599862279528529",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,9 +128,9 @@
     "timestamp": "2025-11-15T07:36:04.000Z",
     "metadata": {
       "conversation_id": "1989598259589820536",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -210,96 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989584699706974399",
-    "source": "twitter",
-    "author": "shreyas1009",
-    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor Claude code?",
-    "url": "https://x.com/shreyas1009/status/1989584699706974399",
-    "timestamp": "2025-11-15T06:42:11.000Z",
-    "metadata": {
-      "conversation_id": "1989584699706974399",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989584488544846236",
-    "source": "twitter",
-    "author": "FiFiFetTSaCk",
-    "content": "@FactoryAI How about a $50 / mo?",
-    "url": "https://x.com/FiFiFetTSaCk/status/1989584488544846236",
-    "timestamp": "2025-11-15T06:41:21.000Z",
-    "metadata": {
-      "conversation_id": "1989584488544846236",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989581099924697258",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@ben_vargas @aeitroc @Star_Knight12 @FactoryAI it’s coming just ironing out thinking for custom models",
-    "url": "https://x.com/bentossell/status/1989581099924697258",
-    "timestamp": "2025-11-15T06:27:53.000Z",
-    "metadata": {
-      "conversation_id": "1989581099924697258",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989580941753249809",
-    "source": "twitter",
-    "author": "NZT2048",
-    "content": "@FactoryAI @bentossell That’s a big jump in pricing. Is there a breakdown of what makes the Ultra Plan different?",
-    "url": "https://x.com/NZT2048/status/1989580941753249809",
-    "timestamp": "2025-11-15T06:27:15.000Z",
-    "metadata": {
-      "conversation_id": "1989580941753249809",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989580282417000591",
-    "source": "twitter",
-    "author": "draslan_eth",
-    "content": "@FactoryAI Sick",
-    "url": "https://x.com/draslan_eth/status/1989580282417000591",
-    "timestamp": "2025-11-15T06:24:38.000Z",
-    "metadata": {
-      "conversation_id": "1989580282417000591",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989580277555859581",
-    "source": "twitter",
-    "author": "Mattslayga",
-    "content": "Bugger this. \n\nThought I'd see how @OpenAIDevs were going...\n\nBack to droid mode @FactoryAI https://t.co/iy8408qomR",
-    "url": "https://x.com/Mattslayga/status/1989580277555859581",
-    "timestamp": "2025-11-15T06:24:37.000Z",
-    "metadata": {
-      "conversation_id": "1989580277555859581",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
