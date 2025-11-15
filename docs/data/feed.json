@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989748483851788629",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@_philschmid @AmpCode Worked with @AmpCode exclusively for a week. Back to using @FactoryAI and I miss the following:\n- /handoff I am direct the next steps in the session vs. a fixed compression approach\n- Oracle agent\n- Stored threads, and being able to read_thread.",
+    "url": "https://x.com/erd0xbc/status/1989748483851788629",
+    "timestamp": "2025-11-15T17:33:00.000Z",
+    "metadata": {
+      "conversation_id": "1989748483851788629",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989742156802920667",
     "source": "twitter",
     "author": "brooksjordan",
@@ -10,7 +25,7 @@
       "conversation_id": "1989742156802920667",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989713238477738008",
-    "source": "twitter",
-    "author": "kylantomita",
-    "content": "@FactoryAI Holy sh*t\n\nOnce i get my client funnel into a streamlined workflow stuff like this is def worth",
-    "url": "https://x.com/kylantomita/status/1989713238477738008",
-    "timestamp": "2025-11-15T15:12:57.000Z",
-    "metadata": {
-      "conversation_id": "1989713238477738008",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_369",
     "source": "github",
     "author": "BlackCatCmx",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -648,19 +648,6 @@
       "type": "issue",
       "labels": [],
       "number": 325
-    }
-  },
-  {
-    "id": "reddit_1or5cow",
-    "source": "reddit",
-    "author": "Durst123",
-    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
-    "timestamp": "2025-11-07T20:29:10.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {
