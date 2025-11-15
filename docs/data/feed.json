@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1989684452939976764",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@Ricardo_Nth @FactoryAI That's a smart move, Ricardo! Keeping docs updated is crucial, but semantic search sounds even more promising, don't you think?",
+    "url": "https://x.com/codewithimanshu/status/1989684452939976764",
+    "timestamp": "2025-11-15T13:18:34.000Z",
+    "metadata": {
+      "conversation_id": "1989684452939976764",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989683068056093173",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@bentossell @iannuttall @shadcn @FactoryAI its still pretty buggy at my end, or may be I am too enthusiastic! i've so many ideas to trigger and smoothen the workflow\n\neven the enable/disable is acting up\n\nhttps://t.co/R863Y2Oj70",
+    "url": "https://x.com/5aikat/status/1989683068056093173",
+    "timestamp": "2025-11-15T13:13:04.000Z",
+    "metadata": {
+      "conversation_id": "1989683068056093173",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989681753930268864",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@brendanh_au @Bogorad @FactoryAI i'll ask about the framing - understand your pov for sure",
+    "url": "https://x.com/bentossell/status/1989681753930268864",
+    "timestamp": "2025-11-15T13:07:51.000Z",
+    "metadata": {
+      "conversation_id": "1989681753930268864",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989681071840268712",
+    "source": "twitter",
+    "author": "brendanh_au",
+    "content": "@bentossell @Bogorad @FactoryAI Yeah - only until we don’t.  The change in framing implies the bonus can and might be removed at any point.",
+    "url": "https://x.com/brendanh_au/status/1989681071840268712",
+    "timestamp": "2025-11-15T13:05:08.000Z",
+    "metadata": {
+      "conversation_id": "1989681071840268712",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989680237811306665",
     "source": "twitter",
     "author": "kksrini89",
@@ -40,7 +100,7 @@
       "conversation_id": "1989679966431084907",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -145,7 +205,7 @@
       "conversation_id": "1989678757339091028",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -240,66 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989671709348069741",
-    "source": "twitter",
-    "author": "jcurtis",
-    "content": "Now that I’m an “influencer,” I’m getting bombarded with questions about my weekend plans… Well, since @FactoryAI just dropped the one missing feature… Hooks… I’m gonna try migrating all my subagents and hooks over to Droid lingo and see if I can survive a full week without CC.\n\n(Note: Literally no one but my kids has asked what I’m doing this weekend.)",
-    "url": "https://x.com/jcurtis/status/1989671709348069741",
-    "timestamp": "2025-11-15T12:27:56.000Z",
-    "metadata": {
-      "conversation_id": "1989671709348069741",
-      "likes": 1,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989671674405646593",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@melodykoh @AnthropicAI @FactoryAI Melody, sounds like a lot of work! These AI coding agents definitely need a lot of baby-sitting, no?",
-    "url": "https://x.com/codewithimanshu/status/1989671674405646593",
-    "timestamp": "2025-11-15T12:27:48.000Z",
-    "metadata": {
-      "conversation_id": "1989671674405646593",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989667377429319877",
-    "source": "twitter",
-    "author": "iamcienlim",
-    "content": "@RayFernando1337 I need mid tier plan like usd60 🥲\ncc @FactoryAI",
-    "url": "https://x.com/iamcienlim/status/1989667377429319877",
-    "timestamp": "2025-11-15T12:10:43.000Z",
-    "metadata": {
-      "conversation_id": "1989667377429319877",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989667290456232363",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@leoisadev @Context7AI @FactoryAI haha",
-    "url": "https://x.com/bentossell/status/1989667290456232363",
-    "timestamp": "2025-11-15T12:10:22.000Z",
-    "metadata": {
-      "conversation_id": "1989667290456232363",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_366",
     "source": "github",
     "author": "nikolas-sturm",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 5,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
