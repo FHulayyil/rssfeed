@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1989689812744368263",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "yep - hit and miss; doesn't always do so. \n\nthat has not stopped me from keeping on building hooks .. 😅\n\nits built on Ryan's @ryancarson 2-file harness of generating prd & tasks, with couple of home grown \n\n> design validator (no ai-slop purple/shade etc) \n> cutting spec/feature creep and deploy every few hours (perfection is enemy of done)\n\nthese are few which will revolutionise my workflow 👇",
+    "url": "https://x.com/5aikat/status/1989689812744368263",
+    "timestamp": "2025-11-15T13:39:52.000Z",
+    "metadata": {
+      "conversation_id": "1989689812744368263",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989689469415432537",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@FactoryAI Factory, that's a steep price for tokens! But imagine the possibilities, eh?",
+    "url": "https://x.com/codewithimanshu/status/1989689469415432537",
+    "timestamp": "2025-11-15T13:38:30.000Z",
+    "metadata": {
+      "conversation_id": "1989689469415432537",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989689381637267802",
+    "source": "twitter",
+    "author": "kksrini89",
+    "content": "@bentossell @Context7AI @FactoryAI @AmpCode Sure!",
+    "url": "https://x.com/kksrini89/status/1989689381637267802",
+    "timestamp": "2025-11-15T13:38:09.000Z",
+    "metadata": {
+      "conversation_id": "1989689381637267802",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989688841855176946",
+    "source": "twitter",
+    "author": "magma_man_dd",
+    "content": "@bentossell @FactoryAI I disagree with them too bro. Same for claude code or codex. We are all waiting for oss to reach gpt 5 tier so we can leave this bs behind.",
+    "url": "https://x.com/magma_man_dd/status/1989688841855176946",
+    "timestamp": "2025-11-15T13:36:01.000Z",
+    "metadata": {
+      "conversation_id": "1989688841855176946",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989688646652309777",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@kksrini89 @Context7AI @FactoryAI @AmpCode awesome - im all ears to hear how it could be even better for you",
+    "url": "https://x.com/bentossell/status/1989688646652309777",
+    "timestamp": "2025-11-15T13:35:14.000Z",
+    "metadata": {
+      "conversation_id": "1989688646652309777",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989688543413715432",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@magma_man_dd @FactoryAI wait until i tell you about all the other agents offering credits",
+    "url": "https://x.com/bentossell/status/1989688543413715432",
+    "timestamp": "2025-11-15T13:34:50.000Z",
+    "metadata": {
+      "conversation_id": "1989688543413715432",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989688249611165756",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@karanjagtiani04 @FactoryAI wdym by refresh rates? we dont have any message/time limits",
+    "url": "https://x.com/bentossell/status/1989688249611165756",
+    "timestamp": "2025-11-15T13:33:39.000Z",
+    "metadata": {
+      "conversation_id": "1989688249611165756",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989687809909686293",
     "source": "twitter",
     "author": "C72Al",
@@ -38,9 +143,9 @@
     "timestamp": "2025-11-15T13:20:39.000Z",
     "metadata": {
       "conversation_id": "1989684975097037293",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,9 +218,9 @@
     "timestamp": "2025-11-15T13:01:49.000Z",
     "metadata": {
       "conversation_id": "1989680237811306665",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -130,7 +235,7 @@
       "conversation_id": "1989680048001908862",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -195,111 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989679233338417564",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@jcurtis @FactoryAI smart! let me know any hiccups as its still experimental. and please share any more 😊 helping me with content ideas + learning hooks!",
-    "url": "https://x.com/bentossell/status/1989679233338417564",
-    "timestamp": "2025-11-15T12:57:50.000Z",
-    "metadata": {
-      "conversation_id": "1989679233338417564",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989679178606575761",
-    "source": "twitter",
-    "author": "karanjagtiani04",
-    "content": "@FactoryAI How do the token refresh rates compare between Ultra and Max plans?",
-    "url": "https://x.com/karanjagtiani04/status/1989679178606575761",
-    "timestamp": "2025-11-15T12:57:37.000Z",
-    "metadata": {
-      "conversation_id": "1989679178606575761",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989678993847505318",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@magma_man_dd @FactoryAI done that already",
-    "url": "https://x.com/bentossell/status/1989678993847505318",
-    "timestamp": "2025-11-15T12:56:53.000Z",
-    "metadata": {
-      "conversation_id": "1989678993847505318",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989678757339091028",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@5aikat @iannuttall @shadcn @FactoryAI let me know any places it trips up - definitely experimental but /bug will help us polish it. \n\nand share any interesting hooks you create!",
-    "url": "https://x.com/bentossell/status/1989678757339091028",
-    "timestamp": "2025-11-15T12:55:56.000Z",
-    "metadata": {
-      "conversation_id": "1989678757339091028",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989678534940377227",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@DavidBennett__ @NathanLands @OpenAICodexCli @cursor_ai @FactoryAI cli definitely - you can use as ide extension also (depends how you like to work)\n\nour web is going a major revamp so it'll change drastically in the next few weeks",
-    "url": "https://x.com/bentossell/status/1989678534940377227",
-    "timestamp": "2025-11-15T12:55:03.000Z",
-    "metadata": {
-      "conversation_id": "1989678534940377227",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989678473208893809",
-    "source": "twitter",
-    "author": "cjayls",
-    "content": "@bentossell @AdhamAlkhaja @FactoryAI Thanks for confirmation! Makes me happy to support you guys with a sub even more just for the excellent work you’re able to do and also support providing tools for guys who might not be directly funding the work you do 💪🏽",
-    "url": "https://x.com/cjayls/status/1989678473208893809",
-    "timestamp": "2025-11-15T12:54:49.000Z",
-    "metadata": {
-      "conversation_id": "1989678473208893809",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989678370389393918",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@tinkerersanky @FactoryAI basically max plan, paid annually with discount 😊 - i think we may add annual",
-    "url": "https://x.com/bentossell/status/1989678370389393918",
-    "timestamp": "2025-11-15T12:54:24.000Z",
-    "metadata": {
-      "conversation_id": "1989678370389393918",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_366",
     "source": "github",
     "author": "nikolas-sturm",
@@ -334,7 +334,7 @@
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
       "score": 7,
-      "num_comments": 5,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
