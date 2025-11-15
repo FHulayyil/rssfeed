@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989732805673160860",
+    "source": "twitter",
+    "author": "constantin_e21",
+    "content": "@FactoryAI I've been having a lot of fun setting up custom droids with custom models and running them on a schedule in my own cloud server.\n\n2 questions: How can I enable reasoning for custom models? And it seems that MCPs are sometimes not available on headless runs?",
+    "url": "https://x.com/constantin_e21/status/1989732805673160860",
+    "timestamp": "2025-11-15T16:30:42.000Z",
+    "metadata": {
+      "conversation_id": "1989732805673160860",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989731724067270809",
+    "source": "twitter",
+    "author": "phatggg",
+    "content": "@ben_vargas @FactoryAI thanks for sharing",
+    "url": "https://x.com/phatggg/status/1989731724067270809",
+    "timestamp": "2025-11-15T16:26:25.000Z",
+    "metadata": {
+      "conversation_id": "1989731724067270809",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989729465665257564",
     "source": "twitter",
     "author": "doesdatmaksense",
@@ -296,36 +326,6 @@
     }
   },
   {
-    "id": "twitter_1989699172581151107",
-    "source": "twitter",
-    "author": "NuanceAndReason",
-    "content": "@melodykoh @AnthropicAI @FactoryAI This makes me think I should be doing more QA - or at least spending an equivalent amount of time writing E2E tests. Glad you were able to get something useful up and running.",
-    "url": "https://x.com/NuanceAndReason/status/1989699172581151107",
-    "timestamp": "2025-11-15T14:17:04.000Z",
-    "metadata": {
-      "conversation_id": "1989699172581151107",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989696418206884119",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@brendanh_au @Bogorad @FactoryAI confirmed they wont 😊",
-    "url": "https://x.com/bentossell/status/1989696418206884119",
-    "timestamp": "2025-11-15T14:06:07.000Z",
-    "metadata": {
-      "conversation_id": "1989696418206884119",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_366",
     "source": "github",
     "author": "nikolas-sturm",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 7,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -648,6 +648,19 @@
       "type": "issue",
       "labels": [],
       "number": 325
+    }
+  },
+  {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
