@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1989513463618834694",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@ftning @scaling01 try @FactoryAI DROID CLI - at least as good as Claude Code and you are not locked into one model provider but can freely switch between GPT/Codex, Claude Sonnet, GLM",
+    "url": "https://x.com/SvenMeyer/status/1989513463618834694",
+    "timestamp": "2025-11-15T01:59:07.000Z",
+    "metadata": {
+      "conversation_id": "1989513463618834694",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989512670375284774",
+    "source": "twitter",
+    "author": "haojun222",
+    "content": "@melodykoh @AnthropicAI @FactoryAI Yes. The cost of building things has decreased 10000-100000X . Expect software engineering salaries to decrease accordingly",
+    "url": "https://x.com/haojun222/status/1989512670375284774",
+    "timestamp": "2025-11-15T01:55:58.000Z",
+    "metadata": {
+      "conversation_id": "1989512670375284774",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989511313194979415",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@NathanLands Yes but @FactoryAI supports teams, so those 2B tokens can be shared with up to 100 other people at $5/user/mo additional.",
+    "url": "https://x.com/ben_vargas/status/1989511313194979415",
+    "timestamp": "2025-11-15T01:50:35.000Z",
+    "metadata": {
+      "conversation_id": "1989511313194979415",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989510140131688588",
+    "source": "twitter",
+    "author": "valofpszz",
+    "content": "@FactoryAI take my card",
+    "url": "https://x.com/valofpszz/status/1989510140131688588",
+    "timestamp": "2025-11-15T01:45:55.000Z",
+    "metadata": {
+      "conversation_id": "1989510140131688588",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989509825861210503",
+    "source": "twitter",
+    "author": "paulbettner",
+    "content": "@FactoryAI This is the Way.",
+    "url": "https://x.com/paulbettner/status/1989509825861210503",
+    "timestamp": "2025-11-15T01:44:40.000Z",
+    "metadata": {
+      "conversation_id": "1989509825861210503",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989509702976495822",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "Hope this doesn’t come up during agent reviews…. @bentossell @FactoryAI https://t.co/luQSmfpEGX",
+    "url": "https://x.com/Alberto8793/status/1989509702976495822",
+    "timestamp": "2025-11-15T01:44:11.000Z",
+    "metadata": {
+      "conversation_id": "1989509702976495822",
+      "likes": 6,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989505262391361707",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@aeitroc @Star_Knight12 @FactoryAI @FactoryAI @bentossell - We need BYOK (custom model) support in the plan mode models... unless it can be set as such in the config json (haven't tried that). Right now via the /models slash command only Factory models are optioned.",
+    "url": "https://x.com/ben_vargas/status/1989505262391361707",
+    "timestamp": "2025-11-15T01:26:32.000Z",
+    "metadata": {
+      "conversation_id": "1989505262391361707",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989502705497264357",
     "source": "twitter",
     "author": "Sm0ken42O",
@@ -23,7 +128,7 @@
     "timestamp": "2025-11-15T01:07:54.000Z",
     "metadata": {
       "conversation_id": "1989500572127694943",
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,7 +143,7 @@
     "timestamp": "2025-11-15T01:04:54.000Z",
     "metadata": {
       "conversation_id": "1989499819740541137",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -68,7 +173,7 @@
     "timestamp": "2025-11-15T00:57:24.000Z",
     "metadata": {
       "conversation_id": "1989497929132917055",
-      "likes": 3,
+      "likes": 5,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -128,7 +233,7 @@
     "timestamp": "2025-11-15T00:30:10.000Z",
     "metadata": {
       "conversation_id": "1989491077242409280",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -195,124 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989488797911072951",
-    "source": "twitter",
-    "author": "fire",
-    "content": "@FactoryAI Can someone hire me so I can spend $ $24000 a year on agents",
-    "url": "https://x.com/fire/status/1989488797911072951",
-    "timestamp": "2025-11-15T00:21:06.000Z",
-    "metadata": {
-      "conversation_id": "1989488797911072951",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989488095885177274",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "Plus is pretty limited on anything, but often provider cli does the best job in token minimization and caching, though that doesn't necessarily equate to the \"best output\" - I definitely use codex cli and claude code heavily too though, they'd be my default if on $20/mo plan(s).\n\nI think the value of this type of proxy approach is if you're on $100/$200 Claude or $200 OAI Pro subs.",
-    "url": "https://x.com/ben_vargas/status/1989488095885177274",
-    "timestamp": "2025-11-15T00:18:19.000Z",
-    "metadata": {
-      "conversation_id": "1989488095885177274",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989487850103144645",
-    "source": "twitter",
-    "author": "FHulayyil",
-    "content": "@FactoryAI read the tweet 3 times and each time I saw it as $200 for 2B 😅",
-    "url": "https://x.com/FHulayyil/status/1989487850103144645",
-    "timestamp": "2025-11-15T00:17:21.000Z",
-    "metadata": {
-      "conversation_id": "1989487850103144645",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989486862386471181",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "@Mohanad423461 @FactoryAI I've seen longer than 4 todo in the plan if that's what you mean? I haven't had issue with a bans personally, but note the disclaimer on the linked md page. :) https://t.co/E8hc8SfQlc",
-    "url": "https://x.com/ben_vargas/status/1989486862386471181",
-    "timestamp": "2025-11-15T00:13:25.000Z",
-    "metadata": {
-      "conversation_id": "1989486862386471181",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989486578683756994",
-    "source": "twitter",
-    "author": "tekbog",
-    "content": "@FactoryAI YES YES MORE TOKENS https://t.co/C44F28Fh6U",
-    "url": "https://x.com/tekbog/status/1989486578683756994",
-    "timestamp": "2025-11-15T00:12:17.000Z",
-    "metadata": {
-      "conversation_id": "1989486578683756994",
-      "likes": 12,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989486253843386704",
-    "source": "twitter",
-    "author": "meddi_kada",
-    "content": "@FactoryAI have this plan been tested enough? I would love to volunteer for testing it",
-    "url": "https://x.com/meddi_kada/status/1989486253843386704",
-    "timestamp": "2025-11-15T00:11:00.000Z",
-    "metadata": {
-      "conversation_id": "1989486253843386704",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989486249196097848",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "@raulsaavedra_ @FactoryAI too good not to share :)",
-    "url": "https://x.com/ben_vargas/status/1989486249196097848",
-    "timestamp": "2025-11-15T00:10:59.000Z",
-    "metadata": {
-      "conversation_id": "1989486249196097848",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "reddit_1ox98ue",
-    "source": "reddit",
-    "author": "bentossell",
-    "content": "Changelog: v0.26.0\n\n**New features**\n\n• Session Favorites: New /favorite command to pin/unpin sessions, keeping your active projects at the top of the session list\n\n• Enhanced Bug Reporting: The /bug command now zips session context, uploads it to Factory, and returns a shareable report ID automatically\n\n• Cleaner Diff Viewer: Improved UI with horizontal lines instead of borders\n\n\n\n**Bug fixes &amp; smaller items**\n\n• Always prompt to accept or reject generated specs and pass the correct labels to the UI flow\n\n• dr",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
-    "timestamp": "2025-11-14T21:33:18.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_361",
     "source": "github",
     "author": "aaronschwartz",
@@ -339,19 +326,6 @@
     }
   },
   {
-    "id": "reddit_1ox6p07",
-    "source": "reddit",
-    "author": "ShipSpecialist6727",
-    "content": "Being charge for all limit overage while having credit balance\n\nhttps://preview.redd.it/apq9eqc22a1g1.png?width=713&amp;format=png&amp;auto=webp&amp;s=b55698314d83f7e933e7c750576ab10285a54f3a\n\nhttps://preview.redd.it/c4n0ms032a1g1.png?width=1088&amp;format=png&amp;auto=webp&amp;s=4c124b65440a28c118b9d8a714f0da7618eaf4aa\n\nhttps://preview.redd.it/h2scb4072a1g1.png?width=1226&amp;format=png&amp;auto=webp&amp;s=7fbc4d224122903a737d9f9b4ed0c2092e03ce72\n\n  \nI'm being charge for 40$ limit overage while having my credit balance from my referral .  \nThe support is to",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ox6p07/being_charge_for_all_limit_overage_while_having/",
-    "timestamp": "2025-11-14T19:54:09.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -365,19 +339,6 @@
     }
   },
   {
-    "id": "reddit_1owpdgs",
-    "source": "reddit",
-    "author": "Informal-Spinach-345",
-    "content": "Todo list with minimax m2\n\nAny one else have issues with Minimax M2 on vllm not being able to properly use the todo list? \n\n  \nThis is what the output looks like, it eventually moves on but I never see a todo list:\n\n   Let me create a comprehensive todo list that captures all the remaining work.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;I need to fix the todo format - the todos parameter should be an array, not an object.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;Let me check the todo structure more carefully. Looking",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1owpdgs/todo_list_with_minimax_m2/",
-    "timestamp": "2025-11-14T06:41:19.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1owbvoj",
     "source": "reddit",
     "author": "bentossell",
@@ -385,21 +346,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow4spq",
-    "source": "reddit",
-    "author": "Rough-Aioli-7829",
-    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
-    "timestamp": "2025-11-13T15:58:33.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -440,19 +388,6 @@
       "type": "issue",
       "labels": [],
       "number": 345
-    }
-  },
-  {
-    "id": "reddit_1ovbn7q",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
-    "timestamp": "2025-11-12T17:34:16.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -638,6 +573,32 @@
     }
   },
   {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oomptx",
+    "source": "reddit",
+    "author": "samplifyk",
+    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
+    "timestamp": "2025-11-04T23:17:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_314",
     "source": "github",
     "author": "lifeisnphard",
@@ -677,6 +638,19 @@
     }
   },
   {
+    "id": "reddit_1omlc3f",
+    "source": "reddit",
+    "author": "IslandOceanWater",
+    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
+    "timestamp": "2025-11-02T16:11:56.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -713,6 +687,32 @@
       "type": "issue",
       "labels": [],
       "number": 298
+    }
+  },
+  {
+    "id": "reddit_1oljgx4",
+    "source": "reddit",
+    "author": "steve1215",
+    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
+    "timestamp": "2025-11-01T09:23:30.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1okwodb",
+    "source": "reddit",
+    "author": "Uzeii",
+    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
+    "timestamp": "2025-10-31T14:51:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
