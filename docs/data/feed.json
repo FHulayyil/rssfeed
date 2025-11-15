@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989667377429319877",
+    "source": "twitter",
+    "author": "iamcienlim",
+    "content": "@RayFernando1337 I need mid tier plan like usd60 🥲\ncc @FactoryAI",
+    "url": "https://x.com/iamcienlim/status/1989667377429319877",
+    "timestamp": "2025-11-15T12:10:43.000Z",
+    "metadata": {
+      "conversation_id": "1989667377429319877",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989667290456232363",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@leoisadev @Context7AI @FactoryAI haha",
+    "url": "https://x.com/bentossell/status/1989667290456232363",
+    "timestamp": "2025-11-15T12:10:22.000Z",
+    "metadata": {
+      "conversation_id": "1989667290456232363",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989665143320711529",
     "source": "twitter",
     "author": "Bogorad",
@@ -8,7 +38,7 @@
     "timestamp": "2025-11-15T12:01:51.000Z",
     "metadata": {
       "conversation_id": "1989665143320711529",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989610284453904755",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@magma_man_dd @FactoryAI cute",
-    "url": "https://x.com/bentossell/status/1989610284453904755",
-    "timestamp": "2025-11-15T08:23:51.000Z",
-    "metadata": {
-      "conversation_id": "1989610284453904755",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989610170389868758",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@AdhamAlkhaja @FactoryAI max plan? :)",
-    "url": "https://x.com/bentossell/status/1989610170389868758",
-    "timestamp": "2025-11-15T08:23:24.000Z",
-    "metadata": {
-      "conversation_id": "1989610170389868758",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
