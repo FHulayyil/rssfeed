@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990161948869300370",
+    "source": "twitter",
+    "author": "Mattslayga",
+    "content": "@codewithimanshu @OpenAIDevs @FactoryAI I love updates when they actually stick",
+    "url": "https://x.com/Mattslayga/status/1990161948869300370",
+    "timestamp": "2025-11-16T20:55:58.000Z",
+    "metadata": {
+      "conversation_id": "1990161948869300370",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990159414850892064",
     "source": "twitter",
     "author": "TSpencer260",
@@ -85,7 +100,7 @@
       "conversation_id": "1990150322271191365",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1990072382359285995",
-    "source": "twitter",
-    "author": "melodykoh",
-    "content": "@fred_pope @AnthropicAI @FactoryAI @every Yea have been testing the front end design skills by anthropic but haven’t tried others.",
-    "url": "https://x.com/melodykoh/status/1990072382359285995",
-    "timestamp": "2025-11-16T15:00:04.000Z",
-    "metadata": {
-      "conversation_id": "1990072382359285995",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oydnzt",
     "source": "reddit",
     "author": "EggNo4904",
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -544,6 +544,19 @@
       "type": "issue",
       "labels": [],
       "number": 345
+    }
+  },
+  {
+    "id": "reddit_1ovbn7q",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
+    "timestamp": "2025-11-12T17:34:16.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
