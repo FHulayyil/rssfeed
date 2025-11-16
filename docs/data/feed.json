@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990153744600948973",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@pascallammers_ @FactoryAI @claudeai @OpenAI Absolutely, Pascal, I see your point, AI tools certainly offer an edge, but good ol' human touch is still crucial, no?",
+    "url": "https://x.com/codewithimanshu/status/1990153744600948973",
+    "timestamp": "2025-11-16T20:23:22.000Z",
+    "metadata": {
+      "conversation_id": "1990153744600948973",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990153224859611559",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@AdhamAlkhaja @FactoryAI Wow, Adham, that's a significant difference! It's either super quick, or maybe something's being missed, right?",
+    "url": "https://x.com/codewithimanshu/status/1990153224859611559",
+    "timestamp": "2025-11-16T20:21:18.000Z",
+    "metadata": {
+      "conversation_id": "1990153224859611559",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990152118741967212",
     "source": "twitter",
     "author": "a2a_2030",
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1990066834163347472",
-    "source": "twitter",
-    "author": "stuartinzg",
-    "content": "@bentossell @FactoryAI Can't verify my mobile. +385 country code. Throws expected error",
-    "url": "https://x.com/stuartinzg/status/1990066834163347472",
-    "timestamp": "2025-11-16T14:38:01.000Z",
-    "metadata": {
-      "conversation_id": "1990066834163347472",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990061552876040234",
-    "source": "twitter",
-    "author": "erd0xbc",
-    "content": "@jedelstein25 @_philschmid @AmpCode @FactoryAI Will have to think about this. The immediate switch was to try GPT-5.1 and generally flexibility to change the main driver model. Rush has been a nice add.",
-    "url": "https://x.com/erd0xbc/status/1990061552876040234",
-    "timestamp": "2025-11-16T14:17:02.000Z",
-    "metadata": {
-      "conversation_id": "1990061552876040234",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oydnzt",
     "source": "reddit",
     "author": "EggNo4904",
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
