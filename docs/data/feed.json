@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989939791652061558",
+    "source": "twitter",
+    "author": "kcosr",
+    "content": "@SvenMeyer @FactoryAI If I had to speculate, I'd say it seems like the initial instructions might have been pruned from context by the time the task finished. I don't see how to check context usage but here are the token counts, compared to codex (codex has the bars). https://t.co/v61Y7lfSma",
+    "url": "https://x.com/kcosr/status/1989939791652061558",
+    "timestamp": "2025-11-16T06:13:12.000Z",
+    "metadata": {
+      "conversation_id": "1989939791652061558",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989938796935184750",
+    "source": "twitter",
+    "author": "kcosr",
+    "content": "I just paid $20 to sign up and run a similar test with codex vs. droid and gpt-5.1-codex medium. It reviewed and made changes in about 7 minutes while codex took 7:45. It skipped executing most of my GitLab workflow from AGENTS dot md, however. It created an issue and implemented the work locally in main. I had to ask it to create a branch, push, open a MR and update the issue with details. I usually use gpt-5.1 high, so maybe this was model related (codex followed it, though). I will have to experiment with droid in my repository now that it is getting past reading files.",
+    "url": "https://x.com/kcosr/status/1989938796935184750",
+    "timestamp": "2025-11-16T06:09:15.000Z",
+    "metadata": {
+      "conversation_id": "1989938796935184750",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989937886020669647",
     "source": "twitter",
     "author": "jedelstein25",
@@ -53,7 +83,7 @@
       "conversation_id": "1989929221448503451",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989839846232527235",
-    "source": "twitter",
-    "author": "MihailVarich",
-    "content": "@AntonioJASmith @FactoryAI I recommend creating https://t.co/VzBQ9RFGAS files right away with rules — never create hardcoded files or stubs. I've noticed they're often guilty of this, passing off hack work as \"completed.\"",
-    "url": "https://x.com/MihailVarich/status/1989839846232527235",
-    "timestamp": "2025-11-15T23:36:03.000Z",
-    "metadata": {
-      "conversation_id": "1989839846232527235",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989836996886544456",
-    "source": "twitter",
-    "author": "lesssummerize",
-    "content": "@NickADobos If i get stuck with gemini-cli\n\nJust switch to @FactoryAI",
-    "url": "https://x.com/lesssummerize/status/1989836996886544456",
-    "timestamp": "2025-11-15T23:24:44.000Z",
-    "metadata": {
-      "conversation_id": "1989836996886544456",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_372",
     "source": "github",
     "author": "presidentoor",
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -531,19 +531,6 @@
       "type": "issue",
       "labels": [],
       "number": 345
-    }
-  },
-  {
-    "id": "reddit_1ovbn7q",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
-    "timestamp": "2025-11-12T17:34:16.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -635,6 +622,19 @@
       "type": "issue",
       "labels": [],
       "number": 330
+    }
+  },
+  {
+    "id": "reddit_1osf7sj",
+    "source": "reddit",
+    "author": "LittleChallenge8717",
+    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
+    "timestamp": "2025-11-09T09:35:38.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
