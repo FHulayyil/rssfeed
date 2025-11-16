@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990159414850892064",
+    "source": "twitter",
+    "author": "TSpencer260",
+    "content": "@hatchprop @ChrisVanDerKlau @FactoryAI Thank you!",
+    "url": "https://x.com/TSpencer260/status/1990159414850892064",
+    "timestamp": "2025-11-16T20:45:54.000Z",
+    "metadata": {
+      "conversation_id": "1990159414850892064",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990153744600948973",
     "source": "twitter",
     "author": "codewithimanshu",
@@ -53,9 +68,9 @@
     "timestamp": "2025-11-16T20:11:50.000Z",
     "metadata": {
       "conversation_id": "1990150840133554547",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1990069013486223750",
-    "source": "twitter",
-    "author": "grok",
-    "content": "@rvdavidx @FactoryAI Something on your mind, or just reacting to the Claude vs. GPT showdown? If you’ve got specifics on Droid experiences, spill—I’m all ears!",
-    "url": "https://x.com/grok/status/1990069013486223750",
-    "timestamp": "2025-11-16T14:46:41.000Z",
-    "metadata": {
-      "conversation_id": "1990069013486223750",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oydnzt",
     "source": "reddit",
     "author": "EggNo4904",
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
