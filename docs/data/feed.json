@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989854815434780705",
+    "source": "twitter",
+    "author": "TSpencer260",
+    "content": "@GosuCoder @FactoryAI you guys should probably update the pricing page to be clearer on this.",
+    "url": "https://x.com/TSpencer260/status/1989854815434780705",
+    "timestamp": "2025-11-16T00:35:32.000Z",
+    "metadata": {
+      "conversation_id": "1989854815434780705",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989839846232527235",
     "source": "twitter",
     "author": "MihailVarich",
@@ -311,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1989789920156885218",
-    "source": "twitter",
-    "author": "MedonB082602",
-    "content": "The different types of droids rlly make @FactoryAI  superior to Claude code. It does it so much better! Comment if you agree or what you think. \n#AI #startup #fyp",
-    "url": "https://x.com/MedonB082602/status/1989789920156885218",
-    "timestamp": "2025-11-15T20:17:40.000Z",
-    "metadata": {
-      "conversation_id": "1989789920156885218",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_370",
     "source": "github",
     "author": "aranej",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -677,19 +677,6 @@
     }
   },
   {
-    "id": "reddit_1or5cow",
-    "source": "reddit",
-    "author": "Durst123",
-    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
-    "timestamp": "2025-11-07T20:29:10.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_321",
     "source": "github",
     "author": "nilzzzzzz",
@@ -713,19 +700,6 @@
       "type": "issue",
       "labels": [],
       "number": 319
-    }
-  },
-  {
-    "id": "reddit_1op6njm",
-    "source": "reddit",
-    "author": "Sakrilegi0us",
-    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
-    "timestamp": "2025-11-05T15:57:27.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
     }
   },
   {
