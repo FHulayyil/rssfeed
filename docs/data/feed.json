@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990550671750541762",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@nathanpareo @FactoryAI Ultra plan next",
+    "url": "https://x.com/francesca_lab/status/1990550671750541762",
+    "timestamp": "2025-11-17T22:40:37.000Z",
+    "metadata": {
+      "conversation_id": "1990550671750541762",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990542505767751924",
     "source": "twitter",
     "author": "captaink99",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-17T22:08:10.000Z",
     "metadata": {
       "conversation_id": "1990542505767751924",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -38,9 +53,9 @@
     "timestamp": "2025-11-17T21:51:22.000Z",
     "metadata": {
       "conversation_id": "1990538277355729072",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990434622681825358",
-    "source": "twitter",
-    "author": "CyberBoyAyush",
-    "content": "@FHulayyil @FactoryAI @greptile Try using gpt 5.1 high for plan\nAnd any other model to implement.\n\nYou will see a huge improvement",
-    "url": "https://x.com/CyberBoyAyush/status/1990434622681825358",
-    "timestamp": "2025-11-17T14:59:29.000Z",
-    "metadata": {
-      "conversation_id": "1990434622681825358",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -530,19 +530,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow0203",
-    "source": "reddit",
-    "author": "vargalas",
-    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
-    "timestamp": "2025-11-13T12:42:42.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
