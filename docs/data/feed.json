@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990313057827090874",
+    "source": "twitter",
+    "author": "michael_chomsky",
+    "content": "@itsbyrobin @FactoryAI the Droid people give ‘idk how this makes it better but the vibes are good let’s ship it’",
+    "url": "https://x.com/michael_chomsky/status/1990313057827090874",
+    "timestamp": "2025-11-17T06:56:25.000Z",
+    "metadata": {
+      "conversation_id": "1990313057827090874",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990308433447551014",
     "source": "twitter",
     "author": "barkleesanders",
@@ -311,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1990150840133554547",
-    "source": "twitter",
-    "author": "hatchprop",
-    "content": "@TSpencer260 @ChrisVanDerKlau @FactoryAI Ccusage",
-    "url": "https://x.com/hatchprop/status/1990150840133554547",
-    "timestamp": "2025-11-16T20:11:50.000Z",
-    "metadata": {
-      "conversation_id": "1990150840133554547",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oys5f5",
     "source": "reddit",
     "author": "SensitiveUpstairs803",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
