@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990505496110117166",
+    "source": "twitter",
+    "author": "fred_pope",
+    "content": "@melodykoh @AnthropicAI @FactoryAI @every Here you go @melodykoh ... this what all started it for me. \n\nhttps://t.co/sHIhrzxe8g\n\nIf you want to see more examples.... I can get on a call with you and help you out.\n\nLike IRL... we're all still figuring it out!",
+    "url": "https://x.com/fred_pope/status/1990505496110117166",
+    "timestamp": "2025-11-17T19:41:06.000Z",
+    "metadata": {
+      "conversation_id": "1990505496110117166",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990505045037600959",
+    "source": "twitter",
+    "author": "stanleyimet",
+    "content": "Wanted to try using @FactoryAI \nFirst, it gave an error after linking my card, and as a result, I couldn't receive 10M bonus tokens. Okay, so I decided to try with at least 1M. But on the very first request, I got this error. And the funny thing is, I spent 262k tokens on it! https://t.co/m5GkZxPZG9",
+    "url": "https://x.com/stanleyimet/status/1990505045037600959",
+    "timestamp": "2025-11-17T19:39:19.000Z",
+    "metadata": {
+      "conversation_id": "1990505045037600959",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990496556836139285",
     "source": "twitter",
     "author": "ain3sh",
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990407005463257534",
-    "source": "twitter",
-    "author": "melodykoh",
-    "content": "@fred_pope @AnthropicAI @FactoryAI @every Would love to check it out! Did you write the skills yourself? Do you find that you don’t need to explicitly call out the skills for them to be used?",
-    "url": "https://x.com/melodykoh/status/1990407005463257534",
-    "timestamp": "2025-11-17T13:09:44.000Z",
-    "metadata": {
-      "conversation_id": "1990407005463257534",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990400390026670168",
-    "source": "twitter",
-    "author": "CryptoSolana_OG",
-    "content": "@FHulayyil @FactoryAI @greptile Really?",
-    "url": "https://x.com/CryptoSolana_OG/status/1990400390026670168",
-    "timestamp": "2025-11-17T12:43:27.000Z",
-    "metadata": {
-      "conversation_id": "1990400390026670168",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
