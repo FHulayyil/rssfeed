@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990626311522693579",
+    "source": "twitter",
+    "author": "minheo93698092",
+    "content": "@FactoryAI @matanSF 👏 https://t.co/N1s7GGUM3P",
+    "url": "https://x.com/minheo93698092/status/1990626311522693579",
+    "timestamp": "2025-11-18T03:41:11.000Z",
+    "metadata": {
+      "conversation_id": "1990626311522693579",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990618990247621117",
     "source": "twitter",
     "author": "minheo93698092",
@@ -10,7 +25,7 @@
       "conversation_id": "1990618990247621117",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,7 +53,7 @@
     "timestamp": "2025-11-18T02:46:27.000Z",
     "metadata": {
       "conversation_id": "1990612539710075291",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990550671750541762",
-    "source": "twitter",
-    "author": "francesca_lab",
-    "content": "@nathanpareo @FactoryAI Ultra plan next",
-    "url": "https://x.com/francesca_lab/status/1990550671750541762",
-    "timestamp": "2025-11-17T22:40:37.000Z",
-    "metadata": {
-      "conversation_id": "1990550671750541762",
-      "likes": 6,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
