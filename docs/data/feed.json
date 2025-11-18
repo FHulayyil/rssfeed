@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990812588511567898",
+    "source": "twitter",
+    "author": "danshipper",
+    "content": "BREAKING:\n\nGemini 3 Pro is out!! It's state of the art (or close) on coding, reasoning, computer use and more. It's also extremely fast. \n\nWe've been testing it internally @every for a few hours. Here's what we've noticed so far:\n\n- Coding. It rips in @FactoryAI's Droid. So fast that after it finished @DannyAziz97 thought it hadn't even started. Code quality seems very high too.\n- Writing. In our early tests, it's not as a good of a writer or editor as Sonnet or Haiku—it's worse at telling whether writing is interesting.\n- Long-context understanding. Gemini 3 has a massive context window, and it can use it. I found it was able to find, synthesize, and use pieces of information in a long book draft for example, that other models usually.\n- @simonw's Pelican benchmark. Most important: it's really good at drawing a pelican on a bicycle.\n\nWe'll have a full hands-on vibe check on @every tomorrow, going through coding, writing, and API use. Stay tuned!",
+    "url": "https://x.com/danshipper/status/1990812588511567898",
+    "timestamp": "2025-11-18T16:01:23.000Z",
+    "metadata": {
+      "conversation_id": "1990812588511567898",
+      "likes": 16,
+      "retweets": 3,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990810856095899749",
     "source": "twitter",
     "author": "nathanpareo",
