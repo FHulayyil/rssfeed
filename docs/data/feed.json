@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991173645486759984",
+    "source": "twitter",
+    "author": "endorseurgirl",
+    "content": "@JohnONolan @FactoryAI maybe this is clear for a Laravel developer, but why do you have your pros db creds in a local .env file?",
+    "url": "https://x.com/endorseurgirl/status/1991173645486759984",
+    "timestamp": "2025-11-19T15:56:05.000Z",
+    "metadata": {
+      "conversation_id": "1991173645486759984",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991173282205495701",
+    "source": "twitter",
+    "author": "AI_vs_ERICK",
+    "content": "@minheo93698092 @FactoryAI r u bot account?",
+    "url": "https://x.com/AI_vs_ERICK/status/1991173282205495701",
+    "timestamp": "2025-11-19T15:54:39.000Z",
+    "metadata": {
+      "conversation_id": "1991173282205495701",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991173101120577895",
+    "source": "twitter",
+    "author": "Klaudioz",
+    "content": "@ethaniel86 @FactoryAI Maybe, it's pretty good. I need to test it more.",
+    "url": "https://x.com/Klaudioz/status/1991173101120577895",
+    "timestamp": "2025-11-19T15:53:56.000Z",
+    "metadata": {
+      "conversation_id": "1991173101120577895",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991173042312220782",
     "source": "twitter",
     "author": "nuclearpengy",
