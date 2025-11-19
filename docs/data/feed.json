@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1991233233934057662",
+    "source": "twitter",
+    "author": "Pushkar11420566",
+    "content": "@rvm0n_ @vercel @cursor_ai @v0 @shadcn @tembo @elevenlabsio @FactoryAI @nextjs @mintlify @convex @opencode @helixdb @supermemory Don't love @Datra_ai ?",
+    "url": "https://x.com/Pushkar11420566/status/1991233233934057662",
+    "timestamp": "2025-11-19T19:52:52.000Z",
+    "metadata": {
+      "conversation_id": "1991233233934057662",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991233031151972386",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@CyprianWetende @FactoryAI I'm an avid Droid CLI user :)",
+    "url": "https://x.com/bradvangelder/status/1991233031151972386",
+    "timestamp": "2025-11-19T19:52:04.000Z",
+    "metadata": {
+      "conversation_id": "1991233031151972386",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991232803946598807",
+    "source": "twitter",
+    "author": "unethicalapps",
+    "content": "@legreenois @makerfounder @FactoryAI give them some days, hope they'll fix that",
+    "url": "https://x.com/unethicalapps/status/1991232803946598807",
+    "timestamp": "2025-11-19T19:51:10.000Z",
+    "metadata": {
+      "conversation_id": "1991232803946598807",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991231889630269635",
+    "source": "twitter",
+    "author": "arnestrickmann",
+    "content": "@marcgregory_ @rabanspiegel @FactoryAI yes!\n\nyou can work with 15 different CLIs",
+    "url": "https://x.com/arnestrickmann/status/1991231889630269635",
+    "timestamp": "2025-11-19T19:47:32.000Z",
+    "metadata": {
+      "conversation_id": "1991231889630269635",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991231820076064780",
+    "source": "twitter",
+    "author": "CyprianWetende",
+    "content": "@bradvangelder @FactoryAI Depends with the Agentic coding tool you are using. For instance Gemini 3 in @FactoryAI is more ambitious and intelligent as compared to sonnet 4.5 and gpt 5.1/codex. In cursor, I feel its intelligence is similar to gpt 5.1",
+    "url": "https://x.com/CyprianWetende/status/1991231820076064780",
+    "timestamp": "2025-11-19T19:47:15.000Z",
+    "metadata": {
+      "conversation_id": "1991231820076064780",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991231306638766470",
+    "source": "twitter",
+    "author": "marcgregory_",
+    "content": "@rabanspiegel @arnestrickmann Would it be able to fire up a @FactoryAI droid agent?",
+    "url": "https://x.com/marcgregory_/status/1991231306638766470",
+    "timestamp": "2025-11-19T19:45:13.000Z",
+    "metadata": {
+      "conversation_id": "1991231306638766470",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991231259251441807",
+    "source": "twitter",
+    "author": "unethicalapps",
+    "content": "@legreenois @makerfounder @FactoryAI have you tried gemini cli? it says I only got 2.5 access",
+    "url": "https://x.com/unethicalapps/status/1991231259251441807",
+    "timestamp": "2025-11-19T19:45:02.000Z",
+    "metadata": {
+      "conversation_id": "1991231259251441807",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_390",
     "source": "github",
     "author": "ajdiyassin",
