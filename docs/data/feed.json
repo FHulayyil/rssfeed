@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1991139473065734593",
+    "source": "twitter",
+    "author": "wjgilmore",
+    "content": "@JohnONolan @FactoryAI On several occasions Cursor/Sonnet 4.5 has made modifications to migration files already in production, as well as created migration files named XXXX_XX_XX_do_something_to_db.php. I love coding like this but whew you have to be really careful about testing before going to prod.",
+    "url": "https://x.com/wjgilmore/status/1991139473065734593",
+    "timestamp": "2025-11-19T13:40:18.000Z",
+    "metadata": {
+      "conversation_id": "1991139473065734593",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991139159990321489",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "Okay, imma use it now everyone is raving about it\n\nFOMO en masse\n\n@FactoryAI https://t.co/KCqaTtGK4B",
+    "url": "https://x.com/Ricardo_Nth/status/1991139159990321489",
+    "timestamp": "2025-11-19T13:39:03.000Z",
+    "metadata": {
+      "conversation_id": "1991139159990321489",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991136726681637070",
+    "source": "twitter",
+    "author": "it_is_Randy",
+    "content": "And that is why it’s always good to have dev separate from prod..\nAnd have it blocked as well by network. \n\nEx.\nIf I’m in dev area and even attempt to connect to a prod db it’ll fail to connect \n\nIf anyone is using Claude code please always do sanity checks where you are unit testing something and mocking any dependencies. \n\nNever a need to hit prod or have prod connection values in your local repo or dev machine",
+    "url": "https://x.com/it_is_Randy/status/1991136726681637070",
+    "timestamp": "2025-11-19T13:29:23.000Z",
+    "metadata": {
+      "conversation_id": "1991136726681637070",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991136455381364917",
+    "source": "twitter",
+    "author": "haywi231",
+    "content": "@JohnONolan @FactoryAI Oh wow 😳",
+    "url": "https://x.com/haywi231/status/1991136455381364917",
+    "timestamp": "2025-11-19T13:28:19.000Z",
+    "metadata": {
+      "conversation_id": "1991136455381364917",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991135151363932526",
     "source": "twitter",
     "author": "JohnONolan",
