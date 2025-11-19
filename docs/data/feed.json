@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991245183539642716",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "@Math4Good @GoogleAIStudio @FactoryAI They have added context. My subagents are wildly different from most you find, which generally just say things like \"type TypeScript more better.\" Have I benched this? 😅 for sure not but probably one day I should... I'm releasing mine shortly for everyone",
+    "url": "https://x.com/jcurtis/status/1991245183539642716",
+    "timestamp": "2025-11-19T20:40:21.000Z",
+    "metadata": {
+      "conversation_id": "1991245183539642716",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991244630759747948",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "@wolfaidev @GoogleAIStudio @FactoryAI coming shortly!",
+    "url": "https://x.com/jcurtis/status/1991244630759747948",
+    "timestamp": "2025-11-19T20:38:10.000Z",
+    "metadata": {
+      "conversation_id": "1991244630759747948",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991242363025383623",
     "source": "twitter",
     "author": "FrancoE114696",
