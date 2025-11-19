@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991107361399099399",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@bradvangelder @FactoryAI Huge code quality upgrade compared to Codex 5.1 in droid, seems a bit faster, really good at knowing when to use MCPs.\n\nI'm liking it so far",
+    "url": "https://x.com/makerfounder/status/1991107361399099399",
+    "timestamp": "2025-11-19T11:32:42.000Z",
+    "metadata": {
+      "conversation_id": "1991107361399099399",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991107126064820376",
+    "source": "twitter",
+    "author": "Bouctoubou",
+    "content": "@matanSF @makerfounder @FactoryAI I don’t know whether this comes from Droid or not, but it’s not respecting the rules in https://t.co/Wv3FfJqX37, especially the one about not committing without my authorization, etc. I also had some output issues. https://t.co/Dk7tKNI6Ga",
+    "url": "https://x.com/Bouctoubou/status/1991107126064820376",
+    "timestamp": "2025-11-19T11:31:46.000Z",
+    "metadata": {
+      "conversation_id": "1991107126064820376",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991102606631149752",
     "source": "twitter",
     "author": "towrywang",
