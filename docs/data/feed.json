@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991251409602478229",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "Status update: Droid (with Gemini 3 Pro) is the clear winner for my workflow.\n\nIn my tests It was slower than Antigravity, but Droid's orchestration layer is still unmatched, it was able to recognize and fix its own errors more reliably and showed better prompt adherence leading to better results.\n\nFull benchmark thread with the evidence tomorrow.",
+    "url": "https://x.com/makerfounder/status/1991251409602478229",
+    "timestamp": "2025-11-19T21:05:06.000Z",
+    "metadata": {
+      "conversation_id": "1991251409602478229",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991251321908084859",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "Status update: Droid (with Gemini 3 Pro) is the clear winner for my workflow.\n\nIn my tests It was slower than Antigravity, but Droid's orchestration layer is still unmatched, it was able to recognize and fix its own errors more reliably and showed better prompt adherence leading to better results.\n\nFull benchmark thread with the evidence tomorrow.",
+    "url": "https://x.com/makerfounder/status/1991251321908084859",
+    "timestamp": "2025-11-19T21:04:45.000Z",
+    "metadata": {
+      "conversation_id": "1991251321908084859",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991248850603110883",
+    "source": "twitter",
+    "author": "geeky_dan",
+    "content": "hey @matanSF if you guys are hiring at @FactoryAI we found you at the right time.\n\nwe are changing the way companies hire with a 7 day hacker house and you can hire the best builders on day 8.\n\ni think you guys would be amazing sponsors if we can cohost Devhouse together\n\nhttps://t.co/p4gon48x2Q",
+    "url": "https://x.com/geeky_dan/status/1991248850603110883",
+    "timestamp": "2025-11-19T20:54:56.000Z",
+    "metadata": {
+      "conversation_id": "1991248850603110883",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991245183539642716",
     "source": "twitter",
     "author": "jcurtis",
