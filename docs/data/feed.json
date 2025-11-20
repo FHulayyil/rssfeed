@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991335822411591976",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@orange_boy @FactoryAI What's the point exactly? They give a way better deail for $200 they give much higher usage limits",
+    "url": "https://x.com/leoisadev/status/1991335822411591976",
+    "timestamp": "2025-11-20T02:40:31.000Z",
+    "metadata": {
+      "conversation_id": "1991335822411591976",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991334697499320759",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "@leoisadev @FactoryAI you can bring your own Claude Code API key. there is guides around.",
+    "url": "https://x.com/orange_boy/status/1991334697499320759",
+    "timestamp": "2025-11-20T02:36:03.000Z",
+    "metadata": {
+      "conversation_id": "1991334697499320759",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991333250275668369",
+    "source": "twitter",
+    "author": "AVGVSTVS96",
+    "content": "@bentossell @FactoryAI bug report isn't working - After recent updates, Kimi K2 Thinking is always stopping prematurely.\n\nPreviously, when the <think> blocks were shown in the responses, this never happened, this started when that bug was fixed. I'd much prefer the extra <think> output over pausing after every edit!",
+    "url": "https://x.com/AVGVSTVS96/status/1991333250275668369",
+    "timestamp": "2025-11-20T02:30:18.000Z",
+    "metadata": {
+      "conversation_id": "1991333250275668369",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991326931481182601",
     "source": "twitter",
     "author": "JaymeBuilds",
