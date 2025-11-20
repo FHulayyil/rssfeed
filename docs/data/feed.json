@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1991631579475767603",
+    "source": "twitter",
+    "author": "hey_iam_alex",
+    "content": "@KirkMarple @FactoryAI @tan_stack Noes does Claude is failing if you add docs too? I’ve find putting library doc super useful to get it going",
+    "url": "https://x.com/hey_iam_alex/status/1991631579475767603",
+    "timestamp": "2025-11-20T22:15:45.000Z",
+    "metadata": {
+      "conversation_id": "1991631579475767603",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991630921376870707",
+    "source": "twitter",
+    "author": "simontheweb",
+    "content": "@EnoReyes @FactoryAI still not a valid search term\n\nexample for u https://t.co/keVXJQc54w",
+    "url": "https://x.com/simontheweb/status/1991630921376870707",
+    "timestamp": "2025-11-20T22:13:09.000Z",
+    "metadata": {
+      "conversation_id": "1991630921376870707",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991630539690840253",
+    "source": "twitter",
+    "author": "MattLeonard1616",
+    "content": "@matanSF @FactoryAI I’ve been trying to connect Droid to the Codex MCP server, but every time I add it (via stdio with the correct command/args) Droid starts throwing repeating MCP errors and eventually breaks the session UI.",
+    "url": "https://x.com/MattLeonard1616/status/1991630539690840253",
+    "timestamp": "2025-11-20T22:11:38.000Z",
+    "metadata": {
+      "conversation_id": "1991630539690840253",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991630486163321187",
+    "source": "twitter",
+    "author": "barkleesanders",
+    "content": "@bradvangelder @FactoryAI same it’s goated",
+    "url": "https://x.com/barkleesanders/status/1991630486163321187",
+    "timestamp": "2025-11-20T22:11:25.000Z",
+    "metadata": {
+      "conversation_id": "1991630486163321187",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991628578459693372",
     "source": "twitter",
     "author": "bentossell",
