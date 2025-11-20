@@ -1,5 +1,170 @@
 [
   {
+    "id": "twitter_1991602199064170987",
+    "source": "twitter",
+    "author": "ChickenT1000",
+    "content": "@FactoryAI The good news is that there were still people behind this attack, not a parasitic AI entity fighting for its life/inference.",
+    "url": "https://x.com/ChickenT1000/status/1991602199064170987",
+    "timestamp": "2025-11-20T20:19:01.000Z",
+    "metadata": {
+      "conversation_id": "1991602199064170987",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991601788060094517",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@StressarN @leoisadev @orange_boy @FactoryAI shows how much ive used it 😂 \n\nty!",
+    "url": "https://x.com/bentossell/status/1991601788060094517",
+    "timestamp": "2025-11-20T20:17:23.000Z",
+    "metadata": {
+      "conversation_id": "1991601788060094517",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991601645558587637",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@_abilshr @FactoryAI but can i get early access when ready 😊",
+    "url": "https://x.com/bentossell/status/1991601645558587637",
+    "timestamp": "2025-11-20T20:16:49.000Z",
+    "metadata": {
+      "conversation_id": "1991601645558587637",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991601534740885634",
+    "source": "twitter",
+    "author": "AVGVSTVS96",
+    "content": "@bentossell @FactoryAI yup, thanks!",
+    "url": "https://x.com/AVGVSTVS96/status/1991601534740885634",
+    "timestamp": "2025-11-20T20:16:22.000Z",
+    "metadata": {
+      "conversation_id": "1991601534740885634",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991601525668605991",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@_abilshr @FactoryAI omg gimme gimme gimme",
+    "url": "https://x.com/bentossell/status/1991601525668605991",
+    "timestamp": "2025-11-20T20:16:20.000Z",
+    "metadata": {
+      "conversation_id": "1991601525668605991",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991601372270325786",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@AVGVSTVS96 @FactoryAI bug issue fix in next release\n\nconfirming you were using baseten yes?",
+    "url": "https://x.com/bentossell/status/1991601372270325786",
+    "timestamp": "2025-11-20T20:15:43.000Z",
+    "metadata": {
+      "conversation_id": "1991601372270325786",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991601372211605870",
+    "source": "twitter",
+    "author": "simontheweb",
+    "content": "@FactoryAI https://t.co/nbfXl4hROZ",
+    "url": "https://x.com/simontheweb/status/1991601372211605870",
+    "timestamp": "2025-11-20T20:15:43.000Z",
+    "metadata": {
+      "conversation_id": "1991601372211605870",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991601102249459854",
+    "source": "twitter",
+    "author": "MedonB082602",
+    "content": "@davidspiff10 @FactoryAI @bentossell Yep! I personally like sonnet 4.5 over 5.1 in my opinion it’s just a personal preference but it does cost more which sucks!! Gemini 3.0 king of UI I think right now though!",
+    "url": "https://x.com/MedonB082602/status/1991601102249459854",
+    "timestamp": "2025-11-20T20:14:39.000Z",
+    "metadata": {
+      "conversation_id": "1991601102249459854",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991601045634748498",
+    "source": "twitter",
+    "author": "Evinst3in",
+    "content": "@FactoryAI https://t.co/ECixpWoaPb",
+    "url": "https://x.com/Evinst3in/status/1991601045634748498",
+    "timestamp": "2025-11-20T20:14:26.000Z",
+    "metadata": {
+      "conversation_id": "1991601045634748498",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991600098527305792",
+    "source": "twitter",
+    "author": "davidspiff10",
+    "content": "@MedonB082602 @FactoryAI @bentossell It’s sick bro, Gemini 3 is unmatched for UI rn, tho from my tests GPT 5.1 is a better coding agent as Gemini can hallucinate fixes a lot",
+    "url": "https://x.com/davidspiff10/status/1991600098527305792",
+    "timestamp": "2025-11-20T20:10:40.000Z",
+    "metadata": {
+      "conversation_id": "1991600098527305792",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991599477170565388",
+    "source": "twitter",
+    "author": "MedonB082602",
+    "content": "@davidspiff10 @FactoryAI @bentossell Honestly it’s a mix of Sonnet 4.5 and Gemini 3.0. Mainly 3.0 Gemini though!! What u think?",
+    "url": "https://x.com/MedonB082602/status/1991599477170565388",
+    "timestamp": "2025-11-20T20:08:12.000Z",
+    "metadata": {
+      "conversation_id": "1991599477170565388",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991598958456762388",
     "source": "twitter",
     "author": "munoncode",
