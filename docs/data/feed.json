@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991306485016514986",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@benvargas @FactoryAI Droid you can flip models mid session and Amp you need to engage the Oracle or just use G3 E2E.",
+    "url": "https://x.com/erd0xbc/status/1991306485016514986",
+    "timestamp": "2025-11-20T00:43:57.000Z",
+    "metadata": {
+      "conversation_id": "1991306485016514986",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991303763274133763",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@munoncode @FactoryAI TLDR; no api key billing.\n\nUsing CLIProxyAPI with Factory Droid BYOK allows you to use your ChatGPT Pro/Plus, Claude Pro/Max, and Gemini AI Pro/Ultra subscriptions rather than paying with API key, but still get the factory droid goodness.",
+    "url": "https://x.com/benvargas/status/1991303763274133763",
+    "timestamp": "2025-11-20T00:33:08.000Z",
+    "metadata": {
+      "conversation_id": "1991303763274133763",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991303120605835321",
+    "source": "twitter",
+    "author": "munoncode",
+    "content": "@benvargas @FactoryAI What's the difference of doing this vs using the factory ai way of BYOK? \n\nI thought you can configure it in ~/.factory/config.json an add gemini 3 as a custom model like:\n\n{   \"custom_models\": [{\"model_display_name\": \"Gemini 3.0 Pro\",       \"model\": \"gemini-3.0-pro.preview\"",
+    "url": "https://x.com/munoncode/status/1991303120605835321",
+    "timestamp": "2025-11-20T00:30:35.000Z",
+    "metadata": {
+      "conversation_id": "1991303120605835321",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1p1oncv",
     "source": "reddit",
     "author": "ieagam",
