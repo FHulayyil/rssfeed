@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1991471733090771063",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@bradvangelder @FactoryAI Noted",
+    "url": "https://x.com/leoisadev/status/1991471733090771063",
+    "timestamp": "2025-11-20T11:40:35.000Z",
+    "metadata": {
+      "conversation_id": "1991471733090771063",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991471625599172847",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "@FactoryAI Droid, bubba, it was going so well..\n\njust fired droid up and i cant chose dynamic for G3 even tho on model selection it shows dynamic. also idle it's taking a hefty chunk of CPU.\n\n@bentossell @agent_wrap @EnoReyes https://t.co/rdbl20hfrg",
+    "url": "https://x.com/Ricardo_Nth/status/1991471625599172847",
+    "timestamp": "2025-11-20T11:40:09.000Z",
+    "metadata": {
+      "conversation_id": "1991471625599172847",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991471605843959838",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@AIFlow_ML @FactoryAI Yes I agree, especially plan spec mode",
+    "url": "https://x.com/leoisadev/status/1991471605843959838",
+    "timestamp": "2025-11-20T11:40:05.000Z",
+    "metadata": {
+      "conversation_id": "1991471605843959838",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991471501804212546",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@orange_boy @FactoryAI True but nobody is forcing you to use droid",
+    "url": "https://x.com/leoisadev/status/1991471501804212546",
+    "timestamp": "2025-11-20T11:39:40.000Z",
+    "metadata": {
+      "conversation_id": "1991471501804212546",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991466168297865260",
     "source": "twitter",
     "author": "captaink99",
