@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991526671674228811",
+    "source": "twitter",
+    "author": "caluckenbach",
+    "content": "been testing @FactoryAI's druid today.\n\nso far i really like it. imo it has a shot at being the best cli \"experience\". interacting with it is quite pleasant and the autonomy modes are a neat idea.\n\ncan't report on performance yet.",
+    "url": "https://x.com/caluckenbach/status/1991526671674228811",
+    "timestamp": "2025-11-20T15:18:53.000Z",
+    "metadata": {
+      "conversation_id": "1991526671674228811",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991526124216807610",
+    "source": "twitter",
+    "author": "Dobrea_Andreia",
+    "content": "@hightbunker @FactoryAI https://t.co/Z2xZlF42fi",
+    "url": "https://x.com/Dobrea_Andreia/status/1991526124216807610",
+    "timestamp": "2025-11-20T15:16:43.000Z",
+    "metadata": {
+      "conversation_id": "1991526124216807610",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991525476440109537",
+    "source": "twitter",
+    "author": "hightbunker",
+    "content": "@FactoryAI , let’s get it teased now. Are we getting Gemini 3.5 Pro soon, right?",
+    "url": "https://x.com/hightbunker/status/1991525476440109537",
+    "timestamp": "2025-11-20T15:14:08.000Z",
+    "metadata": {
+      "conversation_id": "1991525476440109537",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991522283966591313",
     "source": "twitter",
     "author": "rvm0n_",
