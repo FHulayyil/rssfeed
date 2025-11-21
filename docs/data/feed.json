@@ -10,6 +10,12 @@
       "type": "issue",
       "labels": [],
       "number": 414
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.9,
+      "reason": "Explicit question about terminal bench performance and future plans despite positive framing.",
+      "classifiedAt": "2025-11-21T22:45:31.434Z"
     }
   },
   {
@@ -25,6 +31,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.8,
+      "reason": "Factory is referenced in reply but no specific issue, praise, or question directed at them.",
+      "classifiedAt": "2025-11-21T22:45:31.434Z"
     }
   },
   {
