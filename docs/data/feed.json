@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992013687721513313",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@AriesTheCoder @FactoryAI @antigravity What are you using Antigravity for?",
+    "url": "https://x.com/bradvangelder/status/1992013687721513313",
+    "timestamp": "2025-11-21T23:34:07.000Z",
+    "metadata": {
+      "conversation_id": "1992013687721513313",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992013438101635350",
+    "source": "twitter",
+    "author": "bangben_n",
+    "content": "@FactoryAI  I tried signing up on https://t.co/0FmqGpSASO. I got the verification code but it always failed. Now it says “Phone number is claimed.” What should I do? https://t.co/DsHFVePpb9",
+    "url": "https://x.com/bangben_n/status/1992013438101635350",
+    "timestamp": "2025-11-21T23:33:08.000Z",
+    "metadata": {
+      "conversation_id": "1992013438101635350",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992012176379576831",
     "source": "twitter",
     "author": "FeifanZ",
