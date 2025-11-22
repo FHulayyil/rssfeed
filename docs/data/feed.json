@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.8,
+      "reason": "User expresses curiosity and asks to see results between different tools, implying a question about comparative performance.",
+      "classifiedAt": "2025-11-22T19:54:22.260Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "FactoryAI is mentioned in a thank you message but no specific action or question is directed at them.",
+      "classifiedAt": "2025-11-22T19:54:22.260Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "FactoryAI is mentioned in a conversation about tools but no specific request or question is made.",
+      "classifiedAt": "2025-11-22T19:54:22.260Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "FactoryAI is referenced in a personal development plan discussion without any direct request.",
+      "classifiedAt": "2025-11-22T19:54:22.260Z"
     }
   },
   {
@@ -72,6 +96,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.7,
+      "reason": "User expresses positive enthusiasm about FactoryAI IDE with 'would go crazy' which indicates excitement/praise.",
+      "classifiedAt": "2025-11-22T19:54:22.260Z"
     }
   },
   {
