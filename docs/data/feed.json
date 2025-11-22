@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.9,
+      "reason": "Expresses jealousy but no action needed or explicit question/praise/bug",
+      "classifiedAt": "2025-11-22T11:26:43.984Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.8,
+      "reason": "Asks explicitly if one can be sent to Norway - direct question",
+      "classifiedAt": "2025-11-22T11:26:43.984Z"
     }
   },
   {
