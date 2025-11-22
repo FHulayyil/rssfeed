@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992374758244057202",
+    "source": "twitter",
+    "author": "neoneue",
+    "content": "@FactoryAI @bentossell 🤝\nHats off to your team!",
+    "url": "https://x.com/neoneue/status/1992374758244057202",
+    "timestamp": "2025-11-22T23:28:53.000Z",
+    "metadata": {
+      "conversation_id": "1992374758244057202",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992374498839105980",
+    "source": "twitter",
+    "author": "neoneue",
+    "content": "I went back to using Claude Code with Sonnet4.5 after running @FactoryAI DROID with Sonnet4.5 and the difference is immense!\nCC needs its hand held and won't follow protocol no matter how many times I tell it to🙃\nDROID required zero babysitting the whole session. Time to switch!",
+    "url": "https://x.com/neoneue/status/1992374498839105980",
+    "timestamp": "2025-11-22T23:27:51.000Z",
+    "metadata": {
+      "conversation_id": "1992374498839105980",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992373987146690695",
+    "source": "twitter",
+    "author": "JeffKazzee",
+    "content": "@leoisadev @FactoryAI @cursor_ai Factory is really cooking lately. They have some kind of voodoo for their token efficiency, I love it. Probably just \"be concise\" but still, they are killing it.",
+    "url": "https://x.com/JeffKazzee/status/1992373987146690695",
+    "timestamp": "2025-11-22T23:25:49.000Z",
+    "metadata": {
+      "conversation_id": "1992373987146690695",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992371219384156472",
     "source": "twitter",
     "author": "simomilan96",
@@ -4586,6 +4631,19 @@
       "confidence": 0.9,
       "reason": "FactoryAI is referenced in a quote but no specific action or sentiment is directed at Factory",
       "classifiedAt": "2025-11-21T21:47:31.286Z"
+    }
+  },
+  {
+    "id": "github_issue_378",
+    "source": "github",
+    "author": "tonidy",
+    "content": "[Issue] EACCES: permission denied, mkdir '/Users/.factory'\n\n I upgraded my Mac from Sequoia to Tahoe, and now Droid isn't working:\n\n```bash\n% droid -v\n{\"level\":\"warn\",\"error\":{\"name\":\"Error\",\"message\":\"EACCES: permission denied, mkdir '/Users/.factory'\",\"stack\":\"Error: EACCES: permission denied, mkdir '/Users/.factory'\\n    at mkdirSync (unknown)\\n    at setupFileWatching (src/tools/managers/skillToolManager.ts:188:14)\\n    at initialize (src/tools/managers/skillToolManager.ts:72:10)\\n    at processTicksAndRejections (native:7:39)\"},\"path\":\"/Users/.facto",
+    "url": "https://github.com/Factory-AI/factory/issues/378",
+    "timestamp": "2025-11-18T10:59:51Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 378
     }
   },
   {
