@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992229647812338091",
+    "source": "twitter",
+    "author": "karthikr3ddy",
+    "content": "@zaidmukaddam @FactoryAI On the other side, I’ve been loving Codex CLI too. The Codex model shines for deep, highly focused tasks with custom instructions. It's slower, but super precise. And their usage limits are honestly some of the most generous compared to other CLIs.",
+    "url": "https://x.com/karthikr3ddy/status/1992229647812338091",
+    "timestamp": "2025-11-22T13:52:16.000Z",
+    "metadata": {
+      "conversation_id": "1992229647812338091",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992228686561739099",
+    "source": "twitter",
+    "author": "karthikr3ddy",
+    "content": "@zaidmukaddam Droid CLI is turning out to be my favorite. powerful planning, solid execution, and access to multiple models. The catch? It eats tokens like crazy. 20M tokens disappear quicker than you expect. They also rolled out skills which is great. @FactoryAI",
+    "url": "https://x.com/karthikr3ddy/status/1992228686561739099",
+    "timestamp": "2025-11-22T13:48:27.000Z",
+    "metadata": {
+      "conversation_id": "1992228686561739099",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992227769506521469",
+    "source": "twitter",
+    "author": "JeffKazzee",
+    "content": "@makerfounder @antigravity @FactoryAI droid is far more mature. the new google ide will take time to improve, but Gemini 3 in these mature tools is very great regardless.",
+    "url": "https://x.com/JeffKazzee/status/1992227769506521469",
+    "timestamp": "2025-11-22T13:44:48.000Z",
+    "metadata": {
+      "conversation_id": "1992227769506521469",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992224646608126021",
     "source": "twitter",
     "author": "AriesTheCoder",
