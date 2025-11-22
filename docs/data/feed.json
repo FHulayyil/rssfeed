@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1992051174187717032",
+    "source": "twitter",
+    "author": "shaunmmaguire",
+    "content": "@FeifanZ @FactoryAI Because it’s goated 🐐",
+    "url": "https://x.com/shaunmmaguire/status/1992051174187717032",
+    "timestamp": "2025-11-22T02:03:05.000Z",
+    "metadata": {
+      "conversation_id": "1992051174187717032",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992050519980851359",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@FeifanZ @FactoryAI Right now Amp &gt; Droid &gt; CC\n\nAmp is more pure software engineering similar to Droid\n\nDroid is a nice balance of agentic stuff and software engineering",
+    "url": "https://x.com/erd0xbc/status/1992050519980851359",
+    "timestamp": "2025-11-22T02:00:29.000Z",
+    "metadata": {
+      "conversation_id": "1992050519980851359",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992042843922178347",
+    "source": "twitter",
+    "author": "huntermbown",
+    "content": "@EnoReyes @FactoryAI &amp; my most wanted feature would be something similar to Claude Code where you can send a prompt to edit the spec at that window \n\nBut this is easily my new setup - mad at myself for not sticking with it!!!",
+    "url": "https://x.com/huntermbown/status/1992042843922178347",
+    "timestamp": "2025-11-22T01:29:59.000Z",
+    "metadata": {
+      "conversation_id": "1992042843922178347",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992042584995422321",
+    "source": "twitter",
+    "author": "huntermbown",
+    "content": "@EnoReyes @FactoryAI The only thing I've noticed bug-wise is something a task finishing (bash output displayed) but UI Isays it's still thinking. Not sure if it's running thru tokens or just stuck. Have def seen Gemini 3 spin out after it's done in antigravity too so may be a model specific thing",
+    "url": "https://x.com/huntermbown/status/1992042584995422321",
+    "timestamp": "2025-11-22T01:28:57.000Z",
+    "metadata": {
+      "conversation_id": "1992042584995422321",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992040968271405508",
     "source": "twitter",
     "author": "EnoReyes",
