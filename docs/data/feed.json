@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.9,
+      "reason": "Positive sentiment with 'objectively owns this space' indicating strong praise for FactoryAI",
+      "classifiedAt": "2025-11-22T13:44:09.974Z"
     }
   },
   {
