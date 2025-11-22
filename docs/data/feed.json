@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.95,
+      "reason": "Positive statement praising Droid as 'pretty great'",
+      "classifiedAt": "2025-11-22T16:48:02.516Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.8,
+      "reason": "Mentions Factory but is about setup time of unspecified things, not directly about Factory",
+      "classifiedAt": "2025-11-22T16:48:02.516Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "Simple mention as recommendation, no strong sentiment or question",
+      "classifiedAt": "2025-11-22T16:48:02.516Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 0.95,
+      "reason": "Strong positive statement calling it 'the best'",
+      "classifiedAt": "2025-11-22T16:48:02.516Z"
     }
   },
   {
@@ -72,6 +96,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.9,
+      "reason": "Direct question about pricing and free trial details",
+      "classifiedAt": "2025-11-22T16:48:02.516Z"
     }
   },
   {
@@ -87,6 +117,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.85,
+      "reason": "Simple mention with link, no clear sentiment or request",
+      "classifiedAt": "2025-11-22T16:48:02.516Z"
     }
   },
   {
@@ -102,6 +138,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.8,
+      "reason": "Mentions Factory in context of not having tried it yet, no clear action needed",
+      "classifiedAt": "2025-11-22T16:48:02.516Z"
     }
   },
   {
@@ -117,6 +159,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.95,
+      "reason": "Explicit question about whether Factory AI is free to try",
+      "classifiedAt": "2025-11-22T16:48:02.516Z"
     }
   },
   {
@@ -132,6 +180,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "love",
+      "confidence": 1,
+      "reason": "Strong positive feedback with specific compliments and praise",
+      "classifiedAt": "2025-11-22T16:48:02.516Z"
     }
   },
   {
