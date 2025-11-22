@@ -10,6 +10,12 @@
       "type": "discussion",
       "category": "Questions",
       "number": 418
+    },
+    "classification": {
+      "label": "bug",
+      "confidence": 0.95,
+      "reason": "User reports an authentication issue with Figma MCP, indicating something is broken and not working as expected.",
+      "classifiedAt": "2025-11-22T09:44:13.947Z"
     }
   },
   {
