@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "Simple mention of FactoryAI with no clear sentiment or question",
+      "classifiedAt": "2025-11-22T17:06:32.106Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.85,
+      "reason": "References FactoryAI in curiosity context but no explicit question",
+      "classifiedAt": "2025-11-22T17:06:32.106Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.8,
+      "reason": "Expresses negative opinion about Droid sign-up process but doesn't clearly fit bug complaint or question",
+      "classifiedAt": "2025-11-22T17:06:32.106Z"
     }
   },
   {
