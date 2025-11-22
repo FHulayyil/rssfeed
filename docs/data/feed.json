@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992123402514280576",
+    "source": "twitter",
+    "author": "kautilya_p",
+    "content": "@shaunmmaguire @FeifanZ @FactoryAI Honestly, yea",
+    "url": "https://x.com/kautilya_p/status/1992123402514280576",
+    "timestamp": "2025-11-22T06:50:05.000Z",
+    "metadata": {
+      "conversation_id": "1992123402514280576",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992123170762190900",
+    "source": "twitter",
+    "author": "huntermbown",
+    "content": "@EnoReyes @FactoryAI Yeah honestly the more I thought about it - I prefer what you guys have to Claude code to have the full terminal instead of what they have - just slight overcoming of CC product stickiness!",
+    "url": "https://x.com/huntermbown/status/1992123170762190900",
+    "timestamp": "2025-11-22T06:49:10.000Z",
+    "metadata": {
+      "conversation_id": "1992123170762190900",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992120155309277633",
     "source": "twitter",
     "author": "EnoReyes",
