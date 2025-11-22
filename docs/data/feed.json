@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.9,
+      "reason": "User is asking FactoryAI to build a Water AI and Water Company, which is an explicit request/question",
+      "classifiedAt": "2025-11-22T17:29:26.074Z"
     }
   },
   {
