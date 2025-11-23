@@ -9,6 +9,7 @@
     :root {
       --bg: #fafafa;
       --card-bg: #ffffff;
+      --sidebar-bg: #f6f6f6;
       --border: #eaeaea;
       --text: #000000;
       --text-secondary: #666666;
@@ -24,11 +25,14 @@
       --twitter-color: #1d9bf0;
       --reddit-color: #ff4500;
       --github-color: #24292f;
+      
+      --sidebar-width: 240px;
     }
 
     [data-theme="dark"] {
       --bg: #000000;
       --card-bg: #0a0a0a;
+      --sidebar-bg: #0a0a0a;
       --border: #333333;
       --text: #ffffff;
       --text-secondary: #a1a1a1;
@@ -84,10 +88,274 @@
       gap: 8px;
     }
 
+    .secondary-nav {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      padding: 8px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+      gap: 16px;
+    }
+    
+    .secondary-nav-left {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    .nav-sidebar-toggle {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      border-radius: 6px;
+      width: 32px;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    
+    .nav-sidebar-toggle:hover {
+      background: var(--hover);
+      color: var(--text);
+      border-color: var(--text-secondary);
+    }
+    
+    .nav-sidebar-toggle svg {
+      width: 16px;
+      height: 16px;
+    }
+    
+    .source-icons {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    
+    .source-icon-btn {
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--card-bg);
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s;
+    }
+    
+    .source-icon-btn:hover {
+      background: var(--hover);
+      color: var(--text);
+    }
+    
+    .source-icon-btn.active {
+      background: var(--text);
+      color: var(--bg);
+      border-color: var(--text);
+    }
+    
+    .source-icon-btn svg {
+      width: 14px;
+      height: 14px;
+    }
+    
+    .display-selector {
+      position: relative;
+    }
+    
+    .display-btn {
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--card-bg);
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.15s;
+    }
+    
+    .display-btn:hover {
+      background: var(--hover);
+    }
+    
+    .display-btn svg {
+      width: 14px;
+      height: 14px;
+    }
+    
+    .display-dropdown {
+      position: absolute;
+      top: calc(100% + 4px);
+      right: 0;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 4px;
+      min-width: 160px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+      display: none;
+      z-index: 100;
+    }
+    
+    .display-dropdown.open {
+      display: block;
+    }
+    
+    .display-option {
+      padding: 8px 12px;
+      border-radius: 4px;
+      font-size: 13px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: var(--text);
+      transition: all 0.15s;
+    }
+    
+    .display-option:hover {
+      background: var(--hover);
+    }
+    
+    .display-option.selected {
+      background: var(--selection);
+      font-weight: 500;
+    }
+
     .main-wrapper {
       display: flex;
       flex: 1;
       overflow: hidden;
+    }
+
+    /* Sidebar */
+    .sidebar {
+      width: var(--sidebar-width);
+      background: var(--sidebar-bg);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      transition: margin-left 0.2s ease;
+      position: relative;
+    }
+    
+    .sidebar.collapsed {
+      margin-left: calc(-1 * var(--sidebar-width));
+    }
+    
+    .sidebar-nav {
+      flex: 1;
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .sidebar-sections {
+      flex: 1;
+    }
+    
+    .sidebar-section {
+      margin-bottom: 24px;
+    }
+    
+    .sidebar-commands-section {
+      margin-top: auto;
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+    }
+    
+    .sidebar-section-title {
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-tertiary);
+      padding: 8px 12px;
+      margin-bottom: 4px;
+    }
+    
+    .sidebar-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 14px;
+      color: var(--text-tertiary);
+      cursor: pointer;
+      transition: all 0.15s;
+      text-decoration: none;
+    }
+    
+    .sidebar-item:hover {
+      background: var(--hover);
+      color: var(--text);
+    }
+    
+    .sidebar-item.active {
+      background: var(--card-bg);
+      font-weight: 500;
+      color: var(--text);
+    }
+    
+    .sidebar-item svg {
+      width: 16px;
+      height: 16px;
+      color: var(--text-tertiary);
+    }
+    
+    .sidebar-item.active svg {
+      color: var(--text);
+    }
+    
+    .sidebar-command {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 4px 12px;
+      font-size: 13px;
+      color: var(--text-tertiary);
+    }
+    
+    .sidebar-command kbd {
+      background: var(--card-bg);
+      padding: 3px 6px;
+      border-radius: 4px;
+      font-family: monospace;
+      font-size: 11px;
+      color: var(--text);
+      border: 1px solid var(--border);
+      min-width: 28px;
+      text-align: center;
+      font-weight: 500;
+    }
+    
+    .sidebar-command span {
+      flex: 1;
+    }
+    
+    .sidebar-item-badge {
+      margin-left: auto;
+      background: var(--border);
+      color: var(--text-secondary);
+      padding: 2px 6px;
+      border-radius: 10px;
+      font-size: 11px;
+      font-weight: 600;
     }
 
     .main-container {
@@ -95,7 +363,7 @@
       overflow: hidden;
       display: flex;
       position: relative;
-      background: var(--bg);
+      background: var(--card-bg);
     }
 
     /* Source Dropdown */
@@ -467,6 +735,28 @@
       -webkit-box-orient: vertical;
       white-space: normal;
     }
+    
+    /* Detailed view */
+    .feed-container.detailed .card {
+      padding: 20px 24px;
+      padding-left: 54px;
+      min-height: 100px;
+    }
+    
+    .feed-container.detailed .card-content {
+      -webkit-line-clamp: 5;
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 12px;
+    }
+    
+    .feed-container.detailed .card-content-wrapper {
+      margin-right: 0;
+    }
+    
+    .feed-container.detailed .card-meta {
+      margin-top: 12px;
+    }
 
     .card-content a {
       color: var(--accent);
@@ -725,13 +1015,7 @@
     }
     
     .shortcuts-help {
-        position: fixed;
-        bottom: 24px;
-        left: 24px;
-        font-size: 12px;
-        color: var(--text-tertiary);
-        pointer-events: none;
-        opacity: 0.6;
+        display: none;
     }
     
     kbd {
@@ -744,6 +1028,35 @@
     }
 
     @media (max-width: 768px) {
+      .secondary-nav {
+        padding: 8px 16px;
+      }
+      
+      .source-icons {
+        gap: 2px;
+      }
+      
+      .source-icon-btn span {
+        display: none;
+      }
+      
+      .source-icon-btn {
+        padding: 6px 8px;
+      }
+      
+      .sidebar {
+        position: fixed;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        z-index: 40;
+        box-shadow: 2px 0 8px rgba(0,0,0,0.15);
+      }
+      
+      .sidebar.collapsed {
+        margin-left: calc(-1 * var(--sidebar-width) - 20px);
+      }
+      
       .app-header { 
           padding: 12px 16px;
           gap: 12px;
@@ -794,7 +1107,6 @@
           justify-content: flex-end;
       }
       
-      .shortcuts-help { display: none; }
       .card { 
         padding: 12px 16px; 
         padding-left: 44px;
@@ -929,7 +1241,112 @@
     </div>
   </header>
 
+  <!-- Secondary Navigation -->
+  <nav class="secondary-nav">
+    <div class="secondary-nav-left">
+      <button class="nav-sidebar-toggle" id="navSidebarToggle">
+        <i data-lucide="panel-left"></i>
+      </button>
+      
+      <div class="source-icons">
+        <button class="source-icon-btn active" data-source="all">
+          <i data-lucide="layers"></i>
+          <span>All</span>
+        </button>
+        <button class="source-icon-btn" data-source="twitter">
+          <i data-lucide="twitter"></i>
+        </button>
+        <button class="source-icon-btn" data-source="reddit">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path d="M6.167 8a.83.83 0 0 0-.83.83c0 .459.372.84.83.831a.831.831 0 0 0 0-1.661m1.843 3.647c.315 0 1.403-.038 1.976-.611a.23.23 0 0 0 0-.306.213.213 0 0 0-.306 0c-.353.363-1.126.487-1.67.487-.545 0-1.308-.124-1.671-.487a.213.213 0 0 0-.306 0 .213.213 0 0 0 0 .306c.564.563 1.652.61 1.977.61zm.992-2.807c0 .458.373.83.831.83s.83-.381.83-.83a.831.831 0 0 0-1.66 0z"/>
+            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.828-1.165c-.315 0-.602.124-.812.325-.801-.573-1.9-.945-3.121-.993l.534-2.501 1.738.372a.83.83 0 1 0 .83-.869.83.83 0 0 0-.744.468l-1.938-.41a.2.2 0 0 0-.153.028.2.2 0 0 0-.086.134l-.592 2.788c-1.24.038-2.358.41-3.17.992-.21-.2-.496-.324-.81-.324a1.163 1.163 0 0 0-.478 2.224q-.03.17-.029.353c0 1.795 2.091 3.256 4.669 3.256s4.668-1.451 4.668-3.256c0-.114-.01-.238-.029-.353.401-.181.688-.592.688-1.069 0-.65-.525-1.165-1.165-1.165"/>
+          </svg>
+        </button>
+        <button class="source-icon-btn" data-source="github">
+          <i data-lucide="github"></i>
+        </button>
+      </div>
+    </div>
+    
+    <div class="display-selector">
+      <button class="display-btn" id="displayBtn">
+        <i data-lucide="layout-grid"></i>
+        <span id="displayLabel">Compact</span>
+        <i data-lucide="chevron-down" style="width: 12px; height: 12px;"></i>
+      </button>
+      <div class="display-dropdown" id="displayDropdown">
+        <div class="display-option selected" data-mode="compact">
+          <span>Compact</span>
+          <i data-lucide="check" style="width: 14px; height: 14px;"></i>
+        </div>
+        <div class="display-option" data-mode="detailed">
+          <span>Detailed</span>
+        </div>
+      </div>
+    </div>
+  </nav>
+
   <div class="main-wrapper">
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      
+      <nav class="sidebar-nav">
+        <div class="sidebar-sections">
+          <div class="sidebar-section">
+            <div class="sidebar-section-title">Views</div>
+            <a href="index.html" class="sidebar-item active" data-view="all">
+              <i data-lucide="inbox"></i>
+              <span>All</span>
+            </a>
+            <a href="#" class="sidebar-item" data-view="archived">
+              <i data-lucide="archive"></i>
+              <span>Archived</span>
+            </a>
+            <a href="stats.html" class="sidebar-item">
+              <i data-lucide="bar-chart-3"></i>
+              <span>Stats</span>
+            </a>
+          </div>
+        </div>
+        
+        <div class="sidebar-section sidebar-commands-section">
+          <div class="sidebar-section-title">Commands</div>
+          <div class="sidebar-command">
+            <kbd>← / →</kbd>
+            <span>Toggle sidebar</span>
+          </div>
+          <div class="sidebar-command">
+            <kbd>↑/↓ or J/K</kbd>
+            <span>Navigate</span>
+          </div>
+          <div class="sidebar-command">
+            <kbd>X</kbd>
+            <span>Select</span>
+          </div>
+          <div class="sidebar-command">
+            <kbd>E</kbd>
+            <span>Archive</span>
+          </div>
+          <div class="sidebar-command">
+            <kbd>Enter</kbd>
+            <span>Open</span>
+          </div>
+          <div class="sidebar-command">
+            <kbd>R</kbd>
+            <span>Refresh</span>
+          </div>
+          <div class="sidebar-command">
+            <kbd>Shift X</kbd>
+            <span>Multi-select mode</span>
+          </div>
+          <div class="sidebar-command">
+            <kbd>Esc</kbd>
+            <span>Clear selection</span>
+          </div>
+        </div>
+      </nav>
+    </aside>
+    
     <main class="main-container">
       <div class="feed-container" id="scrollContainer">
         <div id="feedList" class="feed-list">
@@ -948,7 +1365,7 @@
       </div>
       <button class="bulk-btn" id="archiveSelectedBtn" title="Archive Selected (E)">
         <i data-lucide="archive"></i>
-        Archive
+        Archive <kbd>E</kbd>
       </button>
   </div>
   
@@ -991,7 +1408,8 @@
       showArchived: false,
       focusedId: null,
       config: {},
-      multiSelectMode: false
+      multiSelectMode: false,
+      displayMode: 'compact' // compact, detailed
     };
 
     // DOM Elements
@@ -1406,6 +1824,114 @@
 
     // --- Event Listeners ---
     function setupEventListeners() {
+        // Sidebar Toggle
+        const sidebar = document.getElementById('sidebar');
+        const navSidebarToggle = document.getElementById('navSidebarToggle');
+        
+        navSidebarToggle.addEventListener('click', () => {
+            sidebar.classList.toggle('collapsed');
+            localStorage.setItem('sidebarCollapsed', sidebar.classList.contains('collapsed'));
+        });
+        
+        // Restore sidebar state
+        if (localStorage.getItem('sidebarCollapsed') === 'true') {
+            sidebar.classList.add('collapsed');
+        }
+        
+        // Source Icon Buttons
+        document.querySelectorAll('.source-icon-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const source = btn.dataset.source;
+                
+                // Update active state
+                document.querySelectorAll('.source-icon-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                
+                // Update state
+                state.activeFilter = source;
+                state.activeCategory = 'all';
+                state.selectedIds.clear();
+                
+                // Sync with header dropdowns
+                document.querySelectorAll('.dropdown-item').forEach(i => i.classList.remove('selected'));
+                document.querySelector(`.dropdown-item[data-source="${source}"]`)?.classList.add('selected');
+                
+                elements.categoryFilterBtns.forEach(b => b.classList.remove('active'));
+                document.querySelector('.category-filter-btn[data-category="all"]')?.classList.add('active');
+                
+                render();
+                elements.scrollContainer.scrollTop = 0;
+            });
+        });
+        
+        // Display Mode Selector
+        const displayBtn = document.getElementById('displayBtn');
+        const displayDropdown = document.getElementById('displayDropdown');
+        const displayLabel = document.getElementById('displayLabel');
+        
+        displayBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            displayDropdown.classList.toggle('open');
+        });
+        
+        document.addEventListener('click', () => {
+            displayDropdown.classList.remove('open');
+        });
+        
+        displayDropdown.addEventListener('click', (e) => {
+            e.stopPropagation();
+        });
+        
+        document.querySelectorAll('.display-option').forEach(option => {
+            option.addEventListener('click', () => {
+                const mode = option.dataset.mode;
+                
+                // Update state
+                state.displayMode = mode;
+                
+                // Update UI
+                document.querySelectorAll('.display-option').forEach(o => o.classList.remove('selected'));
+                option.classList.add('selected');
+                
+                displayLabel.textContent = mode.charAt(0).toUpperCase() + mode.slice(1);
+                
+                // Apply mode to feed container
+                const feedContainer = document.getElementById('scrollContainer');
+                if (mode === 'detailed') {
+                    feedContainer.classList.add('detailed');
+                } else {
+                    feedContainer.classList.remove('detailed');
+                }
+                
+                displayDropdown.classList.remove('open');
+                lucide.createIcons();
+            });
+        });
+        
+        // Sidebar navigation
+        document.querySelectorAll('.sidebar-item[data-view]').forEach(item => {
+            item.addEventListener('click', (e) => {
+                e.preventDefault();
+                const view = item.dataset.view;
+                
+                // Update active state
+                document.querySelectorAll('.sidebar-item').forEach(i => i.classList.remove('active'));
+                item.classList.add('active');
+                
+                if (view === 'all') {
+                    state.showArchived = false;
+                    document.getElementById('archiveToggleBtn').classList.remove('active');
+                } else if (view === 'archived') {
+                    state.showArchived = true;
+                    document.getElementById('archiveToggleBtn').classList.add('active');
+                }
+                
+                state.selectedIds.clear();
+                render();
+                elements.scrollContainer.scrollTop = 0;
+            });
+        });
+        
         // Source Dropdown
         elements.sourceDropdownBtn.addEventListener('click', (e) => {
             e.stopPropagation();
@@ -1502,6 +2028,14 @@
             if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
 
             switch(e.key.toLowerCase()) {
+                case 'arrowleft':
+                    sidebar.classList.add('collapsed');
+                    localStorage.setItem('sidebarCollapsed', 'true');
+                    break;
+                case 'arrowright':
+                    sidebar.classList.remove('collapsed');
+                    localStorage.setItem('sidebarCollapsed', 'false');
+                    break;
                 case 'j': moveFocus(1); break;
                 case 'k': moveFocus(-1); break;
                 case 'e': 
