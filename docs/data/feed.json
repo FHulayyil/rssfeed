@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1992429469710344343",
+    "source": "twitter",
+    "author": "fcoury",
+    "content": "@matanSF @FactoryAI I had an account from earlier on the beta days and just funded it during the outage :-)",
+    "url": "https://x.com/fcoury/status/1992429469710344343",
+    "timestamp": "2025-11-23T03:06:17.000Z",
+    "metadata": {
+      "conversation_id": "1992429469710344343",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992427868719325598",
+    "source": "twitter",
+    "author": "ImranDeveloper",
+    "content": "@aeitroc @FactoryAI @OpenRouterAI The last line is very much interesting - and it's true that people often ignore it after a few attempts because it's really bad at coding.",
+    "url": "https://x.com/ImranDeveloper/status/1992427868719325598",
+    "timestamp": "2025-11-23T02:59:56.000Z",
+    "metadata": {
+      "conversation_id": "1992427868719325598",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992426255409725509",
+    "source": "twitter",
+    "author": "ImranDeveloper",
+    "content": "@nest_elf @OpenAICodexCli @Claude @cursor_ai @warpdotdev @FactoryAI Interesting 😎",
+    "url": "https://x.com/ImranDeveloper/status/1992426255409725509",
+    "timestamp": "2025-11-23T02:53:31.000Z",
+    "metadata": {
+      "conversation_id": "1992426255409725509",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992423388200177994",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@joncphillips @FactoryAI @cursor_ai Yea, finally will give cursor real competition",
+    "url": "https://x.com/leoisadev/status/1992423388200177994",
+    "timestamp": "2025-11-23T02:42:07.000Z",
+    "metadata": {
+      "conversation_id": "1992423388200177994",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992416020582314424",
     "source": "twitter",
     "author": "lunarcycling",
