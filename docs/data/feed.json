@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992552500180787282",
+    "source": "twitter",
+    "author": "_BrianKimball",
+    "content": "@Cata1lonia @FactoryAI It's a little more thorough especially codex but you have to keep an eye on it. I often have the droids review each other's code.",
+    "url": "https://x.com/_BrianKimball/status/1992552500180787282",
+    "timestamp": "2025-11-23T11:15:10.000Z",
+    "metadata": {
+      "conversation_id": "1992552500180787282",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992550945087979940",
+    "source": "twitter",
+    "author": "_BrianKimball",
+    "content": "@kajaykumarr_ @FactoryAI I typically call the Droid and even the skill. \"Use the frontend-agent Droid with the frontend-design skill to build...\" but the skills should get used automatically depending on the config",
+    "url": "https://x.com/_BrianKimball/status/1992550945087979940",
+    "timestamp": "2025-11-23T11:08:59.000Z",
+    "metadata": {
+      "conversation_id": "1992550945087979940",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992550078637060490",
+    "source": "twitter",
+    "author": "Cata1lonia",
+    "content": "@_BrianKimball @FactoryAI Codex 5.1 for backend is better than gemini 3 ?",
+    "url": "https://x.com/Cata1lonia/status/1992550078637060490",
+    "timestamp": "2025-11-23T11:05:33.000Z",
+    "metadata": {
+      "conversation_id": "1992550078637060490",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992549731436810394",
     "source": "twitter",
     "author": "behrendtio",
