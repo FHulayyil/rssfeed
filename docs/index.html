@@ -457,6 +457,9 @@
       letter-spacing: -0.02em;
       display: flex;
       align-items: center;
+      gap: 8px;
+      color: var(--text);
+      text-decoration: none;
     }
     
     .app-logo-text {
@@ -1207,10 +1210,10 @@
   <header class="app-header">
     <div class="header-top">
       <div class="header-left">
-        <div class="app-logo">
-          <i data-lucide="zap" style="width: 18px; height: 18px;"></i>
+        <a href="index.html" class="app-logo" aria-label="Factory Feed Home">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="zap" style="width: 18px; height: 18px;" class="lucide lucide-zap"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path></svg>
           <span class="app-logo-text">Factory Feed</span>
-        </div>
+        </a>
         
         <div class="header-filters">
           <div class="source-dropdown">

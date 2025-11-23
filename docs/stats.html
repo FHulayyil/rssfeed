@@ -61,11 +61,36 @@
     .app-header {
       background: var(--card-bg);
       border-bottom: 1px solid var(--border);
-      padding: 16px 24px;
+      padding: 12px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      flex-shrink: 0;
+      z-index: 20;
+    }
+
+    .header-top {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      flex-shrink: 0;
+    }
+
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .header-filters {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .app-controls {
+      display: flex;
+      align-items: center;
+      gap: 8px;
     }
 
     .app-logo {
@@ -75,6 +100,8 @@
       display: flex;
       align-items: center;
       gap: 8px;
+      color: var(--text);
+      text-decoration: none;
     }
 
     .icon-btn {
@@ -609,13 +636,44 @@
 </head>
 <body>
   <header class="app-header">
-    <div class="app-logo">
-      <i data-lucide="zap" style="width: 18px; height: 18px;"></i>
-      <span>Factory Feed</span>
+    <div class="header-top">
+      <div class="header-left">
+        <a href="index.html" class="app-logo" aria-label="Back to Feed Home">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="zap" style="width: 18px; height: 18px;" class="lucide lucide-zap"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path></svg>
+        </a>
+
+        <div class="header-filters">
+          <div class="category-filters">
+            <button class="category-filter-btn active" data-category="all" title="All">
+              <i data-lucide="layers"></i>
+              All
+            </button>
+            <button class="category-filter-btn" data-category="mention" title="Mentions">
+              <i data-lucide="at-sign"></i>
+              Mentions
+            </button>
+            <button class="category-filter-btn" data-category="bug" title="Bugs">
+              <i data-lucide="bug"></i>
+              Bugs
+            </button>
+            <button class="category-filter-btn" data-category="love" title="Love">
+              <i data-lucide="heart"></i>
+              Love
+            </button>
+            <button class="category-filter-btn" data-category="question" title="Questions">
+              <i data-lucide="help-circle"></i>
+              Questions
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="app-controls">
+        <button class="icon-btn" id="themeBtn" title="Toggle Theme">
+          <i data-lucide="moon"></i>
+        </button>
+      </div>
     </div>
-    <button class="icon-btn" id="themeBtn" title="Toggle Theme">
-      <i data-lucide="moon"></i>
-    </button>
   </header>
 
   <nav class="secondary-nav">
@@ -640,29 +698,6 @@
         </button>
         <button class="source-icon-btn" data-source="github">
           <i data-lucide="github"></i>
-        </button>
-      </div>
-      
-      <div class="category-filters">
-        <button class="category-filter-btn active" data-category="all" title="All">
-          <i data-lucide="layers"></i>
-          All
-        </button>
-        <button class="category-filter-btn" data-category="mention" title="Mentions">
-          <i data-lucide="at-sign"></i>
-          Mentions
-        </button>
-        <button class="category-filter-btn" data-category="bug" title="Bugs">
-          <i data-lucide="bug"></i>
-          Bugs
-        </button>
-        <button class="category-filter-btn" data-category="love" title="Love">
-          <i data-lucide="heart"></i>
-          Love
-        </button>
-        <button class="category-filter-btn" data-category="question" title="Questions">
-          <i data-lucide="help-circle"></i>
-          Questions
         </button>
       </div>
     </div>
