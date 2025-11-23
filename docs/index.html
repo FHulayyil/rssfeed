@@ -709,6 +709,10 @@
       height: 14px;
     }
     
+    .card-meta .source-badge {
+      display: none;
+    }
+    
     .source-twitter { color: var(--twitter-color); background: rgba(29, 155, 240, 0.1); }
     .source-reddit { color: var(--reddit-color); background: rgba(255, 69, 0, 0.1); }
     .source-github { color: var(--github-color); background: rgba(128, 128, 128, 0.1); }
@@ -1061,10 +1065,21 @@
       
       .secondary-nav {
         gap: 8px;
+        justify-content: space-between;
       }
       
       .secondary-nav-left {
         gap: 8px;
+        flex: 0 1 auto;
+      }
+      
+      .multi-select-toggle-nav {
+        order: 10;
+        margin-right: 4px;
+      }
+      
+      .display-selector {
+        order: 11;
       }
       
       .sidebar {
@@ -1139,19 +1154,11 @@
       .card-source {
         display: none;
       }
-      .card-content {
-        -webkit-line-clamp: 2;
-      }
-      .card-content-wrapper {
-        margin-right: 0;
-      }
-      .card-meta {
-        width: 100%;
-        margin-left: 0;
-        margin-top: 8px;
-        font-size: 12px;
+      .card-source .source-badge {
+        display: none;
       }
       .card-meta .source-badge {
+        display: flex;
         width: 16px;
         height: 16px;
         margin-right: 4px;
@@ -1159,6 +1166,19 @@
       .card-meta .source-badge svg {
         width: 12px;
         height: 12px;
+      }
+      .card-content {
+        -webkit-line-clamp: 2;
+      }
+      .card-content-wrapper {
+        margin-right: 0;
+        margin-bottom: 4px;
+      }
+      .card-meta {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 4px;
+        font-size: 12px;
       }
       .feed-container {
         padding: 12px;
@@ -1883,8 +1903,11 @@
             localStorage.setItem('sidebarCollapsed', sidebar.classList.contains('collapsed'));
         });
         
-        // Restore sidebar state
-        if (localStorage.getItem('sidebarCollapsed') === 'true') {
+        // Restore sidebar state or auto-collapse on small screens
+        const isSmallScreen = window.innerWidth <= 768;
+        const savedState = localStorage.getItem('sidebarCollapsed');
+        
+        if (savedState === 'true' || (savedState === null && isSmallScreen)) {
             sidebar.classList.add('collapsed');
         }
         
