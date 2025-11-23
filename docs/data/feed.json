@@ -1,5 +1,245 @@
 [
   {
+    "id": "twitter_1992394921253433748",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "For Droid and Amp I use CLIProxyAPI which works great, I had a gist and guide for it, then forked it and made it work Amp which required source mod because of the intermediate proxy they use themselves, but the CLIProxyAPI maintainers accepted a PR to merge that back in so both Droid and Amp should work using the main CLIProxyAPI branch now.\n\nHere's the link to the old gist, now they have some examples for Factory in their main docs.\n\nThere is an open regression issue with using Gemini 3 Pro and retries that they need to fix, I have a branch or can point you to the commit to run on if Google subscription is of interest too.\n\nHere's link to original gist, but should be in their docs too... https://t.co/r1rjfwhena",
+    "url": "https://x.com/benvargas/status/1992394921253433748",
+    "timestamp": "2025-11-23T00:49:00.000Z",
+    "metadata": {
+      "conversation_id": "1992394921253433748",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992394543480832419",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@wolfaidev @FactoryAI @cursor_ai Oh, I have never tried it but ok. Yea that would be cool I think but they did say they were gonna launch something soon\n\nhttps://t.co/XrgcTnCPSa",
+    "url": "https://x.com/leoisadev/status/1992394543480832419",
+    "timestamp": "2025-11-23T00:47:30.000Z",
+    "metadata": {
+      "conversation_id": "1992394543480832419",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992394304695017762",
+    "source": "twitter",
+    "author": "wolfaidev",
+    "content": "@leoisadev @FactoryAI @cursor_ai yea but the extension is a terminal quick launch, I'd like a full GUI version like Codex or CC",
+    "url": "https://x.com/wolfaidev/status/1992394304695017762",
+    "timestamp": "2025-11-23T00:46:33.000Z",
+    "metadata": {
+      "conversation_id": "1992394304695017762",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992393642581913831",
+    "source": "twitter",
+    "author": "TSpencer260",
+    "content": "Thanks. I already use Hetzner for most of my infrastructure. MacOS or Linux for my daily drivers. Everything from VSCode for projects or occasionally just open iTerm2 or Alacritty for a quick jump in. You mentioned the proxy for Factory’s Droid. Which do you prefer? I pay for the $20/mo tier but also have my GLM coding max plan as a custom model. Would be nice to use my ChatGPT plus subscription from Factory’s harness as well.",
+    "url": "https://x.com/TSpencer260/status/1992393642581913831",
+    "timestamp": "2025-11-23T00:43:55.000Z",
+    "metadata": {
+      "conversation_id": "1992393642581913831",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992393475195855278",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@TSpencer260 @dannyveigatx @FactoryAI Oh, and the usual like use use ssh-key authentication so you're not always entering passwords, and VSCode and all its forks happily connect to ssh so if you like an IDE from time to time or to monitor git status while agent works, that works great too.",
+    "url": "https://x.com/benvargas/status/1992393475195855278",
+    "timestamp": "2025-11-23T00:43:16.000Z",
+    "metadata": {
+      "conversation_id": "1992393475195855278",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992393226557456715",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@JeffKazzee @FactoryAI @cursor_ai They are a modern augment code with their context engine 🔥",
+    "url": "https://x.com/leoisadev/status/1992393226557456715",
+    "timestamp": "2025-11-23T00:42:16.000Z",
+    "metadata": {
+      "conversation_id": "1992393226557456715",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992392952740778224",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@simomilan96 @FactoryAI @cursor_ai Compared to cursor they give way more value. 1 small task in cursor with grok code fast 1 (cheapest model) takes $1 while in factory ai I did 3 large tasks for 5 million tokens.\n\nIt's way more value, plus you can use Claude code or something",
+    "url": "https://x.com/leoisadev/status/1992392952740778224",
+    "timestamp": "2025-11-23T00:41:11.000Z",
+    "metadata": {
+      "conversation_id": "1992392952740778224",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992392790513496485",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "You'll of course use AI to help, that streamlines a lot of setup and troubleshooting. *nix is so much easier to work in now with these powerful agents and scripting, most things you'd setup for this are common and well known by the models (various tmux configs/themes, having it check firewall configs, etc.). \n\nChoose a host with good ping (close proximity), I use hetzner who's very affordable for what you get; size the system conservatively, most large providers let you easily size up the machine as needed.",
+    "url": "https://x.com/benvargas/status/1992392790513496485",
+    "timestamp": "2025-11-23T00:40:32.000Z",
+    "metadata": {
+      "conversation_id": "1992392790513496485",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992392569209446909",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@wolfaidev @FactoryAI @cursor_ai They have a extension for vscode so that might be a option but mainly another good tab model to compete with cursor would be great",
+    "url": "https://x.com/leoisadev/status/1992392569209446909",
+    "timestamp": "2025-11-23T00:39:40.000Z",
+    "metadata": {
+      "conversation_id": "1992392569209446909",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992392365362000041",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@TahaTesser @FactoryAI @cursor_ai They already have a extension so it won't be that hard",
+    "url": "https://x.com/leoisadev/status/1992392365362000041",
+    "timestamp": "2025-11-23T00:38:51.000Z",
+    "metadata": {
+      "conversation_id": "1992392365362000041",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992392124583788720",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@BowTiedGroundHo @FactoryAI @cursor_ai I don't think \"we\" is the right word",
+    "url": "https://x.com/leoisadev/status/1992392124583788720",
+    "timestamp": "2025-11-23T00:37:54.000Z",
+    "metadata": {
+      "conversation_id": "1992392124583788720",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992392000990220462",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@bentossell @BuildWithAJ @FactoryAI @cursor_ai This is gonna be peak 👀",
+    "url": "https://x.com/leoisadev/status/1992392000990220462",
+    "timestamp": "2025-11-23T00:37:24.000Z",
+    "metadata": {
+      "conversation_id": "1992392000990220462",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992391743971733504",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@EnoReyes @FactoryAI @cursor_ai 👀",
+    "url": "https://x.com/leoisadev/status/1992391743971733504",
+    "timestamp": "2025-11-23T00:36:23.000Z",
+    "metadata": {
+      "conversation_id": "1992391743971733504",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992391674111344741",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@AquariusBlake @FactoryAI @cursor_ai Same lol",
+    "url": "https://x.com/leoisadev/status/1992391674111344741",
+    "timestamp": "2025-11-23T00:36:06.000Z",
+    "metadata": {
+      "conversation_id": "1992391674111344741",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992391209487311021",
+    "source": "twitter",
+    "author": "TSpencer260",
+    "content": "@benvargas @dannyveigatx @FactoryAI Thanks. I’m actually looking at doing this very thing first the reason you just gave. May work in this tonight. Any tips on your setup?",
+    "url": "https://x.com/TSpencer260/status/1992391209487311021",
+    "timestamp": "2025-11-23T00:34:15.000Z",
+    "metadata": {
+      "conversation_id": "1992391209487311021",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992390664299180210",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "I prefer to have a consistent dev environment regardless of what computer I'm on... MacBook Pro, Win Gaming/Desktop, iPad Pro, doesn't matter - the repos all cloned to one place and in consistent state... then I can ssh into the server, tmux can be used for long running agent sessions so I don't worry about disconnects, etc.\n\nSo long story short, I don't end up with git branches spread across systems in different states, and I can go to a kids sports practice and just close the laptop/device and not worry about killing processes, and pick them up again wherever or on whatever system is convenient.",
+    "url": "https://x.com/benvargas/status/1992390664299180210",
+    "timestamp": "2025-11-23T00:32:05.000Z",
+    "metadata": {
+      "conversation_id": "1992390664299180210",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992389336449568882",
     "source": "twitter",
     "author": "TSpencer260",
