@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1992508551991083441",
+    "source": "twitter",
+    "author": "kajaykumarr_",
+    "content": "@_BrianKimball @FactoryAI How do you do this? Do the droids automatically spawn based on the folder specification or is it just that you are manually launching them and specifying which part of your codebase to work on?\n\nHaven't worked with Factory CLI yet so don't know much!",
+    "url": "https://x.com/kajaykumarr_/status/1992508551991083441",
+    "timestamp": "2025-11-23T08:20:32.000Z",
+    "metadata": {
+      "conversation_id": "1992508551991083441",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992507691655438374",
     "source": "twitter",
     "author": "VadimStrizheus",
