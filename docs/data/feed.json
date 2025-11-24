@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1992888543174361524",
+    "source": "twitter",
+    "author": "yikesawjeez",
+    "content": "@bentossell @FactoryAI never have i ever turned down a discord link to a private alpha",
+    "url": "https://x.com/yikesawjeez/status/1992888543174361524",
+    "timestamp": "2025-11-24T09:30:29.000Z",
+    "metadata": {
+      "conversation_id": "1992888543174361524",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992886239478055169",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@FactoryAI @antigravity @Cloudflare To Fix.  1. Sending the Report  ✅2. Cloudflare is blocing the IP/IP is unknown cos of Cloudflare.. ✅",
+    "url": "https://x.com/launchaddict/status/1992886239478055169",
+    "timestamp": "2025-11-24T09:21:20.000Z",
+    "metadata": {
+      "conversation_id": "1992886239478055169",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992886172595654904",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@bentossell @FactoryAI Thanks :)",
+    "url": "https://x.com/bradvangelder/status/1992886172595654904",
+    "timestamp": "2025-11-24T09:21:04.000Z",
+    "metadata": {
+      "conversation_id": "1992886172595654904",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992886167227040000",
+    "source": "twitter",
+    "author": "wolfaidev",
+    "content": "When is gpt-5.1-codex-max coming to @FactoryAI",
+    "url": "https://x.com/wolfaidev/status/1992886167227040000",
+    "timestamp": "2025-11-24T09:21:02.000Z",
+    "metadata": {
+      "conversation_id": "1992886167227040000",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992885405990138321",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@bradvangelder @FactoryAI ooo will take a look",
+    "url": "https://x.com/bentossell/status/1992885405990138321",
+    "timestamp": "2025-11-24T09:18:01.000Z",
+    "metadata": {
+      "conversation_id": "1992885405990138321",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992885238788407631",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@bentossell @FactoryAI They just released the new vision MCP, which does support images: https://t.co/30wb64jiTK",
+    "url": "https://x.com/bradvangelder/status/1992885238788407631",
+    "timestamp": "2025-11-24T09:17:21.000Z",
+    "metadata": {
+      "conversation_id": "1992885238788407631",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992884660867870828",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@bradvangelder @FactoryAI glm doesnt support images",
+    "url": "https://x.com/bentossell/status/1992884660867870828",
+    "timestamp": "2025-11-24T09:15:03.000Z",
+    "metadata": {
+      "conversation_id": "1992884660867870828",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992880996824560006",
     "source": "twitter",
     "author": "AIFlow_ML",
