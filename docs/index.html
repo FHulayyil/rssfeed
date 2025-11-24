@@ -1716,8 +1716,10 @@
         const isArchived = state.archivedIds.has(item.id);
         if (state.showArchived !== isArchived) return false;
         
-        // Hidden authors filter
-        if (state.config.hiddenAuthors && state.config.hiddenAuthors.includes(item.author)) return false;
+        // Hidden authors filter (case-insensitive)
+        if (state.config.hiddenAuthors && state.config.hiddenAuthors.some(author => 
+          author.toLowerCase() === item.author.toLowerCase()
+        )) return false;
         
         // Source filter
         if (state.activeFilter !== 'all' && item.source !== state.activeFilter) return false;
@@ -2321,7 +2323,9 @@
                 localStorage.setItem(STORAGE_KEYS.CONFIG, JSON.stringify(newConfig));
                 state.config = newConfig;
                 elements.settingsModal.classList.remove('open');
-                showToast('Configuration saved');
+                showToast('Configuration saved - feed refreshed');
+                // Refresh the feed to apply new filters
+                render();
             } catch {
                 alert('Invalid JSON');
             }
