@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_1993002849673077077",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "@bentossell @FactoryAI that worked! Thank you sir! \n\nhere's the ID: 4e3f053a-8741-4787-a741-3e31d9d26407 https://t.co/R0mAI8BYqk",
+    "url": "https://x.com/5aikat/status/1993002849673077077",
+    "timestamp": "2025-11-24T17:04:42.000Z",
+    "metadata": {
+      "conversation_id": "1993002849673077077",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993002537260388779",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "So what's the consensus on Gemini 3 Pro? Where are you guys using it? I'm using it in @FactoryAI and @cursor_ai… it definitely works better with Droid, but I still prefer Codex.\n\nThoughts?",
+    "url": "https://x.com/Alberto8793/status/1993002537260388779",
+    "timestamp": "2025-11-24T17:03:27.000Z",
+    "metadata": {
+      "conversation_id": "1993002537260388779",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_422",
+    "source": "github",
+    "author": "deugene",
+    "content": "[Issue] Per-project MCP setup\n\nI have multiple projects with different tech stacks and tool selections. It would be great to be able to have different MCP setups project. It also helps when you're working in dev containers, so you can store your MCP setup in the project's directory, and when your dev container rebuilds, you don't have to reconfigure all of the MCP servers in the dev container. Claude code for example supports this. If you have a .mcp.json file in the root of your project, when you run Claude code, this mcp co",
+    "url": "https://github.com/Factory-AI/factory/issues/422",
+    "timestamp": "2025-11-24T17:01:11Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 422
+    }
+  },
+  {
+    "id": "twitter_1993001227274395804",
+    "source": "twitter",
+    "author": "osaki_io",
+    "content": ". @FactoryAI  team - jio is blocking droid cli completely in India. even using cloudflare dns. so weird. It's completely unusable :(",
+    "url": "https://x.com/osaki_io/status/1993001227274395804",
+    "timestamp": "2025-11-24T16:58:15.000Z",
+    "metadata": {
+      "conversation_id": "1993001227274395804",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993001008298115309",
     "source": "twitter",
     "author": "bentossell",
