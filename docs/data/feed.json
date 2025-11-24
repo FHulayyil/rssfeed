@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992975503557300227",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992974042488344953",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1992973331969040431",
