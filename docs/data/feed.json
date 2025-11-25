@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993112017738383655",
+    "source": "twitter",
+    "author": "noticous",
+    "content": "@FactoryAI Why cant we have a nice UI for IDE like claude",
+    "url": "https://x.com/noticous/status/1993112017738383655",
+    "timestamp": "2025-11-25T00:18:29.000Z",
+    "metadata": {
+      "conversation_id": "1993112017738383655",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993110191374790895",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JohnONolan @FactoryAI tf - said any time twice 😅 time for bed",
+    "url": "https://x.com/bentossell/status/1993110191374790895",
+    "timestamp": "2025-11-25T00:11:14.000Z",
+    "metadata": {
+      "conversation_id": "1993110191374790895",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993106659175280796",
+    "source": "twitter",
+    "author": "zkstx",
+    "content": "@NickSloggett @FactoryAI @AnthropicAI I don't see myself ever getting to the point of relying on either of these as a tool if I don't have access to weights, respectively the source code to have chance of keeping them running them once the official support is dropped / conditions change",
+    "url": "https://x.com/zkstx/status/1993106659175280796",
+    "timestamp": "2025-11-24T23:57:12.000Z",
+    "metadata": {
+      "conversation_id": "1993106659175280796",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993105889428152399",
     "source": "twitter",
     "author": "igorsolly",
