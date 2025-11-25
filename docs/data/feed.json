@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993434545836978310",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@pascallammers_ @FactoryAI how much you burning per day, its hard to see with Factory though",
+    "url": "https://x.com/martin_ict_algo/status/1993434545836978310",
+    "timestamp": "2025-11-25T21:40:06.000Z",
+    "metadata": {
+      "conversation_id": "1993434545836978310",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993432317248082085",
     "source": "twitter",
     "author": "martinpcolley",
