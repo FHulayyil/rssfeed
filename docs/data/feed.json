@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993320207331258807",
+    "source": "twitter",
+    "author": "NoBanksNearby",
+    "content": "@pascallammers_ @FactoryAI haha, 50m tokens burned sounds like a solid way to end the cycle. bet you're stoked to see the cost breakdown. 🔥",
+    "url": "https://x.com/NoBanksNearby/status/1993320207331258807",
+    "timestamp": "2025-11-25T14:05:46.000Z",
+    "metadata": {
+      "conversation_id": "1993320207331258807",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993319178489475514",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "Last Day of my billing cycle with @FactoryAI - let's get those 50m tokens burned 🔥 https://t.co/W7FS7PNWCX",
+    "url": "https://x.com/pascallammers_/status/1993319178489475514",
+    "timestamp": "2025-11-25T14:01:40.000Z",
+    "metadata": {
+      "conversation_id": "1993319178489475514",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993315371118739910",
     "source": "twitter",
     "author": "JoelDeTeves",
@@ -12056,6 +12086,19 @@
       "classifiedAt": "2025-11-21T21:47:31.286Z"
     },
     "category": "mention"
+  },
+  {
+    "id": "github_issue_402",
+    "source": "github",
+    "author": "ncrimi",
+    "content": "[Issue] Factory Bridge does not connect my local code with Websession\n\nDear all,\n\nWhen I want to connect my websession with the local code, it is not possible.\nI type in the 6 fig code from the web sesh into my factory bridge however it does not recognize a session. I deleted, reinstalled the newest version of the factory bridge. Furthermore, I restarted my computer but it is still not working. Why? Can anyone help out here?\n\nThx and best,\nNic",
+    "url": "https://github.com/Factory-AI/factory/issues/402",
+    "timestamp": "2025-11-20T16:27:04Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 402
+    }
   },
   {
     "id": "reddit_1p24scm",
