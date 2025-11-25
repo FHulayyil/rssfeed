@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1993259457984291169",
+    "source": "twitter",
+    "author": "s_engtech",
+    "content": "@FactoryAI Great, thank you. Can I verify the reduced pricing for Opus 4.5 during these two weeks in the dashboard? @FactoryAI",
+    "url": "https://x.com/s_engtech/status/1993259457984291169",
+    "timestamp": "2025-11-25T10:04:22.000Z",
+    "metadata": {
+      "conversation_id": "1993259457984291169",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993250298144735313",
     "source": "twitter",
     "author": "phanindra_ai",
@@ -11994,6 +12009,19 @@
       "number": 369
     },
     "category": "bug"
+  },
+  {
+    "id": "reddit_1oxk7bb",
+    "source": "reddit",
+    "author": "EggNo4904",
+    "content": "Anybody else getting the pretty-print? vercel security etc. dk why it wont accept my card.\n\nThumbnail: self\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oxk7bb/anybody_else_getting_the_prettyprint_vercel/",
+    "timestamp": "2025-11-15T06:07:46.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_discussion_361",
