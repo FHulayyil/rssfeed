@@ -7,14 +7,15 @@ const path = require('path');
 const { scrapeReddit } = require('./scrapers/reddit');
 const { scrapeGitHub } = require('./scrapers/github');
 const { scrapeTwitter, filterTweets } = require('./scrapers/twitter');
-const { 
-  initStorage, 
-  loadFeed, 
-  loadSeen, 
-  saveFeed, 
+const {
+  initStorage,
+  loadFeed,
+  loadSeen,
+  saveFeed,
   saveSeen,
-  filterNewItems 
+  filterNewItems
 } = require('./storage');
+const { generateRssFeed } = require('./rss');
 
 /**
  * CLI scraper that runs once and outputs to public/data/feed.json
@@ -109,15 +110,25 @@ async function main() {
     await fs.mkdir(docsDataDir, { recursive: true });
     
     await fs.writeFile(docsFeedPath, JSON.stringify(feed, null, 2));
-    
+
+    // Generate and write RSS feed
+    const docsRssPath = path.join(docsDataDir, 'feed.xml');
+    const rssFeed = generateRssFeed(feed, {
+      title: 'Factory AI Social Feed',
+      link: 'https://factory.ai',
+      description: 'Aggregated mentions from Twitter, Reddit, and GitHub'
+    });
+    await fs.writeFile(docsRssPath, rssFeed);
+
     // Persist seen IDs (trim to last 1000 to prevent file from growing too large)
     const trimmedSeen = {
       ids: Array.from(seen).slice(-1000),
       conversations: (seenData.conversations || []).slice(-1000)
     };
     await fs.writeFile(docsSeenPath, JSON.stringify(trimmedSeen, null, 2));
-    
+
     console.log('[CLI] Wrote feed to:', docsFeedPath);
+    console.log('[CLI] Wrote RSS feed to:', docsRssPath);
     console.log('[CLI] Scrape complete!');
     
     process.exit(0);
