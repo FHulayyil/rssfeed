@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993428761635848226",
+    "source": "twitter",
+    "author": "RayaneRachid_",
+    "content": "@FactoryAI https://t.co/W84yuhj3So",
+    "url": "https://x.com/RayaneRachid_/status/1993428761635848226",
+    "timestamp": "2025-11-25T21:17:07.000Z",
+    "metadata": {
+      "conversation_id": "1993428761635848226",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993426305501831677",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "Opus 4.5 is just unusable right now on droid @FactoryAI",
+    "url": "https://x.com/nathanpareo/status/1993426305501831677",
+    "timestamp": "2025-11-25T21:07:21.000Z",
+    "metadata": {
+      "conversation_id": "1993426305501831677",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993423007579267326",
     "source": "twitter",
     "author": "DCasota",
