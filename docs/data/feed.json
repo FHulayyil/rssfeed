@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1993383651397321039",
+    "source": "twitter",
+    "author": "mm_ramoz",
+    "content": "@cursor_ai @FactoryAI @geminicli official release in 1-2 weeks",
+    "url": "https://x.com/mm_ramoz/status/1993383651397321039",
+    "timestamp": "2025-11-25T18:17:52.000Z",
+    "metadata": {
+      "conversation_id": "1993383651397321039",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993383213839065568",
+    "source": "twitter",
+    "author": "mm_ramoz",
+    "content": "@cursor_ai @FactoryAI @geminicli Hooks are important to give those responsible for deployment ownership of their own alignment.\n\nhttps://t.co/BTyOhNvvs2 will institutionalize this ability across enterprise",
+    "url": "https://x.com/mm_ramoz/status/1993383213839065568",
+    "timestamp": "2025-11-25T18:16:08.000Z",
+    "metadata": {
+      "conversation_id": "1993383213839065568",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993383001275965680",
+    "source": "twitter",
+    "author": "mm_ramoz",
+    "content": "great decisions by @cursor_ai @FactoryAI and @geminicli to add support hooks. I get the sense that openai researchers are anti-harness (and esp adversarial to something like hooks) but now ramping up codex development so suspect hooks there as well",
+    "url": "https://x.com/mm_ramoz/status/1993383001275965680",
+    "timestamp": "2025-11-25T18:15:17.000Z",
+    "metadata": {
+      "conversation_id": "1993383001275965680",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993382625814495538",
+    "source": "twitter",
+    "author": "ragnsan_",
+    "content": "@dannyveigatx @pascallammers_ @FactoryAI Same",
+    "url": "https://x.com/ragnsan_/status/1993382625814495538",
+    "timestamp": "2025-11-25T18:13:47.000Z",
+    "metadata": {
+      "conversation_id": "1993382625814495538",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993382028524634322",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "@pascallammers_ @FactoryAI 50M — 5 to 10 planning sessions with Opus ;)\nNot a nig deal. Discount will make it harder but not impossible ;)",
+    "url": "https://x.com/orange_boy/status/1993382028524634322",
+    "timestamp": "2025-11-25T18:11:25.000Z",
+    "metadata": {
+      "conversation_id": "1993382028524634322",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993381953358401690",
+    "source": "twitter",
+    "author": "yggdrasil__ai",
+    "content": "@SvenMeyer @GolGappay102 @rudrank @FactoryAI Every single factory instance does it, even more than CC",
+    "url": "https://x.com/yggdrasil__ai/status/1993381953358401690",
+    "timestamp": "2025-11-25T18:11:07.000Z",
+    "metadata": {
+      "conversation_id": "1993381953358401690",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993378848277185016",
     "source": "twitter",
     "author": "pascallammers_",
