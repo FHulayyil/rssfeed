@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993568056174690346",
+    "source": "twitter",
+    "author": "bheemreddy181",
+    "content": "@faizintfd @FactoryAI Is that an in built ?",
+    "url": "https://x.com/bheemreddy181/status/1993568056174690346",
+    "timestamp": "2025-11-26T06:30:37.000Z",
+    "metadata": {
+      "conversation_id": "1993568056174690346",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993567838901354701",
+    "source": "twitter",
+    "author": "Arkdezin",
+    "content": "@FactoryAI  @bentossell \nIs there any issue with image pasting and copying text in droid CLl with recent update ??\nI have been facing and a few other folks I know are facing this issue \nNot able to add reference images and paste text from other places???\nLet me know, in case I'm doing something wrong??? Or its issue with recent updates ???",
+    "url": "https://x.com/Arkdezin/status/1993567838901354701",
+    "timestamp": "2025-11-26T06:29:46.000Z",
+    "metadata": {
+      "conversation_id": "1993567838901354701",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1p70ehl",
     "source": "reddit",
     "author": "bentossell",
