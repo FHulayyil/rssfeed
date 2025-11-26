@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993789308864745776",
+    "source": "twitter",
+    "author": "RadicDavydov",
+    "content": "@iannuttall @FactoryAI So which one is it?",
+    "url": "https://x.com/RadicDavydov/status/1993789308864745776",
+    "timestamp": "2025-11-26T21:09:48.000Z",
+    "metadata": {
+      "conversation_id": "1993789308864745776",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993788902130504009",
+    "source": "twitter",
+    "author": "agenzlabs",
+    "content": "@iannuttall @FactoryAI Codex for backend + Opus for refactors might actually be the perfect combo",
+    "url": "https://x.com/agenzlabs/status/1993788902130504009",
+    "timestamp": "2025-11-26T21:08:11.000Z",
+    "metadata": {
+      "conversation_id": "1993788902130504009",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993788571233210509",
+    "source": "twitter",
+    "author": "GingerAle3101",
+    "content": "@iannuttall @FactoryAI -and it does not work, but boy was it beautiful",
+    "url": "https://x.com/GingerAle3101/status/1993788571233210509",
+    "timestamp": "2025-11-26T21:06:52.000Z",
+    "metadata": {
+      "conversation_id": "1993788571233210509",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993781169821974919",
     "source": "twitter",
     "author": "wolfaidev",
