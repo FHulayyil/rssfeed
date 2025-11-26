@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1993607569248833943",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Arkdezin @FactoryAI are you on windows or mac? or linux? \n\npasting text should be fine? may need to run /terminal-setup if pasting images is not working. there are some bugs with images some times but they're known and being fixed.",
+    "url": "https://x.com/bentossell/status/1993607569248833943",
+    "timestamp": "2025-11-26T09:07:38.000Z",
+    "metadata": {
+      "conversation_id": "1993607569248833943",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993605230013923553",
+    "source": "twitter",
+    "author": "ChrisVanDerKlau",
+    "content": "@FactoryAI 20 M token per month for 20$ is incredibly low compared to Codex or Claude Code for which rate limits are reset per day and per week.\n\nI have used my 20 M token in the first day or so, and left to wait for a whole month to be able to use the subscription quota.\n\nI will try one more month and then I will surely unsubscribe if it remains this way.",
+    "url": "https://x.com/ChrisVanDerKlau/status/1993605230013923553",
+    "timestamp": "2025-11-26T08:58:20.000Z",
+    "metadata": {
+      "conversation_id": "1993605230013923553",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993600303602495603",
     "source": "twitter",
     "author": "KrakowiakK",
