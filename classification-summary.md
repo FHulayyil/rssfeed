@@ -1,9 +1,9 @@
 # Classification Summary
 
-**Date:** 2025-11-26 10:10 UTC
+**Date:** 2025-11-26 10:26 UTC
 
-## New Items Classified: 3
+## New Items Classified: 1
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| mention | 3 | 100.0% |
+| bug | 1 | 100.0% |
