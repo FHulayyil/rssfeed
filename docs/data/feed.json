@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1993613223128699177",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@zhangjintao9020 @pascallammers_ @FactoryAI UTC",
+    "url": "https://x.com/bentossell/status/1993613223128699177",
+    "timestamp": "2025-11-26T09:30:06.000Z",
+    "metadata": {
+      "conversation_id": "1993613223128699177",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993612404673106018",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JoeySmi48633946 @FactoryAI we dont have native support for grok yet",
+    "url": "https://x.com/bentossell/status/1993612404673106018",
+    "timestamp": "2025-11-26T09:26:51.000Z",
+    "metadata": {
+      "conversation_id": "1993612404673106018",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993612349886882277",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@vatro_vrbanic @FactoryAI /sessions now show you sessions within your cwd - so it may be that the sessions you are looking for were in a different directory you were using",
+    "url": "https://x.com/bentossell/status/1993612349886882277",
+    "timestamp": "2025-11-26T09:26:38.000Z",
+    "metadata": {
+      "conversation_id": "1993612349886882277",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993611897921274214",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "i wouldnt wait as i dont think its a bug, you can still keep the session. if you change models it'll compact but no degradation. \n\nthis may be a session where you chose to use gemini - so its using the same model for spec. you can't have spec model and execute model from different model families. \n\nrun /model and you can configure the spec model + execute model. or change it in your /.factory/settings.json",
+    "url": "https://x.com/bentossell/status/1993611897921274214",
+    "timestamp": "2025-11-26T09:24:50.000Z",
+    "metadata": {
+      "conversation_id": "1993611897921274214",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993611066589184468",
     "source": "twitter",
     "author": "bentossell",
