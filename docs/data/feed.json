@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993660179100172624",
+    "source": "twitter",
+    "author": "basedanarki",
+    "content": "@MightyMogomra @FactoryAI @cursor_ai opus greps bro.",
+    "url": "https://x.com/basedanarki/status/1993660179100172624",
+    "timestamp": "2025-11-26T12:36:41.000Z",
+    "metadata": {
+      "conversation_id": "1993660179100172624",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993660041560518700",
+    "source": "twitter",
+    "author": "basedanarki",
+    "content": "@MightyMogomra @FactoryAI @cursor_ai honestly saying these things without testing opus 4.5 is just wasting tokens at this point",
+    "url": "https://x.com/basedanarki/status/1993660041560518700",
+    "timestamp": "2025-11-26T12:36:08.000Z",
+    "metadata": {
+      "conversation_id": "1993660041560518700",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993659825469964398",
+    "source": "twitter",
+    "author": "MightyMogomra",
+    "content": "@basedanarki @FactoryAI @cursor_ai My main problem with LLMs is when they can't get the context they need, and most of software engineering consists of finding and integrating context (except frontend web stuff)\n\nI can imagine one of these setups fixing that by actually being good at grepping around",
+    "url": "https://x.com/MightyMogomra/status/1993659825469964398",
+    "timestamp": "2025-11-26T12:35:17.000Z",
+    "metadata": {
+      "conversation_id": "1993659825469964398",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993652949487349776",
     "source": "twitter",
     "author": "basedanarki",
