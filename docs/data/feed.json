@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993511819508695126",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@AriesTheCoder @FactoryAI You can choose all of these! This is just the current model you have active. Run /model to change",
+    "url": "https://x.com/EnoReyes/status/1993511819508695126",
+    "timestamp": "2025-11-26T02:47:10.000Z",
+    "metadata": {
+      "conversation_id": "1993511819508695126",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993505607047893067",
+    "source": "twitter",
+    "author": "renatoaraujoc",
+    "content": "@dannyveigatx @TheEcomNomad @augmentcode @AnthropicAI @FactoryAI Trying Kilo Code atm, if I don't like it, I'll try Droid",
+    "url": "https://x.com/renatoaraujoc/status/1993505607047893067",
+    "timestamp": "2025-11-26T02:22:28.000Z",
+    "metadata": {
+      "conversation_id": "1993505607047893067",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993504519184171257",
+    "source": "twitter",
+    "author": "agent_wrap",
+    "content": "@zkstx @NickSloggett @FactoryAI @AnthropicAI you can use @FactoryAI droid with custom models hosted on your machine!",
+    "url": "https://x.com/agent_wrap/status/1993504519184171257",
+    "timestamp": "2025-11-26T02:18:09.000Z",
+    "metadata": {
+      "conversation_id": "1993504519184171257",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993501984847208466",
     "source": "twitter",
     "author": "benvargas",
