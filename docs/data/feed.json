@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1993939973599580422",
+    "source": "twitter",
+    "author": "OrriBogdan",
+    "content": "@sorenblank @TukiFromKL lmao @FactoryAI watch out, you have another one",
+    "url": "https://x.com/OrriBogdan/status/1993939973599580422",
+    "timestamp": "2025-11-27T07:08:29.000Z",
+    "metadata": {
+      "conversation_id": "1993939973599580422",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993939442571387145",
+    "source": "twitter",
+    "author": "toniolo_david",
+    "content": "@5aikat @pvncher @FactoryAI @ryancarson Yeah I'm a fan of factory as well.",
+    "url": "https://x.com/toniolo_david/status/1993939442571387145",
+    "timestamp": "2025-11-27T07:06:23.000Z",
+    "metadata": {
+      "conversation_id": "1993939442571387145",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993939049397002515",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "with absolute honesty, 😔 speed of tool updates would've made Buddha have ADHD - no way i can keep up. It's a full time job.\n\nExplore vs exploit : 20 to 80\n\nI'm now comfortable & happy with @FactoryAI max plan, excellent context harness and orchestration + @ryancarson 2 file PRD & Task sub-agents to actually build & not incessantly explore 🫣",
+    "url": "https://x.com/5aikat/status/1993939049397002515",
+    "timestamp": "2025-11-27T07:04:49.000Z",
+    "metadata": {
+      "conversation_id": "1993939049397002515",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993937240716922908",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@iannuttall @FactoryAI ok tnks a lot.",
+    "url": "https://x.com/AIFlow_ML/status/1993937240716922908",
+    "timestamp": "2025-11-27T06:57:38.000Z",
+    "metadata": {
+      "conversation_id": "1993937240716922908",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993933630545314223",
     "source": "twitter",
     "author": "iannuttall",
