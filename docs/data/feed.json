@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1993873868566766046",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@CloudTrader4 @FactoryAI What skill ?",
+    "url": "https://x.com/AIFlow_ML/status/1993873868566766046",
+    "timestamp": "2025-11-27T02:45:49.000Z",
+    "metadata": {
+      "conversation_id": "1993873868566766046",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993868522469106102",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "Feature request for @FactoryAI when I load /account from the cli I would love to NOT have to go through the passwordless email flow. All I wanna see is how many tokens I have left 😭",
+    "url": "https://x.com/launchaddict/status/1993868522469106102",
+    "timestamp": "2025-11-27T02:24:34.000Z",
+    "metadata": {
+      "conversation_id": "1993868522469106102",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993867087002128507",
+    "source": "twitter",
+    "author": "philtrem22",
+    "content": "@jamesvanderhaak @iannuttall @FactoryAI Wait. That's real? 😮",
+    "url": "https://x.com/philtrem22/status/1993867087002128507",
+    "timestamp": "2025-11-27T02:18:52.000Z",
+    "metadata": {
+      "conversation_id": "1993867087002128507",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993844439807410342",
     "source": "twitter",
     "author": "Kyler_Lorin",
