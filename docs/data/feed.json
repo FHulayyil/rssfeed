@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1994149605001625619",
+    "source": "twitter",
+    "author": "garyfung",
+    "content": "@bentossell @minheo93698092 @FactoryAI ^ @FactoryAI on the marketing problem",
+    "url": "https://x.com/garyfung/status/1994149605001625619",
+    "timestamp": "2025-11-27T21:01:29.000Z",
+    "metadata": {
+      "conversation_id": "1994149605001625619",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994149155896467678",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "This morning, I worked on a PRD and impl plan for new dynamic toolset support in our @graphlit MCP server. \n\n@FactoryAI Droid + Opus 4.5 - hard to have any complaints about Opus. They burnished all the rough edges of Sonnet. \n\nNow I told Opus I’m working on Thanksgiving dinner prep, and it’s on its own to finish all three phases. \n\nWe will see how far it gets before stopping!",
+    "url": "https://x.com/KirkMarple/status/1994149155896467678",
+    "timestamp": "2025-11-27T20:59:42.000Z",
+    "metadata": {
+      "conversation_id": "1994149155896467678",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994149113697587626",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@garyfung @minheo93698092 @FactoryAI had it from day one - some folks have keybinding issues sometimes",
+    "url": "https://x.com/bentossell/status/1994149113697587626",
+    "timestamp": "2025-11-27T20:59:32.000Z",
+    "metadata": {
+      "conversation_id": "1994149113697587626",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994148669617221890",
+    "source": "twitter",
+    "author": "garyfung",
+    "content": "@bentossell @minheo93698092 @FactoryAI ah, newly added a month ago?\n\nLLMs haven't picked that up and keep telling me droid doesn't have image input support. Marketing problem lol\n\nhttps://t.co/EoSRwFGc8K",
+    "url": "https://x.com/garyfung/status/1994148669617221890",
+    "timestamp": "2025-11-27T20:57:46.000Z",
+    "metadata": {
+      "conversation_id": "1994148669617221890",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994148158935584859",
+    "source": "twitter",
+    "author": "ramnanimanan",
+    "content": "@badlogicgames 🔥 \n@FactoryAI droid was difficult since they have bun compilation and minified (but managed somehow) . And decompiling IntelliJ based agents was the easiest (Windsurf) . Would be fun to do vscode wrappers some way",
+    "url": "https://x.com/ramnanimanan/status/1994148158935584859",
+    "timestamp": "2025-11-27T20:55:45.000Z",
+    "metadata": {
+      "conversation_id": "1994148158935584859",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994147473464627365",
     "source": "twitter",
     "author": "_alissonryan",
