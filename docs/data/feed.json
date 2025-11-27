@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994105107651416079",
+    "source": "twitter",
+    "author": "pvncher",
+    "content": "@ItzR3NO @5aikat @mitchellh @WisprFlow @FactoryAI Awesome I just made a video here",
+    "url": "https://x.com/pvncher/status/1994105107651416079",
+    "timestamp": "2025-11-27T18:04:41.000Z",
+    "metadata": {
+      "conversation_id": "1994105107651416079",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994104937316528265",
+    "source": "twitter",
+    "author": "ItzR3NO",
+    "content": "@pvncher @5aikat @mitchellh @WisprFlow @FactoryAI Video would be helpful I subbed for a year. Great product I think I need more clarity when it goes from GPT pro to repo prompt",
+    "url": "https://x.com/ItzR3NO/status/1994104937316528265",
+    "timestamp": "2025-11-27T18:04:00.000Z",
+    "metadata": {
+      "conversation_id": "1994104937316528265",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994102153883930851",
     "source": "twitter",
     "author": "orange_boy",
