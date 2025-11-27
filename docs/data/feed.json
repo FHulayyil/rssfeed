@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994005189267742790",
+    "source": "twitter",
+    "author": "5aikat",
+    "content": "i find the 'factor' as an interesting pricing concept 🙃... makes it easy to compare price vs performance\n\nI never used the opus-4 for that reason - never found 6 times better reasoning\n\nthere is a need for balance of quality vs price\n\nwith openai models at 0.5x - will have four codex 5.1 subagents to work in tandem vs having one fast work horse tackling 1 by 1",
+    "url": "https://x.com/5aikat/status/1994005189267742790",
+    "timestamp": "2025-11-27T11:27:38.000Z",
+    "metadata": {
+      "conversation_id": "1994005189267742790",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994004959440855461",
+    "source": "twitter",
+    "author": "YaacovCorcos",
+    "content": "@donvito I use it mostly with codex agent or Droid from @FactoryAI.\nBut I find it really useful for its cloud dev environment. It’s a lot more efficient and reliable than using localhost with cursor and suddenly discovering that it crashed for some reason…",
+    "url": "https://x.com/YaacovCorcos/status/1994004959440855461",
+    "timestamp": "2025-11-27T11:26:43.000Z",
+    "metadata": {
+      "conversation_id": "1994004959440855461",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994001693017886929",
     "source": "twitter",
     "author": "AriesTheCoder",
