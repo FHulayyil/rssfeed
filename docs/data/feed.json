@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994046552164454904",
+    "source": "twitter",
+    "author": "aeitroc",
+    "content": "# Current Ai Coding Setup for :\n## Complicated Projects such as webapps,apps.\n- Coder - Droid from @FactoryAI  with Kimi K2 Thinking + SpecKit from Github \n- Code Reviews - Quibbler\n- Devops - Claude Code + GLM 4.6 + Quibbler\n- @antigravity as main IDE\n\n## Simple Projects\n- Coder - Claude Code + GLM 4.6 + Quibbler\n- Devops - Claude Code + GLM 4.6 + Quibbler \n- @antigravity as main IDE\n\n## Tools, utilities configurations on MAC\n- Opencode with x-ai/grok-4.1-fast:free\n\nMy main goal is to keep a balance of monthly expenses for Ai subscriptions + Smart Coding using the right Ai.\n\nWhen a project i get is complicated enough, i use Droid with Codex directly,but with Kimi K2 thinking i have not had any reason to do so.\nBefore, due to Claude Code being retarded and Opus expensive, I used Codex directly.\n\nAs an alternative to Kimi K2 thinking, i would consider using Opus 4.5 if after two weeks @AnthropicAI keeps it with the same rates as now. \n\nWhat AI I choose depends on the project details.",
+    "url": "https://x.com/aeitroc/status/1994046552164454904",
+    "timestamp": "2025-11-27T14:12:00.000Z",
+    "metadata": {
+      "conversation_id": "1994046552164454904",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994046276825174115",
+    "source": "twitter",
+    "author": "Silas_Schuettel",
+    "content": "@bentossell @FactoryAI Will make my life so much better when it is done!",
+    "url": "https://x.com/Silas_Schuettel/status/1994046276825174115",
+    "timestamp": "2025-11-27T14:10:54.000Z",
+    "metadata": {
+      "conversation_id": "1994046276825174115",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994037593533493759",
     "source": "twitter",
     "author": "TCGsealed",
