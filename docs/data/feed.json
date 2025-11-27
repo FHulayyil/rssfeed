@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1993991912349643101",
+    "source": "twitter",
+    "author": "Viswana34226652",
+    "content": "@aeitroc @FactoryAI @OpenRouterAI @bentossell  whats your opinion",
+    "url": "https://x.com/Viswana34226652/status/1993991912349643101",
+    "timestamp": "2025-11-27T10:34:53.000Z",
+    "metadata": {
+      "conversation_id": "1993991912349643101",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993991531372663234",
+    "source": "twitter",
+    "author": "Viswana34226652",
+    "content": "@neki_tech @wolfaidev @FactoryAI referral  is not there https://t.co/RT5jgYrick",
+    "url": "https://x.com/Viswana34226652/status/1993991531372663234",
+    "timestamp": "2025-11-27T10:33:22.000Z",
+    "metadata": {
+      "conversation_id": "1993991531372663234",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993990034404389048",
+    "source": "twitter",
+    "author": "wolfaidev",
+    "content": "@Viswana34226652 @bentossell @neki_tech @FactoryAI nope shouldn't be there",
+    "url": "https://x.com/wolfaidev/status/1993990034404389048",
+    "timestamp": "2025-11-27T10:27:25.000Z",
+    "metadata": {
+      "conversation_id": "1993990034404389048",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993989759295737873",
+    "source": "twitter",
+    "author": "flaviocopes",
+    "content": "@jitendravyas @opencode @FactoryAI @FactoryAI is awesome as well! I like how OpenCode lets me use Claude Code Max subscription easily tbh",
+    "url": "https://x.com/flaviocopes/status/1993989759295737873",
+    "timestamp": "2025-11-27T10:26:19.000Z",
+    "metadata": {
+      "conversation_id": "1993989759295737873",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993989379245945339",
+    "source": "twitter",
+    "author": "Viswana34226652",
+    "content": "@bentossell @wolfaidev @neki_tech @FactoryAI @bentossell @wolfaidev @neki_tech   go to billing and usage section there you you find",
+    "url": "https://x.com/Viswana34226652/status/1993989379245945339",
+    "timestamp": "2025-11-27T10:24:49.000Z",
+    "metadata": {
+      "conversation_id": "1993989379245945339",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1993988225468137720",
+    "source": "twitter",
+    "author": "jitendravyas",
+    "content": "@flaviocopes @opencode Better than @FactoryAI CLI?",
+    "url": "https://x.com/jitendravyas/status/1993988225468137720",
+    "timestamp": "2025-11-27T10:20:14.000Z",
+    "metadata": {
+      "conversation_id": "1993988225468137720",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1993982958928003279",
     "source": "twitter",
     "author": "bradvangelder",
