@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1994100477051474187",
@@ -15662,7 +15663,7 @@
       "reason": "User reports an authentication issue with Figma MCP, indicating something is broken and not working as expected.",
       "classifiedAt": "2025-11-22T09:44:13.947Z"
     },
-    "category": "question"
+    "category": "bug"
   },
   {
     "id": "github_discussion_418",
@@ -15675,7 +15676,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 418
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "reddit_1p3olcg",
