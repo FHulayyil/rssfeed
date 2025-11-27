@@ -116,15 +116,18 @@ jobs:
 
           Task: $PROMPT
 
-          This is a regular issue - you CANNOT make file changes directly.
+          This is a regular issue - you CANNOT make file changes directly to main.
 
-          If the task requires code changes:
-          - Create a new branch with: git checkout -b droid/issue-$ISSUE_NUM
-          - Make the code changes and commit them
-          - Push the branch: git push -u origin droid/issue-$ISSUE_NUM
-          - Create a PR: gh pr create --title "Fix for #$ISSUE_NUM" --body "Addresses #$ISSUE_NUM\n\n$PROMPT"
+          If the task requires code changes, you MUST:
+          1. Create a new branch: git checkout -b droid/issue-$ISSUE_NUM
+          2. Make the code changes and commit them with a clear message
+          3. Push the branch: git push -u origin droid/issue-$ISSUE_NUM
+          4. Automatically create a PR by running this command:
+             gh pr create --title "Fix: <short description>" --body "Closes #$ISSUE_NUM\n\nCreated by @droid\n\n<brief description of changes>"
+          
+          IMPORTANT: You must actually execute the gh pr create command, don't just leave instructions. The PR should be created automatically.
 
-          For questions or information:
+          For questions or information that don't require code changes:
           - Use: gh issue comment $ISSUE_NUM --body "your response"
           EOF
           fi
