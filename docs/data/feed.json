@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1994459869596864682",
+    "source": "twitter",
+    "author": "ShvZFR",
+    "content": "@5aikat @mitchellh @WisprFlow @FactoryAI Am I missing out not using droids or what?",
+    "url": "https://x.com/ShvZFR/status/1994459869596864682",
+    "timestamp": "2025-11-28T17:34:22.000Z",
+    "metadata": {
+      "conversation_id": "1994459869596864682",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994457733676806462",
+    "source": "twitter",
+    "author": "soumyo",
+    "content": "@abhi1thakur @antigravity @FactoryAI Hey @bentossell, can you do something to get Abhisek on the Droid bandwagon?",
+    "url": "https://x.com/soumyo/status/1994457733676806462",
+    "timestamp": "2025-11-28T17:25:53.000Z",
+    "metadata": {
+      "conversation_id": "1994457733676806462",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994457440482455661",
+    "source": "twitter",
+    "author": "abhi1thakur",
+    "content": "@soumyo @antigravity @FactoryAI my opus experiments are using github copilot",
+    "url": "https://x.com/abhi1thakur/status/1994457440482455661",
+    "timestamp": "2025-11-28T17:24:43.000Z",
+    "metadata": {
+      "conversation_id": "1994457440482455661",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994457286329426085",
+    "source": "twitter",
+    "author": "soumyo",
+    "content": "@abhi1thakur @antigravity True, in its current state @antigravity is completely not usable. I think it’ll take some good amount of time for Google to fix the capacity issues. In the meantime you can check Gemini 3 Pro in @FactoryAI \n\nThe Droid harness is really a notch above.",
+    "url": "https://x.com/soumyo/status/1994457286329426085",
+    "timestamp": "2025-11-28T17:24:06.000Z",
+    "metadata": {
+      "conversation_id": "1994457286329426085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994453835063201962",
     "source": "twitter",
     "author": "soumyo",
