@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994521850668617766",
+    "source": "twitter",
+    "author": "Berezin12345",
+    "content": "@5aikat @mitchellh @WisprFlow @FactoryAI This is the best thing I've read in the past week. Good to see that at least someone here is thinking.",
+    "url": "https://x.com/Berezin12345/status/1994521850668617766",
+    "timestamp": "2025-11-28T21:40:40.000Z",
+    "metadata": {
+      "conversation_id": "1994521850668617766",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_449",
     "source": "github",
     "author": "langri-sha",
