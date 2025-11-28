@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994219222394626506",
+    "source": "twitter",
+    "author": "JohnThilen",
+    "content": "@E__Strobel @mattshumer_ I get opus 4.5 via @FactoryAI's $20 plan. Their droid also seems to be better than Claude Code.",
+    "url": "https://x.com/JohnThilen/status/1994219222394626506",
+    "timestamp": "2025-11-28T01:38:08.000Z",
+    "metadata": {
+      "conversation_id": "1994219222394626506",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994217969824477226",
+    "source": "twitter",
+    "author": "mhadtk",
+    "content": "Wow, @FactoryAI and @supabase , not only for code but most of the things are just prompts away. https://t.co/83cdoGhxVo",
+    "url": "https://x.com/mhadtk/status/1994217969824477226",
+    "timestamp": "2025-11-28T01:33:09.000Z",
+    "metadata": {
+      "conversation_id": "1994217969824477226",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994209012066201716",
     "source": "twitter",
     "author": "jhicks154",
