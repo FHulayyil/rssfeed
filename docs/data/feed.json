@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994324167974350885",
+    "source": "twitter",
+    "author": "faizintfd",
+    "content": "@AriesTheCoder @bheemreddy181 @FactoryAI i mean, create proof of what droid did for the tasks",
+    "url": "https://x.com/faizintfd/status/1994324167974350885",
+    "timestamp": "2025-11-28T08:35:09.000Z",
+    "metadata": {
+      "conversation_id": "1994324167974350885",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_447",
     "source": "github",
     "author": "coldxiangyu163",
