@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994541928009142412",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@FactoryAI https://t.co/LaoIuxuR8Z",
+    "url": "https://x.com/martin_ict_algo/status/1994541928009142412",
+    "timestamp": "2025-11-28T23:00:27.000Z",
+    "metadata": {
+      "conversation_id": "1994541928009142412",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994540839432065456",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "I’ve finally perfected my \"Zero-Thinking\" implementation pipeline using @FactoryAI  Droid CLI. \nHere is the stack:\n\nThe Spec Phase 🧠 I take a Jira ticket and feed it to Droid CLI in Spec Mode (running Opus 4.5). It drafts the changes. I review, then have Codex do a final pass to catch edge cases.\n\nThe Build Phase 🔨 Once the spec is green, I run a custom command: /implement. This triggers a react-tailwind-expert droid running a custom @grok 's  grok-code-fast model.\n\nBecause the spec is solid, the model just executes. No hallucinating, no architectural guessing. Just fast, clean code.\n\nHas anyone else moved their \"thinking\" time purely to the spec phase?",
+    "url": "https://x.com/martin_ict_algo/status/1994540839432065456",
+    "timestamp": "2025-11-28T22:56:07.000Z",
+    "metadata": {
+      "conversation_id": "1994540839432065456",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994538914829537560",
     "source": "twitter",
     "author": "ShvZFR",
