@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_447",
+    "source": "github",
+    "author": "coldxiangyu163",
+    "content": "[Issue] Gemini 3.0 Pro auto terminates when running custom commands on macOS (v0.27.2)\n\nSystem: macOS   Droid Version: v0.27.2\nWhen running custom **command** commands, the Gemini 3.0 Pro large model frequently terminates automatically. Switching to Sonnet 4.5 Opus resolves this issue entirely.\nI would like to confirm whether this problem is caused by Droid's compatibility with Gemini 3.0 Pro, or by the inherent capabilities/limitations of the Gemini 3.0 Pro model itself. Hope this can be addressed.\nThanks a lot.",
+    "url": "https://github.com/Factory-AI/factory/issues/447",
+    "timestamp": "2025-11-28T08:16:46Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 447
+    }
+  },
+  {
     "id": "github_issue_446",
     "source": "github",
     "author": "a112121788",
