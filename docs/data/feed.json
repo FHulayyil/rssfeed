@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994676133217145116",
+    "source": "twitter",
+    "author": "prathitjoshi_",
+    "content": "@KirkMarple @FactoryAI is droid better than claude code in the harness? or is it easy to switch models?",
+    "url": "https://x.com/prathitjoshi_/status/1994676133217145116",
+    "timestamp": "2025-11-29T07:53:44.000Z",
+    "metadata": {
+      "conversation_id": "1994676133217145116",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994675041574031494",
+    "source": "twitter",
+    "author": "JohnThilen",
+    "content": "@itsbyrobin @Dimillian @FactoryAI droid's sandbox is more intuitive. I run it on \"medium\", and so far its prompts have been a perfect match to what I want to be careful about (\"rm\" on stuff not tracked by git, \"docker system prune\"), and no prompts for stuff that should obviously be done.",
+    "url": "https://x.com/JohnThilen/status/1994675041574031494",
+    "timestamp": "2025-11-29T07:49:23.000Z",
+    "metadata": {
+      "conversation_id": "1994675041574031494",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994670568873054700",
     "source": "twitter",
     "author": "KirkMarple",
