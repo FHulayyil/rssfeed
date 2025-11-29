@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1994728360774406575",
@@ -19929,7 +19930,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 151
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_108",
