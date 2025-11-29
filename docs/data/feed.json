@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_450",
+    "source": "github",
+    "author": "ShubDVS",
+    "content": "[Issue] [Privacy] Missing option to fully disable telemetry and usage logging (BYOK)\n\nWhen using Bring Your Own Key (BYOK), I noticed the CLI continues to send a significant amount of telemetry and usage data to Factory AI servers. I monitored network traffic and observed requests to:\n\n- https://api.factory.ai/api/telemetry/cli-ingest\n\n- https://api.factory.ai/api/llm/custom/usage\n\nThere is currently no configuration option or flag to opt out of this data collection.\n\n>Users bringing their own keys generally expect a higher degree of privacy and do not expect their usage patterns",
+    "url": "https://github.com/Factory-AI/factory/issues/450",
+    "timestamp": "2025-11-29T04:19:12Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 450
+    }
+  },
+  {
     "id": "twitter_1994594468981583985",
     "source": "twitter",
     "author": "kksrini89",
