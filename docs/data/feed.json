@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1994916099373031910",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "Wrapping up for the day: the logs are pretty clear on @morphllm. After about six hours of use, it was called 168 times and cost about ~$0.70 in total.  \n\nOn the merge side I have to assume this offloads a tremendous amount of work from the main coding agent. Things definitely felt a bit more responsive today... \n\nId love to hear other peoples feedback. @RayFernando1337 @iannuttall",
+    "url": "https://x.com/jcurtis/status/1994916099373031910",
+    "timestamp": "2025-11-29T23:47:16.000Z",
+    "metadata": {
+      "conversation_id": "1994916099373031910",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994913174857158783",
     "source": "twitter",
     "author": "Slyndc",
