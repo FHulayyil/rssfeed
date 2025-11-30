@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1995238445372113038",
+    "source": "twitter",
+    "author": "ichebykin",
+    "content": "Coding agents really *are* junior engineers.\n\nAsked @FactoryAI  Droid to *plan* a service - it instantly started coding without even asking what language I wanted.\n\nHonestly… it's just like I used to be.\nBack at Yandex I once spent days building a whole position matching algorithm for drivers only to learn I misunderstood the actual problem. It wasn’t about positions it was about driver behavior. The moment I talked to the analysts and actually planned the work, everything went into the place.\n\nThat’s the gap between juniors and seniors (and coding agents): it’s not about coding faster; it's not about code at all. It’s about stepping back, asking questions, collaborating with the team.\n\nReal projects are never done by solo coders. You talk to PMs, analysts, infra, customers. Whiteboards, back-and-forth, shared context.\n\nLLMs can write code.\nBut translating requirements, making tradeoffs, and getting everyone aligned?\nThat’s still the part only humans do.",
+    "url": "https://x.com/ichebykin/status/1995238445372113038",
+    "timestamp": "2025-11-30T21:08:09.000Z",
+    "metadata": {
+      "conversation_id": "1995238445372113038",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995237303250514165",
     "source": "twitter",
     "author": "MirAI_Newz",
