@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1995097764636602744",
+    "source": "twitter",
+    "author": "MirAI_Newz",
+    "content": "Sooo, does it ever happen that you take a screenshot to remember something, then u actually forget about it?\n\nI solved it using @FactoryAI and an Electron App!\n\nIt saves locally the screenshot =&gt; Process it via OCR =&gt; Sends me a Telegram Notification!\n\nLook here: https://t.co/QR9yCa7EGM",
+    "url": "https://x.com/MirAI_Newz/status/1995097764636602744",
+    "timestamp": "2025-11-30T11:49:08.000Z",
+    "metadata": {
+      "conversation_id": "1995097764636602744",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995078827203305684",
     "source": "twitter",
     "author": "NilkhanVaibhav",
