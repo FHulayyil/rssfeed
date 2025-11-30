@@ -1479,6 +1479,9 @@
       lastSelectedIndex: -1, // for shift-click range selection
       supabaseReady: false
     };
+    
+    // Track feed refresh interval to prevent duplicates
+    let feedIntervalId = null;
 
     // DOM Elements
     const elements = {
@@ -1533,7 +1536,8 @@
       updateAuthUI();
       loadLocalArchivedState();
       await fetchFeed();
-      setInterval(fetchFeed, 60000);
+      if (feedIntervalId) clearInterval(feedIntervalId);
+      feedIntervalId = setInterval(fetchFeed, 60000);
     }
     
     // Load archived state from localStorage for anonymous users
@@ -1785,7 +1789,8 @@
       subscribeToPostStates();
       subscribeToUserSettings();
       await fetchFeed();
-      setInterval(fetchFeed, 60000);
+      if (feedIntervalId) clearInterval(feedIntervalId);
+      feedIntervalId = setInterval(fetchFeed, 60000);
     }
 
     // --- Auth ---
