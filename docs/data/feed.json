@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1994930728891777367",
+    "source": "twitter",
+    "author": "darshil",
+    "content": "@doodlestein @DimitriosMitsos @alxfazio Have you looked into the @FactoryAI $2k plan?",
+    "url": "https://x.com/darshil/status/1994930728891777367",
+    "timestamp": "2025-11-30T00:45:24.000Z",
+    "metadata": {
+      "conversation_id": "1994930728891777367",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1994929244212744695",
+    "source": "twitter",
+    "author": "mgaruccio",
+    "content": "@pitdesi Why do you think ads are the only way to scale? Maybe on the consumer side but B2B the upper bound is a sizable fraction of the cost of the human labor it replaces, with downward pressure created by competitors. @FactoryAI is able to sell at $2k/user right now.",
+    "url": "https://x.com/mgaruccio/status/1994929244212744695",
+    "timestamp": "2025-11-30T00:39:30.000Z",
+    "metadata": {
+      "conversation_id": "1994929244212744695",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1994925436699381813",
     "source": "twitter",
     "author": "Jackhortonlol",
