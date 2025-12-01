@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_472",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] todos paramete error\n\nThinking:                                                                   hide in /settings\n  I need to pass the todos parameter as an array, not just the array. Let me fix this.\n\n\nThinking:                                                                   hide in /settings\n  It seems there's an issue with the TodoWrite tool. Let me try a different approach and \n  start by examining the files directly. I'll read the settings.json file and explore the \n  directory structure.\n",
+    "url": "https://github.com/Factory-AI/factory/issues/472",
+    "timestamp": "2025-12-01T15:20:33Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 472
+    }
+  },
+  {
     "id": "github_issue_465",
     "source": "github",
     "author": "Li17860397285",
