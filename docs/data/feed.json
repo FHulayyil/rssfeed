@@ -20986,6 +20986,19 @@
     "category": "bug"
   },
   {
+    "id": "reddit_1oys5f5",
+    "source": "reddit",
+    "author": "SensitiveUpstairs803",
+    "content": "Fix large file parsing crash issue.\n\nIf we have a large file Droid's file view tool will try to parse it and then crash because the file is to large but to solve the crashing you should add something that detects the size of the file then if its too large it will resort to using a powershell command instead of the built in droid file parser tool to parse a few lines of the file to get the format etc based on whatever the question involving the file is. Simple feature simple fix.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oys5f5/fix_large_file_parsing_crash_issue/",
+    "timestamp": "2025-11-16T17:50:18.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1oydnzt",
     "source": "reddit",
     "author": "EggNo4904",
