@@ -1697,6 +1697,111 @@
       }
     }
 
+    // Migrate archived posts from old localStorage to Supabase
+    async function migrateLocalStorageArchives() {
+      if (!state.user) return;
+      
+      const LEGACY_KEY = 'factoryArchivedIds';
+      const MIGRATION_KEY = 'factoryArchivedMigrated';
+      
+      // Check if already migrated
+      if (localStorage.getItem(MIGRATION_KEY)) {
+        console.log('[Migration] Already migrated localStorage archives');
+        return;
+      }
+      
+      // Get old archived IDs from localStorage
+      let legacyArchived = [];
+      try {
+        legacyArchived = JSON.parse(localStorage.getItem(LEGACY_KEY) || '[]');
+      } catch (e) {
+        console.error('[Migration] Failed to parse legacy archived:', e);
+        return;
+      }
+      
+      if (!legacyArchived || legacyArchived.length === 0) {
+        console.log('[Migration] No legacy archived posts to migrate');
+        localStorage.setItem(MIGRATION_KEY, 'true');
+        return;
+      }
+      
+      console.log(`[Migration] Found ${legacyArchived.length} archived posts to migrate`);
+      
+      // Filter out IDs that are already archived in Supabase
+      const toMigrate = legacyArchived.filter(id => !state.archivedIds.has(id));
+      
+      if (toMigrate.length === 0) {
+        console.log('[Migration] All legacy archives already in Supabase');
+        localStorage.setItem(MIGRATION_KEY, 'true');
+        return;
+      }
+      
+      console.log(`[Migration] Migrating ${toMigrate.length} posts to Supabase...`);
+      
+      // First, check which post IDs exist in the posts table (FK constraint)
+      const { data: existingPosts, error: checkError } = await supabase
+        .from('posts')
+        .select('id')
+        .in('id', toMigrate);
+      
+      if (checkError) {
+        console.error('[Migration] Failed to check existing posts:', checkError);
+        localStorage.setItem(MIGRATION_KEY, 'true');
+        return;
+      }
+      
+      const validIds = new Set(existingPosts?.map(p => p.id) || []);
+      const validToMigrate = toMigrate.filter(id => validIds.has(id));
+      
+      console.log(`[Migration] ${validToMigrate.length}/${toMigrate.length} posts exist in database`);
+      
+      if (validToMigrate.length === 0) {
+        console.log('[Migration] No valid posts to migrate');
+        localStorage.setItem(MIGRATION_KEY, 'true');
+        return;
+      }
+      
+      // Batch insert to Supabase (in chunks to avoid overwhelming the API)
+      const BATCH_SIZE = 50;
+      let successCount = 0;
+      
+      for (let i = 0; i < validToMigrate.length; i += BATCH_SIZE) {
+        const batch = validToMigrate.slice(i, i + BATCH_SIZE);
+        const records = batch.map(postId => ({
+          user_id: state.user.id,
+          post_id: postId,
+          is_archived: true,
+          archived_at: new Date().toISOString()
+        }));
+        
+        try {
+          const { error } = await supabase
+            .from('post_states')
+            .upsert(records, { onConflict: 'user_id,post_id' });
+          
+          if (error) {
+            console.error('[Migration] Batch error:', error);
+          } else {
+            successCount += batch.length;
+            // Also update local state
+            batch.forEach(id => state.archivedIds.add(id));
+          }
+        } catch (e) {
+          console.error('[Migration] Batch exception:', e);
+        }
+      }
+      
+      console.log(`[Migration] Migrated ${successCount}/${validToMigrate.length} posts`);
+      
+      // Mark as migrated even if partial, to avoid re-attempting
+      localStorage.setItem(MIGRATION_KEY, 'true');
+      
+      if (successCount > 0) {
+        showToast(`Migrated ${successCount} archived posts from previous session`);
+        render();
+      }
+    }
+
     async function startApp() {
       // Prevent double initialization from onAuthStateChange firing after getSession
       if (state.supabaseReady) return;
@@ -1704,6 +1809,7 @@
       elements.logoutBtn.style.display = 'flex';
       
       await loadPostStates();
+      await migrateLocalStorageArchives();
       await loadUserSettings();
       subscribeToPostStates();
       subscribeToUserSettings();
