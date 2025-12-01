@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995469425982546024",
+    "source": "twitter",
+    "author": "pgbouncer",
+    "content": "shame it took me this long to try out @FactoryAI but I finally did and it's an aaaaawesome product",
+    "url": "https://x.com/pgbouncer/status/1995469425982546024",
+    "timestamp": "2025-12-01T12:25:59.000Z",
+    "metadata": {
+      "conversation_id": "1995469425982546024",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995466537038123452",
+    "source": "twitter",
+    "author": "hellodavis",
+    "content": "@FactoryAI ok it's been days no support no follow up. Good bye Factory we are moving to Google Antigravity and Claude Code. \n\nAnyone who want think of trying Factory... don't say we didn't warn you, no support, droids can hang on you and goes errors. No user management control.",
+    "url": "https://x.com/hellodavis/status/1995466537038123452",
+    "timestamp": "2025-12-01T12:14:31.000Z",
+    "metadata": {
+      "conversation_id": "1995466537038123452",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995460163235451390",
     "source": "twitter",
     "author": "lohigowda_in",
