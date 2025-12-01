@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1995375091044290792",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "Gemini 3 is probably able to do UI but to find an error it took 30 minutes.\n\nOpus fixed that error and found one introduced by Gemini.\n\nAll this on @FactoryAI Droids that is now my go to Cli. I would like a better hooks support but the CLI is just way better than the other ones.",
+    "url": "https://x.com/AIFlow_ML/status/1995375091044290792",
+    "timestamp": "2025-12-01T06:11:08.000Z",
+    "metadata": {
+      "conversation_id": "1995375091044290792",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995368025290412224",
     "source": "twitter",
     "author": "immoinulmoin",
