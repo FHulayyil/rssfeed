@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1995829851693949191",
+    "source": "twitter",
+    "author": "johnsinclair98",
+    "content": "@MirAI_Newz @FactoryAI @opencode @OpenRouterAI provider function calling support is always the first thing that breaks\ncheck their api docs for tool schema format",
+    "url": "https://x.com/johnsinclair98/status/1995829851693949191",
+    "timestamp": "2025-12-02T12:18:12.000Z",
+    "metadata": {
+      "conversation_id": "1995829851693949191",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995823518659862923",
     "source": "twitter",
     "author": "PovilasKorop",
