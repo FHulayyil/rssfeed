@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1995643807338250303",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "I made a little health chatbot, link in reply. If you want to use it you have to waive your HIPAA rights. I don't make the rules.\n\nI used droid from @factoryAI for 100% of the coding.\n\nIt's currently wrapping Grok 4.1 Fast (free on Openrouter)\n\nI'm gonna try a dynamic system prompt next, where the chat transcript, user profile, and all instructions are assembled with a supervisor on each message from the user.",
+    "url": "https://x.com/MickeyShaughnes/status/1995643807338250303",
+    "timestamp": "2025-12-01T23:58:55.000Z",
+    "metadata": {
+      "conversation_id": "1995643807338250303",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995616993664254404",
     "source": "twitter",
     "author": "riley_ngg",
