@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1995807383906312253",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@0xSongra @viditchess @FactoryAI @matanSF ha np - we'll see you when you're ready ;)",
+    "url": "https://x.com/bentossell/status/1995807383906312253",
+    "timestamp": "2025-12-02T10:48:55.000Z",
+    "metadata": {
+      "conversation_id": "1995807383906312253",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995806645461680467",
+    "source": "twitter",
+    "author": "phanindra_ai",
+    "content": "@viditchess @FactoryAI @bentossell @matanSF and it is pretty good with claude 4.5 opus,  the best way is for ui, get the gemini 3.0 pro, back end opus 4.5, and for to and fro, any of the top models",
+    "url": "https://x.com/phanindra_ai/status/1995806645461680467",
+    "timestamp": "2025-12-02T10:45:59.000Z",
+    "metadata": {
+      "conversation_id": "1995806645461680467",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995803043162644491",
     "source": "twitter",
     "author": "0xSongra",
