@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1995975237352260072",
+    "source": "twitter",
+    "author": "FeifanZ",
+    "content": "@0thernet @MavenHQ @tanagram_ @cursor_ai @claudeai @FactoryAI @AmpCode https://t.co/d3zpudoAdj",
+    "url": "https://x.com/FeifanZ/status/1995975237352260072",
+    "timestamp": "2025-12-02T21:55:54.000Z",
+    "metadata": {
+      "conversation_id": "1995975237352260072",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995975189268705299",
+    "source": "twitter",
+    "author": "FeifanZ",
+    "content": "On Tuesday, Dec 16, I'm joining @0thernet to host a free lesson on @MavenHQ:\n\n\"Guardrails for Coding Agents: Pointing Them the Right Way\"\n\nIt'll cover a bunch of things we've learned while building @tanagram_ with @cursor_ai, @claudeai, @FactoryAI, and @AmpCode \n\nLink below!",
+    "url": "https://x.com/FeifanZ/status/1995975189268705299",
+    "timestamp": "2025-12-02T21:55:43.000Z",
+    "metadata": {
+      "conversation_id": "1995975189268705299",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1995974983806525446",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@_abilshr @FactoryAI droid maxxing sounds like an intriguing topic, can't wait to read all about it!",
+    "url": "https://x.com/BillCrosby/status/1995974983806525446",
+    "timestamp": "2025-12-02T21:54:54.000Z",
+    "metadata": {
+      "conversation_id": "1995974983806525446",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995969032886026613",
     "source": "twitter",
     "author": "bentossell",
