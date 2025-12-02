@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_1995736584944263415",
+    "source": "twitter",
+    "author": "YangLi_leo",
+    "content": "i use 16\" macBook pro — pretty big screen. but when I try to visit my @FactoryAI dashboard from google… wait, where did it go? 😅\nAI coding feels like a brutal survival game right now, but google is swinging for a home run with all that ad revenue.\nsearch is still more prosperous than ever.",
+    "url": "https://x.com/YangLi_leo/status/1995736584944263415",
+    "timestamp": "2025-12-02T06:07:35.000Z",
+    "metadata": {
+      "conversation_id": "1995736584944263415",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1pc0wm3",
+    "source": "reddit",
+    "author": "Electronic_One_4133",
+    "content": "Flickering in CLI\n\nIs there any fixes for flickering?\n\n  \nI was working on some project about cybersecurity, it needs many documentation and pasted rather a lot of text inside of cli,\n\nthen it just start flickering. it will flicker when entering text, resize and moving cursor.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pc0wm3/flickering_in_cli/",
+    "timestamp": "2025-12-02T06:03:25.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1995703545979699686",
     "source": "twitter",
     "author": "vaibhavschess",
