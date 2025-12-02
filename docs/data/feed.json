@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1995818230297080019",
+    "source": "twitter",
+    "author": "marovole",
+    "content": "cc initially added interactive questioning in Plan mode. Later, an update incorporated interactive questioning into the regular workflow. Sometimes, when the model is not very certain, it triggers a question. I think this confirmation process is good. It helps users maintain a sense of certainty and security.",
+    "url": "https://x.com/marovole/status/1995818230297080019",
+    "timestamp": "2025-12-02T11:32:01.000Z",
+    "metadata": {
+      "conversation_id": "1995818230297080019",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1995811827507249447",
     "source": "twitter",
     "author": "aeitroc",
