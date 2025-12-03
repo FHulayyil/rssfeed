@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_478",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Automatically open the last session\n\nI made this wrapper, which in essence just saves the latest session id in a `.droid` file. If such a file exists this file will be used unless the `-n|--new` flag is used. That way I do not manually have to search for the last session in the project.\n\nI would probably prefer this to be in the root of a git project, otherwise, just where droid is launched.\n\nI might have overdone it a bit in terms of splitting it up, but the idea I still like. So what I propose is a similar functionality builtin t",
+    "url": "https://github.com/Factory-AI/factory/issues/478",
+    "timestamp": "2025-12-03T18:47:19Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 478
+    }
+  },
+  {
     "id": "github_issue_477",
     "source": "github",
     "author": "a112121788",
