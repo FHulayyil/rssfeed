@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1pcwo2o",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.28.1 Released\n\n## Bug fixes\n\n* Fixed invalid signature in thinking block after assistant message interrupt\n* Fixed settings menu not showing all options when loading asynchronously\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pcwo2o/factory_cli_v0281_released/",
+    "timestamp": "2025-12-03T06:14:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1996066625435406402",
     "source": "twitter",
     "author": "jeremyeder",
