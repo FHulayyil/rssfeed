@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1996112053116043644",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@bunjavascript We at @FactoryAI are happy users of Bun! Thanks for the mention on your post 🤗",
+    "url": "https://x.com/alvinsng/status/1996112053116043644",
+    "timestamp": "2025-12-03T06:59:34.000Z",
+    "metadata": {
+      "conversation_id": "1996112053116043644",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1pcwo2o",
     "source": "reddit",
     "author": "bentossell",
