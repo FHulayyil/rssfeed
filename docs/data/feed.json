@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_476",
+    "source": "github",
+    "author": "aranej",
+    "content": "[Issue] [Feature Request] Add ability to rename favorited sessions\n\n## Summary\n\nCurrently, when you favorite a session using the `/favorite` command, the session retains its generic \"New Session\" title. After a week or even a few days, it becomes impossible to remember what each favorited session was about without opening it first.\n\n**The ability to rename sessions would significantly improve the usability of the Favorites feature.**\n\n## Problem\n\nWhen viewing the Favorites list (as shown in the screenshot below), users see:\n\n| Modified | Created | Size | Summary",
+    "url": "https://github.com/Factory-AI/factory/issues/476",
+    "timestamp": "2025-12-03T07:46:08Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 476
+    }
+  },
+  {
     "id": "github_issue_472",
     "source": "github",
     "author": "a112121788",
