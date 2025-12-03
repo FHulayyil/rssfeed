@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_477",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] 400 Bad Request error\n\nWhen using the factory CLI to call the Google Gemini model via BYOK (Bring Your Own Key), I received a 400 Bad Request error and the response body was empty.",
+    "url": "https://github.com/Factory-AI/factory/issues/477",
+    "timestamp": "2025-12-03T15:41:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 477
+    }
+  },
+  {
     "id": "github_issue_476",
     "source": "github",
     "author": "aranej",
