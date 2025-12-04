@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1996603081417527671",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@Kimi_Moonshot I grabbed an API key, but Kimi K2 does not work as a custom model in @FactoryAI DROID CLI. My API key works with Kimi CLI. Do you check the header if it comes from Kimi CLI, and if not reject it ?",
+    "url": "https://x.com/SvenMeyer/status/1996603081417527671",
+    "timestamp": "2025-12-04T15:30:44.000Z",
+    "metadata": {
+      "conversation_id": "1996603081417527671",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996599550765658183",
     "source": "twitter",
     "author": "GKannanDev",
