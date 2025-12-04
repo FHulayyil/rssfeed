@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1996654891323072601",
+    "source": "twitter",
+    "author": "tekbog",
+    "content": "@FactoryAI yooo",
+    "url": "https://x.com/tekbog/status/1996654891323072601",
+    "timestamp": "2025-12-04T18:56:36.000Z",
+    "metadata": {
+      "conversation_id": "1996654891323072601",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_484",
+    "source": "github",
+    "author": "gramanoid",
+    "content": "[Issue] Request: Add setting to disable Claude hook auto-import in Droid CLI\n\nRepro (Factory CLI 0.30.0 on macOS):\n\n  1. Ensure Claude hooks exist in ~/.claude/settings.json (standard quibbler\n     hooks).\n  2. In ~/.factory/settings.json, delete hook entries and set\n     claudeHooksImported to false.\n  3. Start droid. Within seconds, ~/.factory/settings.json is rewritten with the\n     Claude hooks restored.\n\n  What I observed in the Droid binary (strings scan):\n\n  - dt0() is the auto-import trigger:\n      - Returns early if claudeHooksImported is true.\n      - Otherwise ",
+    "url": "https://github.com/Factory-AI/factory/issues/484",
+    "timestamp": "2025-12-04T18:49:14Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 484
+    }
+  },
+  {
+    "id": "twitter_1996652262484332610",
+    "source": "twitter",
+    "author": "creatine_cycle",
+    "content": "@FactoryAI amazing. yet another model i can send to therapy after i make it read my own code",
+    "url": "https://x.com/creatine_cycle/status/1996652262484332610",
+    "timestamp": "2025-12-04T18:46:10.000Z",
+    "metadata": {
+      "conversation_id": "1996652262484332610",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996650886819614766",
     "source": "twitter",
     "author": "MirAI_Newz",
