@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_483",
+    "source": "github",
+    "author": "ben-vargas",
+    "content": "[Issue] [BUG] Number Pad Enter on approval dialog crashes droid when SSH'd to remote Linux\n\n## Description\n\nWhen using droid in Ghostty locally or SSH to a remote Linux machine, pressing the **Number Pad Enter** key on an approval dialog (Yes/No/Cancel) causes droid to crash and exit immediately without any error message or stack trace.\n\nThis is a separate issue from #200 / #482 (where numpad enter inserts `4u` text). In this case, the CLI exits entirely.\n\n## Steps to Reproduce\n\n1. SSH from macOS into a remote Ubuntu machine\n2. Launch `droid` CLI\n3. Trigger any action that shows an app",
+    "url": "https://github.com/Factory-AI/factory/issues/483",
+    "timestamp": "2025-12-04T16:56:28Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 483
+    }
+  },
+  {
     "id": "github_issue_482",
     "source": "github",
     "author": "ben-vargas",
