@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1996986314995183822",
+    "source": "twitter",
+    "author": "charlieholtz",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition how do we get @conductor_build on here?! :)",
+    "url": "https://x.com/charlieholtz/status/1996986314995183822",
+    "timestamp": "2025-12-05T16:53:34.000Z",
+    "metadata": {
+      "conversation_id": "1996986314995183822",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996984199195382247",
+    "source": "twitter",
+    "author": "Aryanimagine",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition linear is my night time dream for design but you guys have that cognitive load with trials conversions still Karri. Reached out prior too? How to get in touch man",
+    "url": "https://x.com/Aryanimagine/status/1996984199195382247",
+    "timestamp": "2025-12-05T16:45:09.000Z",
+    "metadata": {
+      "conversation_id": "1996984199195382247",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996983875101245897",
+    "source": "twitter",
+    "author": "bilal_harouchi",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition We just want Claude code 🙄",
+    "url": "https://x.com/bilal_harouchi/status/1996983875101245897",
+    "timestamp": "2025-12-05T16:43:52.000Z",
+    "metadata": {
+      "conversation_id": "1996983875101245897",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996983424587112809",
+    "source": "twitter",
+    "author": "wanhai888",
+    "content": "@FactoryAI Droid is incredible! After preparing my plan and persona, I used Claude within Droid. In one interaction, it refactored exactly to specs. It hit 100% quality and passed all tests smoothly without a single modification. so many token, Work for 1H. https://t.co/TqvSLEardW",
+    "url": "https://x.com/wanhai888/status/1996983424587112809",
+    "timestamp": "2025-12-05T16:42:05.000Z",
+    "metadata": {
+      "conversation_id": "1996983424587112809",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996980996915310825",
     "source": "twitter",
     "author": "STrosterud",
