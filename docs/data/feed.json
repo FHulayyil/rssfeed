@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1996959418911699282",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1996959322962907573",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1996958285673496588",
@@ -57,7 +60,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_1996957136983830549",
