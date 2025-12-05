@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1996989455136075832",
+    "source": "twitter",
+    "author": "kcosr",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition I guess it does!\nhttps://t.co/XlF4gybOOl",
+    "url": "https://x.com/kcosr/status/1996989455136075832",
+    "timestamp": "2025-12-05T17:06:03.000Z",
+    "metadata": {
+      "conversation_id": "1996989455136075832",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996989136679399465",
+    "source": "twitter",
+    "author": "kcosr",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition Does Linear support assignment webhooks? I use them to launch my custom agents from GH/GL/Gitea.",
+    "url": "https://x.com/kcosr/status/1996989136679399465",
+    "timestamp": "2025-12-05T17:04:47.000Z",
+    "metadata": {
+      "conversation_id": "1996989136679399465",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996988955539931311",
+    "source": "twitter",
+    "author": "wanhai888",
+    "content": "@FactoryAI One more https://t.co/FXfvlFlFLY",
+    "url": "https://x.com/wanhai888/status/1996988955539931311",
+    "timestamp": "2025-12-05T17:04:03.000Z",
+    "metadata": {
+      "conversation_id": "1996988955539931311",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996986314995183822",
     "source": "twitter",
     "author": "charlieholtz",
