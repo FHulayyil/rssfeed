@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1996912158974824635",
+    "source": "twitter",
+    "author": "Rufus87078959",
+    "content": "@sriramk @tobi @dhh @tszzl @lexfridman Also check out @FactoryAI; they have one of the best platforms for building with autonomous AI agents.",
+    "url": "https://x.com/Rufus87078959/status/1996912158974824635",
+    "timestamp": "2025-12-05T11:58:54.000Z",
+    "metadata": {
+      "conversation_id": "1996912158974824635",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_489",
     "source": "github",
     "author": "jakob1379",
