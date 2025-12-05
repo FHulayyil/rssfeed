@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1996960829678231617",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "Is there even a good harness for Gemini 3? I’ve tried all my favorites (@FactoryAI, @cursor_ai, @windsurf, @cline), but the model is just non-compliant and not a very good agent IMHO.",
+    "url": "https://x.com/Alberto8793/status/1996960829678231617",
+    "timestamp": "2025-12-05T15:12:18.000Z",
+    "metadata": {
+      "conversation_id": "1996960829678231617",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996959746356838689",
     "source": "twitter",
     "author": "grok",
