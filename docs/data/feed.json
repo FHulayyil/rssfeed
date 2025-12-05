@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1996975081302687855",
+    "source": "twitter",
+    "author": "CipherVectors",
+    "content": "@CloudTrader4 @SkylerMiao7 @LignoL23 @MiniMax__AI @opencode @thdxr @FactoryAI good question bro . already working",
+    "url": "https://x.com/CipherVectors/status/1996975081302687855",
+    "timestamp": "2025-12-05T16:08:56.000Z",
+    "metadata": {
+      "conversation_id": "1996975081302687855",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996973966754566469",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "While working with Droid (@FactoryAI ) - always make sure you prompt Droid to check if your product is public launch ready or not. \n\nMost likely, if you're vibe-coding, you'd probably\n- leave your env variables exposed (you might think you'd have used them in .env file and its safe!)\n- not have set rate limits (if applicable)\n\nand a bunch of other important checks. \n\nDroid does a pretty good job at doing a detailed checklist and fix them. \n\nDefinitely do this before you make a public launch! \n\nThe prompt can be something as simple as - \"Please create a public launch/beta launch checklist, and run a complete scan of the codebase to check if there are any security issues, unchecked rate limits, and any other gaps in the product\".",
+    "url": "https://x.com/nkgoutham/status/1996973966754566469",
+    "timestamp": "2025-12-05T16:04:30.000Z",
+    "metadata": {
+      "conversation_id": "1996973966754566469",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996973840853799179",
+    "source": "twitter",
+    "author": "OGMAGAZIN3",
+    "content": "@FactoryAI 👀",
+    "url": "https://x.com/OGMAGAZIN3/status/1996973840853799179",
+    "timestamp": "2025-12-05T16:04:00.000Z",
+    "metadata": {
+      "conversation_id": "1996973840853799179",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996973643809554839",
+    "source": "twitter",
+    "author": "LignoL23",
+    "content": "@CloudTrader4 @SkylerMiao7 @MiniMax__AI @opencode @thdxr @FactoryAI Already possible. Add this to your ~/.factory/config.json    \n\n{\n      \"model_display_name\": \"MiniMax-M2\",\n      \"model\": \"MiniMax-M2\",\n      \"base_url\": \"https://t.co/r2wOS13eHL\",\n      \"api_key\": \"your_api_key\",\n      \"provider\": \"anthropic\",\n      \"max_tokens\": 32000\n    }",
+    "url": "https://x.com/LignoL23/status/1996973643809554839",
+    "timestamp": "2025-12-05T16:03:13.000Z",
+    "metadata": {
+      "conversation_id": "1996973643809554839",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1996972288147636709",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@SkylerMiao7 @LignoL23 @MiniMax__AI @opencode @thdxr Thanks for the update, do you have any plans to integrate @FactoryAI droid?",
+    "url": "https://x.com/CloudTrader4/status/1996972288147636709",
+    "timestamp": "2025-12-05T15:57:50.000Z",
+    "metadata": {
+      "conversation_id": "1996972288147636709",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1996970201167155434",
     "source": "twitter",
     "author": "kahdrew",
