@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1997168812194672887",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "How to add memory to a droid ? @FactoryAI \n\nI have a task that I’m performing with a skill. Now there is a hook that save in a pgvector info at the end of every run. And read from it also but how can I add structured memory to a specific skill ? \n\nThe task is very very complicated but it can perform it with Opus. What anyway is important is to have a memory the droid can access to avoid long research sessions. \n\nHalp a fren here",
+    "url": "https://x.com/AIFlow_ML/status/1997168812194672887",
+    "timestamp": "2025-12-06T04:58:45.000Z",
+    "metadata": {
+      "conversation_id": "1997168812194672887",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997168391874854938",
+    "source": "twitter",
+    "author": "chadeyecom",
+    "content": "Good morning vibe check🧃😃\nWhat's your preferred LLM / agent?\n\n@FactoryAI #droid is ghosting terminal bench 2: 🧐 https://t.co/XaWKvydRyj",
+    "url": "https://x.com/chadeyecom/status/1997168391874854938",
+    "timestamp": "2025-12-06T04:57:04.000Z",
+    "metadata": {
+      "conversation_id": "1997168391874854938",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997168045312344497",
+    "source": "twitter",
+    "author": "markojak_",
+    "content": "@charlieholtz @karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition @conductor_build +1 for this big fan!",
+    "url": "https://x.com/markojak_/status/1997168045312344497",
+    "timestamp": "2025-12-06T04:55:42.000Z",
+    "metadata": {
+      "conversation_id": "1997168045312344497",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997167936533156069",
+    "source": "twitter",
+    "author": "markojak_",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition So happy with Codex there. Not sure why maybe you know why Cursor performs absolutely dismally on Linear.Might be lacking all the context it has from my previous sessions locally or something else. Like 0% success",
+    "url": "https://x.com/markojak_/status/1997167936533156069",
+    "timestamp": "2025-12-06T04:55:16.000Z",
+    "metadata": {
+      "conversation_id": "1997167936533156069",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997154638622347458",
     "source": "twitter",
     "author": "eddiejaoude",
