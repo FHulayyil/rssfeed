@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1997188918606024768",
+    "source": "twitter",
+    "author": "oliverbeavers",
+    "content": "@matanSF @gakonst @FactoryAI I just never know what models I should be using. Too many choices.",
+    "url": "https://x.com/oliverbeavers/status/1997188918606024768",
+    "timestamp": "2025-12-06T06:18:38.000Z",
+    "metadata": {
+      "conversation_id": "1997188918606024768",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997187845149077926",
+    "source": "twitter",
+    "author": "BennettBuhner",
+    "content": "@karrisaarinen @linear @tembo @Sentry @codegen @cursor_ai @FactoryAI @github @OpenAI @cognition THIS IS AWESOME!\n\nIs it time for Linear to make its own agent for SWE? O.O",
+    "url": "https://x.com/BennettBuhner/status/1997187845149077926",
+    "timestamp": "2025-12-06T06:14:22.000Z",
+    "metadata": {
+      "conversation_id": "1997187845149077926",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997174683519828217",
     "source": "twitter",
     "author": "chdeist",
