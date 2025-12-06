@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_490",
+    "source": "github",
+    "author": "BlackCatCmx",
+    "content": "[Issue] New version flagged as PowerShell attack by antivirus on Windows\n\nI'm running into an issue with the latest version of droid.exe on Windows.\n\nWhen I launch droid from Git Bash, my antivirus software consistently blocks the executable, flagging it as a PowerShell-based attack. I noticed the terminal window title briefly flashes \"Windows PowerShell\" upon startup, which seems to be what's triggering the alert.\n\nThis behavior did not exist in previous versions. It appears the new version's startup process now involves a PowerShell call.",
+    "url": "https://github.com/Factory-AI/factory/issues/490",
+    "timestamp": "2025-12-06T13:26:15Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 490
+    }
+  },
+  {
     "id": "github_issue_489",
     "source": "github",
     "author": "jakob1379",
