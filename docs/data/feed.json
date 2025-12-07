@@ -1,5 +1,33 @@
 [
   {
+    "id": "reddit_1pgbuhq",
+    "source": "reddit",
+    "author": "Ambitious-Package-50",
+    "content": "I built a simple dashboard to track Factory AI token usage\n\nHey everyone,\n\nI built this tool entirely with Droid (Factory AI's coding agent).\n\nIt's a simple dashboard to check your Factory AI API token usage.\n\n\n\nhttps://preview.redd.it/iu25ughsbq5g1.jpg?width=2258&amp;format=pjpg&amp;auto=webp&amp;s=d289dcf76cf55c69258dee8ade7b8af27aa3b752\n\nFeatures:\n\n\\- See your token consumption and remaining quota\n\n\\- Support multiple API keys\n\n\\- Keys stored in your browser only, never uploaded to any server\n\nLive demo: [https://factory.evergood.top](https://factory.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pgbuhq/i_built_a_simple_dashboard_to_track_factory_ai/",
+    "timestamp": "2025-12-07T06:51:32.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_1997558441846727157",
+    "source": "twitter",
+    "author": "shohih_abdul",
+    "content": "I accidentally built this entire web app in just one day. \n\n100% AI-generated using @FactoryAI CLI with @claudeai opus 4.5 model\n\nIt’s a fully functional studio featuring: \n🎥 Veo 3.1 (Video) \n🎨 Nano Banana Pro (Image Gen)\n\nWhat do you think guys? https://t.co/rAiOMwULJ5",
+    "url": "https://x.com/shohih_abdul/status/1997558441846727157",
+    "timestamp": "2025-12-07T06:47:00.000Z",
+    "metadata": {
+      "conversation_id": "1997558441846727157",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997548561282797814",
     "source": "twitter",
     "author": "rsdgpt",
