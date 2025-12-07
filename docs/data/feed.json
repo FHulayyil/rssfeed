@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1997462173417865423",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "@spaceman_gilda @morphllm @FactoryAI Did some checking. They dont do training it and they store it for 30 days per their docs…",
+    "url": "https://x.com/jcurtis/status/1997462173417865423",
+    "timestamp": "2025-12-07T00:24:27.000Z",
+    "metadata": {
+      "conversation_id": "1997462173417865423",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1997454779124256813",
+    "source": "twitter",
+    "author": "neekdyako",
+    "content": "@icreatelife Cursor. @FactoryAI  Droid all the way",
+    "url": "https://x.com/neekdyako/status/1997454779124256813",
+    "timestamp": "2025-12-06T23:55:04.000Z",
+    "metadata": {
+      "conversation_id": "1997454779124256813",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1997439303891530047",
     "source": "twitter",
     "author": "AriesTheCoder",
