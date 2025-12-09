@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1998518061704565149",
+    "source": "twitter",
+    "author": "contxtkng",
+    "content": "@FactoryAI Could you add it specifically for someone else’s PR? Would be cool if I could just paste in the link or PR ID and hit /review",
+    "url": "https://x.com/contxtkng/status/1998518061704565149",
+    "timestamp": "2025-12-09T22:20:11.000Z",
+    "metadata": {
+      "conversation_id": "1998518061704565149",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1pijml0",
     "source": "reddit",
     "author": "bandawarrior",
