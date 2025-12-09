@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1998490320250491096",
+    "source": "twitter",
+    "author": "mattmedeiros",
+    "content": "@Tmeister @rossmorsali @FactoryAI Where do you find the best use case for multi agent? And do you mean concurrent agents working on the same codebase, but different tasks at the same time?",
+    "url": "https://x.com/mattmedeiros/status/1998490320250491096",
+    "timestamp": "2025-12-09T20:29:57.000Z",
+    "metadata": {
+      "conversation_id": "1998490320250491096",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998487750610182549",
+    "source": "twitter",
+    "author": "Tmeister",
+    "content": "@rossmorsali @mattmedeiros Another option for multi-agents is Droid from @FactoryAI, but IMO OpenCode is still better. https://t.co/snxiBrLbEC",
+    "url": "https://x.com/Tmeister/status/1998487750610182549",
+    "timestamp": "2025-12-09T20:19:44.000Z",
+    "metadata": {
+      "conversation_id": "1998487750610182549",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998487351178441171",
     "source": "twitter",
     "author": "iMuffined",
