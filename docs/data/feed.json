@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1998460717062643807",
+    "source": "twitter",
+    "author": "NilkhanVaibhav",
+    "content": "Hit 210M tokens on @FactoryAI this month.\nMostly debugging, fixing stuff, and wiring my stack.\nDidn’t even notice how fast the usage climbed. Droid has become my daily dev driver. https://t.co/p3QW9Ns6XI",
+    "url": "https://x.com/NilkhanVaibhav/status/1998460717062643807",
+    "timestamp": "2025-12-09T18:32:19.000Z",
+    "metadata": {
+      "conversation_id": "1998460717062643807",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998460018262413319",
+    "source": "twitter",
+    "author": "OMGitsRomi",
+    "content": "@FactoryAI I’ve had this for a few weeks 👀",
+    "url": "https://x.com/OMGitsRomi/status/1998460018262413319",
+    "timestamp": "2025-12-09T18:29:32.000Z",
+    "metadata": {
+      "conversation_id": "1998460018262413319",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998459440748507523",
+    "source": "twitter",
+    "author": "bierlingm",
+    "content": "@xenorational @FactoryAI @charmcli very neat\n\ni think there's lots of space for opinionated harnesses, this one seems like a great one for the \"cutesy but cracked\" audience",
+    "url": "https://x.com/bierlingm/status/1998459440748507523",
+    "timestamp": "2025-12-09T18:27:14.000Z",
+    "metadata": {
+      "conversation_id": "1998459440748507523",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998458705533161889",
+    "source": "twitter",
+    "author": "xenorational",
+    "content": "@bierlingm @FactoryAI Crush by @charmcli for CLI agents🫣",
+    "url": "https://x.com/xenorational/status/1998458705533161889",
+    "timestamp": "2025-12-09T18:24:19.000Z",
+    "metadata": {
+      "conversation_id": "1998458705533161889",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998458420312023244",
+    "source": "twitter",
+    "author": "bierlingm",
+    "content": "@xenorational Crush?\n\nI use a bunch of different ones like Claude Code, Opencode, Amp, but my daily driver is @FactoryAI's Droid rn",
+    "url": "https://x.com/bierlingm/status/1998458420312023244",
+    "timestamp": "2025-12-09T18:23:11.000Z",
+    "metadata": {
+      "conversation_id": "1998458420312023244",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998427735799304237",
     "source": "twitter",
     "author": "bentossell",
