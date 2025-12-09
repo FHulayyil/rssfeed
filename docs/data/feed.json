@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1998493183211352350",
+    "source": "twitter",
+    "author": "rossmorsali",
+    "content": "@mattmedeiros @Tmeister @FactoryAI I want to work with Claude Code as my \"daily driver\" and get second opinions from others - ie code review etc.\n\nI think as different models come out I'll need to be able to hop between them - I want one workflow foreverything essentially.",
+    "url": "https://x.com/rossmorsali/status/1998493183211352350",
+    "timestamp": "2025-12-09T20:41:19.000Z",
+    "metadata": {
+      "conversation_id": "1998493183211352350",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998491974035530224",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@OMGitsRomi @FactoryAI 😏",
+    "url": "https://x.com/bentossell/status/1998491974035530224",
+    "timestamp": "2025-12-09T20:36:31.000Z",
+    "metadata": {
+      "conversation_id": "1998491974035530224",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998490320250491096",
     "source": "twitter",
     "author": "mattmedeiros",
