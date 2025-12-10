@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1998624376665895094",
+    "source": "twitter",
+    "author": "neekdyako",
+    "content": "@MistralAI @FactoryAI @Kimi_Moonshot Gave 3 tries each with @ExaAILabs and Kimi straight up told me its not a bug while other models kept trying to come up with \"solutions\"",
+    "url": "https://x.com/neekdyako/status/1998624376665895094",
+    "timestamp": "2025-12-10T05:22:38.000Z",
+    "metadata": {
+      "conversation_id": "1998624376665895094",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1998623888864063816",
+    "source": "twitter",
+    "author": "neekdyako",
+    "content": "iOS was showing a scrollbar but my app removes all scrollbars. Thought it was a bug and wanted to fix. Tested @MistralAI Devstral2 at that time using the cli. Wasn't working so tried to switch to @FactoryAI Droid + api...API wasn't working. Tried Gemini 3 Pro and... (1/2)",
+    "url": "https://x.com/neekdyako/status/1998623888864063816",
+    "timestamp": "2025-12-10T05:20:42.000Z",
+    "metadata": {
+      "conversation_id": "1998623888864063816",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998616996263690380",
     "source": "twitter",
     "author": "tak_ltc",
