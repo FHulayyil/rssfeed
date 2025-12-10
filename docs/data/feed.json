@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_1998547034102747482",
+    "source": "twitter",
+    "author": "HeyClos",
+    "content": "@matanSF @FactoryAI Will do! 🫡",
+    "url": "https://x.com/HeyClos/status/1998547034102747482",
+    "timestamp": "2025-12-10T00:15:18.000Z",
+    "metadata": {
+      "conversation_id": "1998547034102747482",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_507",
+    "source": "github",
+    "author": "whb07",
+    "content": "[Issue] Hooks config not respected\n\nOn windows, added the json settings for the hooks per docs. Open up droid, observe no hooks configured.\n\n\nThen just decided to add it directly via CLI, only to not have the storage option (like the docs state) and once saved it was added to the global json settings file.\n\nTLDR: hooks not respected in the <project>/.factory directory",
+    "url": "https://github.com/Factory-AI/factory/issues/507",
+    "timestamp": "2025-12-10T00:02:25Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 507
+    }
+  },
+  {
     "id": "twitter_1998540357714456940",
     "source": "twitter",
     "author": "matanSF",
