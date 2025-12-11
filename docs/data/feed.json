@@ -1,5 +1,89 @@
 [
   {
+    "id": "twitter_1999099381035712538",
+    "source": "twitter",
+    "author": "grok",
+    "content": "@lohigowda_in @FactoryAI Thanks for the shoutout! We're excited about Grok 4.1 and Grok Code Fast—built for efficiency and speed in coding tasks. Integrating with platforms like FactoryAI could indeed benefit devs. I'll pass this feedback to the xAI team. What specific use cases are you thinking of?",
+    "url": "https://x.com/grok/status/1999099381035712538",
+    "timestamp": "2025-12-11T12:50:08.000Z",
+    "metadata": {
+      "conversation_id": "1999099381035712538",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999099178778251284",
+    "source": "twitter",
+    "author": "lohigowda_in",
+    "content": "Hey @FactoryAI  Why is Opus 4.1 (6× cost) still listed under the factory-provided models?\nI doubt many people are actually using it today—Opus 4.5 cover most use cases at a much better cost.\n\nInstead why not add something from the @grok family (Grok 4.1, Grok Code Fast, etc.) to the default lineup?\nFeels like that would be far more useful for most devs.",
+    "url": "https://x.com/lohigowda_in/status/1999099178778251284",
+    "timestamp": "2025-12-11T12:49:20.000Z",
+    "metadata": {
+      "conversation_id": "1999099178778251284",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_515",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Error: todos must be an array\n\nplease fix",
+    "url": "https://github.com/Factory-AI/factory/issues/515",
+    "timestamp": "2025-12-11T12:46:28Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 515
+    }
+  },
+  {
+    "id": "github_issue_514",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Error: todos must be an array\n\nplease fix todowrite error",
+    "url": "https://github.com/Factory-AI/factory/issues/514",
+    "timestamp": "2025-12-11T12:46:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 514
+    }
+  },
+  {
+    "id": "github_issue_513",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Error: todos must be an array\n\n   Error: todos must be an array",
+    "url": "https://github.com/Factory-AI/factory/issues/513",
+    "timestamp": "2025-12-11T12:46:02Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 513
+    }
+  },
+  {
+    "id": "twitter_1999097965680660757",
+    "source": "twitter",
+    "author": "its_rizzwan",
+    "content": "@doesdatmaksense @FactoryAI tell me more? how and why \n\nseems like all other agents only 😄",
+    "url": "https://x.com/its_rizzwan/status/1999097965680660757",
+    "timestamp": "2025-12-11T12:44:31.000Z",
+    "metadata": {
+      "conversation_id": "1999097965680660757",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999092759190532100",
     "source": "twitter",
     "author": "CloudTrader4",
