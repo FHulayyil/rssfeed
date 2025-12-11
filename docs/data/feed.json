@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1999247976238317650",
+    "source": "twitter",
+    "author": "benklieger",
+    "content": "Can confirm. Factory ships same day and droid auto-updates. I ask for a feature, then next time I open droid, it’s there.\n\nThe velocity has been great for our team, @FactoryAI seriously moves fast. Pairs well with our inference @GroqInc, helping us ship faster by using our own models to accelerate coding speed.",
+    "url": "https://x.com/benklieger/status/1999247976238317650",
+    "timestamp": "2025-12-11T22:40:36.000Z",
+    "metadata": {
+      "conversation_id": "1999247976238317650",
+      "likes": 7,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_1999246951251083422",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@minheo93698092 @FactoryAI Now do Droid with 5.2!",
+    "url": "https://x.com/JoelDeTeves/status/1999246951251083422",
+    "timestamp": "2025-12-11T22:36:32.000Z",
+    "metadata": {
+      "conversation_id": "1999246951251083422",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999246791846633662",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@neekdyako @FactoryAI Great - I am shocked at how good it is I thought Sam would fumble this one given it was so rushed",
+    "url": "https://x.com/JoelDeTeves/status/1999246791846633662",
+    "timestamp": "2025-12-11T22:35:54.000Z",
+    "metadata": {
+      "conversation_id": "1999246791846633662",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999246574267039957",
+    "source": "twitter",
+    "author": "cosmo_kappa",
+    "content": "@minheo93698092 @FactoryAI congrats ! good timing for introducing droids at my company. I was already using from CLI but now I am going full force with the team and having fleets work from slack and linear. like proper team members. less and less chat back and forth. just delegate and review.",
+    "url": "https://x.com/cosmo_kappa/status/1999246574267039957",
+    "timestamp": "2025-12-11T22:35:02.000Z",
+    "metadata": {
+      "conversation_id": "1999246574267039957",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999245262867562938",
     "source": "twitter",
     "author": "CloudTrader4",
