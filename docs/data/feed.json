@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999107389002592393",
+    "source": "twitter",
+    "author": "lohigowda_in",
+    "content": "@bentossell @FactoryAI @grok Great😁🙌🏻",
+    "url": "https://x.com/lohigowda_in/status/1999107389002592393",
+    "timestamp": "2025-12-11T13:21:57.000Z",
+    "metadata": {
+      "conversation_id": "1999107389002592393",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999107247503282269",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@lohigowda_in @FactoryAI @grok will be removing it soon - and adding grok",
+    "url": "https://x.com/bentossell/status/1999107247503282269",
+    "timestamp": "2025-12-11T13:21:24.000Z",
+    "metadata": {
+      "conversation_id": "1999107247503282269",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999106386257465387",
+    "source": "twitter",
+    "author": "AntonioJASmith",
+    "content": "Bring back promotional pricing for Opus 4.5 in Droid @FactoryAI @AnthropicAI 🫶 https://t.co/uwqm5WdZEw",
+    "url": "https://x.com/AntonioJASmith/status/1999106386257465387",
+    "timestamp": "2025-12-11T13:17:58.000Z",
+    "metadata": {
+      "conversation_id": "1999106386257465387",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999099381035712538",
     "source": "twitter",
     "author": "grok",
