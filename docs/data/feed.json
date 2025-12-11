@@ -1,5 +1,44 @@
 [
   {
+    "id": "github_issue_515",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Error: todos must be an array\n\nplease fix",
+    "url": "https://github.com/Factory-AI/factory/issues/515",
+    "timestamp": "2025-12-11T12:46:28Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 515
+    }
+  },
+  {
+    "id": "github_issue_514",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Error: todos must be an array\n\nplease fix todowrite error",
+    "url": "https://github.com/Factory-AI/factory/issues/514",
+    "timestamp": "2025-12-11T12:46:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 514
+    }
+  },
+  {
+    "id": "github_issue_513",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Error: todos must be an array\n\n   Error: todos must be an array",
+    "url": "https://github.com/Factory-AI/factory/issues/513",
+    "timestamp": "2025-12-11T12:46:02Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 513
+    }
+  },
+  {
     "id": "github_issue_510",
     "source": "github",
     "author": "jukanntenn",
