@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999150509115187401",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Dear ~Santa~ @bentossell - For Christmas all I want is @FactoryAI Droid to not litter every directory I launch Droid in with `.factory` folder that is empty other than an empty `skills` folder. https://t.co/wcNBTLMFYM",
+    "url": "https://x.com/benvargas/status/1999150509115187401",
+    "timestamp": "2025-12-11T16:13:18.000Z",
+    "metadata": {
+      "conversation_id": "1999150509115187401",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999149725245690324",
+    "source": "twitter",
+    "author": "Ricardo_Nth",
+    "content": "@CloudTrader4 @FactoryAI Nice! Do you use specific models for the sub agents or stay within a certain family of models?",
+    "url": "https://x.com/Ricardo_Nth/status/1999149725245690324",
+    "timestamp": "2025-12-11T16:10:11.000Z",
+    "metadata": {
+      "conversation_id": "1999149725245690324",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999130351113773458",
     "source": "twitter",
     "author": "Ricardo_Nth",
