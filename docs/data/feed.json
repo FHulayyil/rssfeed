@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1999232693775606076",
+    "source": "twitter",
+    "author": "cr4shdxmmy",
+    "content": "@FactoryAI it defaults to low reasoning even if I select medium or high",
+    "url": "https://x.com/cr4shdxmmy/status/1999232693775606076",
+    "timestamp": "2025-12-11T21:39:52.000Z",
+    "metadata": {
+      "conversation_id": "1999232693775606076",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999226295234818159",
     "source": "twitter",
     "author": "JoelDeTeves",
