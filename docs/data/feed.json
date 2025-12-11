@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1998997073551593906",
+    "source": "twitter",
+    "author": "Khaliqgant",
+    "content": "I’ve been testing the same prompt across several different agentic cli tools. I want deterministic behavior so I have a slash comment that invokes a skill with explicit instructions. Every agent gets it right in this case but the fastest by far were @FactoryAI and @opencode …\n\nWill share some more details later, but do what you want with this information…",
+    "url": "https://x.com/Khaliqgant/status/1998997073551593906",
+    "timestamp": "2025-12-11T06:03:36.000Z",
+    "metadata": {
+      "conversation_id": "1998997073551593906",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1998991419818782746",
     "source": "twitter",
     "author": "SvenMeyer",
