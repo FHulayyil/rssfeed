@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1999484261901259206",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1999484072415080545",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_518",
@@ -55,7 +58,8 @@
       "type": "issue",
       "labels": [],
       "number": 518
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1999481504184041838",
