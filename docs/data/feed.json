@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999607855897248081",
+    "source": "twitter",
+    "author": "munoncode",
+    "content": "@matanSF @FactoryAI Seriously you guys are doing magic with droid.\n\nNot only with code.\n\nBeen playing around with droid exec and honestly you can automate pretty much anything in a computer.\n\nAlso thank you for yours VM + droid exec tutorials",
+    "url": "https://x.com/munoncode/status/1999607855897248081",
+    "timestamp": "2025-12-12T22:30:38.000Z",
+    "metadata": {
+      "conversation_id": "1999607855897248081",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999605371061801358",
+    "source": "twitter",
+    "author": "YaacovCorcos",
+    "content": "@matanSF @FactoryAI Mostly cursor these days. \nAnd I use the droid CLI a lot, and I find it amazing btw.",
+    "url": "https://x.com/YaacovCorcos/status/1999605371061801358",
+    "timestamp": "2025-12-12T22:20:45.000Z",
+    "metadata": {
+      "conversation_id": "1999605371061801358",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999605112751444044",
+    "source": "twitter",
+    "author": "ryoppippi",
+    "content": "@benvargas @TSpencer260 @FactoryAI do you remember anthropic try to move logs and CLI into ~/.config and then they stopped doing that and started investigating binary approach",
+    "url": "https://x.com/ryoppippi/status/1999605112751444044",
+    "timestamp": "2025-12-12T22:19:44.000Z",
+    "metadata": {
+      "conversation_id": "1999605112751444044",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999603931211878703",
     "source": "twitter",
     "author": "benvargas",
