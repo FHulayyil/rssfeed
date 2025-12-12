@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1999594645710602318",
+    "source": "twitter",
+    "author": "noprocess",
+    "content": "@matanSF @FactoryAI wen 100",
+    "url": "https://x.com/noprocess/status/1999594645710602318",
+    "timestamp": "2025-12-12T21:38:08.000Z",
+    "metadata": {
+      "conversation_id": "1999594645710602318",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999593939423330774",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@BillCrosby @FactoryAI 🤝",
+    "url": "https://x.com/matanSF/status/1999593939423330774",
+    "timestamp": "2025-12-12T21:35:20.000Z",
+    "metadata": {
+      "conversation_id": "1999593939423330774",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999593277939454299",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@matanSF @FactoryAI never really counted it out, honestly. feels like it’s just chilling and then suddenly ready to bounce back.",
+    "url": "https://x.com/BillCrosby/status/1999593277939454299",
+    "timestamp": "2025-12-12T21:32:42.000Z",
+    "metadata": {
+      "conversation_id": "1999593277939454299",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999592846438084965",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@YaacovCorcos @FactoryAI already exists!! in any ide",
+    "url": "https://x.com/matanSF/status/1999592846438084965",
+    "timestamp": "2025-12-12T21:30:59.000Z",
+    "metadata": {
+      "conversation_id": "1999592846438084965",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999592813332431329",
+    "source": "twitter",
+    "author": "MysticEru",
+    "content": "Thanks for trying to answer.\n\nGlob based rules are when rules apply to specific globs (files/folders). I shared a post about it recently if you want to read more (https://t.co/p9rwNxGQVu) \n\nIt doesn't look like droid supports either (yet). Still playing catchup. I'm going to keep an eye on them though.",
+    "url": "https://x.com/MysticEru/status/1999592813332431329",
+    "timestamp": "2025-12-12T21:30:51.000Z",
+    "metadata": {
+      "conversation_id": "1999592813332431329",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999592656729448727",
+    "source": "twitter",
+    "author": "YaacovCorcos",
+    "content": "@matanSF @FactoryAI Are you planning to release a version of Droid that works as a side panel chat on IDEs? \nThe CLI is great and will still be very useful but a nicely designed chat panel would give so much more possibilities in terms of UI/UX. \n@matanSF",
+    "url": "https://x.com/YaacovCorcos/status/1999592656729448727",
+    "timestamp": "2025-12-12T21:30:14.000Z",
+    "metadata": {
+      "conversation_id": "1999592656729448727",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999591280783819120",
     "source": "twitter",
     "author": "JoelDeTeves",
