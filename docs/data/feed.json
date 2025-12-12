@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_1999561341149778420",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_1999559331197383142",
@@ -31180,7 +31182,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 418
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "reddit_1p3olcg",
