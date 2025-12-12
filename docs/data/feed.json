@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999561852158681100",
+    "source": "twitter",
+    "author": "bernaferrari",
+    "content": "@JoelDeTeves @FactoryAI Droid is great but Codex and Claude Code pricing is still unmatched.",
+    "url": "https://x.com/bernaferrari/status/1999561852158681100",
+    "timestamp": "2025-12-12T19:27:50.000Z",
+    "metadata": {
+      "conversation_id": "1999561852158681100",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999561341149778420",
+    "source": "twitter",
+    "author": "KalGrinberg",
+    "content": "@0xTheWay @FactoryAI Mission accomplished 😎",
+    "url": "https://x.com/KalGrinberg/status/1999561341149778420",
+    "timestamp": "2025-12-12T19:25:48.000Z",
+    "metadata": {
+      "conversation_id": "1999561341149778420",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999559331197383142",
     "source": "twitter",
     "author": "batsirai",
@@ -31138,6 +31168,19 @@
       "classifiedAt": "2025-11-22T09:44:13.947Z"
     },
     "category": "bug"
+  },
+  {
+    "id": "github_discussion_418",
+    "source": "github",
+    "author": "WeYaTa-Dev",
+    "content": "[Discussion] Unable to authenticate Figma MCP\n\nI have run this command and the mcp's added successfully\r\n`droid mcp add figma https://mcp.figma.com/mcp --type http`\r\n\r\nBut when I tried to authenticate the mcp via /mcp command, it said:\r\n<img width=\"1209\" height=\"420\" alt=\"image\" src=\"https://github.com/user-attachments/assets/01774d30-442e-4361-b2ec-2cb67855f193\" />",
+    "url": "https://github.com/Factory-AI/factory/discussions/418",
+    "timestamp": "2025-11-22T09:31:10Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 418
+    }
   },
   {
     "id": "reddit_1p3olcg",
