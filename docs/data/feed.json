@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1999423917153263737",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Oh, I run opencode too and have contributed to all those plugins and CLIProxyAPI you use in your repo. \n\nNo offense meant, but no way am I installing a plugin like yours into opencode. Probably some good ideas in there, but you’ve packed way too much shit into a single plugin, and I don’t love opencode auto executing npm packages like that.",
+    "url": "https://x.com/benvargas/status/1999423917153263737",
+    "timestamp": "2025-12-12T10:19:44.000Z",
+    "metadata": {
+      "conversation_id": "1999423917153263737",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999420839968801173",
     "source": "twitter",
     "author": "yeon_gyu_kim",
