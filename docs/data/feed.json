@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1999567302308577401",
+    "source": "twitter",
+    "author": "vibecoding_fm",
+    "content": "@JoelDeTeves @Scobleizer @FactoryAI You have my attention",
+    "url": "https://x.com/vibecoding_fm/status/1999567302308577401",
+    "timestamp": "2025-12-12T19:49:29.000Z",
+    "metadata": {
+      "conversation_id": "1999567302308577401",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999565319879156052",
     "source": "twitter",
     "author": "_alissonryan",
