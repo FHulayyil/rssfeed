@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999519352500969685",
+    "source": "twitter",
+    "author": "vatro_vrbanic",
+    "content": "@erikjfritsch @benvargas @FactoryAI it's hard / impossible to verify that extended token budget which is a huge selling point. I have mixed feelings about this and have thus switched to Copilot which also does a very good job with Opus 4.5, but I have the feeling it's not that token-thirsty.",
+    "url": "https://x.com/vatro_vrbanic/status/1999519352500969685",
+    "timestamp": "2025-12-12T16:38:57.000Z",
+    "metadata": {
+      "conversation_id": "1999519352500969685",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999516224867250639",
+    "source": "twitter",
+    "author": "SEDIDEL",
+    "content": "@benvargas @FactoryAI Cool 🫶 great job!",
+    "url": "https://x.com/SEDIDEL/status/1999516224867250639",
+    "timestamp": "2025-12-12T16:26:31.000Z",
+    "metadata": {
+      "conversation_id": "1999516224867250639",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999515100881821847",
+    "source": "twitter",
+    "author": "theronin42",
+    "content": "@AriesTheCoder @donvito @droid @FactoryAI its not better than opus 4.5\nopus 4.5 stays on track and never deviates",
+    "url": "https://x.com/theronin42/status/1999515100881821847",
+    "timestamp": "2025-12-12T16:22:03.000Z",
+    "metadata": {
+      "conversation_id": "1999515100881821847",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999513566043574568",
     "source": "twitter",
     "author": "benvargas",
