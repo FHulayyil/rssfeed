@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_1999484324220186736",
+    "source": "twitter",
+    "author": "dannyscalant",
+    "content": "Today’s session turned into a deep dive on building never-before-seen 3D simulations — from microbial ecosystems to planetary systems — all driven by clean architecture and real-time visuals.\n\nFelt less like coding, more like world-building.\n\n@FactoryAI",
+    "url": "https://x.com/dannyscalant/status/1999484324220186736",
+    "timestamp": "2025-12-12T14:19:46.000Z",
+    "metadata": {
+      "conversation_id": "1999484324220186736",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999484261901259206",
+    "source": "twitter",
+    "author": "dannyscalant",
+    "content": "@FactoryAI Today’s session turned into a deep dive on building never-before-seen 3D simulations — from microbial ecosystems to planetary systems — all driven by clean architecture and real-time visuals.\n\nFelt less like coding, more like world-building.\n\n@FactoryAI",
+    "url": "https://x.com/dannyscalant/status/1999484261901259206",
+    "timestamp": "2025-12-12T14:19:31.000Z",
+    "metadata": {
+      "conversation_id": "1999484261901259206",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999484072415080545",
+    "source": "twitter",
+    "author": "SEDIDEL",
+    "content": "@benvargas @FactoryAI Isn’t this too risky? IDK if this can lead to an account ban",
+    "url": "https://x.com/SEDIDEL/status/1999484072415080545",
+    "timestamp": "2025-12-12T14:18:46.000Z",
+    "metadata": {
+      "conversation_id": "1999484072415080545",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_518",
+    "source": "github",
+    "author": "ChronodeAi",
+    "content": "[Issue] .claude/agents import name mapping\n\nWhen importing .claude/agents directly thru factory cli thru /droids the agent \"name\" isn't mapping correctly.\n\nFor example claude agents may have spaces between their name such as \"Deep Analyzer\", but upon import the droid name remains \"Deep Analyzer\" instead of \"deep-analyzer\".",
+    "url": "https://github.com/Factory-AI/factory/issues/518",
+    "timestamp": "2025-12-12T14:16:33Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 518
+    }
+  },
+  {
     "id": "twitter_1999481504184041838",
     "source": "twitter",
     "author": "akatzzzzz",
