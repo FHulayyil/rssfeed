@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1999481504184041838",
+    "source": "twitter",
+    "author": "akatzzzzz",
+    "content": "@JoelDeTeves @FactoryAI 5.2 vs opus?",
+    "url": "https://x.com/akatzzzzz/status/1999481504184041838",
+    "timestamp": "2025-12-12T14:08:33.000Z",
+    "metadata": {
+      "conversation_id": "1999481504184041838",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999480915773522160",
+    "source": "twitter",
+    "author": "HKilset",
+    "content": "@zeroXmusashi @gdb @FactoryAI I'm using the default reasoning level, yeah.",
+    "url": "https://x.com/HKilset/status/1999480915773522160",
+    "timestamp": "2025-12-12T14:06:13.000Z",
+    "metadata": {
+      "conversation_id": "1999480915773522160",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999480793157238954",
+    "source": "twitter",
+    "author": "HKilset",
+    "content": "@zeroXmusashi @gdb @FactoryAI Also shout out to @opencode which is similarly great (although I'd prefer plan mode to be more distinct from build mode with ux capturing decisions and an explicit menu / option to execute plan instead of \"just text\" and manual context switch).",
+    "url": "https://x.com/HKilset/status/1999480793157238954",
+    "timestamp": "2025-12-12T14:05:44.000Z",
+    "metadata": {
+      "conversation_id": "1999480793157238954",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999480235964923962",
+    "source": "twitter",
+    "author": "xingyu_liao",
+    "content": "@JoelDeTeves @FactoryAI indeed, but too expensive to use.",
+    "url": "https://x.com/xingyu_liao/status/1999480235964923962",
+    "timestamp": "2025-12-12T14:03:31.000Z",
+    "metadata": {
+      "conversation_id": "1999480235964923962",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_517",
     "source": "github",
     "author": "humanjesse",
