@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_517",
+    "source": "github",
+    "author": "humanjesse",
+    "content": "[Issue] [Feature Request] Tab key as a scroll function\n\nIt would be nice to have the tab key scroll through options (in Droid CLI) like model selection or slash options in the drop down. This would allow people with non full size keyboards to scroll through options quickly.",
+    "url": "https://github.com/Factory-AI/factory/issues/517",
+    "timestamp": "2025-12-12T13:56:05Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 517
+    }
+  },
+  {
     "id": "github_issue_515",
     "source": "github",
     "author": "a112121788",
