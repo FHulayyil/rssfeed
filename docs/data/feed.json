@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1999942937023824247",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@aiinstinct @FactoryAI @augmentcode CC is good but Droid is better",
+    "url": "https://x.com/TheEcomNomad/status/1999942937023824247",
+    "timestamp": "2025-12-13T20:42:07.000Z",
+    "metadata": {
+      "conversation_id": "1999942937023824247",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999942618218889500",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@stefcodes @matanSF @FactoryAI yeh we will have scores for other models soon\n\nmeans someone on tbench team ran it too",
+    "url": "https://x.com/bentossell/status/1999942618218889500",
+    "timestamp": "2025-12-13T20:40:51.000Z",
+    "metadata": {
+      "conversation_id": "1999942618218889500",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999942042621763680",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "I tried all the agents above 👆 and it was one of the only that can refactor code and fix multiple pages perfectly without sweating. \n\nOpus 4.5 is great out the box anyway but the rest struggled with more production level apps and larger code bases. Both Droid and Augment have great context engines but I’d probably say droid is one of the bests I’ve tried.",
+    "url": "https://x.com/TheEcomNomad/status/1999942042621763680",
+    "timestamp": "2025-12-13T20:38:34.000Z",
+    "metadata": {
+      "conversation_id": "1999942042621763680",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999941502131392759",
+    "source": "twitter",
+    "author": "mysticaltech",
+    "content": "@DannyAziz97 @FactoryAI Please explain the obsidian part, I gather you use the MCP, and what's in your AGENTS md to instruct how to use it?",
+    "url": "https://x.com/mysticaltech/status/1999941502131392759",
+    "timestamp": "2025-12-13T20:36:25.000Z",
+    "metadata": {
+      "conversation_id": "1999941502131392759",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999939248598958455",
     "source": "twitter",
     "author": "klyndrud1",
