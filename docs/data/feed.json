@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_525",
+    "source": "github",
+    "author": "ajul8866",
+    "content": "[Issue] command issue\n\nBug Report ID: 4f5ab1bc-2900-4694-837b-0f5025937e75",
+    "url": "https://github.com/Factory-AI/factory/issues/525",
+    "timestamp": "2025-12-13T16:14:13Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 525
+    }
+  },
+  {
     "id": "github_issue_523",
     "source": "github",
     "author": "kaesi0",
