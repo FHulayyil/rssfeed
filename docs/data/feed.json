@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1999702550967406685",
+    "source": "twitter",
+    "author": "mhadtk",
+    "content": "🤣🤣 @FactoryAI @Zai_org I don't get it. Suddenly, GLM 4.6 automatically switched the language. https://t.co/vNQPFWEDvB",
+    "url": "https://x.com/mhadtk/status/1999702550967406685",
+    "timestamp": "2025-12-13T04:46:55.000Z",
+    "metadata": {
+      "conversation_id": "1999702550967406685",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999702243776586195",
+    "source": "twitter",
+    "author": "vibercoding",
+    "content": "严格意义上， @FactoryAI Droid 和 @AmpCode AmpCode 是一个维度的。\n\n1/ 有专门的公司\n2/ 闭源的\n3/ 可以自己买 token",
+    "url": "https://x.com/vibercoding/status/1999702243776586195",
+    "timestamp": "2025-12-13T04:45:42.000Z",
+    "metadata": {
+      "conversation_id": "1999702243776586195",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999701665084313699",
+    "source": "twitter",
+    "author": "kylezantos",
+    "content": "@rileybrown Using those models in Cursor is not the same as using those models in their native CLI’s.\n\nThat said, Opus 4.5 is also my favorite in CC and @FactoryAI",
+    "url": "https://x.com/kylezantos/status/1999701665084313699",
+    "timestamp": "2025-12-13T04:43:24.000Z",
+    "metadata": {
+      "conversation_id": "1999701665084313699",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999698863280771170",
     "source": "twitter",
     "author": "prathamdby",
