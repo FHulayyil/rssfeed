@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1999634087124885708",
+    "source": "twitter",
+    "author": "shaped",
+    "content": "@matanSF @FactoryAI Lfg",
+    "url": "https://x.com/shaped/status/1999634087124885708",
+    "timestamp": "2025-12-13T00:14:52.000Z",
+    "metadata": {
+      "conversation_id": "1999634087124885708",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999633923933163918",
+    "source": "twitter",
+    "author": "renatoaraujoc",
+    "content": "@TheEcomNomad @FactoryAI @augmentcode I switched from Augment to Kilo Code and it’s being a great ride so far.",
+    "url": "https://x.com/renatoaraujoc/status/1999633923933163918",
+    "timestamp": "2025-12-13T00:14:13.000Z",
+    "metadata": {
+      "conversation_id": "1999633923933163918",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999633309786374567",
+    "source": "twitter",
+    "author": "petergyang",
+    "content": "@EnoReyes @FactoryAI shit we need to do our podcast soon",
+    "url": "https://x.com/petergyang/status/1999633309786374567",
+    "timestamp": "2025-12-13T00:11:47.000Z",
+    "metadata": {
+      "conversation_id": "1999633309786374567",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999632421830939131",
+    "source": "twitter",
+    "author": "gmickel",
+    "content": "@pvncher @agro5d @AmpCode @FactoryAI @bentossell Thanks eric, will try that!",
+    "url": "https://x.com/gmickel/status/1999632421830939131",
+    "timestamp": "2025-12-13T00:08:15.000Z",
+    "metadata": {
+      "conversation_id": "1999632421830939131",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999632296476049761",
+    "source": "twitter",
+    "author": "pvncher",
+    "content": "@gmickel @agro5d @AmpCode @FactoryAI You should hit up @bentossell directly for droid.",
+    "url": "https://x.com/pvncher/status/1999632296476049761",
+    "timestamp": "2025-12-13T00:07:45.000Z",
+    "metadata": {
+      "conversation_id": "1999632296476049761",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999631699177554369",
+    "source": "twitter",
+    "author": "gmickel",
+    "content": "@pvncher @agro5d Might still be small potatoes, but worth a shot. What do you think @AmpCode and @FactoryAI?",
+    "url": "https://x.com/gmickel/status/1999631699177554369",
+    "timestamp": "2025-12-13T00:05:23.000Z",
+    "metadata": {
+      "conversation_id": "1999631699177554369",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999630518565110217",
+    "source": "twitter",
+    "author": "HKilset",
+    "content": "@Bazixxx @matanSF @FactoryAI In my experience, two things:\n\n1. Way better at researching code base to establish context and preexisting patterns.\n2. Better at consistency.\n\nAnd it supports all the major model providers, OpenAI, Anthropic, Google etc, in a single subscription. Plus bring your own API key.",
+    "url": "https://x.com/HKilset/status/1999630518565110217",
+    "timestamp": "2025-12-13T00:00:41.000Z",
+    "metadata": {
+      "conversation_id": "1999630518565110217",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999628573221831167",
     "source": "twitter",
     "author": "thisismichael13",
