@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1999826270926876677",
+    "source": "twitter",
+    "author": "ChrisVanDerKlau",
+    "content": "@JoelDeTeves @FactoryAI Factory is not cheap.\n\nStill using codex here.",
+    "url": "https://x.com/ChrisVanDerKlau/status/1999826270926876677",
+    "timestamp": "2025-12-13T12:58:32.000Z",
+    "metadata": {
+      "conversation_id": "1999826270926876677",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999814192757359093",
     "source": "twitter",
     "author": "yussfou",
@@ -35178,6 +35193,19 @@
       "number": 225
     },
     "category": "other"
+  },
+  {
+    "id": "github_discussion_225",
+    "source": "github",
+    "author": "JohnDotOwl",
+    "content": "[Discussion] Change Log\n\nCan we have more updated change logs somewhere if possible. \r\n\r\nSuccessfully updated to version 0.21.5 Just saw this ",
+    "url": "https://github.com/Factory-AI/factory/discussions/225",
+    "timestamp": "2025-10-21T09:52:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 225
+    }
   },
   {
     "id": "github_discussion_223",
