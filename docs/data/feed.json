@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1999681664835002581",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@FactoryAI Droid https://t.co/luRn9cRqEN",
+    "url": "https://x.com/nathanclark_/status/1999681664835002581",
+    "timestamp": "2025-12-13T03:23:55.000Z",
+    "metadata": {
+      "conversation_id": "1999681664835002581",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999677708985647401",
+    "source": "twitter",
+    "author": "contxtkng",
+    "content": "@Bazixxx @matanSF @FactoryAI It’s basically the same shit just better and you aren’t tied to any model. The only possible argument you can make for a codex / CC subscription over droid is that you get higher rate limits bc the labs subsidize their own models. Other than that it’s a no brainer.",
+    "url": "https://x.com/contxtkng/status/1999677708985647401",
+    "timestamp": "2025-12-13T03:08:12.000Z",
+    "metadata": {
+      "conversation_id": "1999677708985647401",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999677352331395390",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@dannyveigatx @FactoryAI @augmentcode I burn through a lot of credits but at the same time I spent 400+ per month on the Claude API in the past for a lot worse result haha",
+    "url": "https://x.com/TheEcomNomad/status/1999677352331395390",
+    "timestamp": "2025-12-13T03:06:47.000Z",
+    "metadata": {
+      "conversation_id": "1999677352331395390",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999677274241794498",
+    "source": "twitter",
+    "author": "contxtkng",
+    "content": "@matanSF @FactoryAI Undefeated. If Droid isn’t on top it’s just bc they haven’t benchmarked recently",
+    "url": "https://x.com/contxtkng/status/1999677274241794498",
+    "timestamp": "2025-12-13T03:06:29.000Z",
+    "metadata": {
+      "conversation_id": "1999677274241794498",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999676913674256624",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@dannyveigatx @FactoryAI @augmentcode Bridging CC with Droid? I went ahead with the $200/mo droid plan, loving it so far but I’ll have to see how long it lasts!",
+    "url": "https://x.com/TheEcomNomad/status/1999676913674256624",
+    "timestamp": "2025-12-13T03:05:03.000Z",
+    "metadata": {
+      "conversation_id": "1999676913674256624",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999675968059797533",
+    "source": "twitter",
+    "author": "dannyveigatx",
+    "content": "I’m toggling between Claude code and droid. I already spent like $600 on droid so I switched to CC for a bit and it’s doing really well on the $200 plan. \n\nI even created a Claude SDK that would call on droid to use a custom grout 4.1 reasoning model for codes and it’s running on its own 24 seven on a side project and it’s doing pretty good",
+    "url": "https://x.com/dannyveigatx/status/1999675968059797533",
+    "timestamp": "2025-12-13T03:01:17.000Z",
+    "metadata": {
+      "conversation_id": "1999675968059797533",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999674565572837840",
+    "source": "twitter",
+    "author": "batsirai",
+    "content": "I’m at a concert right now. Got a notification of an error on the sign up page in the app. Ugh.  But @FactoryAI … I access my Droid thru telegram…  fixed it in two mins. Back to the show… crazy world. https://t.co/2MBfbvtg41",
+    "url": "https://x.com/batsirai/status/1999674565572837840",
+    "timestamp": "2025-12-13T02:55:43.000Z",
+    "metadata": {
+      "conversation_id": "1999674565572837840",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999668559107240441",
     "source": "twitter",
     "author": "batsirai",
