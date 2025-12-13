@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_1999760858570981767",
+    "source": "twitter",
+    "author": "electroheadfx",
+    "content": "@TheEcomNomad @FactoryAI @augmentcode @qoder_ai_ide and qoderCli are same level with bonus (quest, wiki). The context engine is amazing I was able to create a 10K lines heatmap/carto component for the railway industry, with only ~2200 credits using Next/react/echarts/DeckGL #QoderTogether .",
+    "url": "https://x.com/electroheadfx/status/1999760858570981767",
+    "timestamp": "2025-12-13T08:38:37.000Z",
+    "metadata": {
+      "conversation_id": "1999760858570981767",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_523",
+    "source": "github",
+    "author": "kaesi0",
+    "content": "[Issue] [Windows] Custom Slash Commands with Shebang (#!) fail to execute & lack of support for native scripts (.bat/.ps1)\n\nIs your feature request related to a problem? Please describe. I am trying to add custom local slash commands on Windows 11 to execute Node.js scripts directly (Zero-Token latency).\n\nAccording to the documentation, only *.md files or files starting with a Shebang (#!) are registered. However, this design is problematic on Windows:\n\nShebang Issue: Windows does not natively support Shebangs (#!/usr/bin/env node). While Droid registers these files successfully (recognizing the #! header), the execu",
+    "url": "https://github.com/Factory-AI/factory/issues/523",
+    "timestamp": "2025-12-13T08:32:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 523
+    }
+  },
+  {
     "id": "twitter_1999746099138236684",
     "source": "twitter",
     "author": "matanSF",
