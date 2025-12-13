@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1999733879314448838",
+    "source": "twitter",
+    "author": "Im_Altaf_Shaik",
+    "content": "@laup30 @FactoryAI @matanSF Yes is there any new code. This one not working",
+    "url": "https://x.com/Im_Altaf_Shaik/status/1999733879314448838",
+    "timestamp": "2025-12-13T06:51:24.000Z",
+    "metadata": {
+      "conversation_id": "1999733879314448838",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1999731905646985278",
+    "source": "twitter",
+    "author": "RituWithAI",
+    "content": "@matanSF @FactoryAI Terminal Bench is the only metric that actually matters for builders. Chat ELO is vanity; terminal execution is sanity. Droid taking back the crown proves it handles real-world complexity better than the hype trains. The king is back.",
+    "url": "https://x.com/RituWithAI/status/1999731905646985278",
+    "timestamp": "2025-12-13T06:43:34.000Z",
+    "metadata": {
+      "conversation_id": "1999731905646985278",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999729917647552830",
     "source": "twitter",
     "author": "artifexdev",
