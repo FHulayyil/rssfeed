@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2000001842294751472",
+    "source": "twitter",
+    "author": "_jamesmck",
+    "content": "Currently attempting a one shot build of a cutting edge weather app using @FactoryAI Droid and @cursor_ai using @AnthropicAI Opus 4.5\n\n40 mins in so far https://t.co/zxQlwQQYtb",
+    "url": "https://x.com/_jamesmck/status/2000001842294751472",
+    "timestamp": "2025-12-14T00:36:12.000Z",
+    "metadata": {
+      "conversation_id": "2000001842294751472",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000001530636984594",
+    "source": "twitter",
+    "author": "arimedai",
+    "content": "@matanSF @Waymo @FactoryAI Build AI tools for autism spectrum riders. Managing sensory overload in self-driving cars? That's real impact, not just tech for tech's sake.",
+    "url": "https://x.com/arimedai/status/2000001530636984594",
+    "timestamp": "2025-12-14T00:34:57.000Z",
+    "metadata": {
+      "conversation_id": "2000001530636984594",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1999995174311637360",
     "source": "twitter",
     "author": "WonsonYo",
