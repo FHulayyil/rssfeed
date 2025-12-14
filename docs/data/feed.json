@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2000072520507207836",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@matanSF @Waymo @FactoryAI Me &amp; Tesilly would like a word. We do this frequently 🙂",
+    "url": "https://x.com/Alberto8793/status/2000072520507207836",
+    "timestamp": "2025-12-14T05:17:03.000Z",
+    "metadata": {
+      "conversation_id": "2000072520507207836",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000072119535751524",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@FactoryAI How can I use my Claude AI subscription with Droid? I'm trying to get more value out of the subscription, but Claude isn't cutting it! Figure using it with Droid is the solution.",
+    "url": "https://x.com/Alberto8793/status/2000072119535751524",
+    "timestamp": "2025-12-14T05:15:27.000Z",
+    "metadata": {
+      "conversation_id": "2000072119535751524",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000051700565213628",
     "source": "twitter",
     "author": "Im__Tanbir",
