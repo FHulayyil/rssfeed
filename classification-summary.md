@@ -1,9 +1,9 @@
 # Classification Summary
 
-**Date:** 2025-12-14 18:24 UTC
+**Date:** 2025-12-14 18:56 UTC
 
-## Results
+**Items Classified (new):** 1
 
-- **Total items classified:** 1
-- **Category breakdown:**
-  - mention: 1 (100%)
+| Category | Count | Percentage |
+|----------|-------|------------|
+| mention | 1 | 100.0% |
