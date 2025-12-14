@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2000150157829324839",
+    "source": "twitter",
+    "author": "pan_kowych",
+    "content": "@benvargas @FactoryAI Is it possible to also add support for Gemini CLI?",
+    "url": "https://x.com/pan_kowych/status/2000150157829324839",
+    "timestamp": "2025-12-14T10:25:33.000Z",
+    "metadata": {
+      "conversation_id": "2000150157829324839",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000135258390303205",
     "source": "twitter",
     "author": "DavidMo50018070",
