@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2000290648927486305",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "One weird thing with @FactoryAI Droid is that you can distract it very easily. \n\nI think this may be a harness issue, not model (Opus 4.5) issue. \n\nIt’ll be working on something, and I can paste in something else for it to look at, and it doesn’t queue it up to deal with it after.  \n\nIt treats it as an immediate action before getting back to what it was doing, which actually hinders the overall workflow. \n\nAnyone seen this in other agent harnesses?",
+    "url": "https://x.com/KirkMarple/status/2000290648927486305",
+    "timestamp": "2025-12-14T19:43:48.000Z",
+    "metadata": {
+      "conversation_id": "2000290648927486305",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000278737011765516",
     "source": "twitter",
     "author": "shitpost9000",
