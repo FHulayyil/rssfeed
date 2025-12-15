@@ -18972,6 +18972,19 @@
     "category": "bug"
   },
   {
+    "id": "reddit_1p87yox",
+    "source": "reddit",
+    "author": "Numerous_File_9927",
+    "content": "●  Error: Failed to prepare rewind session.\n\nThe revind command is broken.  \n  \nSince you guys pushed your v0.27.1 release:  \n\n\nFactory CLI v0.27.1 released\n\nFeatures\n\n\\- Add /rewind command.\n\n\\- Improve rewind speed and UX.\n\n\\- Add /install-github-app CLI command.\n\n\\- Allow images in MCP tool responses.  \n  \n when you claimed that you fixed the rewind command and made it make UI faster, both the rewind slash command stopped working for me, and double-clicking on Esc twice stopped working for me. It's always throwing this error. It's alrea",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p87yox/error_failed_to_prepare_rewind_session/",
+    "timestamp": "2025-11-27T17:28:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1994095472034635916",
     "source": "twitter",
     "author": "5aikat",
