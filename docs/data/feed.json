@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_2000870949290492202",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Tmeister @rossmorsali @mattmedeiros @FactoryAI new line is just a keybindings issue - we do support it - i have no extra configurations and in ghostty it works. if in ide you can run /terminal-setup to help get it linked",
+    "url": "https://x.com/bentossell/status/2000870949290492202",
+    "timestamp": "2025-12-16T10:09:43.000Z",
+    "metadata": {
+      "conversation_id": "2000870949290492202",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000870887805853915",
+    "source": "twitter",
+    "author": "Bazixxx",
+    "content": "@bentossell @JoelDeTeves @FactoryAI In the same way as with Claude code, where I work for an entire month without exceeding any limits (max plan).",
+    "url": "https://x.com/Bazixxx/status/2000870887805853915",
+    "timestamp": "2025-12-16T10:09:28.000Z",
+    "metadata": {
+      "conversation_id": "2000870887805853915",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000870611145371750",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@cr4shdxmmy @FactoryAI sorry just saw this, still happening? byok or native?",
+    "url": "https://x.com/bentossell/status/2000870611145371750",
+    "timestamp": "2025-12-16T10:08:22.000Z",
+    "metadata": {
+      "conversation_id": "2000870611145371750",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000870504224186850",
+    "source": "twitter",
+    "author": "_pp_tm_",
+    "content": "Probably made naive mistake, but I guess worth sharing this:\n\nBeen testing @FactoryAI with @supabase MCP on a test/demo project, and is impressive.\n\nHowever when I moved back working on my main thing, happened a little mess, MCP cashed old supa project 👀",
+    "url": "https://x.com/_pp_tm_/status/2000870504224186850",
+    "timestamp": "2025-12-16T10:07:57.000Z",
+    "metadata": {
+      "conversation_id": "2000870504224186850",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000870440412254709",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Bazixxx @JoelDeTeves @FactoryAI well how were you using it?",
+    "url": "https://x.com/bentossell/status/2000870440412254709",
+    "timestamp": "2025-12-16T10:07:42.000Z",
+    "metadata": {
+      "conversation_id": "2000870440412254709",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000870302495203728",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mhadtk @FactoryAI @Zai_org is this byok glm?",
+    "url": "https://x.com/bentossell/status/2000870302495203728",
+    "timestamp": "2025-12-16T10:07:09.000Z",
+    "metadata": {
+      "conversation_id": "2000870302495203728",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000869670681792861",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@tomasmarekk @matanSF @FactoryAI seems like you're hitting a bug - if you run /bug you can share the id and i'll look into it. this doesnt happen to me (and rarely have heard from users) - may be different exp with proxy as we dont officially support it",
+    "url": "https://x.com/bentossell/status/2000869670681792861",
+    "timestamp": "2025-12-16T10:04:38.000Z",
+    "metadata": {
+      "conversation_id": "2000869670681792861",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000868900901150936",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Rafindoput75439 @FactoryAI looks like your acct got caught in a fraud check - please email support@factory.ai and they'll be able to help",
+    "url": "https://x.com/bentossell/status/2000868900901150936",
+    "timestamp": "2025-12-16T10:01:34.000Z",
+    "metadata": {
+      "conversation_id": "2000868900901150936",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000868353913622931",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "sorry you experienced this - our legacy web product had issues which is why we've released our latest https://t.co/53E25i7EXb - its still in research preview so there will be bugs but its built from the ground up. \n\ncli is working extremely well if you're interested in using that. \n\nyou can always tweet us and we will respond. theres 30+ on the team",
+    "url": "https://x.com/bentossell/status/2000868353913622931",
+    "timestamp": "2025-12-16T09:59:24.000Z",
+    "metadata": {
+      "conversation_id": "2000868353913622931",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000867441555943727",
     "source": "twitter",
     "author": "bentossell",
