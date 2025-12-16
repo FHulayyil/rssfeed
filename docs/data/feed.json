@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2001057315236016134",
+    "source": "twitter",
+    "author": "flow_intent",
+    "content": "No credits left in @augmentcode no tokens left in @FactoryAI used up my @cursor_ai Pro+ subscription. I've got Claude code but no Opus. Sonnet gives me PRs with my API keys showing. And 5 other issues @coderabbitai finds. With Opus the PRs have no issues. I need Opus back. Help.",
+    "url": "https://x.com/flow_intent/status/2001057315236016134",
+    "timestamp": "2025-12-16T22:30:16.000Z",
+    "metadata": {
+      "conversation_id": "2001057315236016134",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001040859593154723",
     "source": "twitter",
     "author": "Carlos_0x",
