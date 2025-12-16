@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2000803171086782732",
+    "source": "twitter",
+    "author": "kahdrew",
+    "content": "@JohnONolan @AnthropicAI Come check out @FactoryAI and us anthropic models with a better agent harness. Oh, btw, we have a $2k/mo plan for users like you.",
+    "url": "https://x.com/kahdrew/status/2000803171086782732",
+    "timestamp": "2025-12-16T05:40:23.000Z",
+    "metadata": {
+      "conversation_id": "2000803171086782732",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000802044723257819",
+    "source": "twitter",
+    "author": "yunbin_bae",
+    "content": "@_abilshr @FactoryAI gotcha thankss",
+    "url": "https://x.com/yunbin_bae/status/2000802044723257819",
+    "timestamp": "2025-12-16T05:35:55.000Z",
+    "metadata": {
+      "conversation_id": "2000802044723257819",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2000801396048990641",
+    "source": "twitter",
+    "author": "_abilshr",
+    "content": "@yunbin_bae @FactoryAI Alot! If u use opus for planning and sonnet you'll be good for a month. Also the same models are much better in droid",
+    "url": "https://x.com/_abilshr/status/2000801396048990641",
+    "timestamp": "2025-12-16T05:33:20.000Z",
+    "metadata": {
+      "conversation_id": "2000801396048990641",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2000800651677458454",
     "source": "twitter",
     "author": "LevJampolsky",
