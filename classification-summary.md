@@ -1,12 +1,9 @@
 # Classification Summary
 
-**Date:** 2025-12-17 17:32 UTC
+**Date:** 2025-12-17 17:57 UTC
 
-## Items Classified
-- **New items classified:** 1
+**Items Classified:** 1
 
-## Category Breakdown (new items only)
 | Category | Count | Percentage |
 |----------|-------|------------|
-| mention | 1 | 100% |
-
+| question | 1 | 100.0% |
