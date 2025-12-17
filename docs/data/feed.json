@@ -38590,7 +38590,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 384
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_383",
