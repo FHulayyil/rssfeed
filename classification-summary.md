@@ -1,13 +1,13 @@
 # Classification Summary
 
-**Date:** 2025-12-17 07:32 UTC
+**Date:** 2025-12-17 07:55 UTC
 
-**Total items classified:** 2
+## Items Classified
+- **New items classified:** 1
+- **Already classified:** 2406
 
+## Category Breakdown
 | Category | Count | Percentage |
 |----------|-------|------------|
-| mention  | 1     | 50.0%      |
-| bug      | 0     | 0.0%       |
-| love     | 1     | 50.0%      |
-| question | 0     | 0.0%       |
-| other    | 0     | 0.0%       |
+| question | 1 | 100% |
+
