@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2001342940330045546",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "I’ve opened up some bandwidth for hands-on GenAI engineering + product work.\n\nBackground: Azure serverless, RAG & context layers, MCP-based agent systems, Next.js on Vercel.\n\nI work in a forward-deployed way and use AI-assisted dev (CLI coding agents like @FactoryAI) to ship fast across real systems.\n\nIf you’ve got a project you’re stuck on, feel free to reach out.",
+    "url": "https://x.com/KirkMarple/status/2001342940330045546",
+    "timestamp": "2025-12-17T17:25:14.000Z",
+    "metadata": {
+      "conversation_id": "2001342940330045546",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001336939207627205",
     "source": "twitter",
     "author": "michabbb",
