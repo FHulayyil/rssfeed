@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_528",
+    "source": "github",
+    "author": "fjyihan",
+    "content": "[Issue] Browser automation skill\n\nHow to obtain files such as tart.js, nav.js, eval.js, screenshot.js, pick.js in the Browser automation skill",
+    "url": "https://github.com/Factory-AI/factory/issues/528",
+    "timestamp": "2025-12-17T02:34:23Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 528
+    }
+  },
+  {
     "id": "github_issue_527",
     "source": "github",
     "author": "kreek",
