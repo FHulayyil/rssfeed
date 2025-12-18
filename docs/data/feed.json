@@ -15413,7 +15413,7 @@
       "labels": [],
       "number": 480
     },
-    "category": "question"
+    "category": "bug"
   },
   {
     "id": "github_issue_480",
@@ -15426,7 +15426,8 @@
       "type": "issue",
       "labels": [],
       "number": 480
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_1996478813187023142",
