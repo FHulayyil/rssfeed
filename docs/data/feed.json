@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_538",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Sane newline, please!\n\nthe whole thing about having to do `\\+ENTER` is awkward. Gemini has natural newline with `SHIFT+ENTER` as any other chat-like interface. So be even better the option to choose if `ENTER` as newline per default would be amazing as I would rather have to actively send the message by pressing `SHIFT+ENTER` than accidentally pollute the chat by having to press cancel all the time 🥲 ",
+    "url": "https://github.com/Factory-AI/factory/issues/538",
+    "timestamp": "2025-12-19T06:58:23Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 538
+    }
+  },
+  {
     "id": "github_issue_537",
     "source": "github",
     "author": "EurFelux",
