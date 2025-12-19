@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2001815426272235580",
+    "source": "twitter",
+    "author": "ragasagar",
+    "content": "@9YNbrwl1LRwONbs @FactoryAI Yes! You can use custom droids (sub agents) with different models in their configss",
+    "url": "https://x.com/ragasagar/status/2001815426272235580",
+    "timestamp": "2025-12-19T00:42:44.000Z",
+    "metadata": {
+      "conversation_id": "2001815426272235580",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001813983402299530",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@NoBanksNearby @FactoryAI Let me know what you think!",
+    "url": "https://x.com/matanSF/status/2001813983402299530",
+    "timestamp": "2025-12-19T00:37:00.000Z",
+    "metadata": {
+      "conversation_id": "2001813983402299530",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001813751029465583",
+    "source": "twitter",
+    "author": "9YNbrwl1LRwONbs",
+    "content": "@FactoryAI Does Droid support multi-model collaboration now? For example, GPT5.2, opus4.5, and Gemini3 pro",
+    "url": "https://x.com/9YNbrwl1LRwONbs/status/2001813751029465583",
+    "timestamp": "2025-12-19T00:36:04.000Z",
+    "metadata": {
+      "conversation_id": "2001813751029465583",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001813332949635360",
+    "source": "twitter",
+    "author": "NoBanksNearby",
+    "content": "@FactoryAI \"highest-performing agent for full-stack NextJS development\" is a bold claim. curious about the migration tests, Pages Router to App Router is a beast. 🔥",
+    "url": "https://x.com/NoBanksNearby/status/2001813332949635360",
+    "timestamp": "2025-12-19T00:34:25.000Z",
+    "metadata": {
+      "conversation_id": "2001813332949635360",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001813130998124868",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "@dpaluy @RepoPrompt @FactoryAI That actually very good idea I was thinking of. To connect droid to repoprompt.",
+    "url": "https://x.com/orange_boy/status/2001813130998124868",
+    "timestamp": "2025-12-19T00:33:36.000Z",
+    "metadata": {
+      "conversation_id": "2001813130998124868",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001801660772028430",
     "source": "twitter",
     "author": "RayFernando1337",
