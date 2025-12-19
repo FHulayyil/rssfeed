@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2001886225431732543",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@matanSF @FactoryAI As it should be.",
+    "url": "https://x.com/JoelDeTeves/status/2001886225431732543",
+    "timestamp": "2025-12-19T05:24:04.000Z",
+    "metadata": {
+      "conversation_id": "2001886225431732543",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001886163297276152",
+    "source": "twitter",
+    "author": "xadisingh",
+    "content": "@beffjezos @FactoryAI agreed",
+    "url": "https://x.com/xadisingh/status/2001886163297276152",
+    "timestamp": "2025-12-19T05:23:49.000Z",
+    "metadata": {
+      "conversation_id": "2001886163297276152",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001884653339447367",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "Did Codex 5.2 hit @FactoryAI Droid yet",
+    "url": "https://x.com/JoelDeTeves/status/2001884653339447367",
+    "timestamp": "2025-12-19T05:17:49.000Z",
+    "metadata": {
+      "conversation_id": "2001884653339447367",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001881319773736978",
     "source": "twitter",
     "author": "GitMaxd",
