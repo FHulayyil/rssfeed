@@ -1,5 +1,155 @@
 [
   {
+    "id": "twitter_2001843972675932234",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@dpaluy @RepoPrompt @FactoryAI @pvncher @agent_wrap 🫡",
+    "url": "https://x.com/erd0xbc/status/2001843972675932234",
+    "timestamp": "2025-12-19T02:36:10.000Z",
+    "metadata": {
+      "conversation_id": "2001843972675932234",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001843024972915000",
+    "source": "twitter",
+    "author": "pvncher",
+    "content": "@dpaluy @RepoPrompt @FactoryAI @erd0xbc @agent_wrap Awesome! Glad it’s working now",
+    "url": "https://x.com/pvncher/status/2001843024972915000",
+    "timestamp": "2025-12-19T02:32:24.000Z",
+    "metadata": {
+      "conversation_id": "2001843024972915000",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001842372263776650",
+    "source": "twitter",
+    "author": "4xiom_",
+    "content": "@beffjezos @FactoryAI Yes. Absolutely.",
+    "url": "https://x.com/4xiom_/status/2001842372263776650",
+    "timestamp": "2025-12-19T02:29:48.000Z",
+    "metadata": {
+      "conversation_id": "2001842372263776650",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001841996290494563",
+    "source": "twitter",
+    "author": "dpaluy",
+    "content": "@RepoPrompt @FactoryAI Update: the issue is resolved by removing the \"type\": \"stdio\"\n\nThanks @erd0xbc for the tip.\n\nFYI @pvncher and @agent_wrap https://t.co/Kdt1PUfhIZ",
+    "url": "https://x.com/dpaluy/status/2001841996290494563",
+    "timestamp": "2025-12-19T02:28:18.000Z",
+    "metadata": {
+      "conversation_id": "2001841996290494563",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001841954552975387",
+    "source": "twitter",
+    "author": "joshdbirdwell",
+    "content": "@FactoryAI The next one said it was too large to enable in factory. https://t.co/h95bcKlju9",
+    "url": "https://x.com/joshdbirdwell/status/2001841954552975387",
+    "timestamp": "2025-12-19T02:28:09.000Z",
+    "metadata": {
+      "conversation_id": "2001841954552975387",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001841452725461216",
+    "source": "twitter",
+    "author": "joshdbirdwell",
+    "content": "@FactoryAI when I try to enable it a gitlab repo it just sits there with no feedback or confirmation. It took about 2 minutes for the repos to load into the list. It finally triggered enabled after a couple minutes. It's way to slow with no indicators.",
+    "url": "https://x.com/joshdbirdwell/status/2001841452725461216",
+    "timestamp": "2025-12-19T02:26:09.000Z",
+    "metadata": {
+      "conversation_id": "2001841452725461216",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001840783838847053",
+    "source": "twitter",
+    "author": "dpaluy",
+    "content": "@agent_wrap @RepoPrompt @FactoryAI It's stuck on connecting... https://t.co/AZNJO46STx",
+    "url": "https://x.com/dpaluy/status/2001840783838847053",
+    "timestamp": "2025-12-19T02:23:29.000Z",
+    "metadata": {
+      "conversation_id": "2001840783838847053",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001840533355020396",
+    "source": "twitter",
+    "author": "JonnyD",
+    "content": "@beffjezos @FactoryAI I love this idea",
+    "url": "https://x.com/JonnyD/status/2001840533355020396",
+    "timestamp": "2025-12-19T02:22:30.000Z",
+    "metadata": {
+      "conversation_id": "2001840533355020396",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001840174645555359",
+    "source": "twitter",
+    "author": "dpaluy",
+    "content": "@agent_wrap @RepoPrompt @FactoryAI This is the alias that was created recently and has not yet been updated in the documentation. \n\nThis exact configuration works correctly in Claude https://t.co/KNfoiJNeOa",
+    "url": "https://x.com/dpaluy/status/2001840174645555359",
+    "timestamp": "2025-12-19T02:21:04.000Z",
+    "metadata": {
+      "conversation_id": "2001840174645555359",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001839684398530609",
+    "source": "twitter",
+    "author": "lamps_apple",
+    "content": "@beffjezos @FactoryAI @shaunmmaguire 👀",
+    "url": "https://x.com/lamps_apple/status/2001839684398530609",
+    "timestamp": "2025-12-19T02:19:07.000Z",
+    "metadata": {
+      "conversation_id": "2001839684398530609",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001830179665252792",
     "source": "twitter",
     "author": "adEvvn",
