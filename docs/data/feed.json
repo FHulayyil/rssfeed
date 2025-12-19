@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2001964052822573150",
+    "source": "twitter",
+    "author": "SevNightingale",
+    "content": "@beffjezos @FactoryAI that could work",
+    "url": "https://x.com/SevNightingale/status/2001964052822573150",
+    "timestamp": "2025-12-19T10:33:19.000Z",
+    "metadata": {
+      "conversation_id": "2001964052822573150",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001963924120588631",
+    "source": "twitter",
+    "author": "ryancarson",
+    "content": "@GitMaxd @OranAITech @AnthropicAI @claudeai @FactoryAI Let me know what you think!",
+    "url": "https://x.com/ryancarson/status/2001963924120588631",
+    "timestamp": "2025-12-19T10:32:48.000Z",
+    "metadata": {
+      "conversation_id": "2001963924120588631",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001962581079294001",
+    "source": "twitter",
+    "author": "lovercry4",
+    "content": "@beffjezos @FactoryAI no pls i dont want Grok forced on me",
+    "url": "https://x.com/lovercry4/status/2001962581079294001",
+    "timestamp": "2025-12-19T10:27:28.000Z",
+    "metadata": {
+      "conversation_id": "2001962581079294001",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2001961287258079353",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "GM\n\nCreate a custom icon for @FactoryAI droid with droid\n\nIt became so easy to do what you want https://t.co/VnGaL1qGg3",
+    "url": "https://x.com/CloudTrader4/status/2001961287258079353",
+    "timestamp": "2025-12-19T10:22:20.000Z",
+    "metadata": {
+      "conversation_id": "2001961287258079353",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001953495453430232",
     "source": "twitter",
     "author": "oliverbowman_",
@@ -60,6 +120,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2001948859824808269",
+    "source": "twitter",
+    "author": "openingai_com",
+    "content": "@beffjezos @FactoryAI Exactly, it would be a great move!",
+    "url": "https://x.com/openingai_com/status/2001948859824808269",
+    "timestamp": "2025-12-19T09:32:57.000Z",
+    "metadata": {
+      "conversation_id": "2001948859824808269",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2001948702626456038",
