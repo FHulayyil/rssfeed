@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2002015441397424606",
+    "source": "twitter",
+    "author": "Enki_En_Ki",
+    "content": "@flomeindl @FactoryAI Interesting, I tend to notice big falloff in complex queries with tables that have 10m+ rows",
+    "url": "https://x.com/Enki_En_Ki/status/2002015441397424606",
+    "timestamp": "2025-12-19T13:57:31.000Z",
+    "metadata": {
+      "conversation_id": "2002015441397424606",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002015243065856506",
+    "source": "twitter",
+    "author": "zzxwill",
+    "content": "@FactoryAI Droid is the best ever coding agent. There is only one minor concern, 90 million tokens can only last three-hour vibe.",
+    "url": "https://x.com/zzxwill/status/2002015243065856506",
+    "timestamp": "2025-12-19T13:56:44.000Z",
+    "metadata": {
+      "conversation_id": "2002015243065856506",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2001998859074203927",
     "source": "twitter",
     "author": "codewithimanshu",
@@ -15256,6 +15286,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1pfpibo",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.32.0 Released\n\n## Bug fixes\n\n* Press ESC to close the expanded tool result view\n* Press ESC to close the expanded tool result view\n* Improved input box cursor up/down movement with wrapped lines\n* Fixed Windows pasting issues\n* Fixed `npm run format` conflict with legacy Windows format command in denylist\n* Fixed auth issues with Microsoft MCP servers\n* `/readiness` command is now enabled by default\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pfpibo/factory_cli_v0320_released/",
+    "timestamp": "2025-12-06T13:37:43.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_issue_490",
