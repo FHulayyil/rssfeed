@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_539",
+    "source": "github",
+    "author": "wooyek",
+    "content": "[Issue] Input Text Not Visible While Typing in Droid Terminal\n\nUser input is not being echoed/displayed in the terminal while typing commands to Droid CLI. The typed characters are invisible, making it difficult to compose messages.\n\nEnvironment Information\n\n```\nComponent         │ Value\n------------------+-----------------------------------\n**Droid Version** │ 0.38.0\n**OS**            │ Kubuntu 24.04.3 LTS (Noble Numbat)\n**Kernel**        │ 6.14.0-37-generic x86_64\n**Desktop**       │ KDE Plasma 5.27.12\n**Shell**         │ fish (/usr/bin/fish)\n**TERM**    ",
+    "url": "https://github.com/Factory-AI/factory/issues/539",
+    "timestamp": "2025-12-19T09:48:15Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 539
+    }
+  },
+  {
     "id": "github_issue_538",
     "source": "github",
     "author": "jakob1379",
