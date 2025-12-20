@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2002179853504950368",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@steipete @FactoryAI Means a lot!",
+    "url": "https://x.com/francesca_lab/status/2002179853504950368",
+    "timestamp": "2025-12-20T00:50:50.000Z",
+    "metadata": {
+      "conversation_id": "2002179853504950368",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002179533957706024",
+    "source": "twitter",
+    "author": "signalgaining",
+    "content": "@EnoReyes @steipete @FactoryAI Yep! It’s still happening!",
+    "url": "https://x.com/signalgaining/status/2002179533957706024",
+    "timestamp": "2025-12-20T00:49:34.000Z",
+    "metadata": {
+      "conversation_id": "2002179533957706024",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002179171062022159",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@steipete @FactoryAI You were a big motivator for giving us the push we needed to publish this work so thank you!",
+    "url": "https://x.com/EnoReyes/status/2002179171062022159",
+    "timestamp": "2025-12-20T00:48:07.000Z",
+    "metadata": {
+      "conversation_id": "2002179171062022159",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002178991780741390",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@signalgaining @steipete @FactoryAI Sorry about this - is this still happening? We’re working on fixing this (botID is quite buggy)",
+    "url": "https://x.com/EnoReyes/status/2002178991780741390",
+    "timestamp": "2025-12-20T00:47:24.000Z",
+    "metadata": {
+      "conversation_id": "2002178991780741390",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002176789469409694",
+    "source": "twitter",
+    "author": "signalgaining",
+    "content": "@steipete @FactoryAI It's virgin Chrome!!",
+    "url": "https://x.com/signalgaining/status/2002176789469409694",
+    "timestamp": "2025-12-20T00:38:39.000Z",
+    "metadata": {
+      "conversation_id": "2002176789469409694",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002175655908172169",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@signalgaining @FactoryAI That must be some custom browser or ad blocker or other extension.",
+    "url": "https://x.com/steipete/status/2002175655908172169",
+    "timestamp": "2025-12-20T00:34:09.000Z",
+    "metadata": {
+      "conversation_id": "2002175655908172169",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002174672063115766",
+    "source": "twitter",
+    "author": "signalgaining",
+    "content": "@steipete @FactoryAI Blah I've never been able to sign up or proceed further in @FactoryAI because of: https://t.co/xub2MFrZch",
+    "url": "https://x.com/signalgaining/status/2002174672063115766",
+    "timestamp": "2025-12-20T00:30:15.000Z",
+    "metadata": {
+      "conversation_id": "2002174672063115766",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002174016388563269",
     "source": "twitter",
     "author": "bytebrujo",
