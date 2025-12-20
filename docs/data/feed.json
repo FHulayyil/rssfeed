@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2002395945351143567",
+    "source": "twitter",
+    "author": "MinChonChiSF",
+    "content": "@steipete @FactoryAI Good to see ChatGPT enabling gifting of subscriptions.",
+    "url": "https://x.com/MinChonChiSF/status/2002395945351143567",
+    "timestamp": "2025-12-20T15:09:30.000Z",
+    "metadata": {
+      "conversation_id": "2002395945351143567",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002395074663968988",
+    "source": "twitter",
+    "author": "MinChonChiSF",
+    "content": "@steipete @FactoryAI Interesting. Compaction seems to be a promising field.",
+    "url": "https://x.com/MinChonChiSF/status/2002395074663968988",
+    "timestamp": "2025-12-20T15:06:03.000Z",
+    "metadata": {
+      "conversation_id": "2002395074663968988",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002393415699608048",
     "source": "twitter",
     "author": "tejaplus",
@@ -94,6 +124,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2002368517283393709",
+    "source": "twitter",
+    "author": "MjYoke1111",
+    "content": "@JackWoth98 Number one, it's super buggy with VS code. Number two, the keyboard shortcut needs remapping option.\n\nSee some of the work done by @FactoryAI 's DROID CLI. It's understands the context and works amazingly.",
+    "url": "https://x.com/MjYoke1111/status/2002368517283393709",
+    "timestamp": "2025-12-20T13:20:31.000Z",
+    "metadata": {
+      "conversation_id": "2002368517283393709",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "github_issue_540",
