@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2002467492757917955",
+    "source": "twitter",
+    "author": "getpochi",
+    "content": "@FactoryAI this matches with what we’ve seen: periodic resummarization tends to drift and drop artifact state, which costs more tokens later. Incremental, on-demand compaction degrades more gracefully, but artifact tracking still feels like the hardest unsolved piece.",
+    "url": "https://x.com/getpochi/status/2002467492757917955",
+    "timestamp": "2025-12-20T19:53:48.000Z",
+    "metadata": {
+      "conversation_id": "2002467492757917955",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002444631213289777",
     "source": "twitter",
     "author": "captaink99",
