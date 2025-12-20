@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2002243614395482133",
+    "source": "twitter",
+    "author": "ChappyHalifax",
+    "content": "@MongoDB @FactoryAI @McKesson @sentra_security @99minutos That’s nice. There’s a disturbing story on LinkedIn that you fired a woman on unpaid leave who was undergoing treatment for serious mental illness. She lost her health coverage and then committed suicide. Care to comment, ghouls?",
+    "url": "https://x.com/ChappyHalifax/status/2002243614395482133",
+    "timestamp": "2025-12-20T05:04:12.000Z",
+    "metadata": {
+      "conversation_id": "2002243614395482133",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002242527320260641",
+    "source": "twitter",
+    "author": "signalgaining",
+    "content": "@vokaysh @steipete @FactoryAI Haven’t tried the phone but definitely tried incognito",
+    "url": "https://x.com/signalgaining/status/2002242527320260641",
+    "timestamp": "2025-12-20T04:59:53.000Z",
+    "metadata": {
+      "conversation_id": "2002242527320260641",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002232720697798953",
     "source": "twitter",
     "author": "nathanclark_",
