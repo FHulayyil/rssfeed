@@ -1,14 +1,14 @@
 # Classification Summary
 
-**Date:** 2025-12-20 00:55 UTC
-**Items Classified:** 7
+**Date:** 2025-12-20 01:35 UTC
+**Items Classified:** 4
 
 ## Category Breakdown
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| mention  | 1 | 14.3% |
-| bug      | 4 | 57.1% |
-| love     | 2 | 28.6% |
-| question | 0 | 0.0% |
+| mention  | 1 | 25.0% |
+| bug      | 2 | 50.0% |
+| love     | 0 | 0.0% |
+| question | 1 | 25.0% |
 | other    | 0 | 0.0% |
