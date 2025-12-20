@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_540",
+    "source": "github",
+    "author": "ravshansbox",
+    "content": "[Issue] Light mode\n\nPlease, implement light mode for code snippets (no dark background)",
+    "url": "https://github.com/Factory-AI/factory/issues/540",
+    "timestamp": "2025-12-20T12:54:58Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 540
+    }
+  },
+  {
     "id": "twitter_2002333237365125605",
     "source": "twitter",
     "author": "robinebers",
