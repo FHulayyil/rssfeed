@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2002704125654675967",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Great write up by @FactoryAI \n\nWhy \"aggressive compression\" in AI agents is not working as expected?\n\n1- You squeeze out 99% of tokens, but if your agent forgets file paths or error logs? It's gotta re-read everything so wasted cycles, not savings.\n2- Factory put 3 methods to the test: \n• OpenAI's black-box squeeze \n• Anthropic's \"scratch & rewrite\" every turn \n• Factory's \"Anchored Iterative\" magic\nFactory crushed it with a 3.70 score. \nWhy? \nKeeps a solid, structured summary that doesn't fuzz up details or nuke history.\n3- Accuracy is the biggest differantiator\nOpenAI: Max compression (99.3%) but fumbles specifics (3.43/5) \nFactory: Holds onto exact file names & function calls (4.04/5)\n4- Secret sauce: Persistent state updates. Your agent remembers why it chose that path 50 turns back. No amnesia or hallicunations.\n\nhttps://t.co/ChYHYvxfaw",
+    "url": "https://x.com/CloudTrader4/status/2002704125654675967",
+    "timestamp": "2025-12-21T11:34:06.000Z",
+    "metadata": {
+      "conversation_id": "2002704125654675967",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002631220438474756",
     "source": "twitter",
     "author": "Kyle_Lee_Korea",
