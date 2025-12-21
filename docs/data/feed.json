@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2002606808230441068",
+    "source": "twitter",
+    "author": "rcx86",
+    "content": "@FactoryAI Based on what I have seen in action, this is right",
+    "url": "https://x.com/rcx86/status/2002606808230441068",
+    "timestamp": "2025-12-21T05:07:24.000Z",
+    "metadata": {
+      "conversation_id": "2002606808230441068",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_541",
     "source": "github",
     "author": "sukakcoding",
