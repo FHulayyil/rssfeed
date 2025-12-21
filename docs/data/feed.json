@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2002828412667453727",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@goutham_808 @MiniMax__AI @FactoryAI Few iterations after the first prompt",
+    "url": "https://x.com/CloudTrader4/status/2002828412667453727",
+    "timestamp": "2025-12-21T19:47:58.000Z",
+    "metadata": {
+      "conversation_id": "2002828412667453727",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002828292198670789",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@adiaddxyz @MiniMax__AI @FactoryAI https://t.co/wPeeRKk9nG",
+    "url": "https://x.com/CloudTrader4/status/2002828292198670789",
+    "timestamp": "2025-12-21T19:47:30.000Z",
+    "metadata": {
+      "conversation_id": "2002828292198670789",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002828168428925051",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@koylanai @MiniMax__AI @FactoryAI Thanks, it really got better with some prompting tweaks and guiding model to thinking in a more specific way",
+    "url": "https://x.com/CloudTrader4/status/2002828168428925051",
+    "timestamp": "2025-12-21T19:47:00.000Z",
+    "metadata": {
+      "conversation_id": "2002828168428925051",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002825216255541685",
     "source": "twitter",
     "author": "farsn_",
