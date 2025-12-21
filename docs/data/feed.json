@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_542",
+    "source": "github",
+    "author": "qq33357486",
+    "content": "[Issue] [BUG] BYOK custom models lack automatic context compression, causing 400 errors\n\n## Bug Description\n\nWhen using custom models via BYOK (Bring Your Own Key), the automatic context compression feature does not work. This causes 400 errors (\"Maximum context length exceeded\") when the conversation exceeds the model's context window limit.\n\n## Expected Behavior\n\n- Automatic context compression should trigger before hitting the model's context limit\n- Or provide a configuration option to set `contextWindow` size for custom models\n\n## Actual Behavior\n\n- No automatic compression occ",
+    "url": "https://github.com/Factory-AI/factory/issues/542",
+    "timestamp": "2025-12-21T15:24:25Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 542
+    }
+  },
+  {
     "id": "twitter_2002729591451054127",
     "source": "twitter",
     "author": "CloudTrader4",
