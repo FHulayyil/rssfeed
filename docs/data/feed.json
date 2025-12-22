@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003137836648718657",
+    "source": "twitter",
+    "author": "erikjfritsch",
+    "content": "I’ve used them all, and continue to do so; here are my opinions:\n\n1) Tough to beat Droid, sub-agent droids are the superpower and I have over 700 of them. I can create huge pipelines via code that call droids for specific purposes at specific times. However it’s tough to do headless when replicating local pipelines up in Render. It consistently “works well” but it’s tough to get Droid to use beads over its internal trash manager (which IS good). \n\n2) Amp is a black box and works well for serial tasks, and I like how one can modify the compression handoff prompt. For one-off singular tasks it’s quite good, but it’s a niche use case, yet always up in a ghostty tab.\n\n3) Claude Code just is; we know it, works. I really like the font-end designer plugin, beats Gemini 3.\n\n4) Codex doesn’t have a place in my setup currently.\n\n5) Antigravity I have open for opencode and just started playing with it directly; no current opinion.\n\n6) OpenCode has become my recent main with the Oh My framework; a very good experience so far. I really like the orchestration of Sisyphus and also like to utilize GPT-5.2 Pro to refactor large codebases as a continual background process, using beads and agent-mail for blocking, though I still don’t feel agent-mail has ever fully lived up to my dreams, but OpenCode seems to utilize beads, bv and agent-mail better than the others.",
+    "url": "https://x.com/erikjfritsch/status/2003137836648718657",
+    "timestamp": "2025-12-22T16:17:31.000Z",
+    "metadata": {
+      "conversation_id": "2003137836648718657",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003136729214276022",
+    "source": "twitter",
+    "author": "youpmelone",
+    "content": "@nummanali @FactoryAI @AmpCode if there was a way to use factory ai with ultra..",
+    "url": "https://x.com/youpmelone/status/2003136729214276022",
+    "timestamp": "2025-12-22T16:13:07.000Z",
+    "metadata": {
+      "conversation_id": "2003136729214276022",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003127155891544448",
     "source": "twitter",
     "author": "karanjagtiani04",
