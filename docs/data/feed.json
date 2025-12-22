@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2003156550039536111",
+    "source": "twitter",
+    "author": "0xhiroki",
+    "content": "@Suhail Try @FactoryAI",
+    "url": "https://x.com/0xhiroki/status/2003156550039536111",
+    "timestamp": "2025-12-22T17:31:53.000Z",
+    "metadata": {
+      "conversation_id": "2003156550039536111",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003156034953838964",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@JudeTejada2 @MiniMax__AI @FactoryAI Minimax models are a little bit laggy in opencode idk why\nI almost always use droid over claude code so I didn't really used it in claude code but in my situation droid almost always have better harness",
+    "url": "https://x.com/CloudTrader4/status/2003156034953838964",
+    "timestamp": "2025-12-22T17:29:50.000Z",
+    "metadata": {
+      "conversation_id": "2003156034953838964",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003155488159203488",
+    "source": "twitter",
+    "author": "JudeTejada2",
+    "content": "@CloudTrader4 @MiniMax__AI @FactoryAI How’s the output on droid compare to claude code, open codd?",
+    "url": "https://x.com/JudeTejada2/status/2003155488159203488",
+    "timestamp": "2025-12-22T17:27:39.000Z",
+    "metadata": {
+      "conversation_id": "2003155488159203488",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003155095312060725",
+    "source": "twitter",
+    "author": "andysingal",
+    "content": "🚨 AI agents have a memory problem.\n\nThe fix? Structured summaries &gt; aggressive compression.\nNew post breaks down why saving tokens can cost you more in re-fetching—and how to keep AI on track. 🧵👇\"**\n@FactoryAI \nhttps://t.co/ZB4DAv5OZX",
+    "url": "https://x.com/andysingal/status/2003155095312060725",
+    "timestamp": "2025-12-22T17:26:06.000Z",
+    "metadata": {
+      "conversation_id": "2003155095312060725",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003153755580018763",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "How to setup @MiniMax__AI in @FactoryAI droid as custom model ⬇️\n\n1- Open up ~/.factory/config.json\n* The base_url should be set based on your location: for international users, use `https://api[.]minimax[.]io/anthropic`\n* Set <MINIMAX_API_KEY> to the API key obtained from the MiniMax Developer Platform\nLike this:\n```\n{\n    \"custom_models\": [\n        {\n            \"model_display_name\": \"MiniMax-M2.1\",\n            \"model\": \"MiniMax-M2.1\",\n            \"base_url\": \"https://api[.]minimax[.]io/anthropic\",\n            \"api_key\": \"<MINIMAX_API_KEY>\",\n            \"provider\": \"anthropic\",\n            \"max_tokens\": 16384\n        }\n    ]\n}\n```\n\n2- Open up droid in your terminal, enter /model, select the “MiniMax-M2.1” model and use it in Droid.",
+    "url": "https://x.com/CloudTrader4/status/2003153755580018763",
+    "timestamp": "2025-12-22T17:20:46.000Z",
+    "metadata": {
+      "conversation_id": "2003153755580018763",
+      "likes": 4,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003151305058234461",
     "source": "twitter",
     "author": "matanSF",
