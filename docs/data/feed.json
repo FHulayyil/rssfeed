@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2002949352596349345",
+    "source": "twitter",
+    "author": "hellofromjames",
+    "content": "@Yampeleg @CloudTrader4 @MiniMax__AI @FactoryAI You don't get the occasional \"Nimbus\"? 🙃",
+    "url": "https://x.com/hellofromjames/status/2002949352596349345",
+    "timestamp": "2025-12-22T03:48:33.000Z",
+    "metadata": {
+      "conversation_id": "2002949352596349345",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2002942160858136770",
+    "source": "twitter",
+    "author": "bokiko",
+    "content": "@pistolx000 @FactoryAI its very impressive ! i am still playing with the free plan ! try it you get double the tokens if you sign with a google account",
+    "url": "https://x.com/bokiko/status/2002942160858136770",
+    "timestamp": "2025-12-22T03:19:58.000Z",
+    "metadata": {
+      "conversation_id": "2002942160858136770",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2002915465111404674",
     "source": "twitter",
     "author": "JohnDotOwl",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2002890480825319920",
+    "source": "twitter",
+    "author": "AlexisVedia",
+    "content": "Un estudio de FactoryAI compara tres métodos de compresión en agentes de IA y encuentra que su método 'Anchored Iterative' supera a los de OpenAI y Anthropic en precisión. https://t.co/oEluXyMLsl",
+    "url": "https://x.com/AlexisVedia/status/2002890480825319920",
+    "timestamp": "2025-12-21T23:54:37.000Z",
+    "metadata": {
+      "conversation_id": "2002890480825319920",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2002874844849852472",
