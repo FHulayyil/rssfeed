@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003197834766717404",
+    "source": "twitter",
+    "author": "nummanali",
+    "content": "@real_SamLiu @FactoryAI @AmpCode Sam you've commented on so many of my posts now - appreciated\n\nI can tell you're using AI, all good, but mix it up a bit and do more than just commentary",
+    "url": "https://x.com/nummanali/status/2003197834766717404",
+    "timestamp": "2025-12-22T20:15:56.000Z",
+    "metadata": {
+      "conversation_id": "2003197834766717404",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003197425302012267",
+    "source": "twitter",
+    "author": "real_SamLiu",
+    "content": "@nummanali @FactoryAI @AmpCode Numman scouting the full agentic SDLC stack for enterprise fintech. Peak autonomy race in delivery pipelines.",
+    "url": "https://x.com/real_SamLiu/status/2003197425302012267",
+    "timestamp": "2025-12-22T20:14:18.000Z",
+    "metadata": {
+      "conversation_id": "2003197425302012267",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003194481588490242",
     "source": "twitter",
     "author": "TheNeuronScribe",
