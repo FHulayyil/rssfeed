@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003116456813498587",
+    "source": "twitter",
+    "author": "farezv",
+    "content": "@nummanali @FactoryAI @AmpCode How will you assess them? Long running tasks or run short/frequent Plan Mode &gt; Code &gt; Test &gt; Deploy cycles ?",
+    "url": "https://x.com/farezv/status/2003116456813498587",
+    "timestamp": "2025-12-22T14:52:34.000Z",
+    "metadata": {
+      "conversation_id": "2003116456813498587",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003116107817800080",
+    "source": "twitter",
+    "author": "farezv",
+    "content": "Plus one on this. Has prevented me from trying it out. I’m pretty deep in Claude Code but Droid is a close second and the best for multi model development. \n\nClaude is my default due to familiarity and better MCP support with linear, subagents, hooks etc. but I know Droid team is closing the gap",
+    "url": "https://x.com/farezv/status/2003116107817800080",
+    "timestamp": "2025-12-22T14:51:10.000Z",
+    "metadata": {
+      "conversation_id": "2003116107817800080",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003107407627694289",
     "source": "twitter",
     "author": "o_mega___",
