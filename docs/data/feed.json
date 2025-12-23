@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003385214144479721",
+    "source": "twitter",
+    "author": "Rex_Btc1",
+    "content": "@yusufg @Zai_org @MiniMax__AI @FactoryAI Open weights are the real win here",
+    "url": "https://x.com/Rex_Btc1/status/2003385214144479721",
+    "timestamp": "2025-12-23T08:40:30.000Z",
+    "metadata": {
+      "conversation_id": "2003385214144479721",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003384733548564842",
+    "source": "twitter",
+    "author": "yusufg",
+    "content": "It's raining models today \nGLM-4.7 from Zhipu @Zai_org \nMinimax-M2.1 from @MiniMax__AI \n\nOpen weights and open source.  Hope Team @FactoryAI gets GLM-4.7 quickly into droid and bonus points if they bring in minimax-m2.1",
+    "url": "https://x.com/yusufg/status/2003384733548564842",
+    "timestamp": "2025-12-23T08:38:36.000Z",
+    "metadata": {
+      "conversation_id": "2003384733548564842",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003382649495470216",
     "source": "twitter",
     "author": "jenslon_",
