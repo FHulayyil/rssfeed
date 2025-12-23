@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2003521930264252683",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@meTheKarthik @FactoryAI :( just a model annoyance! i put 'its 2025' in my https://t.co/UbRwToH5z7 generally now but it is in our system prompt",
+    "url": "https://x.com/bentossell/status/2003521930264252683",
+    "timestamp": "2025-12-23T17:43:46.000Z",
+    "metadata": {
+      "conversation_id": "2003521930264252683",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003521630140764314",
+    "source": "twitter",
+    "author": "meTheKarthik",
+    "content": "@FactoryAI @bentossell",
+    "url": "https://x.com/meTheKarthik/status/2003521630140764314",
+    "timestamp": "2025-12-23T17:42:34.000Z",
+    "metadata": {
+      "conversation_id": "2003521630140764314",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003521434954662126",
+    "source": "twitter",
+    "author": "meTheKarthik",
+    "content": "@FactoryAI why does opus 4.5 think we're in 2024 on Droid when in claude code it knows i'm in 2025\n\nany config/setting to change so claude always gets the latest date and time? https://t.co/PGEFKDavMt",
+    "url": "https://x.com/meTheKarthik/status/2003521434954662126",
+    "timestamp": "2025-12-23T17:41:48.000Z",
+    "metadata": {
+      "conversation_id": "2003521434954662126",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003520004202062302",
     "source": "twitter",
     "author": "CloudTrader4",
