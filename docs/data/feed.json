@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003560878709572088",
+    "source": "twitter",
+    "author": "davidrsdlife",
+    "content": "@AnthropicAI @Zai_org @FactoryAI @GoogleAI Middle was me testing GLM 4.7.",
+    "url": "https://x.com/davidrsdlife/status/2003560878709572088",
+    "timestamp": "2025-12-23T20:18:32.000Z",
+    "metadata": {
+      "conversation_id": "2003560878709572088",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003558199623049443",
+    "source": "twitter",
+    "author": "karanjagtiani04",
+    "content": "@nkgoutham @FactoryAI Interesting take on structure and memory management. The specific sections approach definitely seems like a smart way to prevent loss of context. Curious to see how this evolves in practice. What are the next steps for addressing artifact tracking?",
+    "url": "https://x.com/karanjagtiani04/status/2003558199623049443",
+    "timestamp": "2025-12-23T20:07:53.000Z",
+    "metadata": {
+      "conversation_id": "2003558199623049443",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003552021425918332",
     "source": "twitter",
     "author": "BillCrosby",
