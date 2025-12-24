@@ -156,6 +156,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2003799160450072610",
+    "source": "twitter",
+    "author": "Abhishekdotsol",
+    "content": "1. Factory is simple but powerful:\n\n&gt; Creates Pair contracts\n    Keeps track of all pools\n    Uses CREATE2 → Pair addresses are deterministic\n\n&gt; Factory doesn’t touch liquidity or swaps at all.",
+    "url": "https://x.com/Abhishekdotsol/status/2003799160450072610",
+    "timestamp": "2025-12-24T12:05:23.000Z",
+    "metadata": {
+      "conversation_id": "2003799160450072610",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003798672652554383",
     "source": "twitter",
     "author": "RpxDeveloper",
