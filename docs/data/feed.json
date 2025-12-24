@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2003841105474060409",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "you can’t really go wrong with either @AmpCode or @FactoryAI cli, they’re on par overall.\n\nAmpCode has some genuinely impressive features, like threads, handoff, and builtin subagents such as Oracle, Librarian and so on. Those give it a bit of an edge, and they’re clearly inventing things in their own way, which is really cool.\n\nBut if you’re looking more for a Claude Code vibe, Droid is the one to pick (for me too). Think of it as Claude Code on steroids, lol.",
+    "url": "https://x.com/moinulmoin/status/2003841105474060409",
+    "timestamp": "2025-12-24T14:52:03.000Z",
+    "metadata": {
+      "conversation_id": "2003841105474060409",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003813892783497661",
     "source": "twitter",
     "author": "albfresco",
