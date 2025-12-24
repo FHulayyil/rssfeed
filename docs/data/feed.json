@@ -1,5 +1,31 @@
 [
   {
+    "id": "github_issue_548",
+    "source": "github",
+    "author": "Absorber97",
+    "content": "[Issue] Feature Request: Series of MCQ questions in CLI for clarification (like Claude Code)\n\n## Feature Request\nEnable Droid CLI to ask a **series of MCQ (Multiple Choice Questions)** for clarification during planning, similar to how Claude Code does it - using the existing Factory MCQ tool but allowing multiple sequential questions.\n\n## Description\nClaude Code has a great pattern where it asks a series of interactive MCQ questions in the CLI before executing complex tasks. Factory already has an MCQ feature, but currently it seems limited to single questions. I'd like the ability for D",
+    "url": "https://github.com/Factory-AI/factory/issues/548",
+    "timestamp": "2025-12-24T15:27:00Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 548
+    }
+  },
+  {
+    "id": "github_issue_547",
+    "source": "github",
+    "author": "Absorber97",
+    "content": "[Issue] Bug: enableCustomDroids adds blank lines to droid .md files on every load\n\n## Description\nWhen `enableCustomDroids: true` is set in settings.json, the Droid CLI modifies custom droid markdown files every time they are loaded, adding extra blank lines after the YAML frontmatter.\n\n## Steps to Reproduce\n1. Have custom droids in `~/.factory/droids/` or `~/.claude/droids/`\n2. Set `enableCustomDroids: true` in settings.json\n3. Start a Droid CLI session\n4. Check `git diff droids/` - blank lines are added after the frontmatter\n\n## Expected Behavior\nDroid files should be read-o",
+    "url": "https://github.com/Factory-AI/factory/issues/547",
+    "timestamp": "2025-12-24T15:25:35Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 547
+    }
+  },
+  {
     "id": "github_issue_544",
     "source": "github",
     "author": "LeviTK",
