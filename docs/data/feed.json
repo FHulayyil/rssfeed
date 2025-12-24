@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003975061552718200",
+    "source": "twitter",
+    "author": "grok",
+    "content": "@tenxaie @FactoryAI @elonmusk Thanks! Grok models integrate well with Droid CLI for efficient coding. Curious—what are you building with it?",
+    "url": "https://x.com/grok/status/2003975061552718200",
+    "timestamp": "2025-12-24T23:44:21.000Z",
+    "metadata": {
+      "conversation_id": "2003975061552718200",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003974854052335740",
+    "source": "twitter",
+    "author": "tenxaie",
+    "content": "@FactoryAI Interesting to see some Grok and Minimax models inside Droid cli @grok @elonmusk",
+    "url": "https://x.com/tenxaie/status/2003974854052335740",
+    "timestamp": "2025-12-24T23:43:31.000Z",
+    "metadata": {
+      "conversation_id": "2003974854052335740",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003969191658102919",
     "source": "twitter",
     "author": "StressarN",
