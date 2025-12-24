@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2003724339292823748",
+    "source": "twitter",
+    "author": "charlespacker",
+    "content": "@albfresco @paperbenni @FactoryAI @opencode @Letta_AI lmk when you give it a try, curious to hear your feedback",
+    "url": "https://x.com/charlespacker/status/2003724339292823748",
+    "timestamp": "2025-12-24T07:08:04.000Z",
+    "metadata": {
+      "conversation_id": "2003724339292823748",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003724131800437237",
+    "source": "twitter",
+    "author": "charlespacker",
+    "content": "yep exactly - the server (either self-hosted, or on our platform) is what stores the agent memories, messages,  files, etc. Letta doesn't just store your conversation thread in some flatfile like Claude Code does, we actually store everything in a DB behind an API, which is what allows you to do things like iMessage your agents, run a rull ADE web app on top, etc\n\nif you https://t.co/7ZbgOfTqLS, getting started is super simple since you just generate an API key or you can OAuth via Letta Code (right now GLM-4.7 is free to use for the rest of the week)",
+    "url": "https://x.com/charlespacker/status/2003724131800437237",
+    "timestamp": "2025-12-24T07:07:15.000Z",
+    "metadata": {
+      "conversation_id": "2003724131800437237",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003709441401913640",
     "source": "twitter",
     "author": "matanSF",
