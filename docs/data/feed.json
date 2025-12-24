@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2003661177445085280",
+    "source": "twitter",
+    "author": "towrywang",
+    "content": "@FactoryAI @bentossell",
+    "url": "https://x.com/towrywang/status/2003661177445085280",
+    "timestamp": "2025-12-24T02:57:05.000Z",
+    "metadata": {
+      "conversation_id": "2003661177445085280",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003660116709826965",
+    "source": "twitter",
+    "author": "Auinout",
+    "content": "@KirkMarple @trq212 @FactoryAI Yeah. I thought this was overblown until CC in VScode forgot how to exit grep and glob then broke NPM.",
+    "url": "https://x.com/Auinout/status/2003660116709826965",
+    "timestamp": "2025-12-24T02:52:52.000Z",
+    "metadata": {
+      "conversation_id": "2003660116709826965",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003660008496726045",
+    "source": "twitter",
+    "author": "towrywang",
+    "content": "@FactoryAI exit when config hooks to false https://t.co/6sTbTJfvqN",
+    "url": "https://x.com/towrywang/status/2003660008496726045",
+    "timestamp": "2025-12-24T02:52:26.000Z",
+    "metadata": {
+      "conversation_id": "2003660008496726045",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003658094044459070",
+    "source": "twitter",
+    "author": "albfresco",
+    "content": "@paperbenni @FactoryAI @opencode @Letta_AI oh i guess maybe if you have a pro plan you can bring your own? iono\nhttps://t.co/ZGRp4qxsxD",
+    "url": "https://x.com/albfresco/status/2003658094044459070",
+    "timestamp": "2025-12-24T02:44:50.000Z",
+    "metadata": {
+      "conversation_id": "2003658094044459070",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2003656594807218551",
+    "source": "twitter",
+    "author": "paperbenni",
+    "content": "@albfresco @FactoryAI @opencode @Letta_AI Is letta BYOK? It seems very dependent on their hosted service, can I self host that? @letta_ai",
+    "url": "https://x.com/paperbenni/status/2003656594807218551",
+    "timestamp": "2025-12-24T02:38:52.000Z",
+    "metadata": {
+      "conversation_id": "2003656594807218551",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2003649557184532901",
     "source": "twitter",
     "author": "yimengong",
