@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2004027608120676649",
+    "source": "twitter",
+    "author": "jqlive",
+    "content": "@CloudTrader4 @MiniMax__AI @FactoryAI @SkylerMiao7 how did you get droid to work with Minimax 2.1? coding plan api key or regular api key? i cannot get the coding plan api key to work... is there a trick to it?",
+    "url": "https://x.com/jqlive/status/2004027608120676649",
+    "timestamp": "2025-12-25T03:13:09.000Z",
+    "metadata": {
+      "conversation_id": "2004027608120676649",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004017238408622469",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@contxtkng @FactoryAI @matanSF https://t.co/siWiQ3nsnA",
+    "url": "https://x.com/TheEcomNomad/status/2004017238408622469",
+    "timestamp": "2025-12-25T02:31:57.000Z",
+    "metadata": {
+      "conversation_id": "2004017238408622469",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004017153377263726",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@JohnDotOwl @FactoryAI Haha yes sir!",
+    "url": "https://x.com/TheEcomNomad/status/2004017153377263726",
+    "timestamp": "2025-12-25T02:31:36.000Z",
+    "metadata": {
+      "conversation_id": "2004017153377263726",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004015844326809840",
     "source": "twitter",
     "author": "JohnDotOwl",
