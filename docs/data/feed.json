@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_550",
+    "source": "github",
+    "author": "ajdiyassin",
+    "content": "[Issue] Agent Skills\n\nWhy is Factory not on this list? Does it mean Factory uses its own format for skills, and I can't reuse skills from Claude in Factory?\n\n[agentskills](https://agentskills.io/home)\n\n<img width=\"440\" height=\"651\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/361615b4-0342-440d-890a-5074bcdc7459\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/550",
+    "timestamp": "2025-12-25T13:00:24Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 550
+    }
+  },
+  {
     "id": "github_issue_548",
     "source": "github",
     "author": "Absorber97",
