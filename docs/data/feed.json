@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2004671711674085660",
+    "source": "twitter",
+    "author": "KotarCreative",
+    "content": "@nest_elf @FactoryAI Skill issue.",
+    "url": "https://x.com/KotarCreative/status/2004671711674085660",
+    "timestamp": "2025-12-26T21:52:35.000Z",
+    "metadata": {
+      "conversation_id": "2004671711674085660",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004671581436645432",
+    "source": "twitter",
+    "author": "BVeiseh",
+    "content": "@FactoryAI your onboarding on mobile is broken. I cant hit continue on this form after setting up my repos, page wont scroll https://t.co/HAX9L5bfXm",
+    "url": "https://x.com/BVeiseh/status/2004671581436645432",
+    "timestamp": "2025-12-26T21:52:04.000Z",
+    "metadata": {
+      "conversation_id": "2004671581436645432",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004671345905578051",
+    "source": "twitter",
+    "author": "chuksy0x01",
+    "content": "@samuelekpe @GoogleDeepMind @Trae_ai @FactoryAI @AnthropicAI @OpenAI Also, given the \"infinite\" context, the pope model on occasions have dropped the entire debate responses and synthesized entirely something new. That was amazing to see, exactly what I was trying to solve!",
+    "url": "https://x.com/chuksy0x01/status/2004671345905578051",
+    "timestamp": "2025-12-26T21:51:08.000Z",
+    "metadata": {
+      "conversation_id": "2004671345905578051",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004670759248245158",
+    "source": "twitter",
+    "author": "chuksy0x01",
+    "content": "@samuelekpe @GoogleDeepMind @Trae_ai @FactoryAI @AnthropicAI @OpenAI Great feedback. This is v1, more to come. To answer your questions specifically, \n1 - CLI will be greatly improved. \n2 - Consensus != \"correct\". The pope model actually does the weighting, and intelligently picks the right aspects from the debates and synthesizes",
+    "url": "https://x.com/chuksy0x01/status/2004670759248245158",
+    "timestamp": "2025-12-26T21:48:48.000Z",
+    "metadata": {
+      "conversation_id": "2004670759248245158",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004660409723490634",
     "source": "twitter",
     "author": "code_bucks",
