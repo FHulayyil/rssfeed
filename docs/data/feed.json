@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2004352846175813765",
+    "source": "twitter",
+    "author": "flow_intent",
+    "content": "@moinulmoin @marovole @AmpCode @FactoryAI Yeah I got all these python files in my typescript repo. Weird shit. Sometimes OpenCode just doesn't work for me and I'm on their zen plan. I don't think Kimi K2 has ever worked, Anthropic works well but all the other models not so good. I'm keen to try the new GLM though.",
+    "url": "https://x.com/flow_intent/status/2004352846175813765",
+    "timestamp": "2025-12-26T00:45:32.000Z",
+    "metadata": {
+      "conversation_id": "2004352846175813765",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004322818918617325",
     "source": "twitter",
     "author": "tinkerersanky",
