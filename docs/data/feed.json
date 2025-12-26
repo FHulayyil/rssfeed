@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004480928098500830",
+    "source": "twitter",
+    "author": "anshnanda",
+    "content": "@Hamzaa_i @FactoryAI Interesting — what kind of code are you writing?",
+    "url": "https://x.com/anshnanda/status/2004480928098500830",
+    "timestamp": "2025-12-26T09:14:29.000Z",
+    "metadata": {
+      "conversation_id": "2004480928098500830",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004480675773128941",
+    "source": "twitter",
+    "author": "Hamzaa_i",
+    "content": "No I’ve actually been having a great time using glm 4.7 with droid @FactoryAI should give me some free credits for mentioning them every chance I get lol droid is great at context mangment makes coding with a model like 4.7 worthwhile and it’s cheap af \n\nNgl it’s not better than opus but it’s comparable and in some cases better than sonnet 4.5 imo and for a open source model that’s huge",
+    "url": "https://x.com/Hamzaa_i/status/2004480675773128941",
+    "timestamp": "2025-12-26T09:13:29.000Z",
+    "metadata": {
+      "conversation_id": "2004480675773128941",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004469522049519805",
     "source": "twitter",
     "author": "tinkerersanky",
