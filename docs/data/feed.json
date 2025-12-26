@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_2004372306840474081",
+    "source": "twitter",
+    "author": "tahini",
+    "content": "Oooo @FactoryAI can we has plz",
+    "url": "https://x.com/tahini/status/2004372306840474081",
+    "timestamp": "2025-12-26T02:02:52.000Z",
+    "metadata": {
+      "conversation_id": "2004372306840474081",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_551",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Support Agent Client Protocol (ACP)\n\nhttps://agentclientprotocol.com/overview/introduction",
+    "url": "https://github.com/Factory-AI/factory/issues/551",
+    "timestamp": "2025-12-26T01:53:09Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 551
+    }
+  },
+  {
     "id": "twitter_2004357286987550918",
     "source": "twitter",
     "author": "Jowanza",
