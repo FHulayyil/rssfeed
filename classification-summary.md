@@ -1,6 +1,6 @@
 # Classification Summary
 
-**Date:** 2025-12-26 15:55 UTC
+**Date:** 2025-12-26 16:13 UTC
 
 **New items classified:** 2
 
@@ -10,6 +10,6 @@
 |----------|-------|------------|
 | mention  | 0     | 0%         |
 | bug      | 0     | 0%         |
-| love     | 2     | 100%       |
-| question | 0     | 0%         |
+| love     | 1     | 50%        |
+| question | 1     | 50%        |
 | other    | 0     | 0%         |
