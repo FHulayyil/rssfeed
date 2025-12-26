@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2004394206551593265",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "use @FactoryAI droid. they have the best agent harness and its 80% + cheaper then opencode",
+    "url": "https://x.com/nest_elf/status/2004394206551593265",
+    "timestamp": "2025-12-26T03:29:53.000Z",
+    "metadata": {
+      "conversation_id": "2004394206551593265",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004392337032839227",
+    "source": "twitter",
+    "author": "shikhargupta02",
+    "content": "https://t.co/5ETEtfXH3j\n\nContext engineering is going to be a widespread and interesting problem to solve. Love @FactoryAI's blog on this",
+    "url": "https://x.com/shikhargupta02/status/2004392337032839227",
+    "timestamp": "2025-12-26T03:22:27.000Z",
+    "metadata": {
+      "conversation_id": "2004392337032839227",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004391503343624575",
+    "source": "twitter",
+    "author": "flow_intent",
+    "content": "@moinulmoin @marovole @AmpCode @FactoryAI It's working perfectly now with Claude Sonnet 4.5. I think I'm gonna use it again. It's actually using Opus 4.5 in some model, I just realised. That must be why it's going so well.",
+    "url": "https://x.com/flow_intent/status/2004391503343624575",
+    "timestamp": "2025-12-26T03:19:08.000Z",
+    "metadata": {
+      "conversation_id": "2004391503343624575",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004390782757982402",
+    "source": "twitter",
+    "author": "appfab",
+    "content": "@FactoryAI best model i've used!\namazingly at only 0.5x credits.",
+    "url": "https://x.com/appfab/status/2004390782757982402",
+    "timestamp": "2025-12-26T03:16:17.000Z",
+    "metadata": {
+      "conversation_id": "2004390782757982402",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004389416530559015",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@bqrkhn @FactoryAI It's really good, claude code is good too but they banned my account out of no where and won't re-activate or tell me why...",
+    "url": "https://x.com/TheEcomNomad/status/2004389416530559015",
+    "timestamp": "2025-12-26T03:10:51.000Z",
+    "metadata": {
+      "conversation_id": "2004389416530559015",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004384819304915237",
     "source": "twitter",
     "author": "AIFlow_ML",
