@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2004647432383332814",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "@matanSF @kr0der @nest_elf @FactoryAI we know mate",
+    "url": "https://x.com/moinulmoin/status/2004647432383332814",
+    "timestamp": "2025-12-26T20:16:07.000Z",
+    "metadata": {
+      "conversation_id": "2004647432383332814",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004647354172145873",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "@matanSF @nest_elf @FactoryAI opencode has native claude sub integration to use, so you can understand how cheaper it becomes, OP mean zen provider which is one of the providers, should mention that, and also using plugin can be used with other subs without losing the harness.",
+    "url": "https://x.com/moinulmoin/status/2004647354172145873",
+    "timestamp": "2025-12-26T20:15:48.000Z",
+    "metadata": {
+      "conversation_id": "2004647354172145873",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004646899148882322",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@rawkode @nest_elf @FactoryAI woah sorry about that! if you aren't getting a reply just email me direct, [firstname]@ factory[dot]ai",
+    "url": "https://x.com/matanSF/status/2004646899148882322",
+    "timestamp": "2025-12-26T20:13:59.000Z",
+    "metadata": {
+      "conversation_id": "2004646899148882322",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004646642562351538",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@kr0der @moinulmoin @nest_elf @FactoryAI :( i swear this was not a sponsored post",
+    "url": "https://x.com/matanSF/status/2004646642562351538",
+    "timestamp": "2025-12-26T20:12:58.000Z",
+    "metadata": {
+      "conversation_id": "2004646642562351538",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004646445878751465",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@moinulmoin @nest_elf @FactoryAI are you not finding that to be the case?",
+    "url": "https://x.com/matanSF/status/2004646445878751465",
+    "timestamp": "2025-12-26T20:12:11.000Z",
+    "metadata": {
+      "conversation_id": "2004646445878751465",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004641967238775138",
     "source": "twitter",
     "author": "sin4ch",
