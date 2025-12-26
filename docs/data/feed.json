@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_552",
+    "source": "github",
+    "author": "KilimcininKorOglu",
+    "content": "[Issue] append a text to system prompt\n\n\n\nWe can add text to Claude Code's system prompt using the `--append-system-prompt \"some text\"` command.\n\nIs there a similar command in Droid-CLI?\n",
+    "url": "https://github.com/Factory-AI/factory/issues/552",
+    "timestamp": "2025-12-26T07:23:27Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 552
+    }
+  },
+  {
     "id": "github_issue_551",
     "source": "github",
     "author": "a112121788",
