@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004575658094239905",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@SaqlainRazee @FactoryAI Nice! I’m going to give it a shot again, do you see it performing as well as droid or augment?",
+    "url": "https://x.com/TheEcomNomad/status/2004575658094239905",
+    "timestamp": "2025-12-26T15:30:54.000Z",
+    "metadata": {
+      "conversation_id": "2004575658094239905",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004573715670135003",
+    "source": "twitter",
+    "author": "sara_ty4",
+    "content": "@Hamzaa_i @anshnanda @FactoryAI If I want to use GLM Coding Plan (Pro) on Droid, which paid plan should I purchase (both needed?) ? \n\nInterested in rate-limited fixed-quota only, NOT in API pay-per-use.",
+    "url": "https://x.com/sara_ty4/status/2004573715670135003",
+    "timestamp": "2025-12-26T15:23:11.000Z",
+    "metadata": {
+      "conversation_id": "2004573715670135003",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004569420006559994",
     "source": "twitter",
     "author": "tradingnrvn",
