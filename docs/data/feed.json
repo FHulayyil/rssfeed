@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_551",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Support Agent Client Protocol (ACP)\n\nhttps://agentclientprotocol.com/overview/introduction",
+    "url": "https://github.com/Factory-AI/factory/issues/551",
+    "timestamp": "2025-12-26T01:53:09Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 551
+    }
+  },
+  {
     "id": "github_issue_550",
     "source": "github",
     "author": "ajdiyassin",
