@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2004617079056728219",
+    "source": "twitter",
+    "author": "RussWonsley",
+    "content": "@FactoryAI @nest_elf Sold!",
+    "url": "https://x.com/RussWonsley/status/2004617079056728219",
+    "timestamp": "2025-12-26T18:15:30.000Z",
+    "metadata": {
+      "conversation_id": "2004617079056728219",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004606368565920210",
     "source": "twitter",
     "author": "sin4ch",
