@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2004627228685205834",
+    "source": "twitter",
+    "author": "rawkode",
+    "content": "@nest_elf @FactoryAI @FactoryAI droid uses about 30% tokens more than vanilla Claude code and support doesn’t reply when you ask why",
+    "url": "https://x.com/rawkode/status/2004627228685205834",
+    "timestamp": "2025-12-26T18:55:50.000Z",
+    "metadata": {
+      "conversation_id": "2004627228685205834",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004623118611214358",
     "source": "twitter",
     "author": "RaghavKoch19380",
