@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004807198002872740",
+    "source": "twitter",
+    "author": "sweinoid",
+    "content": "@nest_elf @KotarCreative @FactoryAI What country are you from? Youre not a natural American",
+    "url": "https://x.com/sweinoid/status/2004807198002872740",
+    "timestamp": "2025-12-27T06:50:58.000Z",
+    "metadata": {
+      "conversation_id": "2004807198002872740",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004806930922156052",
+    "source": "twitter",
+    "author": "somi_ai",
+    "content": "@alvinsng @FactoryAI The skills + hooks pattern is wild. Once you set up reusable workflows that trigger automatically, the productivity gap between manual prompting and systematic AI usage becomes obvious. The 10X multiplier isn't hype when you're actually using these tools correctly.",
+    "url": "https://x.com/somi_ai/status/2004806930922156052",
+    "timestamp": "2025-12-27T06:49:54.000Z",
+    "metadata": {
+      "conversation_id": "2004806930922156052",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004803840294662229",
     "source": "twitter",
     "author": "fussss4",
