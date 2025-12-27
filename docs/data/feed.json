@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2004887417631764989",
+    "source": "twitter",
+    "author": "yousefrol",
+    "content": "droid is my fav cli, EVER.\n\nI do confess that i use my own API keys for compliance with my company but that login is standing between Droid and becoming the official agent here\n\ncan you guys\n1- make it available completely offline (no login)\n2- make the commands exact as claude code, so when a command is \"claude mcp add XXmcp XXsettings -XXarg\" should be easily understood by droid, it doesn't right now for complex mcp args... thank you... i f***ing love your product guys",
+    "url": "https://x.com/yousefrol/status/2004887417631764989",
+    "timestamp": "2025-12-27T12:09:44.000Z",
+    "metadata": {
+      "conversation_id": "2004887417631764989",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2004868667255951581",
     "source": "twitter",
     "author": "PierrunoYT",
