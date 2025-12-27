@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2004826170190430533",
+    "source": "twitter",
+    "author": "hyprbased",
+    "content": "@alvinsng @FactoryAI That's just a marketing page with no interesting value at all. If you have useful stuff, and want to share, then share it",
+    "url": "https://x.com/hyprbased/status/2004826170190430533",
+    "timestamp": "2025-12-27T08:06:21.000Z",
+    "metadata": {
+      "conversation_id": "2004826170190430533",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2004825406948647186",
+    "source": "twitter",
+    "author": "arman_eker",
+    "content": "@alvinsng @FactoryAI I tried to use your app but it's not working.",
+    "url": "https://x.com/arman_eker/status/2004825406948647186",
+    "timestamp": "2025-12-27T08:03:19.000Z",
+    "metadata": {
+      "conversation_id": "2004825406948647186",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1pwrsra",
     "source": "reddit",
     "author": "ab032tx",
