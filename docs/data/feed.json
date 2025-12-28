@@ -318,6 +318,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2005198051552674014",
+    "source": "twitter",
+    "author": "tinyblue_dev",
+    "content": "@DrStarson @bcherny @FactoryAI @cursor_ai the terminal-first approach is what separates it. cursor is great for file-level work but claude code operating across your entire codebase with full context is a different paradigm. especially when you need coordinated changes across 20+ files.",
+    "url": "https://x.com/tinyblue_dev/status/2005198051552674014",
+    "timestamp": "2025-12-28T08:44:04.000Z",
+    "metadata": {
+      "conversation_id": "2005198051552674014",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005197669279699178",
     "source": "twitter",
     "author": "marovole",
