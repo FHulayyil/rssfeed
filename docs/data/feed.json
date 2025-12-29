@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2005666727540244538",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "@dejavucoder @FactoryAI Yeah agreed with the prompt engineering for ide/agents. Was just curious about whether or not anthropic has been RLing their models directly for CC specifically. I've seen that rumor a lot but doubt it.",
+    "url": "https://x.com/anthonyronning/status/2005666727540244538",
+    "timestamp": "2025-12-29T15:46:25.000Z",
+    "metadata": {
+      "conversation_id": "2005666727540244538",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005665345395364088",
+    "source": "twitter",
+    "author": "dejavucoder",
+    "content": "@anthonyronning @FactoryAI but cursor people had confirmed it\n\nhttps://t.co/zOCthUj0cM",
+    "url": "https://x.com/dejavucoder/status/2005665345395364088",
+    "timestamp": "2025-12-29T15:40:56.000Z",
+    "metadata": {
+      "conversation_id": "2005665345395364088",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005665128260436037",
+    "source": "twitter",
+    "author": "dejavucoder",
+    "content": "@anthonyronning @FactoryAI not confirmed\n\nas i said, you can prompt maxx to specific models, use mix of models so it's possible to outperform",
+    "url": "https://x.com/dejavucoder/status/2005665128260436037",
+    "timestamp": "2025-12-29T15:40:04.000Z",
+    "metadata": {
+      "conversation_id": "2005665128260436037",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2005664701297091000",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "@dejavucoder Has this been confirmed by anthropic at all? CC moves very fast. New Claude releases slow. Skills weren't even created before sonnet 4.5.\n\nCodex models are, but they fine tune and release very quickly.\n\nAlso, evals show that @FactoryAI performs better than CC with claude models.",
+    "url": "https://x.com/anthonyronning/status/2005664701297091000",
+    "timestamp": "2025-12-29T15:38:22.000Z",
+    "metadata": {
+      "conversation_id": "2005664701297091000",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2005562856994226655",
     "source": "twitter",
     "author": "MirAI_Newz",
