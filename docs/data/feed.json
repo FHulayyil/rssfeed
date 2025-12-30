@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2006048128441385357",
+    "source": "twitter",
+    "author": "vtemian",
+    "content": "micode v0.4.0- https://t.co/MfpTNn5gwW -Structured compaction \n\nbased on @FactoryAI https://t.co/1Yx693Aq2a\ndeterministic file tracking + iterative merging beats generic summarization\n\nledger now tracks progress, decisions, and file ops \nauto-clears at 80% context without losing the plot",
+    "url": "https://x.com/vtemian/status/2006048128441385357",
+    "timestamp": "2025-12-30T17:01:59.000Z",
+    "metadata": {
+      "conversation_id": "2006048128441385357",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006040469407486312",
     "source": "twitter",
     "author": "BBleimschein",
