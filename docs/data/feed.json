@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_557",
+    "source": "github",
+    "author": "lifanh",
+    "content": "[Issue] Wrong On Boarding Status Prevent Me From Using Factory Web App\n\nEvery time after I login on the web, I got stuck at the 'Welcome to Factory' page. And the Let's get started led to this 400 error.\n\n<img width=\"1708\" height=\"1002\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/7466da16-ca30-4541-a722-8798c0aced43\" />\n\nHTTP Status Error 400 User has already completed onboarding\nRequest ID: sfo1:sfo1:sfo1::sfo1::ph46j-1767103455184-940e7dc0d6c9\n",
+    "url": "https://github.com/Factory-AI/factory/issues/557",
+    "timestamp": "2025-12-30T14:13:33Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 557
+    }
+  },
+  {
     "id": "twitter_2005927185400344643",
     "source": "twitter",
     "author": "badlogicgames",
