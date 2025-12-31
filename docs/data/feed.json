@@ -1,5 +1,48 @@
 [
   {
+    "id": "github_discussion_558",
+    "source": "github",
+    "author": "mfursov",
+    "content": "[Discussion] A shortcut to switch directly into the Planning mode\n\nI know Shift-Tab switches between modes, but there are a lot of them 5.\r\n\r\nIt would be great if we can switch into the Planning mode directly. Like Alt+P or something similar.",
+    "url": "https://github.com/Factory-AI/factory/discussions/558",
+    "timestamp": "2025-12-31T01:26:07Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 558
+    }
+  },
+  {
+    "id": "twitter_2006171625641893993",
+    "source": "twitter",
+    "author": "rezaul_arif",
+    "content": "@FactoryAI @droid Sorry 😟🫶🏼",
+    "url": "https://x.com/rezaul_arif/status/2006171625641893993",
+    "timestamp": "2025-12-31T01:12:43.000Z",
+    "metadata": {
+      "conversation_id": "2006171625641893993",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006171438223614325",
+    "source": "twitter",
+    "author": "rezaul_arif",
+    "content": "@RoryCrave @droid @FactoryAI I meant, I also use other agents like Claude Code and Open Code",
+    "url": "https://x.com/rezaul_arif/status/2006171438223614325",
+    "timestamp": "2025-12-31T01:11:58.000Z",
+    "metadata": {
+      "conversation_id": "2006171438223614325",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006169425297183053",
     "source": "twitter",
     "author": "alvinsng",
@@ -62,6 +105,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2006152708470820923",
+    "source": "twitter",
+    "author": "rezaul_arif",
+    "content": "179.1M Tokens from Sep-Dec with @droid agent!\n\nWould've broken 2B+ if I wasn't cheating with other agents 🫣 https://t.co/gVzIGHb4HJ",
+    "url": "https://x.com/rezaul_arif/status/2006152708470820923",
+    "timestamp": "2025-12-30T23:57:32.000Z",
+    "metadata": {
+      "conversation_id": "2006152708470820923",
+      "likes": 13,
+      "retweets": 1,
+      "replies": 2,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006152559451418718",
