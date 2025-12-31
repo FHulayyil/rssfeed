@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2006156368563085748",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2006152559451418718",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2006152216386666710",
@@ -272,7 +275,7 @@
     "id": "twitter_2006067068878078286",
     "source": "twitter",
     "author": "Alberto8793",
-    "content": "@iannuttall I’ve been raving about the quality of Gemini Flash in @FactoryAI  droid. Used it to clean up a lot of linter warnings and it did a bang up job!",
+    "content": "@iannuttall I've been raving about the quality of Gemini Flash in @FactoryAI  droid. Used it to clean up a lot of linter warnings and it did a bang up job!",
     "url": "https://x.com/Alberto8793/status/2006067068878078286",
     "timestamp": "2025-12-30T18:17:14.000Z",
     "metadata": {
@@ -288,7 +291,7 @@
     "id": "twitter_2006056125121130517",
     "source": "twitter",
     "author": "samhbarton",
-    "content": "@klarnaseb Benchmarks show you’ll get better results with @FactoryAI’s droid+opus, but you get way more than $200 worth of tokens with the Claude code max plan and it's pretty damn good anyway. \n\nYou can also use your Claude Max plan with Droid, there's some sort of hacky solution out there",
+    "content": "@klarnaseb Benchmarks show you'll get better results with @FactoryAI's droid+opus, but you get way more than $200 worth of tokens with the Claude code max plan and it's pretty damn good anyway. \n\nYou can also use your Claude Max plan with Droid, there's some sort of hacky solution out there",
     "url": "https://x.com/samhbarton/status/2006056125121130517",
     "timestamp": "2025-12-30T17:33:45.000Z",
     "metadata": {
@@ -304,7 +307,7 @@
     "id": "twitter_2006051560594252237",
     "source": "twitter",
     "author": "erd0xbc",
-    "content": "Can @FactoryAI add an experimental setting that just leans into Claude skills and/commands?\n\nI can understand why this shouldn’t be default behavior, but it would be nice to be able to set up once in leverage with multiple agents: Amp CC Droid et al",
+    "content": "Can @FactoryAI add an experimental setting that just leans into Claude skills and/commands?\n\nI can understand why this shouldn't be default behavior, but it would be nice to be able to set up once in leverage with multiple agents: Amp CC Droid et al",
     "url": "https://x.com/erd0xbc/status/2006051560594252237",
     "timestamp": "2025-12-30T17:15:37.000Z",
     "metadata": {
@@ -702,7 +705,7 @@
     "id": "twitter_2005820317415964990",
     "source": "twitter",
     "author": "anthonyronning",
-    "content": "@badlogicgames @FactoryAI I’ve been having a lot of fun with it. Completely erased context anxiety for me.",
+    "content": "@badlogicgames @FactoryAI I've been having a lot of fun with it. Completely erased context anxiety for me.",
     "url": "https://x.com/anthonyronning/status/2005820317415964990",
     "timestamp": "2025-12-30T01:56:44.000Z",
     "metadata": {
