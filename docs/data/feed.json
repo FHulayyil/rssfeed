@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006323836958994713",
+    "source": "twitter",
+    "author": "acabelt",
+    "content": "From testing the Free plan to getting auto-subscribed to the Pro plan.\n\nWeird move, @FactoryAI.",
+    "url": "https://x.com/acabelt/status/2006323836958994713",
+    "timestamp": "2025-12-31T11:17:33.000Z",
+    "metadata": {
+      "conversation_id": "2006323836958994713",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006321009402450010",
+    "source": "twitter",
+    "author": "bryanhusman",
+    "content": "@FactoryAI https://t.co/7FXLAEm1lC",
+    "url": "https://x.com/bryanhusman/status/2006321009402450010",
+    "timestamp": "2025-12-31T11:06:18.000Z",
+    "metadata": {
+      "conversation_id": "2006321009402450010",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006316071385760037",
     "source": "twitter",
     "author": "tak_ltc",
