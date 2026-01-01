@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2006872700455952751",
+    "source": "twitter",
+    "author": "urtryintoohard",
+    "content": "@pipelineabuser @FactoryAI its not really an advantage if everyone can do it...",
+    "url": "https://x.com/urtryintoohard/status/2006872700455952751",
+    "timestamp": "2026-01-01T23:38:32.000Z",
+    "metadata": {
+      "conversation_id": "2006872700455952751",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006871481444348273",
+    "source": "twitter",
+    "author": "AmdakaPa",
+    "content": "@pipelineabuser @FactoryAI It is funny how all those AI vibe coding pages looks EXACTLY the same.",
+    "url": "https://x.com/AmdakaPa/status/2006871481444348273",
+    "timestamp": "2026-01-01T23:33:41.000Z",
+    "metadata": {
+      "conversation_id": "2006871481444348273",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006870360449495457",
     "source": "twitter",
     "author": "pipelineabuser",
