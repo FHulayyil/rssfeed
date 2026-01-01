@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2006563378450542876",
+    "source": "twitter",
+    "author": "sir4K_zen",
+    "content": "@FactoryAI @aiDotEngineer @EnoReyes Totally agree, it’s a whole new level. Finding the right signals is key to making this work effectively",
+    "url": "https://x.com/sir4K_zen/status/2006563378450542876",
+    "timestamp": "2026-01-01T03:09:24.000Z",
+    "metadata": {
+      "conversation_id": "2006563378450542876",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006553655357616404",
+    "source": "twitter",
+    "author": "mhadtk",
+    "content": "@bentossell @FactoryAI 🫡",
+    "url": "https://x.com/mhadtk/status/2006553655357616404",
+    "timestamp": "2026-01-01T02:30:46.000Z",
+    "metadata": {
+      "conversation_id": "2006553655357616404",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006553137323327920",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mhadtk @FactoryAI go for it",
+    "url": "https://x.com/bentossell/status/2006553137323327920",
+    "timestamp": "2026-01-01T02:28:42.000Z",
+    "metadata": {
+      "conversation_id": "2006553137323327920",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006549008907645223",
     "source": "twitter",
     "author": "acabelt",
@@ -48,6 +93,21 @@
     "category": "bug"
   },
   {
+    "id": "twitter_2006540693838377319",
+    "source": "twitter",
+    "author": "mhadtk",
+    "content": "@bentossell @FactoryAI I DM'ed you about hosting a simple Droids event in Vietnam 🇻🇳. \n\nWe hosted Supabase with ~200 applicants..\n\nPlease consider that.",
+    "url": "https://x.com/mhadtk/status/2006540693838377319",
+    "timestamp": "2026-01-01T01:39:15.000Z",
+    "metadata": {
+      "conversation_id": "2006540693838377319",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006540227855487306",
     "source": "twitter",
     "author": "benvargas",
@@ -62,6 +122,21 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2006524586377056511",
+    "source": "twitter",
+    "author": "rcadxwn",
+    "content": "I wanted to learn about @FactoryAI's Droid CLI agent, and I might have vibe-coded a little too hard.\n\nTried it on a medium-sized codebase and asked it to run this command: audit this codebase for security vulnerabilities and create a remediation plan\n\nIt came up with a good plan (attached below), implemented it with minimal errors (they were from Next.js/docker's end, not Droid's)\n\nWhat I liked:\n> Really good at understanding codebase (even with no .MD file)\n> Very good at identifying vague requests, and when I gave it a detailed prompt it hit everything pretty much\n> Plan mode\n> The little sound that the agent makes when it's done fulfilling a request\n\nWhat I did not like: \n> Felt a lot more \"brain-fog\" when compared to Claude Code. I don't know if its because of the UI feeling slightly more cluttered or what.\n> Feels like my tokens are being consumed way too fast? But maybe I haven't used it enough to determine this",
+    "url": "https://x.com/rcadxwn/status/2006524586377056511",
+    "timestamp": "2026-01-01T00:35:15.000Z",
+    "metadata": {
+      "conversation_id": "2006524586377056511",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006502755486281759",
