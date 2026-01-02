@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2007069945646243936",
+    "source": "twitter",
+    "author": "cfpy67",
+    "content": "@pipelineabuser @FactoryAI Currently the #1 most reliable indicator of vibe code https://t.co/uTu3EFnkVw",
+    "url": "https://x.com/cfpy67/status/2007069945646243936",
+    "timestamp": "2026-01-02T12:42:19.000Z",
+    "metadata": {
+      "conversation_id": "2007069945646243936",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007069027718631481",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@bentossell @FactoryAI Do I just set and overage and will it then just cover it by the credit balance?",
+    "url": "https://x.com/bradvangelder/status/2007069027718631481",
+    "timestamp": "2026-01-02T12:38:40.000Z",
+    "metadata": {
+      "conversation_id": "2007069027718631481",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007068577560674690",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@bentossell @FactoryAI ow... but it seems I cannot use those tokens https://t.co/MssfrXILXZ",
+    "url": "https://x.com/bradvangelder/status/2007068577560674690",
+    "timestamp": "2026-01-02T12:36:53.000Z",
+    "metadata": {
+      "conversation_id": "2007068577560674690",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007062072950145090",
     "source": "twitter",
     "author": "bentossell",
