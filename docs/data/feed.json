@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2006954873666023903",
+    "source": "twitter",
+    "author": "sudurairaj",
+    "content": "@iamcienlim @Zai_org @opencode @droid @FactoryAI Appreciate your time.",
+    "url": "https://x.com/sudurairaj/status/2006954873666023903",
+    "timestamp": "2026-01-02T05:05:03.000Z",
+    "metadata": {
+      "conversation_id": "2006954873666023903",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006954549383495702",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@badlogicgames @droid @AmpCode Anything we can learn from this to make Amp’s handoff better?",
+    "url": "https://x.com/sqs/status/2006954549383495702",
+    "timestamp": "2026-01-02T05:03:46.000Z",
+    "metadata": {
+      "conversation_id": "2006954549383495702",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006954397004440001",
+    "source": "twitter",
+    "author": "iamcienlim",
+    "content": "@sudurairaj @Zai_org @opencode @droid hmmn then might need to ask @FactoryAI haha, not so sure what happened sorry",
+    "url": "https://x.com/iamcienlim/status/2006954397004440001",
+    "timestamp": "2026-01-02T05:03:10.000Z",
+    "metadata": {
+      "conversation_id": "2006954397004440001",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006952596385443952",
+    "source": "twitter",
+    "author": "sudurairaj",
+    "content": "@iamcienlim @Zai_org @opencode @droid https://t.co/5QxrbqbQsF",
+    "url": "https://x.com/sudurairaj/status/2006952596385443952",
+    "timestamp": "2026-01-02T04:56:01.000Z",
+    "metadata": {
+      "conversation_id": "2006952596385443952",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006951605934109114",
+    "source": "twitter",
+    "author": "sudurairaj",
+    "content": "@iamcienlim @Zai_org @opencode @droid I deleted the apikey to post here :) same happening with MiniMax2.1 and ZAI",
+    "url": "https://x.com/sudurairaj/status/2006951605934109114",
+    "timestamp": "2026-01-02T04:52:04.000Z",
+    "metadata": {
+      "conversation_id": "2006951605934109114",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006951025362825307",
+    "source": "twitter",
+    "author": "iamcienlim",
+    "content": "@sudurairaj @Zai_org @opencode @droid from the image, assuming u havent paste in your api key. the rest of config same with mine",
+    "url": "https://x.com/iamcienlim/status/2006951025362825307",
+    "timestamp": "2026-01-02T04:49:46.000Z",
+    "metadata": {
+      "conversation_id": "2006951025362825307",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006949895400468562",
     "source": "twitter",
     "author": "ggballas",
@@ -46,6 +136,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2006947892947521928",
+    "source": "twitter",
+    "author": "sudurairaj",
+    "content": "@iamcienlim @Zai_org @opencode @droid With https://t.co/2akX8I170y coding plan in droid, i'm getting this error Error: 400 status code (no body) \n\nhave you something similar? https://t.co/lT8O2OdSvr",
+    "url": "https://x.com/sudurairaj/status/2006947892947521928",
+    "timestamp": "2026-01-02T04:37:19.000Z",
+    "metadata": {
+      "conversation_id": "2006947892947521928",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006946542545228084",
