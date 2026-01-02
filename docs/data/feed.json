@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2006897553305129277",
+    "source": "twitter",
+    "author": "thekitze",
+    "content": "@Klaudioz @FactoryAI factory is not a thing tho",
+    "url": "https://x.com/thekitze/status/2006897553305129277",
+    "timestamp": "2026-01-02T01:17:17.000Z",
+    "metadata": {
+      "conversation_id": "2006897553305129277",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006897195362947371",
+    "source": "twitter",
+    "author": "Klaudioz",
+    "content": "@thekitze There is a @FactoryAI $2k plan",
+    "url": "https://x.com/Klaudioz/status/2006897195362947371",
+    "timestamp": "2026-01-02T01:15:52.000Z",
+    "metadata": {
+      "conversation_id": "2006897195362947371",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006892405430050840",
+    "source": "twitter",
+    "author": "voidmode",
+    "content": "@pipelineabuser @FactoryAI That's great bro, glad you're having fun, here's a methodology that will make your results even better https://t.co/XjUogz9u6D\n\nAlso here's a list of easy to spot and remove AIisms\n\nhttps://t.co/4VmOYKAP2q",
+    "url": "https://x.com/voidmode/status/2006892405430050840",
+    "timestamp": "2026-01-02T00:56:50.000Z",
+    "metadata": {
+      "conversation_id": "2006892405430050840",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006891629454709062",
+    "source": "twitter",
+    "author": "fourthesauri",
+    "content": "@pipelineabuser @FactoryAI Is factory significantly better than Replit?",
+    "url": "https://x.com/fourthesauri/status/2006891629454709062",
+    "timestamp": "2026-01-02T00:53:45.000Z",
+    "metadata": {
+      "conversation_id": "2006891629454709062",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006891022878441668",
+    "source": "twitter",
+    "author": "Chadlgg",
+    "content": "@cloudxdev @Zai_org @FactoryAI Smart to go local. Public whale trackers are already front-run by the time you see them. What latency are you getting on the updates?",
+    "url": "https://x.com/Chadlgg/status/2006891022878441668",
+    "timestamp": "2026-01-02T00:51:20.000Z",
+    "metadata": {
+      "conversation_id": "2006891022878441668",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006889664473366861",
     "source": "twitter",
     "author": "Burgalavo",
