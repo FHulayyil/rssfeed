@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2006920014172140011",
+    "source": "twitter",
+    "author": "hyprbased",
+    "content": "@badlogicgames @droid @AmpCode I love your willingness to steal! It's a great behavior.",
+    "url": "https://x.com/hyprbased/status/2006920014172140011",
+    "timestamp": "2026-01-02T02:46:32.000Z",
+    "metadata": {
+      "conversation_id": "2006920014172140011",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006918426770681912",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@brandon_ai @ssh_sharma135 @Zai_org @droid @augmentcode awesome! I'm fried today, but will look tomorrow.",
+    "url": "https://x.com/steipete/status/2006918426770681912",
+    "timestamp": "2026-01-02T02:40:14.000Z",
+    "metadata": {
+      "conversation_id": "2006918426770681912",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006917408867664364",
+    "source": "twitter",
+    "author": "brandon_ai",
+    "content": "@steipete @ssh_sharma135 @Zai_org @droid @augmentcode in progress! In the mean time I fixed the cursor usage limit. It’s working now and sent PR 🍻 https://t.co/FWnNfuJ7SW",
+    "url": "https://x.com/brandon_ai/status/2006917408867664364",
+    "timestamp": "2026-01-02T02:36:11.000Z",
+    "metadata": {
+      "conversation_id": "2006917408867664364",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006915024074453426",
     "source": "twitter",
     "author": "groas_ai",
@@ -32,6 +77,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2006912488890302815",
+    "source": "twitter",
+    "author": "bleuonbase",
+    "content": "@badlogicgames @droid @AmpCode yuge",
+    "url": "https://x.com/bleuonbase/status/2006912488890302815",
+    "timestamp": "2026-01-02T02:16:38.000Z",
+    "metadata": {
+      "conversation_id": "2006912488890302815",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2006909879403806813",
     "source": "twitter",
     "author": "pipelineabuser",
@@ -62,6 +122,111 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2006904334362001665",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@cubanlinks78 @droid @AmpCode lol",
+    "url": "https://x.com/badlogicgames/status/2006904334362001665",
+    "timestamp": "2026-01-02T01:44:14.000Z",
+    "metadata": {
+      "conversation_id": "2006904334362001665",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006904328943186409",
+    "source": "twitter",
+    "author": "acoyfellow",
+    "content": "@CloudflareDev @sveltejs @opencode\n@claudeai\n@cursor_ai\n@droid\n@OpenAI https://t.co/4RmPZgwmdp",
+    "url": "https://x.com/acoyfellow/status/2006904328943186409",
+    "timestamp": "2026-01-02T01:44:13.000Z",
+    "metadata": {
+      "conversation_id": "2006904328943186409",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006903843536384046",
+    "source": "twitter",
+    "author": "cubanlinks78",
+    "content": "@badlogicgames @droid @AmpCode Listen, when you publish open source software I expect full implementation, no bugs, hand held installation and an exe. Do better",
+    "url": "https://x.com/cubanlinks78/status/2006903843536384046",
+    "timestamp": "2026-01-02T01:42:17.000Z",
+    "metadata": {
+      "conversation_id": "2006903843536384046",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006903597557072264",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@cubanlinks78 @droid @AmpCode Thank you, ai expert, for your expert opinioin. It might have eluded you, that this specific thing sits in a folder called `examples/`.\n\nCarry on carrying on!",
+    "url": "https://x.com/badlogicgames/status/2006903597557072264",
+    "timestamp": "2026-01-02T01:41:18.000Z",
+    "metadata": {
+      "conversation_id": "2006903597557072264",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006903543488458920",
+    "source": "twitter",
+    "author": "hidefromcapital",
+    "content": "@badlogicgames @droid @AmpCode yessssss",
+    "url": "https://x.com/hidefromcapital/status/2006903543488458920",
+    "timestamp": "2026-01-02T01:41:05.000Z",
+    "metadata": {
+      "conversation_id": "2006903543488458920",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006902888748994769",
+    "source": "twitter",
+    "author": "cubanlinks78",
+    "content": "@badlogicgames @droid @AmpCode Surely the prompt could be improved",
+    "url": "https://x.com/cubanlinks78/status/2006902888748994769",
+    "timestamp": "2026-01-02T01:38:29.000Z",
+    "metadata": {
+      "conversation_id": "2006902888748994769",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006901933899133056",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@_colemurray @droid @AmpCode This is an alternative to compaction, not so much an alternative to spec or plan files.",
+    "url": "https://x.com/badlogicgames/status/2006901933899133056",
+    "timestamp": "2026-01-02T01:34:42.000Z",
+    "metadata": {
+      "conversation_id": "2006901933899133056",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006897553305129277",
@@ -158,6 +323,36 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2006887890564034667",
+    "source": "twitter",
+    "author": "_colemurray",
+    "content": "@badlogicgames @droid @AmpCode curious if you've tried writing to file + the \"next prompt\"\n\ni find having the file persistence is useful for re-referencing over a long trajectory",
+    "url": "https://x.com/_colemurray/status/2006887890564034667",
+    "timestamp": "2026-01-02T00:38:53.000Z",
+    "metadata": {
+      "conversation_id": "2006887890564034667",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2006886256848867704",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "After stealing @droid 's structured compaction, I stole @AmpCode 's handoff. But this time as a shoddily vibed hook in 150LOC. pi's hook and custom tool support now let's me (and you) try out things without modifying pi's core quickly, including custom UI.\n\nhttps://t.co/vhgeNmjeQa",
+    "url": "https://x.com/badlogicgames/status/2006886256848867704",
+    "timestamp": "2026-01-02T00:32:24.000Z",
+    "metadata": {
+      "conversation_id": "2006886256848867704",
+      "likes": 42,
+      "retweets": 3,
+      "replies": 5,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2006880407833498032",
