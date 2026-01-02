@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2007115532990898488",
+    "source": "twitter",
+    "author": "mitsuhiko",
+    "content": "@badlogicgames @droid @AmpCode For my own prompt I don't really care, i can use any model I want. But it seems like something that could be useful in general to have as a separate knob",
+    "url": "https://x.com/mitsuhiko/status/2007115532990898488",
+    "timestamp": "2026-01-02T15:43:28.000Z",
+    "metadata": {
+      "conversation_id": "2007115532990898488",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007115325129810156",
+    "source": "twitter",
+    "author": "mitsuhiko",
+    "content": "@badlogicgames @droid @AmpCode Well, let's think of it in a different way: summarize/rephrase etc. is a useful feature. I hate that it opus opus though (even for compaction). What if pi has a \"summarization model\" that can be selected separately for all those uses?",
+    "url": "https://x.com/mitsuhiko/status/2007115325129810156",
+    "timestamp": "2026-01-02T15:42:38.000Z",
+    "metadata": {
+      "conversation_id": "2007115325129810156",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007114900145877375",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "Jupp, it's scoped down to what's available, as in: is there an API key.\n\nYou can also use the lower level getModel() from pi-ai in hooks, and getApiKey from the registry will still work if therr's a key foe the model's provider.\n\nAutomatic \"select cheaper model\" is a maintenance burden I don't want to have. Fork the example hook, have it read a config file wherein you define cheap models, done.",
+    "url": "https://x.com/badlogicgames/status/2007114900145877375",
+    "timestamp": "2026-01-02T15:40:57.000Z",
+    "metadata": {
+      "conversation_id": "2007114900145877375",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007114338847588862",
+    "source": "twitter",
+    "author": "mitsuhiko",
+    "content": "@badlogicgames @droid @AmpCode i mean as a general capability. If someone has a model scope defined there might not be a haiku there.  But I guess the model registry is already scoped down to what's available?",
+    "url": "https://x.com/mitsuhiko/status/2007114338847588862",
+    "timestamp": "2026-01-02T15:38:43.000Z",
+    "metadata": {
+      "conversation_id": "2007114338847588862",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007114135482581232",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@tinscape @droid @AmpCode Because none you read the docs or changelog!",
+    "url": "https://x.com/badlogicgames/status/2007114135482581232",
+    "timestamp": "2026-01-02T15:37:54.000Z",
+    "metadata": {
+      "conversation_id": "2007114135482581232",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007113981698211847",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "@mitsuhiko @droid @AmpCode const model = ctx.modelRegistry.find(\"anthropic\", \"claude-haiku-4-5\")\n\nHave your agent read the docs/ and examples/ folder.",
+    "url": "https://x.com/badlogicgames/status/2007113981698211847",
+    "timestamp": "2026-01-02T15:37:18.000Z",
+    "metadata": {
+      "conversation_id": "2007113981698211847",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007101510048530803",
     "source": "twitter",
     "author": "TraderDXB",
