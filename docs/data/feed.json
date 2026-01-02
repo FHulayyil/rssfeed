@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2007207948339294306",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "I'm good at math watch:\n\n@FactoryAI + @MiniMax__AI M2.1 = unstoppable",
+    "url": "https://x.com/MitchBernstein/status/2007207948339294306",
+    "timestamp": "2026-01-02T21:50:41.000Z",
+    "metadata": {
+      "conversation_id": "2007207948339294306",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007206625367806025",
+    "source": "twitter",
+    "author": "AlexMillerCode",
+    "content": "This is why I'm bullish on @FactoryAI - you've got have those feedback loops!",
+    "url": "https://x.com/AlexMillerCode/status/2007206625367806025",
+    "timestamp": "2026-01-02T21:45:26.000Z",
+    "metadata": {
+      "conversation_id": "2007206625367806025",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007202983595946488",
     "source": "twitter",
     "author": "Esteban_Puerta9",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2007196092119888330",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@FactoryAI @AmpCode Just need to configure @FactoryAI timeouts a bit better",
+    "url": "https://x.com/erd0xbc/status/2007196092119888330",
+    "timestamp": "2026-01-02T21:03:34.000Z",
+    "metadata": {
+      "conversation_id": "2007196092119888330",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2007190898577420434",
