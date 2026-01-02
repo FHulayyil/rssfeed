@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2007101205500285428",
@@ -6673,7 +6674,8 @@
       "type": "issue",
       "labels": [],
       "number": 496
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_495",
