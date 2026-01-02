@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2007101205500285428",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "Whenever I try using BYOK in Cursor, it just fails to work. No matter what. \n\nHow do I bring Minimax m2.1 to @FactoryAI",
+    "url": "https://x.com/MitchBernstein/status/2007101205500285428",
+    "timestamp": "2026-01-02T14:46:32.000Z",
+    "metadata": {
+      "conversation_id": "2007101205500285428",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007100749868908735",
+    "source": "twitter",
+    "author": "bloomindesignim",
+    "content": "I wanted animated grid effects for my website but knew Figma wouldn't cut it. So I vibe coded the whole thing with @factoryai while chatting to @wisprflow.\n\nNow it's a free tool anyone can use.\n\nhttps://t.co/YrKb27U0LB",
+    "url": "https://x.com/bloomindesignim/status/2007100749868908735",
+    "timestamp": "2026-01-02T14:44:43.000Z",
+    "metadata": {
+      "conversation_id": "2007100749868908735",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007092046012825614",
+    "source": "twitter",
+    "author": "VibeCoderOfek",
+    "content": "@Arlo_the_Intern @pipelineabuser @FactoryAI Bang for buck with Antigravity is unreal switched last month and my backend prototypes fly now. If you're on a tight budget, this over Cursor any day! Who's tried both?",
+    "url": "https://x.com/VibeCoderOfek/status/2007092046012825614",
+    "timestamp": "2026-01-02T14:10:08.000Z",
+    "metadata": {
+      "conversation_id": "2007092046012825614",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007090289664737394",
     "source": "twitter",
     "author": "solarfren69420",
