@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2007559208183706092",
+    "source": "twitter",
+    "author": "Carlos_0x",
+    "content": "@droid @bentossell I usually have to esc and tell the agent to continue for it to snap out of it. Some tasks hang twice and I have to cancel and try to resume manually.",
+    "url": "https://x.com/Carlos_0x/status/2007559208183706092",
+    "timestamp": "2026-01-03T21:06:28.000Z",
+    "metadata": {
+      "conversation_id": "2007559208183706092",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007558891996098645",
+    "source": "twitter",
+    "author": "Carlos_0x",
+    "content": "Is it just me or do sessions on @droid locally silently crash and just never return? As soon as I started adding droids and skills it just became unusable.\n\nAny help @bentossell? \n\nI'm also having issues resuming sessions. The cli just refuses to open certain sessions.",
+    "url": "https://x.com/Carlos_0x/status/2007558891996098645",
+    "timestamp": "2026-01-03T21:05:13.000Z",
+    "metadata": {
+      "conversation_id": "2007558891996098645",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007538796108419286",
     "source": "twitter",
     "author": "ethaniel86",
