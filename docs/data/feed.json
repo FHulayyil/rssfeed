@@ -64,6 +64,51 @@
     "category": "love"
   },
   {
+    "id": "twitter_2007520593965453595",
+    "source": "twitter",
+    "author": "zerocaulk",
+    "content": "@leerob There needs to be some sort of invisible FS sync layer. I don’t want to even think about git when I send off cloud agents. Adds mental overhead IMO\n\nLooks like @FactoryAI got this right from the start - too bad Linux isn’t supported (yet :))",
+    "url": "https://x.com/zerocaulk/status/2007520593965453595",
+    "timestamp": "2026-01-03T18:33:02.000Z",
+    "metadata": {
+      "conversation_id": "2007520593965453595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007519907257422295",
+    "source": "twitter",
+    "author": "GauravBhogale",
+    "content": "@EnoReyes @gregisenberg @nkgoutham @startupideaspod @bentossell LOVE @FactoryAI shipping velocity. They’re on 🚀",
+    "url": "https://x.com/GauravBhogale/status/2007519907257422295",
+    "timestamp": "2026-01-03T18:30:18.000Z",
+    "metadata": {
+      "conversation_id": "2007519907257422295",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007512232079642864",
+    "source": "twitter",
+    "author": "robinebers",
+    "content": "cursor is the goat overall and easiest to recommend if budget is not a concern or UX of using cursor gives you an edge\n\nother tools have better value (by a huge margin), and get better every day\n\nvery tool will get you there\n\njust pick one and stop switching\n\nmaster > shiny object",
+    "url": "https://x.com/robinebers/status/2007512232079642864",
+    "timestamp": "2026-01-03T17:59:48.000Z",
+    "metadata": {
+      "conversation_id": "2007512232079642864",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007490116923822195",
     "source": "twitter",
     "author": "jochen1149354",
