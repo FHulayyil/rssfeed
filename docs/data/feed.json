@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2007593840052711715",
+    "source": "twitter",
+    "author": "openwadev",
+    "content": "@FactoryAI how do i set a default repo for the linear integration so that when i @ factory then i dont have to always select a session?",
+    "url": "https://x.com/openwadev/status/2007593840052711715",
+    "timestamp": "2026-01-03T23:24:05.000Z",
+    "metadata": {
+      "conversation_id": "2007593840052711715",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007582709795959287",
     "source": "twitter",
     "author": "OMGitsRomi",
