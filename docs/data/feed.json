@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2007273610898223133",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@dreamworks2050 @FactoryAI yep, dming you",
+    "url": "https://x.com/matanSF/status/2007273610898223133",
+    "timestamp": "2026-01-03T02:11:36.000Z",
+    "metadata": {
+      "conversation_id": "2007273610898223133",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2007268790086840420",
+    "source": "twitter",
+    "author": "omidify",
+    "content": "Totally crushing w/ @FactoryAI Droids + 5.2 + Flash for some pretty sophisticated high-speed, multi-threaded use cases.   Implications staggering. 🚀",
+    "url": "https://x.com/omidify/status/2007268790086840420",
+    "timestamp": "2026-01-03T01:52:27.000Z",
+    "metadata": {
+      "conversation_id": "2007268790086840420",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007260067108995177",
     "source": "twitter",
     "author": "EdgardoRamosOt1",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2007253185615040701",
+    "source": "twitter",
+    "author": "mhadtk",
+    "content": "@MitchBernstein @FactoryAI @MiniMax__AI i will try M2.1",
+    "url": "https://x.com/mhadtk/status/2007253185615040701",
+    "timestamp": "2026-01-03T00:50:27.000Z",
+    "metadata": {
+      "conversation_id": "2007253185615040701",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2007242590727676330",
