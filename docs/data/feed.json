@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2007412363385856061",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "One night with @FactoryAI's Droid CLI and a couple of highly detailed PRD's later:\n\n- Added @intervalsicu integration\n- Users can now do sweat rate tests at home or enter lab test results\n- Users can now link fueling products to specific sport type which will be used in their fueling plans\n\nWe're just getting started 🚀",
+    "url": "https://x.com/bradvangelder/status/2007412363385856061",
+    "timestamp": "2026-01-03T11:22:58.000Z",
+    "metadata": {
+      "conversation_id": "2007412363385856061",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007410870746558784",
     "source": "twitter",
     "author": "searchers_com",
