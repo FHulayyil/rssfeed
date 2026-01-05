@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1q4jahe",
+    "source": "reddit",
+    "author": "Andsss",
+    "content": "Can I use my minmax code plan API in droid?\n\nHello guys I was trying to test droid with my minmax code plan , and use minmax 2.1 in factory. But I couldn't make it work, it looks like it just works with paide as you go API and not my code plan.\n\nIs there a way for me to make this work or this  is a limitation now?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q4jahe/can_i_use_my_minmax_code_plan_api_in_droid/",
+    "timestamp": "2026-01-05T11:28:15.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2008132883723239880",
     "source": "twitter",
     "author": "brendenvonhouse",
