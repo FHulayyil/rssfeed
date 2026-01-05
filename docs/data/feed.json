@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008245143447740862",
+    "source": "twitter",
+    "author": "xlcizor",
+    "content": "Terminal experience is powered by @mitchellh's libGhostty, it is a native and smooth experience. Naturally all current agents are supported out of the box (@claude_code , @openai Codex, @FactoryAI Droid, @AmpCode, @opencode, Gemini CLI, etc).",
+    "url": "https://x.com/xlcizor/status/2008245143447740862",
+    "timestamp": "2026-01-05T18:32:08.000Z",
+    "metadata": {
+      "conversation_id": "2008245143447740862",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008228919070388237",
     "source": "twitter",
     "author": "NirantK",
