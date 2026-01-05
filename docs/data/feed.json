@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2008177699005853806",
+    "source": "twitter",
+    "author": "donvito",
+    "content": "@Mr_CryptoYT @FactoryAI i just use claude code with it now",
+    "url": "https://x.com/donvito/status/2008177699005853806",
+    "timestamp": "2026-01-05T14:04:08.000Z",
+    "metadata": {
+      "conversation_id": "2008177699005853806",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008177327239545002",
+    "source": "twitter",
+    "author": "Mr_CryptoYT",
+    "content": "@donvito @FactoryAI I’ve heard a lot of good things about Droid, so I’d like to give it a try with GLM.\nIf you know any open-source CLI tools like Droid that support using GLM through an API, I’d appreciate the recommendation.",
+    "url": "https://x.com/Mr_CryptoYT/status/2008177327239545002",
+    "timestamp": "2026-01-05T14:02:39.000Z",
+    "metadata": {
+      "conversation_id": "2008177327239545002",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008176740016005292",
+    "source": "twitter",
+    "author": "donvito",
+    "content": "@Mr_CryptoYT @FactoryAI i think you need a sub before you can use a 3rd party model. just use claude code works well",
+    "url": "https://x.com/donvito/status/2008176740016005292",
+    "timestamp": "2026-01-05T14:00:19.000Z",
+    "metadata": {
+      "conversation_id": "2008176740016005292",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008176344354771208",
     "source": "twitter",
     "author": "Mr_CryptoYT",
