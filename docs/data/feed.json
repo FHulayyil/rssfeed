@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2008303565593604546",
+    "source": "twitter",
+    "author": "brendenvonhouse",
+    "content": "@fonsiheruz @FactoryAI ty sir",
+    "url": "https://x.com/brendenvonhouse/status/2008303565593604546",
+    "timestamp": "2026-01-05T22:24:17.000Z",
+    "metadata": {
+      "conversation_id": "2008303565593604546",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008303529325457750",
+    "source": "twitter",
+    "author": "brendenvonhouse",
+    "content": "project 1: local SEO\n\nrebuilt a 647-page roofing website using next.js + notion CMS + vercel.\n\nevery suburb page, service page, and service + suburb page auto-generated, about 660 pages atm, full schema markup. SEO intact.\n\nproject 2: built a multi-agent pipeline for BOFU seo/aeo content:\n\n- research agent scrapes competitor data into notion\n\n- outline generator creates 70+ article briefs per brand\n\n- BOFU agent writes 4-6k word articles with tables, FAQs, schema\n\n- research report agent generates long-form research reports and market analysis content (6000+ words)\n\n- quality agent runs 8-tier QA before anything publishes\n\nnotion as the CMS + factory AI as the mind\n\nwill go live for our clients soon\n\ni think the article generation and regeneration was the main use of the tokens tbh\n\nit took me a few iterations to get the agents working in sync and the articles to a high quality",
+    "url": "https://x.com/brendenvonhouse/status/2008303529325457750",
+    "timestamp": "2026-01-05T22:24:08.000Z",
+    "metadata": {
+      "conversation_id": "2008303529325457750",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008303468017340598",
+    "source": "twitter",
+    "author": "brendenvonhouse",
+    "content": "@AppDashi @FactoryAI new website and content engine for current seo clients so time saving + now i have ai minions working on autopilot for me",
+    "url": "https://x.com/brendenvonhouse/status/2008303468017340598",
+    "timestamp": "2026-01-05T22:23:53.000Z",
+    "metadata": {
+      "conversation_id": "2008303468017340598",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008303207123173706",
+    "source": "twitter",
+    "author": "brendenvonhouse",
+    "content": "@BillCrosby @FactoryAI yeah is it? \n\ni'm new to this so i have no idea i've just been trying things and getting what i'm working on to work properly\n\nit's a lot of content generation so i wonder if that's the main reason? \n\ni'd love to be more efficient but not sure how yet \n\nwill ask factory",
+    "url": "https://x.com/brendenvonhouse/status/2008303207123173706",
+    "timestamp": "2026-01-05T22:22:51.000Z",
+    "metadata": {
+      "conversation_id": "2008303207123173706",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008302841858060690",
+    "source": "twitter",
+    "author": "brendenvonhouse",
+    "content": "project 1: local SEO\n\nrebuilt a 647-page roofing website using next.js + notion CMS + vercel.\n\nevery suburb page, service page, and service + suburb page auto-generated, about 660 pages atm, full schema markup. SEO intact.\n\nproject 2: built a multi-agent pipeline for BOFU seo/aeo content:\n\n- research agent scrapes competitor data into notion\n\n- outline generator creates 70+ article briefs per brand\n\n- BOFU agent writes 4-6k word articles with tables, FAQs, schema\n\n- research report agent generates long-form research reports and market analysis content (6000+ words)\n\n- quality agent runs 8-tier QA before anything publishes\n\n notion as the CMS + factory AI as the mind\n\nwill go live for our clients soon \n\ni think the article generation and regeneration was the main use of the tokens tbh\n\nit took me a few iterations to get the agents working in sync and the articles to a high quality",
+    "url": "https://x.com/brendenvonhouse/status/2008302841858060690",
+    "timestamp": "2026-01-05T22:21:24.000Z",
+    "metadata": {
+      "conversation_id": "2008302841858060690",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008297233008259110",
     "source": "twitter",
     "author": "CreativeFrubser",
