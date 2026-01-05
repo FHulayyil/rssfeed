@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2008112183218209109",
+    "source": "twitter",
+    "author": "KwaiAICoder",
+    "content": "@ICTStudent2023 @ArtificialAnlys @FactoryAI Hi, we have already addressed this issue, you can try again now.",
+    "url": "https://x.com/KwaiAICoder/status/2008112183218209109",
+    "timestamp": "2026-01-05T09:43:48.000Z",
+    "metadata": {
+      "conversation_id": "2008112183218209109",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008105712355094790",
+    "source": "twitter",
+    "author": "electroheadfx",
+    "content": "@donvito this settings make it work too with @FactoryAI Droid CLI",
+    "url": "https://x.com/electroheadfx/status/2008105712355094790",
+    "timestamp": "2026-01-05T09:18:05.000Z",
+    "metadata": {
+      "conversation_id": "2008105712355094790",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008101554306650325",
     "source": "twitter",
     "author": "beffjezos",
@@ -14,6 +44,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2008100519315972590",
+    "source": "twitter",
+    "author": "karthikr3ddy",
+    "content": "@canvardar Factory cli is a good alternative. Check them out @FactoryAI",
+    "url": "https://x.com/karthikr3ddy/status/2008100519315972590",
+    "timestamp": "2026-01-05T08:57:27.000Z",
+    "metadata": {
+      "conversation_id": "2008100519315972590",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008100349887058090",
+    "source": "twitter",
+    "author": "rokobasili",
+    "content": "@matanSF @FactoryAI hehe",
+    "url": "https://x.com/rokobasili/status/2008100349887058090",
+    "timestamp": "2026-01-05T08:56:46.000Z",
+    "metadata": {
+      "conversation_id": "2008100349887058090",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2008082594500382910",
