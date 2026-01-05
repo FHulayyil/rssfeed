@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2008050011007770863",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 4: Update 2\n\nBuild. Play. Build. Solid day.\n\nCleaned up the UI a touch more — tighter spacing, smoother flow.\n\nBig one: Added CSV upload support so it’s not just scorecards anymore. Now handles range/practice session exports too — everything in one journal.  And finally… gave it a proper name and face.\n\nMeet Launch Log ⛳\n\nDark for late-night bays, light for daytime reflection.\n\nHappy how it’s turning out. \n\nFeels like the effortless post-round companion I set out to build.",
+    "url": "https://x.com/iamkevchan/status/2008050011007770863",
+    "timestamp": "2026-01-05T05:36:45.000Z",
+    "metadata": {
+      "conversation_id": "2008050011007770863",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008037050554167671",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@brendenvonhouse @FactoryAI drop the \"i'm non technical.\" it's cleaner",
+    "url": "https://x.com/matanSF/status/2008037050554167671",
+    "timestamp": "2026-01-05T04:45:15.000Z",
+    "metadata": {
+      "conversation_id": "2008037050554167671",
+      "likes": 7,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008022431567679544",
+    "source": "twitter",
+    "author": "brendenvonhouse",
+    "content": "I'm non technical and i've spent the last 5 days blowing through 150M tokens on @FactoryAI \n\nIt's way too much fun building whatever you want just by talking to AI\n\nCan't think of a higher ROI activity rn https://t.co/1crkREI6Fl",
+    "url": "https://x.com/brendenvonhouse/status/2008022431567679544",
+    "timestamp": "2026-01-05T03:47:09.000Z",
+    "metadata": {
+      "conversation_id": "2008022431567679544",
+      "likes": 7,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008012158878257467",
+    "source": "twitter",
+    "author": "iamsanjayofficl",
+    "content": "@canvardar I've used @FactoryAI 's droid and @opencode , loved them both but kinda prefer @opencode slightly better in understanding the entire codebase. No more @ file ' ing anymore if that makes sense. But I went back to Claude code since both of them ate so many tokens.",
+    "url": "https://x.com/iamsanjayofficl/status/2008012158878257467",
+    "timestamp": "2026-01-05T03:06:20.000Z",
+    "metadata": {
+      "conversation_id": "2008012158878257467",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2007985676550386002",
     "source": "twitter",
     "author": "php100",
