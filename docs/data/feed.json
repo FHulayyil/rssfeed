@@ -1,5 +1,63 @@
 [
   {
+    "id": "twitter_2008176344354771208",
+    "source": "twitter",
+    "author": "Mr_CryptoYT",
+    "content": "@donvito @FactoryAI can we use our own GLM subscription on Droid?",
+    "url": "https://x.com/Mr_CryptoYT/status/2008176344354771208",
+    "timestamp": "2026-01-05T13:58:45.000Z",
+    "metadata": {
+      "conversation_id": "2008176344354771208",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_562",
+    "source": "github",
+    "author": "Batiste1998",
+    "content": "[Issue] MCP status indicator shows infinite loading spinner despite server being connected\n\nThe MCP status indicator in the bottom status bar continuously shows a loading spinner (::), even though the MCP server is properly connected and fully functional.\nEnvironment:\n\nDroid CLI version: v0.41.0\nOS: macOS (Apple Silicon M2)\nTerminal: Ghostty\nMCP Server: context7 (@upstash/context7-mcp)\n\nCurrent Behavior:\nThe MCP indicator in the status bar keeps spinning indefinitely, suggesting the connection is still being established or something is loading.\nExpected Behavior:\nThe spinner should sto",
+    "url": "https://github.com/Factory-AI/factory/issues/562",
+    "timestamp": "2026-01-05T13:55:43Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 562
+    }
+  },
+  {
+    "id": "twitter_2008173762970087616",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@canvardar Better options \n@AmpCode ad supported mode to try for free.\n@FactoryAI Droid\n@opencode open source option",
+    "url": "https://x.com/erd0xbc/status/2008173762970087616",
+    "timestamp": "2026-01-05T13:48:29.000Z",
+    "metadata": {
+      "conversation_id": "2008173762970087616",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008171343179620451",
+    "source": "twitter",
+    "author": "vvicharlie",
+    "content": "@marvinvonhagen @_mchenco @interaction @DevinAI can we also have @FactoryAI pweasee",
+    "url": "https://x.com/vvicharlie/status/2008171343179620451",
+    "timestamp": "2026-01-05T13:38:52.000Z",
+    "metadata": {
+      "conversation_id": "2008171343179620451",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008167728880775557",
     "source": "twitter",
     "author": "Mardoshay_",
