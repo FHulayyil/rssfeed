@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008410878438150558",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 5: Update 3\n\nInitial Opus 4.5 output was solid but the UI tweaks felt too functional — not quite magical.\n\nAsked Grok: “What would Steve Jobs think?”\n\nGrok (being polite): “It’s nice, but not insanely great yet.”\n\nWe know the real Steve would've called it a piece of shit.\n\nSwitched FactoryAI over and just said: “Let Claude cook.”\n\n(Shoutout Min Woo Lee ⛳)\n\nResults coming in now — definitely looking cleaner and more consistent.\n\nCheck back tomorrow. Cliffhanger achieved. Bedtime. 🛌",
+    "url": "https://x.com/iamkevchan/status/2008410878438150558",
+    "timestamp": "2026-01-06T05:30:42.000Z",
+    "metadata": {
+      "conversation_id": "2008410878438150558",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008401326531805686",
     "source": "twitter",
     "author": "dreamworks2050",
@@ -10364,6 +10379,19 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_548",
+    "source": "github",
+    "author": "Absorber97",
+    "content": "[Issue] Feature Request: Series of MCQ questions in CLI for clarification (like Claude Code)\n\n## Feature Request\nEnable Droid CLI to ask a **series of MCQ (Multiple Choice Questions)** for clarification during planning, similar to how Claude Code does it - using the existing Factory MCQ tool but allowing multiple sequential questions.\n\n## Description\nClaude Code has a great pattern where it asks a series of interactive MCQ questions in the CLI before executing complex tasks. Factory already has an MCQ feature, but currently it seems limited to single questions. I'd like the ability for D",
+    "url": "https://github.com/Factory-AI/factory/issues/548",
+    "timestamp": "2025-12-24T15:27:00Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 548
+    }
   },
   {
     "id": "reddit_1puk4bq",
