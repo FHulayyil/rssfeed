@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2008622018879500666",
+    "source": "twitter",
+    "author": "Hamzaa_i",
+    "content": "@interjc @FactoryAI something to consider?",
+    "url": "https://x.com/Hamzaa_i/status/2008622018879500666",
+    "timestamp": "2026-01-06T19:29:42.000Z",
+    "metadata": {
+      "conversation_id": "2008622018879500666",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008621791451725910",
+    "source": "twitter",
+    "author": "LoukilMo",
+    "content": "Gemini 3 Flash + @FactoryAI is a poor man's Opus 4.5",
+    "url": "https://x.com/LoukilMo/status/2008621791451725910",
+    "timestamp": "2026-01-06T19:28:48.000Z",
+    "metadata": {
+      "conversation_id": "2008621791451725910",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008610078577049985",
     "source": "twitter",
     "author": "geo_anima",
