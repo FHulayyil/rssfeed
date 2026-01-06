@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008464390371373286",
+    "source": "twitter",
+    "author": "brendenvonhouse",
+    "content": "@hunterhammonds can i only use ralph in claude code or does it work in @droid as well??\n\nwould love to give it a crack but only seen info for claude code",
+    "url": "https://x.com/brendenvonhouse/status/2008464390371373286",
+    "timestamp": "2026-01-06T09:03:20.000Z",
+    "metadata": {
+      "conversation_id": "2008464390371373286",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008461202419257610",
     "source": "twitter",
     "author": "MirAI_Newz",
@@ -46,6 +61,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2008444394156802536",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@munoncode @droid love it",
+    "url": "https://x.com/matanSF/status/2008444394156802536",
+    "timestamp": "2026-01-06T07:43:53.000Z",
+    "metadata": {
+      "conversation_id": "2008444394156802536",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2008438250810319274",
