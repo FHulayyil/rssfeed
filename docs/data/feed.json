@@ -11396,7 +11396,8 @@
       "score": 1,
       "num_comments": 0,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_548",
@@ -11885,7 +11886,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 418
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_discussion_384",
