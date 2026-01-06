@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008551530950254785",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "I'm seeing an issue with Droid Core (GLM4.7) in @droid - the output tokens suddenly stop. Each time, I need to type in \"continue\" for it to continue. \n\nThis doesn't seem to happen with other models as of now.\n\nCC @EnoReyes",
+    "url": "https://x.com/nkgoutham/status/2008551530950254785",
+    "timestamp": "2026-01-06T14:49:36.000Z",
+    "metadata": {
+      "conversation_id": "2008551530950254785",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008544308279079105",
     "source": "twitter",
     "author": "BillCrosby",
@@ -108,6 +123,36 @@
       "number": 565
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2008535238524424699",
+    "source": "twitter",
+    "author": "AonSayyed",
+    "content": "@mhyAfter2022 @SkylerMiao7 @steipete @ssh_sharma135 @Zai_org @droid Thank you so much",
+    "url": "https://x.com/AonSayyed/status/2008535238524424699",
+    "timestamp": "2026-01-06T13:44:52.000Z",
+    "metadata": {
+      "conversation_id": "2008535238524424699",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008535088695570586",
+    "source": "twitter",
+    "author": "mhyAfter2022",
+    "content": "@AonSayyed @SkylerMiao7 @steipete @ssh_sharma135 @Zai_org @droid Just ignores it.\nThe response shows the right usage metrics and I'll fix it later, thank you.",
+    "url": "https://x.com/mhyAfter2022/status/2008535088695570586",
+    "timestamp": "2026-01-06T13:44:16.000Z",
+    "metadata": {
+      "conversation_id": "2008535088695570586",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2008532216364888525",
