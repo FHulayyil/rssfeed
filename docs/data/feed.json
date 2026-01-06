@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_2008537535165911501",
+    "source": "twitter",
+    "author": "RaghavKoch19380",
+    "content": "@ThePrimeagen Another shaman i would like for you to try is @FactoryAI , currently the top performer in benchmarks and which i can personally vouch for.",
+    "url": "https://x.com/RaghavKoch19380/status/2008537535165911501",
+    "timestamp": "2026-01-06T13:53:59.000Z",
+    "metadata": {
+      "conversation_id": "2008537535165911501",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008537336871878904",
+    "source": "twitter",
+    "author": "ichindoo",
+    "content": "@FactoryAI Hello, my account has been blocked, I could not cancel the free trial and I have been billed for the monthly subscription, can you help please?",
+    "url": "https://x.com/ichindoo/status/2008537336871878904",
+    "timestamp": "2026-01-06T13:53:12.000Z",
+    "metadata": {
+      "conversation_id": "2008537336871878904",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_discussion_565",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Discussion] Clear tests, whitepaper or anything showing that droid is secure against modern takeovers\n\nhttps://cybernews.com/security/ai-agents-highly-vulnerable-to-prompt-injection-attacks/\r\n\r\nQuick summary:\r\n> Security researchers warns that AI agents like Anthropic's Claude Code, GitHub Copilot, Google Jules, and Devin (**BASICALLY  ANY FRAMEWORK**) are highly vulnerable to prompt injection attacks, enabling hackers to hijack systems with simple words hidden` in websites, documents, or GitHub repos without malware or user input. Demonstrations at the 39th Chaos Communication Congress showed ag",
+    "url": "https://github.com/Factory-AI/factory/discussions/565",
+    "timestamp": "2026-01-06T13:48:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 565
+    }
+  },
+  {
     "id": "twitter_2008532216364888525",
     "source": "twitter",
     "author": "silvinaescudero",
