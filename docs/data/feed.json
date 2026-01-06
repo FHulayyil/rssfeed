@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008570506446774455",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@droid in CLI or inside Cursor?\n\nI've been reading different takes on this debate. Had Gemini run deep research on the architecture and I've been testing Droid in both CLI and inside of Cursor for the last month. \n\nHere's what I'm leaning towards - it doesn't matter as much as people claim.\n\n@FactoryAI has documentation that mentions Droid maintains the same capabilities regardless of where it runs - same context persistence, same cloud memory, same model access.\n\nWhat actually differs:\n\n- IDEs give you visual diffs, GUI file management, easy to see changes in real-time.\n- CLI has cleaner rendering, explicit context control, no resource contention with IDE features.\n\nBut for instruction understanding and agent capability -  its the same tool (Droid), different wrapper (IDE or CLI).\n\nMy workflow evolution:\nI was scared of CLI and so, I started using Droid inside Cursor's terminal. When I needed to create files or navigate folders, Cursor's UI helped bridge the gap. Made CLI less intimidating.\n\n- Droid for the most important work - brainstorming, architectural decisions, code reviews, debugging\n- Cursor for straightforward, process-driven tasks (unlimited completions on $20 plan work well here)\n- Cursor for cloud agents I spin up overnight\n\nNow I've ditched Cursor entirely. \n\nRunning Droid in native terminal with split screen - CLI on left, project folder on right. Extended monitor for testing.\n\nIf you're starting:\nUse Droid inside Cursor first. You'll naturally pick up basic CLI commands. File paths, directory navigation, terminal workflows become familiar.\n\nEventually you won't need the IDE wrapper. The transition happens organically.\n\nThe point:\nFactory built Droid to work identically across environments. The \"which is better\" debate misses this - pick based on what helps you work, not what sounds more technical.\n\nThe agent capability stays constant. Your comfort with the interface is what shifts.",
+    "url": "https://x.com/nkgoutham/status/2008570506446774455",
+    "timestamp": "2026-01-06T16:05:00.000Z",
+    "metadata": {
+      "conversation_id": "2008570506446774455",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008559757481963644",
     "source": "twitter",
     "author": "bencera_",
