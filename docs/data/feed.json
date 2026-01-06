@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_2008671327373455526",
+    "source": "twitter",
+    "author": "wJ3Hs5c4hKajSnk",
+    "content": "@shaunmmaguire @matanSF @ThePrimeagen @RaghavKoch19380 @FactoryAI Hi Nazi",
+    "url": "https://x.com/wJ3Hs5c4hKajSnk/status/2008671327373455526",
+    "timestamp": "2026-01-06T22:45:38.000Z",
+    "metadata": {
+      "conversation_id": "2008671327373455526",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008664732723716123",
+    "source": "twitter",
+    "author": "0xKrop",
+    "content": "@matanSF @ThePrimeagen @RaghavKoch19380 @FactoryAI That is a game changer.",
+    "url": "https://x.com/0xKrop/status/2008664732723716123",
+    "timestamp": "2026-01-06T22:19:26.000Z",
+    "metadata": {
+      "conversation_id": "2008664732723716123",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008663312091980271",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@ThePrimeagen @RaghavKoch19380 @FactoryAI I’ve launched two production apps with Droid, it is as good as they say",
+    "url": "https://x.com/JoelDeTeves/status/2008663312091980271",
+    "timestamp": "2026-01-06T22:13:47.000Z",
+    "metadata": {
+      "conversation_id": "2008663312091980271",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008661200046064090",
+    "source": "twitter",
+    "author": "jediahkatz",
+    "content": "@maxym3D @cursor_ai @FactoryAI Cool - you should take a look at the details in the blog! I think there's a lot of stuff we're doing that they are not yet :)",
+    "url": "https://x.com/jediahkatz/status/2008661200046064090",
+    "timestamp": "2026-01-06T22:05:23.000Z",
+    "metadata": {
+      "conversation_id": "2008661200046064090",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008660580660638117",
+    "source": "twitter",
+    "author": "maxym3D",
+    "content": "@jediahkatz @cursor_ai Talking about dynamic context management here. I still get to use Windsurf sometimes and noticed it's being managed dynamically there. \n\nThe same with @FactoryAI Droid cli.\n\nGlad it's now available for Cursor, if I understand correctly, and those are comparable implementations.",
+    "url": "https://x.com/maxym3D/status/2008660580660638117",
+    "timestamp": "2026-01-06T22:02:56.000Z",
+    "metadata": {
+      "conversation_id": "2008660580660638117",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008659093607903248",
+    "source": "twitter",
+    "author": "shaunmmaguire",
+    "content": "@matanSF @ThePrimeagen @RaghavKoch19380 @FactoryAI I will match this $1k!",
+    "url": "https://x.com/shaunmmaguire/status/2008659093607903248",
+    "timestamp": "2026-01-06T21:57:01.000Z",
+    "metadata": {
+      "conversation_id": "2008659093607903248",
+      "likes": 9,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008654555119313070",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@ThePrimeagen @RaghavKoch19380 @FactoryAI $1000 to any charity you want that Factory beats opencode or claudecode on a vibe-based gauntlet of your choosing",
+    "url": "https://x.com/matanSF/status/2008654555119313070",
+    "timestamp": "2026-01-06T21:38:59.000Z",
+    "metadata": {
+      "conversation_id": "2008654555119313070",
+      "likes": 23,
+      "retweets": 3,
+      "replies": 2,
+      "quotes": 2
+    }
+  },
+  {
+    "id": "twitter_2008653337735135411",
+    "source": "twitter",
+    "author": "distributoagent",
+    "content": "@ThePrimeagen @RaghavKoch19380 @FactoryAI Apparently factory has some secret sauce in their harness",
+    "url": "https://x.com/distributoagent/status/2008653337735135411",
+    "timestamp": "2026-01-06T21:34:09.000Z",
+    "metadata": {
+      "conversation_id": "2008653337735135411",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008651594989191570",
+    "source": "twitter",
+    "author": "LexnL89916",
+    "content": "@bacaratii @antigravity @geminicli @FactoryAI @fal you're welcome man! lets enjoy this ai building time :D 🙌",
+    "url": "https://x.com/LexnL89916/status/2008651594989191570",
+    "timestamp": "2026-01-06T21:27:13.000Z",
+    "metadata": {
+      "conversation_id": "2008651594989191570",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008648892670505052",
     "source": "twitter",
     "author": "bacaratii",
