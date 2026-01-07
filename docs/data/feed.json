@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2009022937198997969",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@FactoryAI this kind of self-check by a system is kinda wild, not something you see every day. wonder how well it really gets itself.",
+    "url": "https://x.com/BillCrosby/status/2009022937198997969",
+    "timestamp": "2026-01-07T22:02:48.000Z",
+    "metadata": {
+      "conversation_id": "2009022937198997969",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009019801252110842",
+    "source": "twitter",
+    "author": "KalGrinberg",
+    "content": "@creatine_cycle @FactoryAI \"how to center a div\" 😭",
+    "url": "https://x.com/KalGrinberg/status/2009019801252110842",
+    "timestamp": "2026-01-07T21:50:21.000Z",
+    "metadata": {
+      "conversation_id": "2009019801252110842",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009018033625551299",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "This quote from @GergelyOrosz perfectly captures the culture at @FactoryAI:\n\n\"I struggle to foresee startups hiring separate frontend and backend devs: they’ll just hire a specialist whom they trust will use AI to unblock themself across the stack.\"\n\nAll our backend engineers ship frontend code and vice versa. How?\n\n- Unified Language: Full-stack TypeScript removes the language barrier.\n- Simplified React: A robust component library and the React Compiler mean no useMemo or useCallback. Plus, useEffect is banned.\n- Agent-Ready Codebase: Strict type-checking, unit tests, linting, React vitest, Storybook, and Playwright e2e provide automated guardrails.\n- Droid Reviews: Automated final safety checks to catch bugs before they merge.\n\nFinally, the 'top-of-funnel': when prompting Droids, they strictly follow our https://t.co/sp0ojrZgBy to ensure every line of code adheres to our standards.",
+    "url": "https://x.com/alvinsng/status/2009018033625551299",
+    "timestamp": "2026-01-07T21:43:19.000Z",
+    "metadata": {
+      "conversation_id": "2009018033625551299",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009016459767538129",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 7: Update 1\n \nStill deep in process tweaks — chasing that Ralph Wiggum loop everyone's buzzing about on X.\n\nTried leveling up the workflow today:\n1. Built an https://t.co/CwxBbOhSym file with help from our favorite spirit animal LLM (Grok, of course).\n2. Made the https://t.co/CwxBbOhSym focus on turning my rough descriptions into proper user stories I can actually execute.\n3. Fired up a new session in FactoryAI (Spec mode), loaded the https://t.co/CwxBbOhSym, and gave it a test: \"Read in my swing data and provide analysis.\"\n4. Attached the output screenshot — not bad at all. Stuff just... worked.\n\nI might not be doing this the \"optimal\" way yet, but it already feels like a step up from dumping everything straight into the browser.\n\nAnd yeah, 20 degrees face to path is fucking terrible 😅",
+    "url": "https://x.com/iamkevchan/status/2009016459767538129",
+    "timestamp": "2026-01-07T21:37:04.000Z",
+    "metadata": {
+      "conversation_id": "2009016459767538129",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009016123661144529",
+    "source": "twitter",
+    "author": "TokenMuncher",
+    "content": "@FactoryAI @matanSF @EnoReyes guys help running latest version https://t.co/zlAds6vcoR",
+    "url": "https://x.com/TokenMuncher/status/2009016123661144529",
+    "timestamp": "2026-01-07T21:35:44.000Z",
+    "metadata": {
+      "conversation_id": "2009016123661144529",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009015093384917347",
     "source": "twitter",
     "author": "KirkMarple",
