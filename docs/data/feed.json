@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_567",
+    "source": "github",
+    "author": "jvantuyl",
+    "content": "[Issue] readiness report differentiation\n\nThis is a feature request.\n\nReadiness reports are great, but the current criteria are pretty overkill for individual projects.  As it stands, I spent a lot of tokens to get a bunch of suggestions that don't really apply to my situation.\n\nI would suggest having a few flavors of readiness report:\n- personal project\n- student project\n- open-source / community project\n- enterprise product\n- enterprise internal tooling\n\nIn the long run, it might be a good idea to add some discoverability here.  Maybe",
+    "url": "https://github.com/Factory-AI/factory/issues/567",
+    "timestamp": "2026-01-07T06:23:55Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 567
+    }
+  },
+  {
     "id": "github_issue_566",
     "source": "github",
     "author": "a112121788",
