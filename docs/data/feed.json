@@ -16,6 +16,51 @@
     "category": "question"
   },
   {
+    "id": "twitter_2009046676951192029",
+    "source": "twitter",
+    "author": "MiclauMarius",
+    "content": "@alvinsng @GergelyOrosz @FactoryAI This is not going to happen in the next 2-3 years. As long as the start up has money they will hire the right people.",
+    "url": "https://x.com/MiclauMarius/status/2009046676951192029",
+    "timestamp": "2026-01-07T23:37:08.000Z",
+    "metadata": {
+      "conversation_id": "2009046676951192029",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009042085320774075",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "AI greatly reduces the language barrier, but it remains non-zero.\n\nFor startups, every minute saved is precious; speed is our moat, and currently, the opportunity cost is sky-high. By sticking to TypeScript, we avoid the overhead of context-switching and the friction of onboarding a second language.\n\nAdditionally, the JS ecosystem offers the largest collection of packages, saving us valuable engineering hours.",
+    "url": "https://x.com/alvinsng/status/2009042085320774075",
+    "timestamp": "2026-01-07T23:18:53.000Z",
+    "metadata": {
+      "conversation_id": "2009042085320774075",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009041142134841467",
+    "source": "twitter",
+    "author": "TechGringo",
+    "content": "@MitchBernstein @FactoryAI Fair critique. Code works but feels clunky for some workflows. The canvas paradigm still feels like training wheels. What would actually ship faster for you?",
+    "url": "https://x.com/TechGringo/status/2009041142134841467",
+    "timestamp": "2026-01-07T23:15:09.000Z",
+    "metadata": {
+      "conversation_id": "2009041142134841467",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009032190798254362",
     "source": "twitter",
     "author": "SerCeMan",
