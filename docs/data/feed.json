@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009032190798254362",
+    "source": "twitter",
+    "author": "SerCeMan",
+    "content": "@alvinsng @GergelyOrosz @FactoryAI &gt; Full-stack TypeScript removes the language barrier\n\nWas there ever a language barrier though? The difference between the backend &amp; frontend code isn't defined by the language but by the environment in which the language is running.",
+    "url": "https://x.com/SerCeMan/status/2009032190798254362",
+    "timestamp": "2026-01-07T22:39:34.000Z",
+    "metadata": {
+      "conversation_id": "2009032190798254362",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009030218644586948",
     "source": "twitter",
     "author": "TechGringo",
