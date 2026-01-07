@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2008718841673834503",
+    "source": "twitter",
+    "author": "davidtsolheim",
+    "content": "@matanSF @FactoryAI @ThePrimeagen @RaghavKoch19380 Why no @cursor_ai in this challenge?",
+    "url": "https://x.com/davidtsolheim/status/2008718841673834503",
+    "timestamp": "2026-01-07T01:54:26.000Z",
+    "metadata": {
+      "conversation_id": "2008718841673834503",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008713713013178833",
+    "source": "twitter",
+    "author": "TheGreatAxios",
+    "content": "@matanSF @FactoryAI @ThePrimeagen @RaghavKoch19380 Was using Factory extensively with GLM coding plan and it struggled for some reason tool calling and speed wide. \n\nPlan to try again soon but have found CC and OC to just be much faster on the same API keys with similar prompts (as of last week).",
+    "url": "https://x.com/TheGreatAxios/status/2008713713013178833",
+    "timestamp": "2026-01-07T01:34:03.000Z",
+    "metadata": {
+      "conversation_id": "2008713713013178833",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008708248942375327",
     "source": "twitter",
     "author": "nathanclark_",
@@ -16,6 +46,66 @@
     "category": "love"
   },
   {
+    "id": "twitter_2008707753297277377",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "I tried Claude Code today. GROSS. Lemme back into @FactoryAI",
+    "url": "https://x.com/MitchBernstein/status/2008707753297277377",
+    "timestamp": "2026-01-07T01:10:23.000Z",
+    "metadata": {
+      "conversation_id": "2008707753297277377",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008696249705492530",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "The home for 100x engineers\n\nThe best of the best choose @FactoryAI for its power-user features",
+    "url": "https://x.com/alvinsng/status/2008696249705492530",
+    "timestamp": "2026-01-07T00:24:40.000Z",
+    "metadata": {
+      "conversation_id": "2008696249705492530",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008692428853932096",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "@shaunmmaguire @matanSF @ThePrimeagen @RaghavKoch19380 @FactoryAI awesome",
+    "url": "https://x.com/NathanLands/status/2008692428853932096",
+    "timestamp": "2026-01-07T00:09:29.000Z",
+    "metadata": {
+      "conversation_id": "2008692428853932096",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008682930554699776",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "@dillon_mulroy @FactoryAI okay this fixed it for me with claude code! but seems like droid still has this issue and it might not be supported there still.",
+    "url": "https://x.com/anthonyronning/status/2008682930554699776",
+    "timestamp": "2026-01-06T23:31:44.000Z",
+    "metadata": {
+      "conversation_id": "2008682930554699776",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008682029995721137",
     "source": "twitter",
     "author": "gmickel",
@@ -30,6 +120,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2008674069525524983",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "@dillon_mulroy Wait what?! No more \\enter ? I wonder if thats also what is affecting my claude code and @FactoryAI terminal too",
+    "url": "https://x.com/anthonyronning/status/2008674069525524983",
+    "timestamp": "2026-01-06T22:56:32.000Z",
+    "metadata": {
+      "conversation_id": "2008674069525524983",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008671799874334857",
+    "source": "twitter",
+    "author": "1_stovejebs",
+    "content": "@shaunmmaguire @matanSF @ThePrimeagen @RaghavKoch19380 @FactoryAI Oooof",
+    "url": "https://x.com/1_stovejebs/status/2008671799874334857",
+    "timestamp": "2026-01-06T22:47:31.000Z",
+    "metadata": {
+      "conversation_id": "2008671799874334857",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2008671327373455526",
@@ -11416,6 +11536,19 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_550",
+    "source": "github",
+    "author": "ajdiyassin",
+    "content": "[Issue] Agent Skills\n\nWhy is Factory not on this list? Does it mean Factory uses its own format for skills, and I can't reuse skills from Claude in Factory?\n\n[agentskills](https://agentskills.io/home)\n\n<img width=\"440\" height=\"651\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/361615b4-0342-440d-890a-5074bcdc7459\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/550",
+    "timestamp": "2025-12-25T13:00:24Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 550
+    }
   },
   {
     "id": "reddit_1pv8p47",
