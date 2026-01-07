@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_566",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] mcp error\n\nconnect success, tools zero",
+    "url": "https://github.com/Factory-AI/factory/issues/566",
+    "timestamp": "2026-01-07T03:20:49Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 566
+    }
+  },
+  {
     "id": "github_discussion_565",
     "source": "github",
     "author": "jakob1379",
