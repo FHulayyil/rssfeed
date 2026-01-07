@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2008908259822813478",
+    "source": "twitter",
+    "author": "francescoswiss",
+    "content": "@Francesco_Oddo @tembo @FactoryAI @antigravity Thanks, more things to test in the weekend",
+    "url": "https://x.com/francescoswiss/status/2008908259822813478",
+    "timestamp": "2026-01-07T14:27:07.000Z",
+    "metadata": {
+      "conversation_id": "2008908259822813478",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008908024916652125",
+    "source": "twitter",
+    "author": "Francesco_Oddo",
+    "content": "@francescoswiss I would add @tembo and @FactoryAI \n\nFirst is an async agent the other one is a cli\n\nAnd I've been testing @antigravity that is google's cursor competitor 🫡\n\nGood list brother 💜",
+    "url": "https://x.com/Francesco_Oddo/status/2008908024916652125",
+    "timestamp": "2026-01-07T14:26:11.000Z",
+    "metadata": {
+      "conversation_id": "2008908024916652125",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008906097776562212",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@fire @WindsorNguyen @FactoryAI you can check ~/.factory/logs/",
+    "url": "https://x.com/bentossell/status/2008906097776562212",
+    "timestamp": "2026-01-07T14:18:32.000Z",
+    "metadata": {
+      "conversation_id": "2008906097776562212",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008903567017402846",
     "source": "twitter",
     "author": "fire",
