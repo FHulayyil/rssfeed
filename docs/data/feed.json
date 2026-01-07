@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2008914541384499548",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "How can I run Ralph in @FactoryAI ?",
+    "url": "https://x.com/MitchBernstein/status/2008914541384499548",
+    "timestamp": "2026-01-07T14:52:05.000Z",
+    "metadata": {
+      "conversation_id": "2008914541384499548",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008914059027005753",
+    "source": "twitter",
+    "author": "Ryanskickz",
+    "content": "@matanSF @ThePrimeagen @RaghavKoch19380 @FactoryAI Factory is not fabricated!",
+    "url": "https://x.com/Ryanskickz/status/2008914059027005753",
+    "timestamp": "2026-01-07T14:50:10.000Z",
+    "metadata": {
+      "conversation_id": "2008914059027005753",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008911074410561871",
+    "source": "twitter",
+    "author": "Francesco_Oddo",
+    "content": "@francescoswiss @tembo @FactoryAI @antigravity 💜",
+    "url": "https://x.com/Francesco_Oddo/status/2008911074410561871",
+    "timestamp": "2026-01-07T14:38:18.000Z",
+    "metadata": {
+      "conversation_id": "2008911074410561871",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008908259822813478",
     "source": "twitter",
     "author": "francescoswiss",
