@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008849735474696534",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@WindsorNguyen @FactoryAI Yeah the completions API does work directly - this might be a droid issue? ( @bentossell, this is fairly strange behavior I'm only seeing on dedalus' api, other providers seem to be okay - 5d7cf065-661d-483f-bf43-68e14210e217 ) https://t.co/I4uPZORl6q",
+    "url": "https://x.com/fire/status/2008849735474696534",
+    "timestamp": "2026-01-07T10:34:34.000Z",
+    "metadata": {
+      "conversation_id": "2008849735474696534",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1q6bqbu",
     "source": "reddit",
     "author": "InitiativeNo6089",
@@ -11794,6 +11809,19 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "github_issue_551",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] Support Agent Client Protocol (ACP)\n\nhttps://agentclientprotocol.com/overview/introduction",
+    "url": "https://github.com/Factory-AI/factory/issues/551",
+    "timestamp": "2025-12-26T01:53:09Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 551
+    }
   },
   {
     "id": "github_issue_550",
