@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_569",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] Returning to a previous session in a new directory mounts the droid in the old directory\n\nBug Report ID: 479abeb0-c755-4b9d-a0f5-55156d006149\n\nMy situation:\n 1. I was on my main branch in `Documents/myproject/` using droid-cli, exiting and saving the session-id\n 2. I create a new git worktree next to it on another branch `Documents/myproject_feature_branch/` \n 3. I go to the `Documents/myproject_feature_branch/` and enter droid cli restoring the session using the session-id\n 4. In bash mode I do \n    ```\n     ⏳ Executing command...                                                     ",
+    "url": "https://github.com/Factory-AI/factory/issues/569",
+    "timestamp": "2026-01-07T13:20:01Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 569
+    }
+  },
+  {
     "id": "github_issue_567",
     "source": "github",
     "author": "jvantuyl",
