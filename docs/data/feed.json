@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2008962087171809295",
+    "source": "twitter",
+    "author": "zebanderson",
+    "content": "@matanSF @Waymo @FactoryAI Why wouldn’t you take the train? That’s crazy time / money bud",
+    "url": "https://x.com/zebanderson/status/2008962087171809295",
+    "timestamp": "2026-01-07T18:01:00.000Z",
+    "metadata": {
+      "conversation_id": "2008962087171809295",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008955816158859458",
     "source": "twitter",
     "author": "adunne09",
