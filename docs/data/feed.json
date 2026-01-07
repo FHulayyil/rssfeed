@@ -1,5 +1,63 @@
 [
   {
+    "id": "github_issue_567",
+    "source": "github",
+    "author": "jvantuyl",
+    "content": "[Issue] readiness report differentiation\n\nThis is a feature request.\n\nReadiness reports are great, but the current criteria are pretty overkill for individual projects.  As it stands, I spent a lot of tokens to get a bunch of suggestions that don't really apply to my situation.\n\nI would suggest having a few flavors of readiness report:\n- personal project\n- student project\n- open-source / community project\n- enterprise product\n- enterprise internal tooling\n\nIn the long run, it might be a good idea to add some discoverability here.  Maybe",
+    "url": "https://github.com/Factory-AI/factory/issues/567",
+    "timestamp": "2026-01-07T06:23:55Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 567
+    }
+  },
+  {
+    "id": "twitter_2008782871037673833",
+    "source": "twitter",
+    "author": "WindsorNguyen",
+    "content": "Hi! We're close to feature parity with the Responses API, but it's currently in closed beta. Our apologies!\n\nGive this a try?:\n\ncurl -X POST https://t.co/GjqeSmGWcL -H \"Authorization: Bearer <Dedalus API key here!>\" -H \"Content-Type: application/json\" -d '{\"model\": \"openai/gpt-4o-mini\", \"messages\": [{ \"role\": \"user\", \"content\": \"Hello :)\" }]}'",
+    "url": "https://x.com/WindsorNguyen/status/2008782871037673833",
+    "timestamp": "2026-01-07T06:08:52.000Z",
+    "metadata": {
+      "conversation_id": "2008782871037673833",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008780621452288065",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@dedaluslabs also curiously @FactoryAI droid seems to throw 400s when configured against your chat completions api",
+    "url": "https://x.com/fire/status/2008780621452288065",
+    "timestamp": "2026-01-07T05:59:56.000Z",
+    "metadata": {
+      "conversation_id": "2008780621452288065",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2008747712381153390",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "@rvbhadja @theo they works more then fine in @windsurf and @FactoryAI and @warpdotdev",
+    "url": "https://x.com/nest_elf/status/2008747712381153390",
+    "timestamp": "2026-01-07T03:49:10.000Z",
+    "metadata": {
+      "conversation_id": "2008747712381153390",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2008741524109160839",
     "source": "twitter",
     "author": "iamkevchan",
