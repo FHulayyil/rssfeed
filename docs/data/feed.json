@@ -13460,7 +13460,8 @@
       "score": 1,
       "num_comments": 2,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_552",
