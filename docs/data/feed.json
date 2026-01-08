@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009383776950899052",
+    "source": "twitter",
+    "author": "markobilal",
+    "content": "@alvinsng @GergelyOrosz @FactoryAI You can extend that to infra as well. With Claude code you can inspect and ask questions questions of your k8s clusters and deployments",
+    "url": "https://x.com/markobilal/status/2009383776950899052",
+    "timestamp": "2026-01-08T21:56:39.000Z",
+    "metadata": {
+      "conversation_id": "2009383776950899052",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009381937861771679",
     "source": "twitter",
     "author": "SaidAitmbarek",
