@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009406238967382405",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@droid feature requests: \n\n1. Droid native equivalent of Claude Code AskUserQuestion tool that works across models (https://t.co/q1CdOOadt7)\n\n2. File browser sidebar in Desktop app\n\n3. Constrain permissions to a project folder ie. Sandbox mode without a VM/container - meaning a user can set high autonomy for actions only affecting a specified directory. \n\n4. Show usage in terminal without needed to push to webbrowser billing page",
+    "url": "https://x.com/nathanclark_/status/2009406238967382405",
+    "timestamp": "2026-01-08T23:25:54.000Z",
+    "metadata": {
+      "conversation_id": "2009406238967382405",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009405227527463274",
+    "source": "twitter",
+    "author": "FaisalFailed",
+    "content": "@droid new feature: during a season when switching from BYOK model to https://t.co/nEzjFFL7Ea model, add a warning about token usage and it might be better to start a new chat to not burn through factory tokens. prompt the user with \n- Confirmation to proceed switching \n- Cancel switching \n- Confirmation to switch and never show this warning again",
+    "url": "https://x.com/FaisalFailed/status/2009405227527463274",
+    "timestamp": "2026-01-08T23:21:53.000Z",
+    "metadata": {
+      "conversation_id": "2009405227527463274",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009403441895100773",
     "source": "twitter",
     "author": "droid",
