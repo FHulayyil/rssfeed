@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009193688203972619",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "I've been using @droid for a while now and have a question about context management.\n\nI maintain a https://t.co/duqlCJ89ww that tells agents how I work - my skill level, thinking approach, when to explain vs. implement. This helps agents calibrate responses (I'm quite decent in prompting but intermediate in SQL, so explanations should adjust accordingly).\n\nCurrently, I copy-paste this into every project repo. Then each repo has its own https://t.co/aAYaMr9q9l that references it and adds project-specific context.\n\nBut Droid's discovery hierarchy stops at the first https://t.co/aAYaMr9q9l it finds - which means my global ~/.factory/AGENTS.md likely never gets read if I have a project-level file.\n\nQuestion: Is there a way to maintain global personal context without duplicating it across repos? Or is the intended workflow to merge personal + project context into one https://t.co/aAYaMr9q9l per repo?\n\nCursor and Bolt have global rules settings. Trying to figure out if Droid has an equivalent pattern I'm missing, or if duplication is just the trade-off.\n\nWould appreciate guidance from the @FactoryAI team or other users who've solved this.",
+    "url": "https://x.com/nkgoutham/status/2009193688203972619",
+    "timestamp": "2026-01-08T09:21:18.000Z",
+    "metadata": {
+      "conversation_id": "2009193688203972619",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009188070214496487",
     "source": "twitter",
     "author": "SynthesisLedger",
