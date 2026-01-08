@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009409682432262244",
+    "source": "twitter",
+    "author": "mkazantsev",
+    "content": "@matanSF @droid was it Opus 4.5 or other models too?",
+    "url": "https://x.com/mkazantsev/status/2009409682432262244",
+    "timestamp": "2026-01-08T23:39:35.000Z",
+    "metadata": {
+      "conversation_id": "2009409682432262244",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009406238967382405",
     "source": "twitter",
     "author": "nathanclark_",
