@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_570",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] started getting a lot of conneciton issues all of a sudden?\n\nI see this so much all of a sudden, sometimes rendering the chat completely unusable!\n\n```\n>  Error: The socket connection was closed unexpectedly. For more information, pass `verbose: true` in the second argument to fetch()\n\n   This might be a network issue. Please check:\n   1. Your internet connection\n   2. Any firewall or proxy settings\n```\n\nI do have net, other chats are running.\n\nBug Report ID: 3bc71ce5-e421-4ed3-90ec-758906d4348c",
+    "url": "https://github.com/Factory-AI/factory/issues/570",
+    "timestamp": "2026-01-08T12:13:30Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 570
+    }
+  },
+  {
     "id": "github_issue_569",
     "source": "github",
     "author": "jakob1379",
