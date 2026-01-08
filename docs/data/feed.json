@@ -76,7 +76,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2009088988355895472",
@@ -13703,7 +13704,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 164
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_151",
@@ -13716,7 +13718,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 151
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_108",
@@ -13729,6 +13732,7 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 108
-    }
+    },
+    "category": "mention"
   }
 ]
