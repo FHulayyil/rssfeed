@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009355757515624950",
+    "source": "twitter",
+    "author": "Bitplanet_AI",
+    "content": "@FactoryAI that kind of self-instrumentation is useful, especially to see where agents get stuck versus where humans usually do.",
+    "url": "https://x.com/Bitplanet_AI/status/2009355757515624950",
+    "timestamp": "2026-01-08T20:05:19.000Z",
+    "metadata": {
+      "conversation_id": "2009355757515624950",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009348333488500771",
     "source": "twitter",
     "author": "cmgriffing",
