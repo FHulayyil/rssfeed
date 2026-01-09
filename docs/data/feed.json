@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009695792232030337",
+    "source": "twitter",
+    "author": "gilhildebrand",
+    "content": "I’m creating workspaces for each employee so they can have their own junior employee that they manage\n\nI will hand each person a special github repo with all the role, KPIs, and other context needed for their employee to work\n\nNot just for devs but also for marketing, customer success, and executive team members too\n\nLooking at how I can pipe slack channel context in so the agent employees know what everyone is working on currently and can be part of the conversation",
+    "url": "https://x.com/gilhildebrand/status/2009695792232030337",
+    "timestamp": "2026-01-09T18:36:29.000Z",
+    "metadata": {
+      "conversation_id": "2009695792232030337",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009694690430652488",
     "source": "twitter",
     "author": "matanSF",
