@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1q89ov9",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.45.0 Released\n\n## Bug fixes\n\n* **Ctrl+O detailed view** - Now shows full accumulated command output instead of truncated view\n* **File autocomplete** - Menu now closes properly on Ctrl+C\n* **MCP modal** - Fixed modal and status notification display issues\n* **Autonomy level** - Fixed autonomy level not being applied correctly\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q89ov9/factory_cli_v0450_released/",
+    "timestamp": "2026-01-09T14:28:46.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2009631395359113515",
     "source": "twitter",
     "author": "leonardomso",
@@ -14,6 +27,21 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2009622618174062751",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@geo_anima @AlexFinn @droid 👀",
+    "url": "https://x.com/matanSF/status/2009622618174062751",
+    "timestamp": "2026-01-09T13:45:43.000Z",
+    "metadata": {
+      "conversation_id": "2009622618174062751",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009611275777769476",
