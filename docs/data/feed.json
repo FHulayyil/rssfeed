@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2009519102428406264",
@@ -43,7 +44,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2009514584336683395",
@@ -138,7 +140,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2009511396434649257",
@@ -153,7 +156,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2009510968867606701",
@@ -168,7 +172,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2009510958088196143",
@@ -263,7 +268,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2009504517726114289",
@@ -294,7 +300,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2009503402066366647",
@@ -453,7 +460,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2009497604896510385",
@@ -468,7 +476,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2009496981157367848",
@@ -499,7 +508,8 @@
       "retweets": 0,
       "replies": 2,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2009496878296318276",
@@ -578,7 +588,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2009491887040970863",
@@ -593,7 +604,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2009491451290505249",
@@ -608,7 +620,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2009491038054859038",
@@ -623,7 +636,8 @@
       "retweets": 1,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2009483280333341098",
