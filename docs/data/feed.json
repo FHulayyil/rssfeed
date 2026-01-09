@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2009658337047048669",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "It’s a challenging situation. We’ve found that hourly or daily throttle caps are often exploited by groups that pool their memberships to share usage. This means one person's account is constantly active, even when they aren't personally using it.\n\nWe're still a small startup and don't have the bandwidth to manage this",
+    "url": "https://x.com/alvinsng/status/2009658337047048669",
+    "timestamp": "2026-01-09T16:07:39.000Z",
+    "metadata": {
+      "conversation_id": "2009658337047048669",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009657308914344434",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@kocacco @AnthropicAI @DarioAmodei Time to explore @FactoryAI and Codex and even @opencode",
+    "url": "https://x.com/erd0xbc/status/2009657308914344434",
+    "timestamp": "2026-01-09T16:03:34.000Z",
+    "metadata": {
+      "conversation_id": "2009657308914344434",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009656597866504295",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@50valve @FactoryAI Our $20 plan has always been 20m tokens! The website says \"promo rate\" but has not changed",
+    "url": "https://x.com/alvinsng/status/2009656597866504295",
+    "timestamp": "2026-01-09T16:00:45.000Z",
+    "metadata": {
+      "conversation_id": "2009656597866504295",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009655426103881936",
+    "source": "twitter",
+    "author": "gilhildebrand",
+    "content": "It's happening \n\n@FactoryAI https://t.co/W2Iq6Ahfox",
+    "url": "https://x.com/gilhildebrand/status/2009655426103881936",
+    "timestamp": "2026-01-09T15:56:05.000Z",
+    "metadata": {
+      "conversation_id": "2009655426103881936",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009655406445183270",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@leonardomso @50valve @FactoryAI Curious to know which model you were using? Opus is the highest multiplier of tokens but the cheaper models can use a lot less Factory tokens",
+    "url": "https://x.com/alvinsng/status/2009655406445183270",
+    "timestamp": "2026-01-09T15:56:01.000Z",
+    "metadata": {
+      "conversation_id": "2009655406445183270",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009654884485001293",
+    "source": "twitter",
+    "author": "musickeeda",
+    "content": "@maxedapps @opencode I think @FactoryAI droid will be the one that got acquired by any of the frontier labs because it's just a bit more superior than most of the other CLI I have tried so far.",
+    "url": "https://x.com/musickeeda/status/2009654884485001293",
+    "timestamp": "2026-01-09T15:53:56.000Z",
+    "metadata": {
+      "conversation_id": "2009654884485001293",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009654284728795448",
     "source": "twitter",
     "author": "nkgoutham",
@@ -78,6 +168,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2009634038085288416",
+    "source": "twitter",
+    "author": "cryptokingkongs",
+    "content": "@JDVance If not now then when \n\n$FACTORY\n\nBkSbFrDMkfkoG4NDUwadEGeQgVwoXkR3F3P1MPUnBAGS\n\nOpen source Agent-native system that turns market signals into apps using Claude. @MeltedMindz built this",
+    "url": "https://x.com/cryptokingkongs/status/2009634038085288416",
+    "timestamp": "2026-01-09T14:31:06.000Z",
+    "metadata": {
+      "conversation_id": "2009634038085288416",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "reddit_1q89ov9",
