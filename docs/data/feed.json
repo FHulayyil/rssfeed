@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2009755086378152238",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "The beauty of engineering always happens when you add constraints.\n\nThis is why I believe in the @FactoryAI team over Claude Code, Codex, and even Cursor.",
+    "url": "https://x.com/anthonyronning/status/2009755086378152238",
+    "timestamp": "2026-01-09T22:32:06.000Z",
+    "metadata": {
+      "conversation_id": "2009755086378152238",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009754103589810617",
+    "source": "twitter",
+    "author": "luqven",
+    "content": "@FactoryAI $42",
+    "url": "https://x.com/luqven/status/2009754103589810617",
+    "timestamp": "2026-01-09T22:28:12.000Z",
+    "metadata": {
+      "conversation_id": "2009754103589810617",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009753690618638785",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "It may seem like that but @FactoryAI is the counter example.\n\nWith CC, I burnt tokens faster than a meth addict burning rock. I thought I needed something like the Max plan.\n\nWith Droid, they are actually incentivized to provide the most amount of value to their users at the lowest API costs.\n\nThat has led them to invest heavily in context engineering, caching, compression, etc.\n\nI am far more productive and quicker with Droid paying API prices. I used to go through 1B tokens in 3 days of CC. Now it takes 3 months for 1B tokens of Droid.\n\nI feel like I’m taking crazy pills but the results really don’t lie. Anthropic threats Claude like a slot machine (they literally say this). Factory threats Claude (and other models) like an engineering system.",
+    "url": "https://x.com/anthonyronning/status/2009753690618638785",
+    "timestamp": "2026-01-09T22:26:33.000Z",
+    "metadata": {
+      "conversation_id": "2009753690618638785",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_2009753353643872402",
+    "source": "twitter",
+    "author": "ragnsan_",
+    "content": "@FactoryAI $120",
+    "url": "https://x.com/ragnsan_/status/2009753353643872402",
+    "timestamp": "2026-01-09T22:25:13.000Z",
+    "metadata": {
+      "conversation_id": "2009753353643872402",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009752256103465211",
+    "source": "twitter",
+    "author": "justusfaugust",
+    "content": "@FactoryAI $120",
+    "url": "https://x.com/justusfaugust/status/2009752256103465211",
+    "timestamp": "2026-01-09T22:20:51.000Z",
+    "metadata": {
+      "conversation_id": "2009752256103465211",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009745731184189633",
     "source": "twitter",
     "author": "matanSF",
