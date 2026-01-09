@@ -32,6 +32,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009418673099092055",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@markobilal @GergelyOrosz @FactoryAI Or with Droid 😉",
+    "url": "https://x.com/alvinsng/status/2009418673099092055",
+    "timestamp": "2026-01-09T00:15:19.000Z",
+    "metadata": {
+      "conversation_id": "2009418673099092055",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009409682432262244",
     "source": "twitter",
     "author": "mkazantsev",
