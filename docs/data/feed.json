@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009648862441734516",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "You probably have token leaks you don't know about.\n\nI didn't - until I analyzed 30 days of my own prompting data.\n\nI've been using @droid for over a month. Wanted to understand how I actually prompt - what's working, where I'm bleeding tokens, what I could do better.\n\nSo I went to the .factory folder where all session data lives, and asked it to analyze my usage patterns.\n\nWhat I got back: a 19-page breakdown.\n\nHere's my stats:\n238.7 million tokens across 78 sessions.\n4,800+ messages.\n8.6M tokens per day on average.\n\nThe analysis identified six strengths, four weaknesses, and one major token drain I had no idea about.\n\n\"Large console output pasting.\"\n\nEvery time I hit an error, I'd dump the full stack trace. One paste alone was 17,191 characters - around 4,300 tokens. That's 10+ focused prompts worth of context, gone in a single copy-paste.\n\nThis was eating 15-20% of my input tokens.\n\nThe fix is simple. Instead of pasting 50 lines of console output:\nAction: [What you did]\nError: [Primary error message only]\nLocation: [File:line]\nBehavior: [What happens instead of expected]\n\n90% reduction in error reporting tokens. I wouldn't have found this without running the analysis.\n\nThe report also surfaced patterns I didn't know I had.\n\nIt graded my prompting at B+ (85/100)\n- Clarity: A,\n- Efficiency: B,\n- Structure: B+,\n- Adaptability: A-.\n\nIt named my style \"Iterative Context Builder\" - turns out 43.8% of my prompts use \"@-file\"-references instead of pasting content, and I maintain 63% cache read efficiency across sessions.\n\nStrengths I'd built without realizing.\nWeaknesses I couldn't see without data.\n\nIf you're using @droid or Claude Code - try this. Your .factory or session history has everything you need. Ask it to analyze your prompting patterns over the last 30 days. Token burn, prompt structure, strengths, weaknesses.\n\nYou'll find something you didn't expect.\n\nFor the @droid team - this feels like a natural feature.\n\nA /analyze-my-prompts slash command that runs periodic self-analysis.\nToken efficiency trends, prompting patterns, personalized suggestions.\n\nThe data already exists in .factory. The analysis prompt works. This just needs packaging.\n\nWould love to see this ship.\n\nDrop a comment if you want the exact prompt I used to run this analysis.",
+    "url": "https://x.com/nkgoutham/status/2009648862441734516",
+    "timestamp": "2026-01-09T15:30:00.000Z",
+    "metadata": {
+      "conversation_id": "2009648862441734516",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009642242831487169",
     "source": "twitter",
     "author": "venkat_systems",
