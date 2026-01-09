@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009694690430652488",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@gilhildebrand @FactoryAI so excited to hear how it goes",
+    "url": "https://x.com/matanSF/status/2009694690430652488",
+    "timestamp": "2026-01-09T18:32:07.000Z",
+    "metadata": {
+      "conversation_id": "2009694690430652488",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009683555979538479",
+    "source": "twitter",
+    "author": "3quanax",
+    "content": "@alvinsng @FactoryAI FactoryAI finally kills the multi-subscription nonsense. One price, all frontier models, instant access, and actual #1 agent performance across real benches. Cost-efficient caching + enterprise trust = proper RevOps upgrade. Smart move.",
+    "url": "https://x.com/3quanax/status/2009683555979538479",
+    "timestamp": "2026-01-09T17:47:52.000Z",
+    "metadata": {
+      "conversation_id": "2009683555979538479",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009677288820838487",
     "source": "twitter",
     "author": "TSpencer260",
