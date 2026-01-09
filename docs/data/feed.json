@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009523743375413524",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@matanSF @droid cool!",
+    "url": "https://x.com/sqs/status/2009523743375413524",
+    "timestamp": "2026-01-09T07:12:50.000Z",
+    "metadata": {
+      "conversation_id": "2009523743375413524",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009519102428406264",
     "source": "twitter",
     "author": "ruchernchong",
@@ -14,6 +29,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2009514841061659088",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@pors @steipete @AnthropicAI Yeah, codex performance is so terrible though! It's rage inciting! I use @droid instead. I can still use Claude's LLM without having to deal with the Auth BS rn.",
+    "url": "https://x.com/AriesTheCoder/status/2009514841061659088",
+    "timestamp": "2026-01-09T06:37:27.000Z",
+    "metadata": {
+      "conversation_id": "2009514841061659088",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009514584336683395",
@@ -96,6 +126,51 @@
     "category": "love"
   },
   {
+    "id": "twitter_2009511938527527115",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@AlexFinn Unfortunately, 99.9% haven't heard of @Droid, but they will.",
+    "url": "https://x.com/geo_anima/status/2009511938527527115",
+    "timestamp": "2026-01-09T06:25:55.000Z",
+    "metadata": {
+      "conversation_id": "2009511938527527115",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009511396434649257",
+    "source": "twitter",
+    "author": "marcgregory_",
+    "content": "@matanSF @droid @droid slash command or even simpler being able to prompt sub agents; research, refactoring etc",
+    "url": "https://x.com/marcgregory_/status/2009511396434649257",
+    "timestamp": "2026-01-09T06:23:46.000Z",
+    "metadata": {
+      "conversation_id": "2009511396434649257",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009510968867606701",
+    "source": "twitter",
+    "author": "marcgregory_",
+    "content": "@matanSF @droid @droid spec mode starts with ask-user-questions-tool",
+    "url": "https://x.com/marcgregory_/status/2009510968867606701",
+    "timestamp": "2026-01-09T06:22:04.000Z",
+    "metadata": {
+      "conversation_id": "2009510968867606701",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009510958088196143",
     "source": "twitter",
     "author": "alvinsng",
@@ -176,6 +251,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2009505333866315921",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@LearnAIways @thdxr It has been figured out... pi is working for now as an alternative if you can't wait for opencode anthropic plugin fix (if they choose to). @droid actually never broke when used through CLIProxyAPI.",
+    "url": "https://x.com/benvargas/status/2009505333866315921",
+    "timestamp": "2026-01-09T05:59:41.000Z",
+    "metadata": {
+      "conversation_id": "2009505333866315921",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009504517726114289",
     "source": "twitter",
     "author": "steipete",
@@ -190,6 +280,21 @@
       "quotes": 1
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2009503903537352811",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "Here’s a @Droid session discovering @firecrawl MCP servers and Tools, hydrating and caching them, and then calling the dm daemon CLI from the skill: https://t.co/eioqZJW7op",
+    "url": "https://x.com/GitMaxd/status/2009503903537352811",
+    "timestamp": "2026-01-09T05:54:00.000Z",
+    "metadata": {
+      "conversation_id": "2009503903537352811",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009503402066366647",
@@ -336,6 +441,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009498031880851770",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@droid @matanSF $60-100 Max plan version please (3g. 3-5x usage of Pro) 🙏🏼\n\nOverage is 2.7x plan cost.",
+    "url": "https://x.com/nathanclark_/status/2009498031880851770",
+    "timestamp": "2026-01-09T05:30:40.000Z",
+    "metadata": {
+      "conversation_id": "2009498031880851770",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009497604896510385",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@matanSF @droid @droid Introduce AskUserQuestion Tool equivalent. \n\nSorry - just can't stop myself from trying to pitch in some of those tiny things that I'd love droid to do! @matanSF 🙈",
+    "url": "https://x.com/nkgoutham/status/2009497604896510385",
+    "timestamp": "2026-01-09T05:28:58.000Z",
+    "metadata": {
+      "conversation_id": "2009497604896510385",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009496981157367848",
     "source": "twitter",
     "author": "steipete",
@@ -350,6 +485,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2009496977961263601",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "Droid-Mode is an OSS @droid Skill that progressively discovers disabled MCP servers/tools without pre-loading - No Context B$\n\nA project-scoped daemon persists connections, cached MCP Tools &amp; Schema @ ~5x performance in Droid CLI.\n\nDiscover -&gt; Index -&gt; Hydrate -&gt; Execute https://t.co/38MRCU2LaX",
+    "url": "https://x.com/GitMaxd/status/2009496977961263601",
+    "timestamp": "2026-01-09T05:26:28.000Z",
+    "metadata": {
+      "conversation_id": "2009496977961263601",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009496878296318276",
@@ -414,6 +564,66 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2009494592144703514",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@GitMaxd @droid @claudeai 👀",
+    "url": "https://x.com/matanSF/status/2009494592144703514",
+    "timestamp": "2026-01-09T05:17:00.000Z",
+    "metadata": {
+      "conversation_id": "2009494592144703514",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009491887040970863",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@matanSF @droid very cool! Love this!",
+    "url": "https://x.com/Alberto8793/status/2009491887040970863",
+    "timestamp": "2026-01-09T05:06:15.000Z",
+    "metadata": {
+      "conversation_id": "2009491887040970863",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009491451290505249",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@kdy1dev @opencode have u tried @droid's compaction? curious how u think it compares",
+    "url": "https://x.com/matanSF/status/2009491451290505249",
+    "timestamp": "2026-01-09T05:04:31.000Z",
+    "metadata": {
+      "conversation_id": "2009491451290505249",
+      "likes": 7,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009491038054859038",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "Bet \n\n@Droid DAU goes way up because the @claudeai Sub lockdown\n\nModel agnostic harness doesn’t try to sell you tokens - it’s incentive is performance\n\nGetting access to GPT 5.x,  Claude 4.x, etc the moment they drop is no joke and all for the price of one sub 🤖\n\n+1 for @LangChain OSS Deep Agents CLI + API @langchain_oss 🦜🔥",
+    "url": "https://x.com/GitMaxd/status/2009491038054859038",
+    "timestamp": "2026-01-09T05:02:52.000Z",
+    "metadata": {
+      "conversation_id": "2009491038054859038",
+      "likes": 9,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009483280333341098",
