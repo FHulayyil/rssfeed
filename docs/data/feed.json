@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009670370068947359",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@kocacco @AnthropicAI @DarioAmodei @FactoryAI @opencode Not sure if the credit promotion still exist @matanSF",
+    "url": "https://x.com/erd0xbc/status/2009670370068947359",
+    "timestamp": "2026-01-09T16:55:28.000Z",
+    "metadata": {
+      "conversation_id": "2009670370068947359",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009669152085361034",
+    "source": "twitter",
+    "author": "kocacco",
+    "content": "@erd0xbc @AnthropicAI @DarioAmodei @FactoryAI @opencode thanks bro, let me try it",
+    "url": "https://x.com/kocacco/status/2009669152085361034",
+    "timestamp": "2026-01-09T16:50:38.000Z",
+    "metadata": {
+      "conversation_id": "2009669152085361034",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009658337047048669",
     "source": "twitter",
     "author": "alvinsng",
