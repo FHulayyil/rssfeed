@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2009742150926578170",
+    "source": "twitter",
+    "author": "sporadica",
+    "content": "@FactoryAI I asked Droid to run the game theory calculations and land on the most likely discount pricing and it told me it should be $0 for me because I'm a cool guy, praying this works 🙏🙏",
+    "url": "https://x.com/sporadica/status/2009742150926578170",
+    "timestamp": "2026-01-09T21:40:42.000Z",
+    "metadata": {
+      "conversation_id": "2009742150926578170",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009742058773459031",
+    "source": "twitter",
+    "author": "brendenvonhouse",
+    "content": "@FactoryAI i think i got it https://t.co/KfKPyy2kyD",
+    "url": "https://x.com/brendenvonhouse/status/2009742058773459031",
+    "timestamp": "2026-01-09T21:40:20.000Z",
+    "metadata": {
+      "conversation_id": "2009742058773459031",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009741327362035872",
+    "source": "twitter",
+    "author": "zerobuildz",
+    "content": "@FactoryAI I can't see the actual content of that tweet since it's just a link. Could you share what the tweet says so I can write a proper reply in your voice?",
+    "url": "https://x.com/zerobuildz/status/2009741327362035872",
+    "timestamp": "2026-01-09T21:37:26.000Z",
+    "metadata": {
+      "conversation_id": "2009741327362035872",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009739672285557029",
     "source": "twitter",
     "author": "tomosman",
