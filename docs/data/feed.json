@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_577",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] statusline pipeline generates less than optimal bash scripts\n\nI used the `/statusline` to generate a nice statusline for droid. The script generated had \n\n```bash\n#! /usr/bin/bash\n```\n\nWhich is not true for all unix systems.\n\n```bash\n#! /usr/bin/env bash\n```\n\nhowever always return the right",
+    "url": "https://github.com/Factory-AI/factory/issues/577",
+    "timestamp": "2026-01-10T12:33:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 577
+    }
+  },
+  {
     "id": "github_issue_575",
     "source": "github",
     "author": "rdmgt1",
