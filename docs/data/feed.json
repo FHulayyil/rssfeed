@@ -160,6 +160,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009852834091598275",
+    "source": "twitter",
+    "author": "beffjezos",
+    "content": "@SinaHartung He should just acquire @droid",
+    "url": "https://x.com/beffjezos/status/2009852834091598275",
+    "timestamp": "2026-01-10T05:00:31.000Z",
+    "metadata": {
+      "conversation_id": "2009852834091598275",
+      "likes": 2,
+      "retweets": 2,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009851313820193240",
     "source": "twitter",
     "author": "aofeisheng",
