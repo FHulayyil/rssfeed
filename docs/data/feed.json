@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2009868149982671217",
+    "source": "twitter",
+    "author": "flomeindl",
+    "content": "@FactoryAI 149",
+    "url": "https://x.com/flomeindl/status/2009868149982671217",
+    "timestamp": "2026-01-10T06:01:23.000Z",
+    "metadata": {
+      "conversation_id": "2009868149982671217",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009864287452590330",
     "source": "twitter",
     "author": "mindragon",
@@ -15080,6 +15095,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1q0h25x",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.41.0 Released - `/wrapped` command and more\n\n## New features\n\n* **`/wrapped` command** - Year-in-review stats showing your Droid usage, badges earned, model preferences, and session metrics (cli)\n* **Fast model switching** - Faster provider/model switches without LLM compaction (cli)\n* **Batched tool permissions** - Parallel tool calls now show single permission prompt (cli)\n* **Custom BYOK models** - Custom models now appear in model selector (cli)\n* **Auto-sync repos** - GitHub/GitLab repos sync when opening template modal (app)\n\n## Bug ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q0h25x/factory_cli_v0410_released_wrapped_command_and/",
+    "timestamp": "2025-12-31T16:29:24.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2006393167311249617",
