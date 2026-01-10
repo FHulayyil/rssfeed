@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2010120104793780385",
+    "source": "twitter",
+    "author": "pietAIdev",
+    "content": "@FactoryAI @realZachi007 @matanSF https://t.co/5r6OABvbEk",
+    "url": "https://x.com/pietAIdev/status/2010120104793780385",
+    "timestamp": "2026-01-10T22:42:33.000Z",
+    "metadata": {
+      "conversation_id": "2010120104793780385",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010116891956916641",
+    "source": "twitter",
+    "author": "yourbandicoot",
+    "content": "@FactoryAI @realZachi007 @matanSF https://t.co/zNyjWkMAw5",
+    "url": "https://x.com/yourbandicoot/status/2010116891956916641",
+    "timestamp": "2026-01-10T22:29:47.000Z",
+    "metadata": {
+      "conversation_id": "2010116891956916641",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010116796884586561",
+    "source": "twitter",
+    "author": "C72Al",
+    "content": "It’s a good thing. Local systems to manage photos, 3 way back ups of code and repos,m and site security checks. All with desktop notifications and alerts.\n\nGitHub dependabot alerts on desktop and output file with prompts and links directly to terminal.\n\nCRM updating with perplexity analysis of won and lost deals. CRM updates where Apollo fails to find any info.\n\nAutomation of CRM deals with alerts for rotting deals, suggested replies.\n\nCustomised code improver, security checks and other task managers automated \n\nAll in one day and 6 terminal windows.",
+    "url": "https://x.com/C72Al/status/2010116796884586561",
+    "timestamp": "2026-01-10T22:29:25.000Z",
+    "metadata": {
+      "conversation_id": "2010116796884586561",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010116768283681040",
+    "source": "twitter",
+    "author": "WKing_Jack",
+    "content": "@FactoryAI @realZachi007 @matanSF Need it",
+    "url": "https://x.com/WKing_Jack/status/2010116768283681040",
+    "timestamp": "2026-01-10T22:29:18.000Z",
+    "metadata": {
+      "conversation_id": "2010116768283681040",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010116200794337731",
+    "source": "twitter",
+    "author": "AlxAndrws",
+    "content": "@FactoryAI $101.00",
+    "url": "https://x.com/AlxAndrws/status/2010116200794337731",
+    "timestamp": "2026-01-10T22:27:03.000Z",
+    "metadata": {
+      "conversation_id": "2010116200794337731",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010115101169230296",
+    "source": "twitter",
+    "author": "FaisalFailed",
+    "content": "@FactoryAI https://t.co/EuQ7l5h9h5",
+    "url": "https://x.com/FaisalFailed/status/2010115101169230296",
+    "timestamp": "2026-01-10T22:22:40.000Z",
+    "metadata": {
+      "conversation_id": "2010115101169230296",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010114829626028433",
+    "source": "twitter",
+    "author": "50valve",
+    "content": "@alvinsng @leonardomso @FactoryAI Started with Opus but it was obliterating tokens, moved to GPT 5.2 High - similiar story, ended up with GLM 4.7 just for trivial tasks like retrieve code. Makes sense that cheaper model use less tokens, but what is one to do with inferior models...",
+    "url": "https://x.com/50valve/status/2010114829626028433",
+    "timestamp": "2026-01-10T22:21:36.000Z",
+    "metadata": {
+      "conversation_id": "2010114829626028433",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010109019684516254",
     "source": "twitter",
     "author": "TSpencer260",
