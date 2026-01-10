@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2010085240145097098",
+    "source": "twitter",
+    "author": "outsideobserver",
+    "content": "@TSpencer260 @alvinsng @greg_plumbly @FactoryAI https://t.co/FDo25eynXB",
+    "url": "https://x.com/outsideobserver/status/2010085240145097098",
+    "timestamp": "2026-01-10T20:24:01.000Z",
+    "metadata": {
+      "conversation_id": "2010085240145097098",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010084899529859392",
+    "source": "twitter",
+    "author": "outsideobserver",
+    "content": "@TSpencer260 @alvinsng @greg_plumbly @FactoryAI fuck that shitt https://t.co/4dmurbiXiX https://t.co/drpkoeyfTH",
+    "url": "https://x.com/outsideobserver/status/2010084899529859392",
+    "timestamp": "2026-01-10T20:22:40.000Z",
+    "metadata": {
+      "conversation_id": "2010084899529859392",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010084612173885894",
+    "source": "twitter",
+    "author": "TSpencer260",
+    "content": "@outsideobserver @alvinsng @greg_plumbly @FactoryAI 5.2-codex isn’t available via api yet only via the codex app itself",
+    "url": "https://x.com/TSpencer260/status/2010084612173885894",
+    "timestamp": "2026-01-10T20:21:31.000Z",
+    "metadata": {
+      "conversation_id": "2010084612173885894",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010081566643630256",
     "source": "twitter",
     "author": "agiatreides",
