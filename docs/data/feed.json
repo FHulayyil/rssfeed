@@ -32,6 +32,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009930574178443423",
+    "source": "twitter",
+    "author": "EmmettMaher",
+    "content": "Now that @conductor_build might get cut off from Claude Code. \n\nDo I switch to @warpdotdev @opencode @droid 🤔",
+    "url": "https://x.com/EmmettMaher/status/2009930574178443423",
+    "timestamp": "2026-01-10T10:09:26.000Z",
+    "metadata": {
+      "conversation_id": "2009930574178443423",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009930073550573569",
     "source": "twitter",
     "author": "Ra1kshit",
