@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2010037231319502999",
+    "source": "twitter",
+    "author": "QdouL",
+    "content": "@FactoryAI 47",
+    "url": "https://x.com/QdouL/status/2010037231319502999",
+    "timestamp": "2026-01-10T17:13:15.000Z",
+    "metadata": {
+      "conversation_id": "2010037231319502999",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010036912258724278",
+    "source": "twitter",
+    "author": "bitdoze",
+    "content": "@moderat10n @claudeai @FactoryAI These are my thought’s too. But you have a lot off comments that tells GLM does wanders with CC. You have GLM that recommends CC and you have @FactoryAI droid that tells they did optimizations for GLM. Test needed to be made 😀",
+    "url": "https://x.com/bitdoze/status/2010036912258724278",
+    "timestamp": "2026-01-10T17:11:59.000Z",
+    "metadata": {
+      "conversation_id": "2010036912258724278",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010036595064455345",
+    "source": "twitter",
+    "author": "k0r37k1",
+    "content": "@FactoryAI What about a plan for 90-100$ or and 40-50$",
+    "url": "https://x.com/k0r37k1/status/2010036595064455345",
+    "timestamp": "2026-01-10T17:10:43.000Z",
+    "metadata": {
+      "conversation_id": "2010036595064455345",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010036358979407886",
+    "source": "twitter",
+    "author": "leodev",
+    "content": "@FactoryAI $56.99",
+    "url": "https://x.com/leodev/status/2010036358979407886",
+    "timestamp": "2026-01-10T17:09:47.000Z",
+    "metadata": {
+      "conversation_id": "2010036358979407886",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_578",
     "source": "github",
     "author": "1SuperEmployee",
@@ -12,6 +72,36 @@
       "number": 578
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2010034375388475637",
+    "source": "twitter",
+    "author": "outsideobserver",
+    "content": "@alvinsng @greg_plumbly @FactoryAI https://t.co/Oivml8VPns",
+    "url": "https://x.com/outsideobserver/status/2010034375388475637",
+    "timestamp": "2026-01-10T17:01:54.000Z",
+    "metadata": {
+      "conversation_id": "2010034375388475637",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010034367914250659",
+    "source": "twitter",
+    "author": "kr0der",
+    "content": "@FactoryAI $50",
+    "url": "https://x.com/kr0der/status/2010034367914250659",
+    "timestamp": "2026-01-10T17:01:52.000Z",
+    "metadata": {
+      "conversation_id": "2010034367914250659",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2010032107897397709",
