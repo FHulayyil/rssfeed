@@ -17552,7 +17552,8 @@
       "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1potbcv",
@@ -17579,7 +17580,8 @@
       "score": 1,
       "num_comments": 1,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "reddit_1plzye0",
