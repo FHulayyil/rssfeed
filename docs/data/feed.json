@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2009887669363319031",
+    "source": "twitter",
+    "author": "moderat10n",
+    "content": "@bitdoze @claudeai @FactoryAI Claude Code is designed to work with Claude models. Of course it won't be very good with a model it wasn't designed for",
+    "url": "https://x.com/moderat10n/status/2009887669363319031",
+    "timestamp": "2026-01-10T07:18:56.000Z",
+    "metadata": {
+      "conversation_id": "2009887669363319031",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009886335968915711",
+    "source": "twitter",
+    "author": "laup30",
+    "content": "@samfitz @EnoReyes @FactoryAI Thanks Sam 👍",
+    "url": "https://x.com/laup30/status/2009886335968915711",
+    "timestamp": "2026-01-10T07:13:39.000Z",
+    "metadata": {
+      "conversation_id": "2009886335968915711",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009886207166054739",
+    "source": "twitter",
+    "author": "JohnThilen",
+    "content": "@GatoOptimized @doodlestein @FactoryAI actually starts to move in the right direction with https://t.co/UlerrmzSS7, but of course it's a long path.",
+    "url": "https://x.com/JohnThilen/status/2009886207166054739",
+    "timestamp": "2026-01-10T07:13:08.000Z",
+    "metadata": {
+      "conversation_id": "2009886207166054739",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_575",
     "source": "github",
     "author": "rdmgt1",
