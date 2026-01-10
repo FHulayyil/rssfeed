@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2009848481272476142",
+    "source": "twitter",
+    "author": "arvin73547117",
+    "content": "@FactoryAI $100",
+    "url": "https://x.com/arvin73547117/status/2009848481272476142",
+    "timestamp": "2026-01-10T04:43:13.000Z",
+    "metadata": {
+      "conversation_id": "2009848481272476142",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009848102954356801",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@benvargas @FactoryAI @droid 🙏🏿🔥",
+    "url": "https://x.com/erd0xbc/status/2009848102954356801",
+    "timestamp": "2026-01-10T04:41:43.000Z",
+    "metadata": {
+      "conversation_id": "2009848102954356801",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009846664610423170",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@chaseadams @anthonyronning @irl_danB @FactoryAI have u tried droid?",
+    "url": "https://x.com/matanSF/status/2009846664610423170",
+    "timestamp": "2026-01-10T04:36:00.000Z",
+    "metadata": {
+      "conversation_id": "2009846664610423170",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009846542434500858",
+    "source": "twitter",
+    "author": "djwlwjd",
+    "content": "@FactoryAI 97",
+    "url": "https://x.com/djwlwjd/status/2009846542434500858",
+    "timestamp": "2026-01-10T04:35:31.000Z",
+    "metadata": {
+      "conversation_id": "2009846542434500858",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009838381648490574",
+    "source": "twitter",
+    "author": "karthikr3ddy",
+    "content": "@FactoryAI $100",
+    "url": "https://x.com/karthikr3ddy/status/2009838381648490574",
+    "timestamp": "2026-01-10T04:03:05.000Z",
+    "metadata": {
+      "conversation_id": "2009838381648490574",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009837499720348026",
     "source": "twitter",
     "author": "benvargas",
@@ -14,6 +89,111 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2009833558651568616",
+    "source": "twitter",
+    "author": "chaseadams",
+    "content": "@anthonyronning @irl_danB @FactoryAI I love Droid but I have yet to hit a usage limit  with Claude Code Max Plan running multiple parallel agents in multiple projects on an almost daily basis. \n\nI use plan mode to start with and rarely do more than 3 turns per session.",
+    "url": "https://x.com/chaseadams/status/2009833558651568616",
+    "timestamp": "2026-01-10T03:43:55.000Z",
+    "metadata": {
+      "conversation_id": "2009833558651568616",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009829360073879561",
+    "source": "twitter",
+    "author": "akkytech1",
+    "content": "@FactoryAI \nAm I correct in saying that I need to subscribe to the Max plan before I can take on this challenge?",
+    "url": "https://x.com/akkytech1/status/2009829360073879561",
+    "timestamp": "2026-01-10T03:27:14.000Z",
+    "metadata": {
+      "conversation_id": "2009829360073879561",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009827889152446590",
+    "source": "twitter",
+    "author": "ICTStudent2023",
+    "content": "@50valve @alvinsng @FactoryAI Has anyone ever survived a month using their 20$ plan alone? I guess no.",
+    "url": "https://x.com/ICTStudent2023/status/2009827889152446590",
+    "timestamp": "2026-01-10T03:21:24.000Z",
+    "metadata": {
+      "conversation_id": "2009827889152446590",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009821599659372984",
+    "source": "twitter",
+    "author": "WKing_Jack",
+    "content": "@FactoryAI $99",
+    "url": "https://x.com/WKing_Jack/status/2009821599659372984",
+    "timestamp": "2026-01-10T02:56:24.000Z",
+    "metadata": {
+      "conversation_id": "2009821599659372984",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009821077669851618",
+    "source": "twitter",
+    "author": "Zain_Wania",
+    "content": "@jadenitripp @opencode @FactoryAI Sir, it ain’t about benchmarks and you know that",
+    "url": "https://x.com/Zain_Wania/status/2009821077669851618",
+    "timestamp": "2026-01-10T02:54:20.000Z",
+    "metadata": {
+      "conversation_id": "2009821077669851618",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009817641696014541",
+    "source": "twitter",
+    "author": "AK93",
+    "content": "@FactoryAI 130",
+    "url": "https://x.com/AK93/status/2009817641696014541",
+    "timestamp": "2026-01-10T02:40:41.000Z",
+    "metadata": {
+      "conversation_id": "2009817641696014541",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009813687427793172",
+    "source": "twitter",
+    "author": "nickreese",
+    "content": "@FactoryAI $137",
+    "url": "https://x.com/nickreese/status/2009813687427793172",
+    "timestamp": "2026-01-10T02:24:58.000Z",
+    "metadata": {
+      "conversation_id": "2009813687427793172",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009806535011221628",
@@ -32,6 +212,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2009806385023004994",
+    "source": "twitter",
+    "author": "MinPtah",
+    "content": "@FactoryAI 67",
+    "url": "https://x.com/MinPtah/status/2009806385023004994",
+    "timestamp": "2026-01-10T01:55:57.000Z",
+    "metadata": {
+      "conversation_id": "2009806385023004994",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009806192290476055",
     "source": "twitter",
     "author": "nathanclark_",
@@ -46,6 +241,81 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2009804506775929033",
+    "source": "twitter",
+    "author": "dbladow",
+    "content": "@FactoryAI $149",
+    "url": "https://x.com/dbladow/status/2009804506775929033",
+    "timestamp": "2026-01-10T01:48:29.000Z",
+    "metadata": {
+      "conversation_id": "2009804506775929033",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009800054564172015",
+    "source": "twitter",
+    "author": "ejc3",
+    "content": "@anthonyronning @irl_danB @FactoryAI They fixed a ton of bugs with Claude code’s context a few weeks ago.",
+    "url": "https://x.com/ejc3/status/2009800054564172015",
+    "timestamp": "2026-01-10T01:30:47.000Z",
+    "metadata": {
+      "conversation_id": "2009800054564172015",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009797763530371147",
+    "source": "twitter",
+    "author": "jadenitripp",
+    "content": "@thsottiaux @thsottiaux why isn't there a GPT-5.2-Codex API yet? When can I use it in @FactoryAI?",
+    "url": "https://x.com/jadenitripp/status/2009797763530371147",
+    "timestamp": "2026-01-10T01:21:41.000Z",
+    "metadata": {
+      "conversation_id": "2009797763530371147",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009788905592131710",
+    "source": "twitter",
+    "author": "TheEcomNomad",
+    "content": "@FactoryAI $99",
+    "url": "https://x.com/TheEcomNomad/status/2009788905592131710",
+    "timestamp": "2026-01-10T00:46:29.000Z",
+    "metadata": {
+      "conversation_id": "2009788905592131710",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009781990367654007",
+    "source": "twitter",
+    "author": "meekunv2",
+    "content": "@FactoryAI 42",
+    "url": "https://x.com/meekunv2/status/2009781990367654007",
+    "timestamp": "2026-01-10T00:19:01.000Z",
+    "metadata": {
+      "conversation_id": "2009781990367654007",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009771384545915377",
