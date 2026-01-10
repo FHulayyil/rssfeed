@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_578",
+    "source": "github",
+    "author": "1SuperEmployee",
+    "content": "[Issue] Error: 400: Thinking blocks not preserved in conversation history causes API validation errors\n\nI'm experiencing frequent API errors when using extended thinking models (e.g., Opus 4.5 Thinking). The error occurs both in fresh sessions and after compacting conversations:\n\n    ```\n    API Validation Error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"messages.X.content.0.type: Expected `thinking` or `redacted_thinking`, but found\n    `text`. When `thinking` is enabled, a final `assistant` message must start with a thinking block (preceeding the lastmost set of `too",
+    "url": "https://github.com/Factory-AI/factory/issues/578",
+    "timestamp": "2026-01-10T17:02:06Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 578
+    }
+  },
+  {
     "id": "github_issue_577",
     "source": "github",
     "author": "jakob1379",
