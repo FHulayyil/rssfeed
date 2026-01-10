@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_577",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Issue] statusline pipeline generates less than optimal bash scripts\n\nI used the `/statusline` to generate a nice statusline for droid. The script generated had \n\n```bash\n#! /usr/bin/bash\n```\n\nWhich is not true for all unix systems.\n\n```bash\n#! /usr/bin/env bash\n```\n\nhowever always return the right",
+    "url": "https://github.com/Factory-AI/factory/issues/577",
+    "timestamp": "2026-01-10T12:33:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 577
+    }
+  },
+  {
+    "id": "twitter_2009965725423690195",
+    "source": "twitter",
+    "author": "justmy2cents111",
+    "content": "I've been asking for this for a while, but I don't think it'll happen. In my opinion, Elon is overprioritizing compute, and that's where almost all the money is going. Secondly, he has a natural tendency to build everything from the ground up rather than acquire. But I think this is a mistake, especially in this fast-moving AI space.",
+    "url": "https://x.com/justmy2cents111/status/2009965725423690195",
+    "timestamp": "2026-01-10T12:29:06.000Z",
+    "metadata": {
+      "conversation_id": "2009965725423690195",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009952714948784299",
     "source": "twitter",
     "author": "KouDis226",
