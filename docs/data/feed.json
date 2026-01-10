@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2010029841371025623",
+    "source": "twitter",
+    "author": "MertaJakub",
+    "content": "@FactoryAI 80",
+    "url": "https://x.com/MertaJakub/status/2010029841371025623",
+    "timestamp": "2026-01-10T16:43:53.000Z",
+    "metadata": {
+      "conversation_id": "2010029841371025623",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010027009393701074",
+    "source": "twitter",
+    "author": "codeandprose",
+    "content": "@FactoryAI source: https://t.co/tnNkTpvBal",
+    "url": "https://x.com/codeandprose/status/2010027009393701074",
+    "timestamp": "2026-01-10T16:32:38.000Z",
+    "metadata": {
+      "conversation_id": "2010027009393701074",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010026099363983791",
+    "source": "twitter",
+    "author": "m0nle0z",
+    "content": "@FactoryAI 1$ :3",
+    "url": "https://x.com/m0nle0z/status/2010026099363983791",
+    "timestamp": "2026-01-10T16:29:01.000Z",
+    "metadata": {
+      "conversation_id": "2010026099363983791",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010025494465720639",
+    "source": "twitter",
+    "author": "codeandprose",
+    "content": "I love the claude code harness and ecosystem, but it feels like using something like @FactoryAI and switching between any model is the sensible bet this year. https://t.co/PuveyBb4NQ",
+    "url": "https://x.com/codeandprose/status/2010025494465720639",
+    "timestamp": "2026-01-10T16:26:37.000Z",
+    "metadata": {
+      "conversation_id": "2010025494465720639",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010025075614069073",
+    "source": "twitter",
+    "author": "searchers_com",
+    "content": "@alexdoda @jadenitripp @opencode @FactoryAI So unfortunate. I don't want to try them all myself, swallow the mental load, and then still go back to Claude code after all.",
+    "url": "https://x.com/searchers_com/status/2010025075614069073",
+    "timestamp": "2026-01-10T16:24:57.000Z",
+    "metadata": {
+      "conversation_id": "2010025075614069073",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010024804330643794",
+    "source": "twitter",
+    "author": "tobwen",
+    "content": "@FactoryAI Do you also plan discounts for students?",
+    "url": "https://x.com/tobwen/status/2010024804330643794",
+    "timestamp": "2026-01-10T16:23:52.000Z",
+    "metadata": {
+      "conversation_id": "2010024804330643794",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010020719787467107",
     "source": "twitter",
     "author": "notshams",
