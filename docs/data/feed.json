@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009806535011221628",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@nathanclark_ @droid This is a great choice, I wouldn't dissuade anyone from doing that - great team and great product.\n\nFor me, I just want harness flexibility and I can't use a Factory sub with other harnesses... Zen will allow it (and now OpenAI is officially opening up); so I'll support those.",
+    "url": "https://x.com/benvargas/status/2009806535011221628",
+    "timestamp": "2026-01-10T01:56:33.000Z",
+    "metadata": {
+      "conversation_id": "2009806535011221628",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009806192290476055",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@benvargas I just @droid. Get them all. \n\nMost capable harness. \n\nNone of this extra work",
+    "url": "https://x.com/nathanclark_/status/2009806192290476055",
+    "timestamp": "2026-01-10T01:55:11.000Z",
+    "metadata": {
+      "conversation_id": "2009806192290476055",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009771384545915377",
     "source": "twitter",
     "author": "RayFernando1337",
