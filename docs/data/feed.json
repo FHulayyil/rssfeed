@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2009948770495279338",
+    "source": "twitter",
+    "author": "udaysy",
+    "content": "@ruchernchong @matanSF @FactoryAI havent tried factory ai yet. what next.js specific stuff are they claiming claude code doesnt do?",
+    "url": "https://x.com/udaysy/status/2009948770495279338",
+    "timestamp": "2026-01-10T11:21:44.000Z",
+    "metadata": {
+      "conversation_id": "2009948770495279338",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2009948077629808928",
+    "source": "twitter",
+    "author": "ruchernchong",
+    "content": "@matanSF I’m curious what optimisation @FactoryAI has over Claude Code for Next.js. Looks interesting",
+    "url": "https://x.com/ruchernchong/status/2009948077629808928",
+    "timestamp": "2026-01-10T11:18:59.000Z",
+    "metadata": {
+      "conversation_id": "2009948077629808928",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2009940818174644237",
     "source": "twitter",
     "author": "RA8AI8",
@@ -222,6 +252,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2009887813635059932",
+    "source": "twitter",
+    "author": "MjYoke1111",
+    "content": "@FactoryAI 50",
+    "url": "https://x.com/MjYoke1111/status/2009887813635059932",
+    "timestamp": "2026-01-10T07:19:31.000Z",
+    "metadata": {
+      "conversation_id": "2009887813635059932",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2009887669363319031",
