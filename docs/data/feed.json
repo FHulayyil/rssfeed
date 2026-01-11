@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2010462877501763697",
+    "source": "twitter",
+    "author": "DataDeLaurier",
+    "content": "@JsonBasedman @FactoryAI its pretty sloppy these days",
+    "url": "https://x.com/DataDeLaurier/status/2010462877501763697",
+    "timestamp": "2026-01-11T21:24:37.000Z",
+    "metadata": {
+      "conversation_id": "2010462877501763697",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010462465591804219",
+    "source": "twitter",
+    "author": "JsonBasedman",
+    "content": "@DataDeLaurier @FactoryAI smh. slop slop slop.",
+    "url": "https://x.com/JsonBasedman/status/2010462465591804219",
+    "timestamp": "2026-01-11T21:22:59.000Z",
+    "metadata": {
+      "conversation_id": "2010462465591804219",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010462326701662464",
+    "source": "twitter",
+    "author": "JsonBasedman",
+    "content": "@DataDeLaurier @FactoryAI like it just did some work for me, but the branch it created branched off of what master was like two weeks ago?? for some reason?? then merging the new changes into the most recent master induced HELLA conflicts. so i just had to abandon the whole branch",
+    "url": "https://x.com/JsonBasedman/status/2010462326701662464",
+    "timestamp": "2026-01-11T21:22:25.000Z",
+    "metadata": {
+      "conversation_id": "2010462326701662464",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010462101626839469",
+    "source": "twitter",
+    "author": "helderbuilds",
+    "content": "@JsonBasedman @DataDeLaurier @FactoryAI Cloud agents from a webapp being unusable is a classic \"works in theory, fails in practice\" problem. The latency and state management are usually the killers. Are you trying to run them for automation or just monitoring?",
+    "url": "https://x.com/helderbuilds/status/2010462101626839469",
+    "timestamp": "2026-01-11T21:21:32.000Z",
+    "metadata": {
+      "conversation_id": "2010462101626839469",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010462059276984469",
+    "source": "twitter",
+    "author": "DataDeLaurier",
+    "content": "@JsonBasedman @FactoryAI i was talking about the CLI",
+    "url": "https://x.com/DataDeLaurier/status/2010462059276984469",
+    "timestamp": "2026-01-11T21:21:22.000Z",
+    "metadata": {
+      "conversation_id": "2010462059276984469",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010462000342827111",
+    "source": "twitter",
+    "author": "DataDeLaurier",
+    "content": "@JsonBasedman @FactoryAI oh yeah, dont do that lol",
+    "url": "https://x.com/DataDeLaurier/status/2010462000342827111",
+    "timestamp": "2026-01-11T21:21:08.000Z",
+    "metadata": {
+      "conversation_id": "2010462000342827111",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010461827189330324",
+    "source": "twitter",
+    "author": "JsonBasedman",
+    "content": "@DataDeLaurier @FactoryAI trying to run cloud agents from their webapp is so bad dude. it's unusable.",
+    "url": "https://x.com/JsonBasedman/status/2010461827189330324",
+    "timestamp": "2026-01-11T21:20:26.000Z",
+    "metadata": {
+      "conversation_id": "2010461827189330324",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010461534846333307",
+    "source": "twitter",
+    "author": "DataDeLaurier",
+    "content": "@JsonBasedman @FactoryAI i like droid, you don't?\n\ntbh i am using GLM-4.7 in both CC and droid so idk if im the right person to judge...",
+    "url": "https://x.com/DataDeLaurier/status/2010461534846333307",
+    "timestamp": "2026-01-11T21:19:17.000Z",
+    "metadata": {
+      "conversation_id": "2010461534846333307",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010460613466787972",
     "source": "twitter",
     "author": "JsonBasedman",
