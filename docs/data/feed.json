@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2010500055116263700",
+    "source": "twitter",
+    "author": "nisargjain108",
+    "content": "@adamdotdev @FactoryAI I should add that if I have to decide where to put my $200, benchmarking helps a ton. If it wasn't for benchmarking i wouldn't have realized opencode didn't have thinking enabled for claude models until a couple weeks ago. Very strange.",
+    "url": "https://x.com/nisargjain108/status/2010500055116263700",
+    "timestamp": "2026-01-11T23:52:21.000Z",
+    "metadata": {
+      "conversation_id": "2010500055116263700",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010498148020670807",
+    "source": "twitter",
+    "author": "nisargjain108",
+    "content": "@adamdotdev Opencode is about to learn very hard lessons on what it means to be a token reseller. Droid has done a decent job so far. Zen is cute. How well Black does compared to @FactoryAI Droid max is yet to be seen.",
+    "url": "https://x.com/nisargjain108/status/2010498148020670807",
+    "timestamp": "2026-01-11T23:44:46.000Z",
+    "metadata": {
+      "conversation_id": "2010498148020670807",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010492041437073615",
     "source": "twitter",
     "author": "justjayvi",
