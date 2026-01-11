@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2010486747444953357",
+    "source": "twitter",
+    "author": "amariokoro",
+    "content": "I'm having issues with @FactoryAI, and support isn't responding. Does anyone know who I can contact?",
+    "url": "https://x.com/amariokoro/status/2010486747444953357",
+    "timestamp": "2026-01-11T22:59:28.000Z",
+    "metadata": {
+      "conversation_id": "2010486747444953357",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_579",
     "source": "github",
     "author": "abhid1234",
