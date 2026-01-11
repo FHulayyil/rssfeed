@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_579",
+    "source": "github",
+    "author": "abhid1234",
+    "content": "[Issue] panic(main thread): Segmentation fault at address 0x7FFF46505925 oh no: Bun has crashed. This indicates a bug in Bun, not your code.\n\nBun v1.3.3 ([`274e01c`](<https://github.com/oven-sh/bun/tree/274e01c737e85f8142070a9745b43a2ba09fce4c>)) on linux x86_64 [_]\n\nSegmentation fault at address 0x7FFF46505925\n\n- [`ld-temp.o:0`](<https://github.com/oven-sh/bun/blob/274e01c737e85f8142070a9745b43a2ba09fce4c/ld-temp.o#L0>): `wasm_trampoline_wasm_ipint_call_wide32`\n- [`ld-temp.o:0`](<https://github.com/oven-sh/bun/blob/274e01c737e85f8142070a9745b43a2ba09fce4c/ld-temp.o#L0>): `wasm_trampoline_wasm_ipint_call_wide32`\n- [`ld-temp.o:0`](<htt",
+    "url": "https://github.com/Factory-AI/factory/issues/579",
+    "timestamp": "2026-01-11T22:44:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 579
+    }
+  },
+  {
     "id": "twitter_2010467788008071679",
     "source": "twitter",
     "author": "_ueaj",
