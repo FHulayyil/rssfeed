@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_2010490043769508320",
+    "source": "twitter",
+    "author": "DhruvAtreja1",
+    "content": "@adamdotdev Because harnesses get less important as the models get smarter? I personally enjoy @FactoryAI ‘s engineering blogs tho",
+    "url": "https://x.com/DhruvAtreja1/status/2010490043769508320",
+    "timestamp": "2026-01-11T23:12:34.000Z",
+    "metadata": {
+      "conversation_id": "2010490043769508320",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1qae7g8",
+    "source": "reddit",
+    "author": "KORO__mhdi",
+    "content": "Factory AI charged my card despite a $520 credit balance\n\nI just got hit with a $20 charge for a \"Team Plan Seat\" even though I have a $520.00 USD credit i got from referrals.\n\nI was told these credits would be used toward my invoices, but instead, the system completely bypassed my balance and hit my card.\n\nI haven’t used a single token yet, so I’m really hoping to get this refunded. I’ve already reached out to support but haven't heard back yet.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qae7g8/factory_ai_charged_my_card_despite_a_520_credit/",
+    "timestamp": "2026-01-11T23:10:12.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2010486747444953357",
     "source": "twitter",
     "author": "amariokoro",
