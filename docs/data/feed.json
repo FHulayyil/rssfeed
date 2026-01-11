@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2010492041437073615",
+    "source": "twitter",
+    "author": "justjayvi",
+    "content": "Hi @FactoryAI \n\nhow do i set up cerebras glm 4.7 in settings.json?\n\nCan't figure it out, getting either 404 or 400.\n\nWant to try it out to see if the speed is worth it and how it compares to opus for the same task + harness considering it's quantized",
+    "url": "https://x.com/justjayvi/status/2010492041437073615",
+    "timestamp": "2026-01-11T23:20:30.000Z",
+    "metadata": {
+      "conversation_id": "2010492041437073615",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010490043769508320",
     "source": "twitter",
     "author": "DhruvAtreja1",
