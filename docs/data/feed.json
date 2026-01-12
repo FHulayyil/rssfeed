@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2010797192261632476",
+    "source": "twitter",
+    "author": "parcadei",
+    "content": "@Cybersurfer26 @FactoryAI droid is closed source?",
+    "url": "https://x.com/parcadei/status/2010797192261632476",
+    "timestamp": "2026-01-12T19:33:04.000Z",
+    "metadata": {
+      "conversation_id": "2010797192261632476",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2010796456882717038",
+    "source": "twitter",
+    "author": "Cybersurfer26",
+    "content": "@parcadei The fact that it’s not droid @FactoryAI is a big one",
+    "url": "https://x.com/Cybersurfer26/status/2010796456882717038",
+    "timestamp": "2026-01-12T19:30:08.000Z",
+    "metadata": {
+      "conversation_id": "2010796456882717038",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010795971404562473",
     "source": "twitter",
     "author": "anthonyronning",
