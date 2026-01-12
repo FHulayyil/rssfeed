@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2010785733456638074",
+    "source": "twitter",
+    "author": "AlecMey25715067",
+    "content": "GLM 4.7 is running like hot garbage today in @FactoryAI countless failed tool calls and wacky behavior",
+    "url": "https://x.com/AlecMey25715067/status/2010785733456638074",
+    "timestamp": "2026-01-12T18:47:32.000Z",
+    "metadata": {
+      "conversation_id": "2010785733456638074",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1qb2eqg",
     "source": "reddit",
     "author": "Sea-Information-8866",
