@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2010856227878862959",
+    "source": "twitter",
+    "author": "cloudxdev",
+    "content": "Just migrated a frontend from Vite to Nextjs with one shot prompt\nModel: @MiniMax_AI M2.1\nAgent CLI: @FactoryAI droid\n\nPrompt:\n\"\"\"\nMigrate this repo’s frontend from Vite to Next.js (App Router). Preserve all existing user-visible behavior and keep existing backend/auth/data integrations working as-is.\n\nWorkflow:\n1) Do a read-only inventory (entrypoints, routing/state, env vars, providers, CSS, TS/ESLint, build scripts) and propose a step-by-step plan with file paths + checkpoints. Wait for my approval.\n2) Implement the plan end-to-end with minimal diffs.\n\nMust-haves:\n- Rename env vars: VITE_* → NEXT_PUBLIC_* and update code references; never expose secrets via NEXT_PUBLIC_.*\n- Fix SSR/hydration issues: find any browser-only usage (localStorage/window/document) and refactor so it never runs during server render.\n- Move app bootstrap/providers into Next (root layout + a client Providers component).\n- Import global CSS only from the root layout; remove any #root assumptions.\n- Update npm scripts for Next dev/build/start; remove Vite-only files/config once Next works.\n- Update TypeScript + ESLint to be Next-compatible.\n\nValidation gate (required): run lint + typecheck + production build; fix failures before finishing.\n\nDeliverables: summary of changes + exact commands to run dev and build.\n\"\"\"",
+    "url": "https://x.com/cloudxdev/status/2010856227878862959",
+    "timestamp": "2026-01-12T23:27:39.000Z",
+    "metadata": {
+      "conversation_id": "2010856227878862959",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010838102286164091",
     "source": "twitter",
     "author": "JohnThilen",
