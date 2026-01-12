@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2010557916978507803",
+    "source": "twitter",
+    "author": "hdiesel_",
+    "content": "Started to run PR's through @FactoryAI before merging as a manual QA loop. Then feeding the response from the Droid back to the terminal I'm working in. Might be a good addition for RALPH-AGI? Multi-agent adversarial architectures. Different LLM's acting as a builder + critic? https://t.co/cKBRSNpoMC",
+    "url": "https://x.com/hdiesel_/status/2010557916978507803",
+    "timestamp": "2026-01-12T03:42:16.000Z",
+    "metadata": {
+      "conversation_id": "2010557916978507803",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_580",
     "source": "github",
     "author": "fanorama",
