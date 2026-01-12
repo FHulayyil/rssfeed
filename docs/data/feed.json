@@ -16,6 +16,21 @@
     "category": "bug"
   },
   {
+    "id": "twitter_2010761193334718683",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "@om_patel5 nope fine with @opencode and @droid",
+    "url": "https://x.com/moinulmoin/status/2010761193334718683",
+    "timestamp": "2026-01-12T17:10:01.000Z",
+    "metadata": {
+      "conversation_id": "2010761193334718683",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010734570161987693",
     "source": "twitter",
     "author": "omair_khalid",
@@ -60,6 +75,21 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2010684952862736387",
+    "source": "twitter",
+    "author": "SazidAlBayazid",
+    "content": "@claudeai @opencode @droid and other #AICodingTools specially #cli . Windows powershell have almost equivalent command set to linux/mac. Then why don't instruct your ai agents to use them? Instead they often try to use linux like commands, fails, and hallucinate!",
+    "url": "https://x.com/SazidAlBayazid/status/2010684952862736387",
+    "timestamp": "2026-01-12T12:07:04.000Z",
+    "metadata": {
+      "conversation_id": "2010684952862736387",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2010669410525360537",
@@ -220,6 +250,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2010627667658424339",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "Back after a ~6 week break. So far behind. First thing I noticed is that @droid now longer prints the spec on screen, you have to ask. Maybe user error but weird 🤷‍♂️",
+    "url": "https://x.com/launchaddict/status/2010627667658424339",
+    "timestamp": "2026-01-12T08:19:26.000Z",
+    "metadata": {
+      "conversation_id": "2010627667658424339",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2010603501643288744",
