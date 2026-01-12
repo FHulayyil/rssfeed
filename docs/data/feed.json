@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2010856973198377434",
+    "source": "twitter",
+    "author": "cloudxdev",
+    "content": "How to setup @MiniMax_AI M2.1 with @FactoryAI droid:\n1- Open up ~/.factory/config.json and add this:\n{\n    \"custom_models\": [\n        {\n            \"model_display_name\": \"MiniMax-M2.1\",\n            \"model\": \"MiniMax-M2.1\",\n            \"base_url\": \"https://api.minimax .io/anthropic\",\n            \"api_key\": \"<MINIMAX_API_KEY>\",\n            \"provider\": \"anthropic\",\n            \"max_tokens\": 64000\n        }\n    ]\n}\n\nMINIMAX_API_KEY should be Coding Plan API KEY. Not the general use api key for other endpoints.\n2- Navigate to your project and start interactive session with \"droid\" command\n3- Enter /model, select the “MiniMax-M2.1” model and use it in Droid.",
+    "url": "https://x.com/cloudxdev/status/2010856973198377434",
+    "timestamp": "2026-01-12T23:30:36.000Z",
+    "metadata": {
+      "conversation_id": "2010856973198377434",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010856227878862959",
     "source": "twitter",
     "author": "cloudxdev",
