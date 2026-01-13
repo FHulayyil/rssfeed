@@ -14768,6 +14768,19 @@
     "category": "question"
   },
   {
+    "id": "reddit_1q1tzko",
+    "source": "reddit",
+    "author": "OGDusky",
+    "content": "Using Factory with AWS Bedrock BYOK?\n\nThe docs mention using AWS Bedrock as a cloud provider in the BYOK section but doesn't mention how to set this up e.g. with config.json, anyone know how its possible to set this up?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q1tzko/using_factory_with_aws_bedrock_byok/",
+    "timestamp": "2026-01-02T09:09:04.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2007016188124213541",
     "source": "twitter",
     "author": "badlogicgames",
