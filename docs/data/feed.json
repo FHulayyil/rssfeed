@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_2011211357690216673",
+    "source": "twitter",
+    "author": "pvncher",
+    "content": "@EnoReyes @erd0xbc @AmpCode @claudeai @FactoryAI @droid @RepoPrompt I think droid defaults to 60 or 300s for mcp tool calls and I don’t believe there’s a config to raise it.\n\nRepo prompt triggers agents and model calls, and sometimes it can go for more than 20 min, so the defaults are way too low.\n\nClaude code defaults to 900s",
+    "url": "https://x.com/pvncher/status/2011211357690216673",
+    "timestamp": "2026-01-13T22:58:48.000Z",
+    "metadata": {
+      "conversation_id": "2011211357690216673",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_586",
+    "source": "github",
+    "author": "umairimtiaz9",
+    "content": "[Issue] [URGENT] provide a way to disable auto update\n\nAdd a way to disable the auto update. because it sucks when you just open it and it starts auto uodating.",
+    "url": "https://github.com/Factory-AI/factory/issues/586",
+    "timestamp": "2026-01-13T22:56:34Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 586
+    }
+  },
+  {
     "id": "twitter_2011202607977775459",
     "source": "twitter",
     "author": "EnoReyes",
