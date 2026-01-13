@@ -21430,6 +21430,19 @@
     "category": "question"
   },
   {
+    "id": "reddit_1oazqru",
+    "source": "reddit",
+    "author": "[deleted]",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -21442,6 +21455,110 @@
       "number": 214
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o8tf0s",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o8t9pq",
+    "source": "reddit",
+    "author": "raghav0610",
+    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
+    "timestamp": "2025-10-17T05:47:17.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o86tci",
+    "source": "reddit",
+    "author": "mr_dudo",
+    "content": "TTY problem\n\nI’m not sure if it happened to someone else but the moment I installed droid cli I’m unable to use Claude code and opencode because it’s saying I don’t have TTY on my terminal, I’m not accusing you guys at factory but it just seemed strange to me, I’m able to run droid cli normally without colors.\n\nI have tried resetting the terminal settings and didn’t work but guess what fixed it? Uninstalling droid cli, I like droid and I’m still going to use it but I still want to use my z.ai sub of $3 when ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o86tci/tty_problem/",
+    "timestamp": "2025-10-16T13:55:41.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o6tivb",
+    "source": "reddit",
+    "author": "stevilg",
+    "content": "byok / custom_models\n\nIs Bring your own keys / custom\\_models working for anybody? I've tried a few combinations and no luck; droid never shows it on the list. Below is in my projects directory e.g. /project/.factory/config.json and I can confirm POST to [http://localhost:8317/v1/chat/completions](http://localhost:8317/v1/chat/completions) does work and so does GET to [http://localhost:8317/v1/models](http://localhost:8317/v1/models)\n\n    {\n      \"custom_models\": [\n        {\n          \"model_display_name\": \"qwen3-cod",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6tivb/byok_custom_models/",
+    "timestamp": "2025-10-14T22:13:49.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o6jgc5",
+    "source": "reddit",
+    "author": "Kindly_District",
+    "content": "attach a image to the droid cli?\n\nIs there a way to attach a design image to the droid cli?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o6jgc5/attach_a_image_to_the_droid_cli/",
+    "timestamp": "2025-10-14T15:58:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o4l3cj",
+    "source": "reddit",
+    "author": "unidotnet",
+    "content": "Is droid based on kode?\n\nA reversed Claude Code? \nJust curious , Droid is an awesome product. Hope the token/pricing model will be consistent",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o4l3cj/is_droid_based_on_kode/",
+    "timestamp": "2025-10-12T09:55:28.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o4l33a",
+    "source": "reddit",
+    "author": "[deleted]",
+    "content": "Droid vs KiloCode.. help explain differences if possible\n\nJust trying out Droid now, and I like it so far. Its very similar to Claude Code. Which I really liked.\n\nTrying to better understand if I should embrace KiloCode and figure it out, or stick to this Droid CLI tool. Clearly in the FactoryAI reddit one would say \"Stay with Droid CLI\". But hoping for some honest answers. In particular, I really like the multi mode setup of KiloCode.. ability to choose different models for each and use the Orchestrator to instruct it and it auto switches to different",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o4l33a/droid_vs_kilocode_help_explain_differences_if/",
+    "timestamp": "2025-10-12T09:55:02.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_discussion_164",
@@ -21470,6 +21587,19 @@
       "number": 151
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1o16e9t",
+    "source": "reddit",
+    "author": "ccomeon",
+    "content": "Droids orchestration?\n\nI just trying out Factory AI and CLI really impressed me.\n\nBut why I would like to try factory ai since I heard the droids can work with each others. \nIn my mind, like the product droid can take a lead on planning and assign tasks to code droids and finish the program.\n\nBut neither in cli nor the web platform, i can find a place to achieve this flow.\n\nCan someone enlighten me how to do that? or actually i have to set up api to call factory AI in different stages to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o16e9t/droids_orchestration/",
+    "timestamp": "2025-10-08T10:07:09.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "github_discussion_108",
