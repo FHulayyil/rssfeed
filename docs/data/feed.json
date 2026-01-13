@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011047951854866694",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "All right, so seems like we're all slinging agents around and coding from the terminal. Thought it'd be a good time to share one feature I think is great if you're using Droids in @FactoryAI.\n\nThey have agent readiness levels from 1 through 5, which basically makes your codebase ready for agents.\n\nFor Solo projects you probably only need the first couple of levels. But if you're working with others who are also letting Ralph Wiggum loose? You're gonna want to push closer to 4/5.\n\nThe higher you go, the more durable your projects become — fewer bugs, fewer security issues, and a solid harness for your agents to work within.\n\nJust found it super interesting! Nice work @matanSF @EnoReyes \n\np.s. go read the gigapost by @bentossell for more goodness.",
+    "url": "https://x.com/tomosman/status/2011047951854866694",
+    "timestamp": "2026-01-13T12:09:29.000Z",
+    "metadata": {
+      "conversation_id": "2011047951854866694",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011034401367298372",
     "source": "twitter",
     "author": "moinulmoin",
