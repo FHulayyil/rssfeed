@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2011215317352255908",
+    "source": "twitter",
+    "author": "pvncher",
+    "content": "@EnoReyes @erd0xbc @AmpCode @claudeai @FactoryAI @droid @RepoPrompt Awesome! Good defaults go a long way.\nIdk if you fixed the other issue with stdio servers where they don’t work if you add that flag type, but if you put nothing they do.",
+    "url": "https://x.com/pvncher/status/2011215317352255908",
+    "timestamp": "2026-01-13T23:14:32.000Z",
+    "metadata": {
+      "conversation_id": "2011215317352255908",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011214563732263330",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@delaanthonio @levelsio @FactoryAI Shipping shortly!",
+    "url": "https://x.com/EnoReyes/status/2011214563732263330",
+    "timestamp": "2026-01-13T23:11:33.000Z",
+    "metadata": {
+      "conversation_id": "2011214563732263330",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011214514264670276",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@pvncher @erd0xbc @AmpCode @claudeai @FactoryAI @droid @RepoPrompt Cool thanks - gonna fix this!",
+    "url": "https://x.com/EnoReyes/status/2011214514264670276",
+    "timestamp": "2026-01-13T23:11:21.000Z",
+    "metadata": {
+      "conversation_id": "2011214514264670276",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011213971806961866",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@pvncher @EnoReyes @AmpCode @claudeai @FactoryAI @droid @RepoPrompt Example of what I configured in Amp",
+    "url": "https://x.com/erd0xbc/status/2011213971806961866",
+    "timestamp": "2026-01-13T23:09:12.000Z",
+    "metadata": {
+      "conversation_id": "2011213971806961866",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011213085235978669",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@EnoReyes @levelsio @FactoryAI I like the permission model of factory Droid over CC, but I wish Droid supported the question tool similar to CC to streamline feature development.",
+    "url": "https://x.com/delaanthonio/status/2011213085235978669",
+    "timestamp": "2026-01-13T23:05:40.000Z",
+    "metadata": {
+      "conversation_id": "2011213085235978669",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011211357690216673",
     "source": "twitter",
     "author": "pvncher",
