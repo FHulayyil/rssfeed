@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011200953102295463",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@EnoReyes Basically moved to @AmpCode and back to @claudeai code (Max plan). I need to copy over my skills and AGENTS md files and give @FactoryAI.\n\nRight now I mainly use @droid to trigger /review. Primary pain point is not having long timeouts so I can use @RepoPrompt.",
+    "url": "https://x.com/erd0xbc/status/2011200953102295463",
+    "timestamp": "2026-01-13T22:17:28.000Z",
+    "metadata": {
+      "conversation_id": "2011200953102295463",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011190085979402650",
     "source": "twitter",
     "author": "ChaosCruxFL",
