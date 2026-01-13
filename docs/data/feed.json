@@ -78,6 +78,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2010863086258012394",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "With all of this time now spent with @cursor_ai, @opencode, @droid, @geminicli, & @OpenAI Codex, I've come to appreciate even more just how well @NotionHQ has put the models to work as agents. \n\nThis isn't me comparing feature limitations or tool intent but simply how reliable and well these models are being directed in the context of their product. \n\nThere's a lot of talk on X about which CLI-tool has the best harness for Opus 4.5 et al, but I bet Notion product/eng teams are spending just as much time on what amounts to their own harness. \n\nI'm having a ton of fun building with these other tools but I'm still so go glad my main work and personal steup is built on Notion; because their product sensibility is really shining in this regard.",
+    "url": "https://x.com/nathanclark_/status/2010863086258012394",
+    "timestamp": "2026-01-12T23:54:54.000Z",
+    "metadata": {
+      "conversation_id": "2010863086258012394",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010856973198377434",
     "source": "twitter",
     "author": "cloudxdev",
