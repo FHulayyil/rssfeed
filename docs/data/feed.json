@@ -64,6 +64,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2011172248766255264",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@KirkMarple @droid Lfg. Love to hear it",
+    "url": "https://x.com/matanSF/status/2011172248766255264",
+    "timestamp": "2026-01-13T20:23:24.000Z",
+    "metadata": {
+      "conversation_id": "2011172248766255264",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011171967966024095",
+    "source": "twitter",
+    "author": "KirkMarple",
+    "content": "@matanSF Compaction is the #1 thing that keeps me on @droid \n\nI’ve gone back and tested CC over the months and keep coming back to Droid.  Even with Opus 4.5, CC just seems to have such a tiny context in comparison; compacting so much more often.",
+    "url": "https://x.com/KirkMarple/status/2011171967966024095",
+    "timestamp": "2026-01-13T20:22:17.000Z",
+    "metadata": {
+      "conversation_id": "2011171967966024095",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011170925186576888",
     "source": "twitter",
     "author": "SEDIDEL",
