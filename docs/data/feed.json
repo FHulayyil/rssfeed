@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011142290535035021",
+    "source": "twitter",
+    "author": "aroussi",
+    "content": "If I had a cent for every time I had @FactoryAI clean up after Claude Code, I'd have around $100. That's a lot.",
+    "url": "https://x.com/aroussi/status/2011142290535035021",
+    "timestamp": "2026-01-13T18:24:21.000Z",
+    "metadata": {
+      "conversation_id": "2011142290535035021",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011141462713647131",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@levelsio You should try out @FactoryAI CLI. We have autonomy levels that you set once (low, med, high) that give you a spectrum of controls. And we have a model-agnostic harness that most find equal/more compelling than CC + Codex. \n\nhttps://t.co/qdaivr7msj",
+    "url": "https://x.com/EnoReyes/status/2011141462713647131",
+    "timestamp": "2026-01-13T18:21:04.000Z",
+    "metadata": {
+      "conversation_id": "2011141462713647131",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_585",
     "source": "github",
     "author": "bogorad",
