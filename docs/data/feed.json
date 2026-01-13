@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_583",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] mcp tools error\n\n<img width=\"724\" height=\"484\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d9581efe-9169-4244-9053-9393abb0daf8\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/583",
+    "timestamp": "2026-01-13T02:07:29Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 583
+    }
+  },
+  {
+    "id": "twitter_2010888939708825890",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@FactoryAI Do we get the full 1M context window with Gemini Flash and Pro? Or is it 200k across models on Droid?\n\nThe context window fills up pretty quickly. It still rocks, just curious!",
+    "url": "https://x.com/Alberto8793/status/2010888939708825890",
+    "timestamp": "2026-01-13T01:37:38.000Z",
+    "metadata": {
+      "conversation_id": "2010888939708825890",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2010884753055171011",
     "source": "twitter",
     "author": "stefanboesen",
