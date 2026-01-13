@@ -21440,7 +21440,8 @@
       "score": 6,
       "num_comments": 6,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_214",
@@ -21467,7 +21468,8 @@
       "score": 2,
       "num_comments": 6,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1o8tf0s",
@@ -21480,7 +21482,8 @@
       "score": 3,
       "num_comments": 4,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "reddit_1o8t9pq",
@@ -21493,7 +21496,8 @@
       "score": 2,
       "num_comments": 3,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "reddit_1o86tci",
@@ -21506,7 +21510,8 @@
       "score": 1,
       "num_comments": 1,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "reddit_1o6tivb",
@@ -21519,7 +21524,8 @@
       "score": 3,
       "num_comments": 6,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "reddit_1o6jgc5",
@@ -21532,7 +21538,8 @@
       "score": 1,
       "num_comments": 4,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1o4l3cj",
@@ -21545,7 +21552,8 @@
       "score": 1,
       "num_comments": 0,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1o4l33a",
@@ -21558,7 +21566,8 @@
       "score": 3,
       "num_comments": 0,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_164",
@@ -21599,7 +21608,8 @@
       "score": 4,
       "num_comments": 6,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_108",
