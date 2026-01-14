@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2011509865945186330",
+    "source": "twitter",
+    "author": "romainhuet",
+    "content": "@FactoryAI Excited to try GPT-5.2-Codex in Droid!",
+    "url": "https://x.com/romainhuet/status/2011509865945186330",
+    "timestamp": "2026-01-14T18:44:58.000Z",
+    "metadata": {
+      "conversation_id": "2011509865945186330",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011508641363583021",
+    "source": "twitter",
+    "author": "Timur_Yessenov",
+    "content": "the multi-file change capability is underrated\n\nmost ai coding complaints come from people trying to get models to edit one file at a time, then manually stitching everything together\n\ntrue agentic coding means the model understands the entire codebase context, not just one file in isolation",
+    "url": "https://x.com/Timur_Yessenov/status/2011508641363583021",
+    "timestamp": "2026-01-14T18:40:06.000Z",
+    "metadata": {
+      "conversation_id": "2011508641363583021",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011507805493108908",
+    "source": "twitter",
+    "author": "0xKrop",
+    "content": "@FactoryAI This is absolute madness.",
+    "url": "https://x.com/0xKrop/status/2011507805493108908",
+    "timestamp": "2026-01-14T18:36:47.000Z",
+    "metadata": {
+      "conversation_id": "2011507805493108908",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011507512147603788",
+    "source": "twitter",
+    "author": "blueemi99",
+    "content": "@FactoryAI login via chatgpt plan when?",
+    "url": "https://x.com/blueemi99/status/2011507512147603788",
+    "timestamp": "2026-01-14T18:35:37.000Z",
+    "metadata": {
+      "conversation_id": "2011507512147603788",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011503777581527524",
     "source": "twitter",
     "author": "KoretoffJohn",
