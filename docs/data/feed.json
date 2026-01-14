@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011495933062586625",
+    "source": "twitter",
+    "author": "tris_does_stuff",
+    "content": "@steipete @jkaartinen @thsottiaux @kmdrfx @FactoryAI I know haha, but I only have 1 Pro subscription so I've been forced to use Claude for the past couple of days until my limits reset. 19:25 CET tomorrow can't come fast enough",
+    "url": "https://x.com/tris_does_stuff/status/2011495933062586625",
+    "timestamp": "2026-01-14T17:49:36.000Z",
+    "metadata": {
+      "conversation_id": "2011495933062586625",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011494530139185465",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@tris_does_stuff @jkaartinen @thsottiaux @kmdrfx @FactoryAI switch to codex. flickering stops",
+    "url": "https://x.com/steipete/status/2011494530139185465",
+    "timestamp": "2026-01-14T17:44:02.000Z",
+    "metadata": {
+      "conversation_id": "2011494530139185465",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011482217898217766",
     "source": "twitter",
     "author": "MarkNicoll6",
