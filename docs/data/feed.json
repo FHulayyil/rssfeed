@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_discussion_588",
+    "source": "github",
+    "author": "rstander7777",
+    "content": "[Discussion] Option to disable TodoWrite as it is interfering with my own tasks lists\n\nHi,\r\n\r\nI need a way to disable ALL built in tool calls even TodoWrite. \r\n\r\nThe TodoWrite is interfering with my local file based task list. The LLMs uses your TodoWrite tool and then does not update my task list.",
+    "url": "https://github.com/Factory-AI/factory/discussions/588",
+    "timestamp": "2026-01-14T19:09:16Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 588
+    }
+  },
+  {
     "id": "twitter_2011512018822746116",
     "source": "twitter",
     "author": "laurenmhreeder",
@@ -112,6 +125,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2011504821879050355",
+    "source": "twitter",
+    "author": "0x_krippy",
+    "content": "@droid Hey droid",
+    "url": "https://x.com/0x_krippy/status/2011504821879050355",
+    "timestamp": "2026-01-14T18:24:56.000Z",
+    "metadata": {
+      "conversation_id": "2011504821879050355",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011503777581527524",
     "source": "twitter",
     "author": "KoretoffJohn",
@@ -142,6 +170,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2011503367495819291",
+    "source": "twitter",
+    "author": "chillzaza_",
+    "content": "@EnoReyes @droid 🚀",
+    "url": "https://x.com/chillzaza_/status/2011503367495819291",
+    "timestamp": "2026-01-14T18:19:09.000Z",
+    "metadata": {
+      "conversation_id": "2011503367495819291",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011503246679121927",
