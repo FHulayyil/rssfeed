@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2011367107821486096",
+    "source": "twitter",
+    "author": "tris_does_stuff",
+    "content": "@steipete @thsottiaux @kmdrfx @FactoryAI @clawdbot Codex could fix Ink. \n\nLoving Clawdbot btw 🦞",
+    "url": "https://x.com/tris_does_stuff/status/2011367107821486096",
+    "timestamp": "2026-01-14T09:17:42.000Z",
+    "metadata": {
+      "conversation_id": "2011367107821486096",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011366372845191321",
+    "source": "twitter",
+    "author": "steipete",
+    "content": "@tris_does_stuff @thsottiaux @kmdrfx @FactoryAI Ink, the thing everyone uses in TypeScript.\n\nExcept @clawdbot or pi\n(yes clawd is a tui too lol)",
+    "url": "https://x.com/steipete/status/2011366372845191321",
+    "timestamp": "2026-01-14T09:14:47.000Z",
+    "metadata": {
+      "conversation_id": "2011366372845191321",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011365895676006607",
+    "source": "twitter",
+    "author": "tris_does_stuff",
+    "content": "@thsottiaux @steipete @kmdrfx Flickering is like 20% of the reason why I moved to Codex. I don't understand why they can't fix it. @FactoryAI Droid has this issue sometimes too. Something to do with Codex being in rust?",
+    "url": "https://x.com/tris_does_stuff/status/2011365895676006607",
+    "timestamp": "2026-01-14T09:12:53.000Z",
+    "metadata": {
+      "conversation_id": "2011365895676006607",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011365187228778823",
+    "source": "twitter",
+    "author": "wagmiteth",
+    "content": "@FactoryAI @jadenitripp @luke_alvoeiro 👍 My screenshots are from Safari on iPhone 16.",
+    "url": "https://x.com/wagmiteth/status/2011365187228778823",
+    "timestamp": "2026-01-14T09:10:04.000Z",
+    "metadata": {
+      "conversation_id": "2011365187228778823",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011356616172683580",
     "source": "twitter",
     "author": "AriesTheCoder",
