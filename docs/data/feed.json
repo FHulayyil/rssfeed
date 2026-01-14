@@ -10,7 +10,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 588
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2011512018822746116",
@@ -137,7 +138,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2011503777581527524",
@@ -184,7 +186,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2011503246679121927",
