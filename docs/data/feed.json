@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011438600806977789",
+    "source": "twitter",
+    "author": "heyyamith",
+    "content": "@aroussi @FactoryAI Is sonnet and Opus models still available in @FactoryAI ? After claude code limited the API usage policy??",
+    "url": "https://x.com/heyyamith/status/2011438600806977789",
+    "timestamp": "2026-01-14T14:01:47.000Z",
+    "metadata": {
+      "conversation_id": "2011438600806977789",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011434322931351735",
     "source": "twitter",
     "author": "RahulVerma989",
