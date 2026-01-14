@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011554996513599908",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@FactoryAI We posted a blog about this: https://t.co/mlP17a6bZh",
+    "url": "https://x.com/alvinsng/status/2011554996513599908",
+    "timestamp": "2026-01-14T21:44:18.000Z",
+    "metadata": {
+      "conversation_id": "2011554996513599908",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011554899524534427",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "It’s interesting seeing people surprised by this. At @FactoryAI, we’ve always done this, but we took it a step further.\n\nWe don’t just prompt agents with guides; we codify those guides into strict lint rules. Systematic validation with actionable errors is how we guarantee best practices, automatically.",
+    "url": "https://x.com/alvinsng/status/2011554899524534427",
+    "timestamp": "2026-01-14T21:43:55.000Z",
+    "metadata": {
+      "conversation_id": "2011554899524534427",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011551833047908748",
     "source": "twitter",
     "author": "Jborgwing",
