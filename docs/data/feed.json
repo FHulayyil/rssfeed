@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011586025999778025",
+    "source": "twitter",
+    "author": "senor_rose",
+    "content": "@theplgeek @FactoryAI @droid @bentossell After PRD generation, I keep getting stuck. It says select [1] to continue but it won't let me and keeps saying user stories didn't generate. I'm then stuck with Claude trying to help without moving forward in the process. Pls help 😅",
+    "url": "https://x.com/senor_rose/status/2011586025999778025",
+    "timestamp": "2026-01-14T23:47:36.000Z",
+    "metadata": {
+      "conversation_id": "2011586025999778025",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011585825826619480",
     "source": "twitter",
     "author": "theplgeek",
