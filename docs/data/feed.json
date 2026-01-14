@@ -19640,6 +19640,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_214",
+    "source": "github",
+    "author": "0xStuart",
+    "content": "[Discussion] JetBrains Plugin\n\nThe documentation says there is a JetBrains Plugin in the marketplace, but I can't find it.",
+    "url": "https://github.com/Factory-AI/factory/discussions/214",
+    "timestamp": "2025-10-19T19:55:35Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 214
+    }
+  },
+  {
     "id": "github_discussion_164",
     "source": "github",
     "author": "tgerighty",
