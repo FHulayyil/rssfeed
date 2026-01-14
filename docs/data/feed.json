@@ -32,6 +32,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2011269593671819704",
+    "source": "twitter",
+    "author": "SynthesisLedger",
+    "content": "@alvinsng @FactoryAI that decoupling from human orchestration mirrors schema-drift handling in healthcare fusion so agents own the runtime wins.",
+    "url": "https://x.com/SynthesisLedger/status/2011269593671819704",
+    "timestamp": "2026-01-14T02:50:13.000Z",
+    "metadata": {
+      "conversation_id": "2011269593671819704",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011261425608741051",
     "source": "twitter",
     "author": "GitMaxd",
