@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011398142177284599",
+    "source": "twitter",
+    "author": "brooksy4503",
+    "content": "@iannuttall @FactoryAI Got it, love the agent-first focus. Gonna test it on some repos, thanks for building this!",
+    "url": "https://x.com/brooksy4503/status/2011398142177284599",
+    "timestamp": "2026-01-14T11:21:01.000Z",
+    "metadata": {
+      "conversation_id": "2011398142177284599",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011397415266378162",
+    "source": "twitter",
+    "author": "iannuttall",
+    "content": "I just rebuilt https://t.co/Syo5tw2mYL (with Ralph) specifically for use by AI agents who want markdown, not humans\n\naccording to @FactoryAI 57% of all URLs fetched by droid agents were to GitHub, but they don't return markdown or agent-friendly content\n\nCodebase now:\n\n- Returns markdown by default, only returns HTML if a client asks for it (like a web browser)\n- Gives an agent-friendly overview of the repo, with AI generated readme summary and access to full file tree\n- Lets agents search with natural language to understand a repo\n\nJust prefix any GH URL, i.e:\n\ncodebase.⁠md/https://github.⁠com/iannuttall/mcp-boilerplate\n\nThe entire app is built on @CloudflareDev:\n\n- Durable Objects\n- Workers AI\n- AI Search\n- R2 buckets\n- D1 databases\n- KV namespaces\n- Queues\n\nTry it out and lmk what you think. SKILL.⁠md is coming soon",
+    "url": "https://x.com/iannuttall/status/2011397415266378162",
+    "timestamp": "2026-01-14T11:18:08.000Z",
+    "metadata": {
+      "conversation_id": "2011397415266378162",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011391456334770480",
     "source": "twitter",
     "author": "steipete",
