@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011481310473191598",
+    "source": "twitter",
+    "author": "tris_does_stuff",
+    "content": "@jkaartinen @thsottiaux @steipete @kmdrfx @FactoryAI I'm using Ghostty, any suggestions?",
+    "url": "https://x.com/tris_does_stuff/status/2011481310473191598",
+    "timestamp": "2026-01-14T16:51:30.000Z",
+    "metadata": {
+      "conversation_id": "2011481310473191598",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011475426208604587",
     "source": "twitter",
     "author": "jkaartinen",
