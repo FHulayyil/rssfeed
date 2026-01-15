@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011868489884094855",
+    "source": "twitter",
+    "author": "pedronauck",
+    "content": "@iannuttall @bentossell @droid Droid is amazing, and it's already in our roadmap to implement it as provider as well, I was just trying to get some feedbacks here 😅",
+    "url": "https://x.com/pedronauck/status/2011868489884094855",
+    "timestamp": "2026-01-15T18:30:01.000Z",
+    "metadata": {
+      "conversation_id": "2011868489884094855",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011867765905219766",
+    "source": "twitter",
+    "author": "iannuttall",
+    "content": "@bentossell @pedronauck @droid UNO REVERSE",
+    "url": "https://x.com/iannuttall/status/2011867765905219766",
+    "timestamp": "2026-01-15T18:27:08.000Z",
+    "metadata": {
+      "conversation_id": "2011867765905219766",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011867577065329048",
     "source": "twitter",
     "author": "butforreal14765",
@@ -48,6 +78,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2011866137730937278",
+    "source": "twitter",
+    "author": "pedronauck",
+    "content": "@bentossell @droid I sent you a DM Ben, I guess we can have a nice opportunity for you guys here in Brazil to hype Droid not just on Compozy, but in our AI course that we have more than 1000+ students now 🙏🏻",
+    "url": "https://x.com/pedronauck/status/2011866137730937278",
+    "timestamp": "2026-01-15T18:20:40.000Z",
+    "metadata": {
+      "conversation_id": "2011866137730937278",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011865516944552290",
     "source": "twitter",
     "author": "alvinsng",
@@ -80,6 +125,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2011865262471959011",
+    "source": "twitter",
+    "author": "pedronauck",
+    "content": "yeah, I already gave a extensively look on this, we are doing OpenCode integration now and them you guys are the next. There are just small blockings we have to be able to fully integrate, like be able to pass stuff more programatically instead of needs to create config files on the fly",
+    "url": "https://x.com/pedronauck/status/2011865262471959011",
+    "timestamp": "2026-01-15T18:17:11.000Z",
+    "metadata": {
+      "conversation_id": "2011865262471959011",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011864624975487366",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@pedronauck @droid what do you need? \n\nwe have headless mode https://t.co/L6XWSisW45",
+    "url": "https://x.com/bentossell/status/2011864624975487366",
+    "timestamp": "2026-01-15T18:14:39.000Z",
+    "metadata": {
+      "conversation_id": "2011864624975487366",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011862060125340007",
     "source": "twitter",
     "author": "alvinsng",
@@ -94,6 +169,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2011858577841897867",
+    "source": "twitter",
+    "author": "Billanueba466",
+    "content": "Been testing @MiniMax_AI M2.1 with @opencode Claude-Code, and @droid and then switched back again to Claude-Opus 4.5 to feel if there’s difference.\nResult: \n🥇MiniMax M2.1 with Claude-Code\n🥈MiniMax M2.1 with Droid (needs more parallel agents)\n🥉MiniMax M2.1 with OpenCode",
+    "url": "https://x.com/Billanueba466/status/2011858577841897867",
+    "timestamp": "2026-01-15T17:50:38.000Z",
+    "metadata": {
+      "conversation_id": "2011858577841897867",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011854839349678130",
@@ -15078,6 +15168,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1q4jahe",
+    "source": "reddit",
+    "author": "Andsss",
+    "content": "Can I use my minmax code plan API in droid?\n\nHello guys I was trying to test droid with my minmax code plan , and use minmax 2.1 in factory. But I couldn't make it work, it looks like it just works with paide as you go API and not my code plan.\n\nIs there a way for me to make this work or this  is a limitation now?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q4jahe/can_i_use_my_minmax_code_plan_api_in_droid/",
+    "timestamp": "2026-01-05T11:28:15.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2008138129027289387",
