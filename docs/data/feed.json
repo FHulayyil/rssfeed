@@ -430,6 +430,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2011686154421354545",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "@FactoryAI Day 14: Update 1\n\nMost of the major refactoring is finally wrapped. \n\nRefined the UI a little more tonight — cleaner spacing, better flow.\n\nAlso added scorecard editing (in case OCR misses something — super useful safety net).\n\nIt's getting there. Slowly but surely. https://t.co/XF4eitDCsc",
+    "url": "https://x.com/iamkevchan/status/2011686154421354545",
+    "timestamp": "2026-01-15T06:25:29.000Z",
+    "metadata": {
+      "conversation_id": "2011686154421354545",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011680081140466122",
     "source": "twitter",
     "author": "therealsatwik",
