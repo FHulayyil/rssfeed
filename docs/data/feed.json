@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011764633150050600",
+    "source": "twitter",
+    "author": "neon_acc",
+    "content": "@iannuttall @FactoryAI at this point we can say we are vibe coding addicted, well better than other addictions",
+    "url": "https://x.com/neon_acc/status/2011764633150050600",
+    "timestamp": "2026-01-15T11:37:19.000Z",
+    "metadata": {
+      "conversation_id": "2011764633150050600",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011764100192485444",
+    "source": "twitter",
+    "author": "quantumaidev",
+    "content": "@iannuttall @FactoryAI Codex consumes lower credit than Google 3 pro? Wow!",
+    "url": "https://x.com/quantumaidev/status/2011764100192485444",
+    "timestamp": "2026-01-15T11:35:12.000Z",
+    "metadata": {
+      "conversation_id": "2011764100192485444",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011760001644445792",
     "source": "twitter",
     "author": "DanielWhit21874",
@@ -126,6 +156,36 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2011742229266907395",
+    "source": "twitter",
+    "author": "iannuttall",
+    "content": "@mesky_ @FactoryAI yes but doesn’t natively support codex/claude plans etc. I think there are tools to do it but never tried \n\nhttps://t.co/d3IRtrOrnH",
+    "url": "https://x.com/iannuttall/status/2011742229266907395",
+    "timestamp": "2026-01-15T10:08:18.000Z",
+    "metadata": {
+      "conversation_id": "2011742229266907395",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011741232582787441",
+    "source": "twitter",
+    "author": "laup30",
+    "content": "@FactoryAI Droid's new GPT-5.2 Codex is IMPOSSIBLY fast, and incredibly good. Dev time just decreased by 5x... Well done @EnoReyes @matanSF @bentossell 🙌🙌🙌",
+    "url": "https://x.com/laup30/status/2011741232582787441",
+    "timestamp": "2026-01-15T10:04:20.000Z",
+    "metadata": {
+      "conversation_id": "2011741232582787441",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011740316320313657",
@@ -268,6 +328,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2011719809168523586",
+    "source": "twitter",
+    "author": "AGI_Tiramisu",
+    "content": "@EnoReyes @FactoryAI Please check. still this is happening. Its frustrating",
+    "url": "https://x.com/AGI_Tiramisu/status/2011719809168523586",
+    "timestamp": "2026-01-15T08:39:13.000Z",
+    "metadata": {
+      "conversation_id": "2011719809168523586",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011715790756855829",
+    "source": "twitter",
+    "author": "heyJordanParker",
+    "content": "@alvinsng @FactoryAI It's interesting to see Vercel's actual rules, not an overview of their rules.\n\nIt would be interesting to see your actual linters, not an overview too.",
+    "url": "https://x.com/heyJordanParker/status/2011715790756855829",
+    "timestamp": "2026-01-15T08:23:15.000Z",
+    "metadata": {
+      "conversation_id": "2011715790756855829",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011715248064287165",
