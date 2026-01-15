@@ -19761,6 +19761,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_99",
+    "source": "github",
+    "author": "Evan-Kim2028",
+    "content": "[Discussion] Droid source code\n\nIs droid closed source? I am not able to find any code. I would like to be able to see how the droid tools are implemented if the code is available to see",
+    "url": "https://github.com/Factory-AI/factory/discussions/99",
+    "timestamp": "2025-10-02T17:51:27Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 99
+    }
+  },
+  {
     "id": "github_discussion_95",
     "source": "github",
     "author": "factory-ben",
