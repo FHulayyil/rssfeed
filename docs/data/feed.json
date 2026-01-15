@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2011793307874062364",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@theplgeek @FactoryAI @droid cool to see those little updates rolling out, always something new to check out.",
+    "url": "https://x.com/BillCrosby/status/2011793307874062364",
+    "timestamp": "2026-01-15T13:31:16.000Z",
+    "metadata": {
+      "conversation_id": "2011793307874062364",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011793195080806746",
+    "source": "twitter",
+    "author": "PR3SIDENT",
+    "content": "I was really excited to start using this, but I got into a little bit of a loop in an issue yesterday which is probably my own fault…. I already had a PRD file created for my project, and I was trying to load it, but the step of loading the PRD kept asking me to make a PRD…. And I got stuck inside that context.",
+    "url": "https://x.com/PR3SIDENT/status/2011793195080806746",
+    "timestamp": "2026-01-15T13:30:49.000Z",
+    "metadata": {
+      "conversation_id": "2011793195080806746",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011792912288288941",
+    "source": "twitter",
+    "author": "MiclauMarius",
+    "content": "@theplgeek @FactoryAI @droid How many issues have you fixed for them so far?",
+    "url": "https://x.com/MiclauMarius/status/2011792912288288941",
+    "timestamp": "2026-01-15T13:29:42.000Z",
+    "metadata": {
+      "conversation_id": "2011792912288288941",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011791247199949097",
     "source": "twitter",
     "author": "jetmercader",
