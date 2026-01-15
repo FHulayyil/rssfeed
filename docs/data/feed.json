@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_593",
+    "source": "github",
+    "author": "khimaros",
+    "content": "[Issue] BYOK documentation doesn't work\n\nfollowing instructions here:\n\nhttps://docs.factory.ai/cli/byok/google-gemini\n\n```json\n{\n  \"logoAnimation\": \"off\",\n  \"customModels\": [\n    {\n      \"model\": \"gemini-3-pro-preview\",\n      \"displayName\": \"Gemini 3 Pro [Google]\",\n      \"baseUrl\": \"https://generativelanguage.googleapis.com/v1beta/\",\n      \"apiKey\": \"YOUR_GEMINI_API_KEY\",\n      \"provider\": \"generic-chat-completion-api\",\n      \"maxOutputTokens\": 32000\n    }\n  ]\n}\n```\n\nhowever, it keep prompting me to login to a factory account.",
+    "url": "https://github.com/Factory-AI/factory/issues/593",
+    "timestamp": "2026-01-15T15:22:49Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 593
+    }
+  },
+  {
     "id": "github_issue_591",
     "source": "github",
     "author": "Cupnfish",
