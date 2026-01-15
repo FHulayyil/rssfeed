@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011813086865330598",
+    "source": "twitter",
+    "author": "cdolan92",
+    "content": "When using Claude Code Max and Ralph TUI, I keep running into API limits (not quota).\n\nAnyone else running into this? Am I doing something wrong? \n\n{\"type\":\"text\",\"text\":\"API Error: 429 {\\\"type\\\":\\\"error\\\",\\\"error\\\":{\\\"type\\\":\\\"rate_limit_error\\\",\\\"message\\\":\\\"This request would exceed the rate limit for your organization (...) of 20,000,000 prompt bytes per hour. For details, refer to: https://t.co/2yxnBmyS1R. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://t.co/urnvws82XF to discuss your options for a rate limit increase.\\\"}",
+    "url": "https://x.com/cdolan92/status/2011813086865330598",
+    "timestamp": "2026-01-15T14:49:52.000Z",
+    "metadata": {
+      "conversation_id": "2011813086865330598",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011805219554746400",
     "source": "twitter",
     "author": "jetmercader",
