@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2011944296715350147",
+    "source": "twitter",
+    "author": "mjtechguy",
+    "content": "I run CC and others locally. But I also have 3 other VPSes on Hetzner that I use to run Ralph continuously. This allows not only for me to close my laptop and walk away, but I also ensures there is no resource contention or port contention. That way I can just let it run all software, docker, agent-browser testing etc. I just connect to them via terminal or VSCode remote right now",
+    "url": "https://x.com/mjtechguy/status/2011944296715350147",
+    "timestamp": "2026-01-15T23:31:15.000Z",
+    "metadata": {
+      "conversation_id": "2011944296715350147",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011943871081492508",
+    "source": "twitter",
+    "author": "ballisarium",
+    "content": "@thsottiaux waiting for @FactoryAI !!!!",
+    "url": "https://x.com/ballisarium/status/2011943871081492508",
+    "timestamp": "2026-01-15T23:29:33.000Z",
+    "metadata": {
+      "conversation_id": "2011943871081492508",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011942211106091100",
+    "source": "twitter",
+    "author": "theplgeek",
+    "content": "@brdunton @FactoryAI @droid Updated the beads and beads-bv docs pages\n\nhttps://t.co/pGhGql7Cn4",
+    "url": "https://x.com/theplgeek/status/2011942211106091100",
+    "timestamp": "2026-01-15T23:22:57.000Z",
+    "metadata": {
+      "conversation_id": "2011942211106091100",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011937657094394059",
     "source": "twitter",
     "author": "23andreo23",
@@ -15098,6 +15143,19 @@
       "number": 563
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_563",
+    "source": "github",
+    "author": "juanmapf",
+    "content": "[Issue] Delegating tasks to Factory in Linear stalls & kicks-off a read-only Legacy Session\n\nCurrently I can't delegate tasks to Factory from within Linear. When doing so, the Droid session boots up correctly and starts working on the task, but after a while it stalls in a random step (can't seem to see a pattern on which step it decides to stall at). Then when trying to access the session in web/app to continue it, it shows up as Legacy, which are read-only and can't be recovered.",
+    "url": "https://github.com/Factory-AI/factory/issues/563",
+    "timestamp": "2026-01-05T16:39:09Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 563
+    }
   },
   {
     "id": "twitter_2008215154660679829",
