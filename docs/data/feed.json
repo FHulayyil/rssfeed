@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_591",
+    "source": "github",
+    "author": "Cupnfish",
+    "content": "[Issue] droid 0.49.0 triggers context compression when in an empty context state, causing the context to explode, which did not happen in previous versions.\n\ndroid `0.49.0` triggers context compression when in an empty context state, causing the context to explode, which did not happen in previous versions.\n\n<img width=\"677\" height=\"341\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/f9ec41be-9bad-484b-ba20-1903bf882dc3\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/591",
+    "timestamp": "2026-01-15T09:35:45Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 591
+    }
+  },
+  {
     "id": "github_discussion_588",
     "source": "github",
     "author": "rstander7777",
