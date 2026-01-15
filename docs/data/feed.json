@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011887604049068111",
+    "source": "twitter",
+    "author": "brdunton",
+    "content": "@theplgeek @FactoryAI @droid trying to get it running in container. Have epics in beads, pointed it to beads, but when I run ralph-tui, it doesn't find the epics...really want to try this out!",
+    "url": "https://x.com/brdunton/status/2011887604049068111",
+    "timestamp": "2026-01-15T19:45:58.000Z",
+    "metadata": {
+      "conversation_id": "2011887604049068111",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011878699654922403",
     "source": "twitter",
     "author": "DanielsLoud",
@@ -15080,6 +15095,19 @@
       "number": 562
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_562",
+    "source": "github",
+    "author": "Batiste1998",
+    "content": "[Issue] MCP status indicator shows infinite loading spinner despite server being connected\n\nThe MCP status indicator in the bottom status bar continuously shows a loading spinner (::), even though the MCP server is properly connected and fully functional.\nEnvironment:\n\nDroid CLI version: v0.41.0\nOS: macOS (Apple Silicon M2)\nTerminal: Ghostty\nMCP Server: context7 (@upstash/context7-mcp)\n\nCurrent Behavior:\nThe MCP indicator in the status bar keeps spinning indefinitely, suggesting the connection is still being established or something is loading.\nExpected Behavior:\nThe spinner should sto",
+    "url": "https://github.com/Factory-AI/factory/issues/562",
+    "timestamp": "2026-01-05T13:55:43Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 562
+    }
   },
   {
     "id": "twitter_2008173762970087616",
