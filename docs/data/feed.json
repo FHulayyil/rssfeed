@@ -10,7 +10,8 @@
       "type": "issue",
       "labels": [],
       "number": 594
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2011852880530325507",
@@ -25,7 +26,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2011851177147973974",
@@ -40,7 +42,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2011850219751723240",
@@ -55,7 +58,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2011847666003554458",
