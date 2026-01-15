@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011651851855544358",
+    "source": "twitter",
+    "author": "mikenguyen_me",
+    "content": "If you still believe Antigravity is giving you away Opus 4.5 for free, then you must be illusioned, ngl. I reverse-engineered it and it gives away itself as only 3.5. Antigravity is still a great tool nonetheless for FE though. If you want heavier stuff, use CC or @FactoryAI 's droid",
+    "url": "https://x.com/mikenguyen_me/status/2011651851855544358",
+    "timestamp": "2026-01-15T04:09:10.000Z",
+    "metadata": {
+      "conversation_id": "2011651851855544358",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011623571916046612",
+    "source": "twitter",
+    "author": "dazhengzhang",
+    "content": "@alvinsng @FactoryAI Pre commit hooks scale AI taste",
+    "url": "https://x.com/dazhengzhang/status/2011623571916046612",
+    "timestamp": "2026-01-15T02:16:48.000Z",
+    "metadata": {
+      "conversation_id": "2011623571916046612",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011618556853531085",
     "source": "twitter",
     "author": "KirkMarple",
@@ -14,6 +44,36 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2011608241634177117",
+    "source": "twitter",
+    "author": "caunlee",
+    "content": "@alvinsng @FactoryAI The difference is they shared the repo",
+    "url": "https://x.com/caunlee/status/2011608241634177117",
+    "timestamp": "2026-01-15T01:15:53.000Z",
+    "metadata": {
+      "conversation_id": "2011608241634177117",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011604755945263522",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "Easily pace to blow past 200M tokens on @FactoryAI this month. Turns out building everything-all-at-once can eat tokens. \n\nNo complaints… just receipts. 🧾\n\n@bentossell any chance we see a plan between 200 and 2k? I’m thinking 600-800? https://t.co/hc7B3sDRma",
+    "url": "https://x.com/jcurtis/status/2011604755945263522",
+    "timestamp": "2026-01-15T01:02:02.000Z",
+    "metadata": {
+      "conversation_id": "2011604755945263522",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011586025999778025",
