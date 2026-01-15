@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2011656020829802555",
+    "source": "twitter",
+    "author": "Timur_Yessenov",
+    "content": "@iannuttall @FactoryAI this is exactly the kind of infrastructure ai coding needs\n\nbiggest pain point with claude code is when it can't understand the repo structure. giving agents markdown-first views of codebases is huge.\n\n57% going to github that doesn't serve them well is wild. massive opportunity",
+    "url": "https://x.com/Timur_Yessenov/status/2011656020829802555",
+    "timestamp": "2026-01-15T04:25:44.000Z",
+    "metadata": {
+      "conversation_id": "2011656020829802555",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011655772250521678",
+    "source": "twitter",
+    "author": "AGI_Tiramisu",
+    "content": "A lot of the times droid gets stuck automatically without any visual changes in the terminal like this, its stuck like this for the past 10 mins.\nThe task is very very simple as well. \nIts not model specific, happens with any model.\n@EnoReyes @FactoryAI https://t.co/xYhbFHq0qA",
+    "url": "https://x.com/AGI_Tiramisu/status/2011655772250521678",
+    "timestamp": "2026-01-15T04:24:45.000Z",
+    "metadata": {
+      "conversation_id": "2011655772250521678",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011651851855544358",
     "source": "twitter",
     "author": "mikenguyen_me",
