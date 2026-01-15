@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_594",
+    "source": "github",
+    "author": "umairimtiaz9",
+    "content": "[Issue] [Feature] Provide a way to install without bun (with npm)\n\nHi, so Droid is great and is very precise with tool calls but I'm unable to run it on termux because its based on bun, and using Proot the low level bun calls cause bottleneck which is why I'm not using opencode either. would be great if you could provide a package that runs using node, like Claude Code and most of other agents provide.\n\nIt will fix:\n1. All the bun related issues\n2. Android iserbase (via Termux)",
+    "url": "https://github.com/Factory-AI/factory/issues/594",
+    "timestamp": "2026-01-15T17:31:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 594
+    }
+  },
+  {
     "id": "github_issue_593",
     "source": "github",
     "author": "khimaros",
