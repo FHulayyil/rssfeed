@@ -19842,6 +19842,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_82",
+    "source": "github",
+    "author": "mweichert",
+    "content": "[Discussion] Web API?\n\nHi there! Is there a web API to create and manage sessions?",
+    "url": "https://github.com/Factory-AI/factory/discussions/82",
+    "timestamp": "2025-09-29T13:16:25Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 82
+    }
+  },
+  {
     "id": "github_discussion_72",
     "source": "github",
     "author": "rubendn",
