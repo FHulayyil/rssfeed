@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2011837646671425718",
+    "source": "twitter",
+    "author": "pedronauck",
+    "content": "@bentossell @droid it's in our roadmap to implement Droid as provider as well, maybe we could talk to speed up this? what do you guys think?",
+    "url": "https://x.com/pedronauck/status/2011837646671425718",
+    "timestamp": "2026-01-15T16:27:27.000Z",
+    "metadata": {
+      "conversation_id": "2011837646671425718",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011837129798619493",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@pedronauck you should use @droid then i may try it",
+    "url": "https://x.com/bentossell/status/2011837129798619493",
+    "timestamp": "2026-01-15T16:25:24.000Z",
+    "metadata": {
+      "conversation_id": "2011837129798619493",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011835882433572994",
+    "source": "twitter",
+    "author": "itetnaa",
+    "content": "I get this issue where the plan doesn't get displayed. @droid https://t.co/Ev439AbV35",
+    "url": "https://x.com/itetnaa/status/2011835882433572994",
+    "timestamp": "2026-01-15T16:20:27.000Z",
+    "metadata": {
+      "conversation_id": "2011835882433572994",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1qdn3k3",
     "source": "reddit",
     "author": "bentossell",
