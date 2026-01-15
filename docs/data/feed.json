@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2011813883745353918",
+    "source": "twitter",
+    "author": "th3mus1cman",
+    "content": "@mikehostetler @AmpCode Have you tried @FactoryAI?",
+    "url": "https://x.com/th3mus1cman/status/2011813883745353918",
+    "timestamp": "2026-01-15T14:53:02.000Z",
+    "metadata": {
+      "conversation_id": "2011813883745353918",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011813086865330598",
     "source": "twitter",
     "author": "cdolan92",
@@ -14,6 +29,36 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2011811636227489974",
+    "source": "twitter",
+    "author": "rawkode",
+    "content": "500 million tokens for 200 bucks, and @FactoryAI gives you 200 million?\n\nTime to jump ship",
+    "url": "https://x.com/rawkode/status/2011811636227489974",
+    "timestamp": "2026-01-15T14:44:06.000Z",
+    "metadata": {
+      "conversation_id": "2011811636227489974",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011811145053848047",
+    "source": "twitter",
+    "author": "LoomisLoud",
+    "content": "Just compared how much a dev vs @FactoryAI  would have cost on the latest feature we built: $1250 vs $50. What the actual fuck",
+    "url": "https://x.com/LoomisLoud/status/2011811145053848047",
+    "timestamp": "2026-01-15T14:42:09.000Z",
+    "metadata": {
+      "conversation_id": "2011811145053848047",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011805219554746400",
