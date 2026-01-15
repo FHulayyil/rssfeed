@@ -1,5 +1,63 @@
 [
   {
+    "id": "github_issue_594",
+    "source": "github",
+    "author": "umairimtiaz9",
+    "content": "[Issue] [Feature] Provide a way to install without bun (with npm)\n\nHi, so Droid is great and is very precise with tool calls but I'm unable to run it on termux because its based on bun, and using Proot the low level bun calls cause bottleneck which is why I'm not using opencode either. would be great if you could provide a package that runs using node, like Claude Code and most of other agents provide.\n\nIt will fix:\n1. All the bun related issues\n2. Android iserbase (via Termux)",
+    "url": "https://github.com/Factory-AI/factory/issues/594",
+    "timestamp": "2026-01-15T17:31:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 594
+    }
+  },
+  {
+    "id": "twitter_2011852880530325507",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@bentossell @theplgeek @FactoryAI @droid Shazam!  Rly nice work!",
+    "url": "https://x.com/GitMaxd/status/2011852880530325507",
+    "timestamp": "2026-01-15T17:27:59.000Z",
+    "metadata": {
+      "conversation_id": "2011852880530325507",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011851177147973974",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@unclebobmartin Would love to see your https://t.co/V9MNXSaXFV uncle Bob! Also, give @droid a try! Combined with Opus 4.5 and Codex 5.2 it does an incredible job!",
+    "url": "https://x.com/JoelDeTeves/status/2011851177147973974",
+    "timestamp": "2026-01-15T17:21:13.000Z",
+    "metadata": {
+      "conversation_id": "2011851177147973974",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011850219751723240",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@GitMaxd @theplgeek @FactoryAI @droid no this is a tui @theplgeek built",
+    "url": "https://x.com/bentossell/status/2011850219751723240",
+    "timestamp": "2026-01-15T17:17:25.000Z",
+    "metadata": {
+      "conversation_id": "2011850219751723240",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011847666003554458",
     "source": "twitter",
     "author": "GitMaxd",
