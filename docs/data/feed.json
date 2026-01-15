@@ -19788,6 +19788,19 @@
     "category": "mention"
   },
   {
+    "id": "github_discussion_95",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] CLI v0.16.0 Release Notes\n\n- Sonnet 4.5 model is now available\r\n- Clear chat input using double ESC or Ctrl-C\r\n- User-configured allow and deny list of commands to execute\r\n- Option to disable droid commit co-authoring\r\n- Auth using FACTORY_API_KEY\r\n- Fixed UI bugs due to resizing",
+    "url": "https://github.com/Factory-AI/factory/discussions/95",
+    "timestamp": "2025-10-01T20:05:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 95
+    }
+  },
+  {
     "id": "github_discussion_92",
     "source": "github",
     "author": "msneijders",
