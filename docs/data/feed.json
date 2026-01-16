@@ -10,7 +10,8 @@
       "type": "issue",
       "labels": [],
       "number": 604
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_603",
@@ -23,7 +24,8 @@
       "type": "issue",
       "labels": [],
       "number": 603
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_602",
@@ -36,7 +38,8 @@
       "type": "issue",
       "labels": [],
       "number": 602
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_601",
@@ -49,7 +52,8 @@
       "type": "issue",
       "labels": [],
       "number": 601
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_600",
@@ -62,7 +66,8 @@
       "type": "issue",
       "labels": [],
       "number": 600
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_599",
@@ -75,7 +80,8 @@
       "type": "issue",
       "labels": [],
       "number": 599
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_issue_598",
@@ -88,7 +94,8 @@
       "type": "issue",
       "labels": [],
       "number": 598
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2012117766606639325",
