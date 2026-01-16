@@ -1,9 +1,9 @@
 # Classification Summary
 
-**Date:** 2026-01-16 07:56 UTC
+**Date:** 2026-01-16 08:09 UTC
 
 **New items classified:** 1
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| bug      | 1     | 100%       |
+| mention  | 1     | 100%       |
