@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_2012206955071262736",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "Hi @FactoryAI and @bentossell... I’m not sure if this is expected, but I’m trying to set all of my subagent droids to Gemini 3.0 Flash. Even though it appears in the default list, I’m getting a validation error. That’s an issue for token usage? https://t.co/n9zRzMlnN2",
+    "url": "https://x.com/jcurtis/status/2012206955071262736",
+    "timestamp": "2026-01-16T16:54:57.000Z",
+    "metadata": {
+      "conversation_id": "2012206955071262736",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1qela7d",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.52.0 Released - `/share` command\n\n## New features\n\n* **`/share` command** - Share your current session with organization members, copies share URL to clipboard\n\n## Bug fixes\n\n* **Task tool view** - Fixed Ctrl+O view for Task tool\n* **Settings file writes** - Avoid unnecessary file writes when updating unrelated settings\n* **Unified tool display** - Fixed tool result pending display issue\n* **Subagent version** - Fixed subagent spawning to use correct droid version\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qela7d/factory_cli_v0520_released_share_command/",
+    "timestamp": "2026-01-16T16:51:37.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1qekkhl",
     "source": "reddit",
     "author": "anchit_rana",
