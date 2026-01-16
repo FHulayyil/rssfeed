@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2012267101000712624",
+    "source": "twitter",
+    "author": "d2ac__",
+    "content": "@drnafizhamid @sqs @droid @AmpCode @opencode thats what I do, i believe they are on 5.2 now, but I want 5.2 to code as well! Not just oracle",
+    "url": "https://x.com/d2ac__/status/2012267101000712624",
+    "timestamp": "2026-01-16T20:53:57.000Z",
+    "metadata": {
+      "conversation_id": "2012267101000712624",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012266207081284035",
+    "source": "twitter",
+    "author": "d2ac__",
+    "content": "@EnoReyes @droid @AmpCode @opencode can we have the fast endpoint for openai models, happen to pay 1x credits if the speed is drastically improved",
+    "url": "https://x.com/d2ac__/status/2012266207081284035",
+    "timestamp": "2026-01-16T20:50:24.000Z",
+    "metadata": {
+      "conversation_id": "2012266207081284035",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012266005033328750",
+    "source": "twitter",
+    "author": "d2ac__",
+    "content": "for me its not about how fast the model can finish a task, if its not correct. With codex is actually good at following instructions and run a long time without getting context polluted.\n\nSpeed wise Idk what openai has but their 'fast' endpoint paired with cursor can significantly improve the experience.\n\nI love amp don't get me wrong. But i can implement more features at the same cost with opus with the same instructions",
+    "url": "https://x.com/d2ac__/status/2012266005033328750",
+    "timestamp": "2026-01-16T20:49:36.000Z",
+    "metadata": {
+      "conversation_id": "2012266005033328750",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012263176591540499",
     "source": "twitter",
     "author": "AlecMey25715067",
