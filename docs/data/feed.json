@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_discussion_596",
+    "source": "github",
+    "author": "khoafullstack",
+    "content": "[Discussion] How to check or see the MCP Call Details\n\n<img width=\"629\" height=\"202\" alt=\"image\" src=\"https://github.com/user-attachments/assets/10e4b6a1-f135-4bd3-8154-1f8e317c8150\" />\r\n\r\nIn my Droid , i can not see the SQL script to run on my own database or details of MCP call.",
+    "url": "https://github.com/Factory-AI/factory/discussions/596",
+    "timestamp": "2026-01-16T08:22:59Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 596
+    }
+  },
+  {
     "id": "github_issue_594",
     "source": "github",
     "author": "umairimtiaz9",
