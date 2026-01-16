@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_597",
+    "source": "github",
+    "author": "rdmgt1",
+    "content": "[Issue] Droid Version:     v0.52.0, before this versiuon safely and always work using BYOK, now getting error 400 INVALID_ARGUMENT\n\n   🤖 Droid Version:     v0.52.0\n      • Mode:            ⚡ Auto Mode (High Impact)\nim using on linux\n\n\"provider\": \"anthropic\",\n\nalso 1 minutes ago i tested on windows droid v 0.47.0, same config is work with \"provider\": \"anthropic\",\n\nbut after auto update to 0.52 , its starts fail for some model that i have on BYOK, few models still worked\n\nthe error : \n\n`Error: 400 {\"error\":{\"code\":400,\"message\":\"Request contains an invalid argument.\",\"status\":\"INVALID_ARGUMENT\"}}`\n\n",
+    "url": "https://github.com/Factory-AI/factory/issues/597",
+    "timestamp": "2026-01-16T10:41:05Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 597
+    }
+  },
+  {
     "id": "github_discussion_596",
     "source": "github",
     "author": "khoafullstack",
