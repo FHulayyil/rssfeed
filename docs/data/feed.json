@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012069703175598103",
+    "source": "twitter",
+    "author": "channgxin",
+    "content": "I love ralph-tui — it's super powerful and has already saved me a ton of manual iteration time!\n\nI'm running into a small but annoying issue: in my project, we use upstash/ratelimit for rate limiting. Whenever the agent's output mentions it, ralph-tui interprets the string \"rate-limit\" literally and triggers its built-in retry mechanism:\n\n[rate-limit] Retry 1/3 in 5s (exponential backoff)\n\nThis happens even when the agent has successfully finished the task and outputs COMPLETE at the end.",
+    "url": "https://x.com/channgxin/status/2012069703175598103",
+    "timestamp": "2026-01-16T07:49:34.000Z",
+    "metadata": {
+      "conversation_id": "2012069703175598103",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012035078277513389",
     "source": "twitter",
     "author": "barkleesanders",
