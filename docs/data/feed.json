@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012287179221868603",
+    "source": "twitter",
+    "author": "jonwerthen",
+    "content": "@arvidkahl @factoryai is the only thing I'm capable of coding with. I don't even know what VScode is anymore.",
+    "url": "https://x.com/jonwerthen/status/2012287179221868603",
+    "timestamp": "2026-01-16T22:13:44.000Z",
+    "metadata": {
+      "conversation_id": "2012287179221868603",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012285084649619850",
     "source": "twitter",
     "author": "alvinsng",
