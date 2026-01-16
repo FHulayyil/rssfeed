@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2012269898236387381",
+    "source": "twitter",
+    "author": "mrkmcknz",
+    "content": "@AlecMey25715067 @anilkishan @FactoryAI @droid I might be in the minority here, but I just don't vibe well with Gemini 3 Pro for coding. I do use it for other things though.",
+    "url": "https://x.com/mrkmcknz/status/2012269898236387381",
+    "timestamp": "2026-01-16T21:05:04.000Z",
+    "metadata": {
+      "conversation_id": "2012269898236387381",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012268565609533847",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@FactoryAI @zeddotdev this looks like it could make things way smoother for folks already using zed. curious how it feels in practice.",
+    "url": "https://x.com/BillCrosby/status/2012268565609533847",
+    "timestamp": "2026-01-16T20:59:46.000Z",
+    "metadata": {
+      "conversation_id": "2012268565609533847",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012268418234540305",
+    "source": "twitter",
+    "author": "DragonStacker",
+    "content": "@anilkishan @FactoryAI @droid Unfortunately you’ll have one $2000 subscription if you were anywhere near the limits on CC max. Droid is otherwise better.",
+    "url": "https://x.com/DragonStacker/status/2012268418234540305",
+    "timestamp": "2026-01-16T20:59:11.000Z",
+    "metadata": {
+      "conversation_id": "2012268418234540305",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012267904612417739",
+    "source": "twitter",
+    "author": "_alissonryan",
+    "content": "@sseraphini Coloca o Droid da @FactoryAI \nEle tem uma das melhores janelas de compressão, não perde contexto. Tem tudo do Claude Code: subagents, skills, MCP, ralph…\n\nSe liga:\n\nhttps://t.co/83eM33h8xi",
+    "url": "https://x.com/_alissonryan/status/2012267904612417739",
+    "timestamp": "2026-01-16T20:57:09.000Z",
+    "metadata": {
+      "conversation_id": "2012267904612417739",
+      "likes": 0,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012267792754487471",
+    "source": "twitter",
+    "author": "elwin1116",
+    "content": "@EnoReyes @d2ac__ @droid @AmpCode @opencode Are we gonna have chatgpt plus native support on Droid? I saw @FactoryAI  said “coming soon” somewhere, is it actually coming tho? \n\nI would be so happy if that happens!",
+    "url": "https://x.com/elwin1116/status/2012267792754487471",
+    "timestamp": "2026-01-16T20:56:42.000Z",
+    "metadata": {
+      "conversation_id": "2012267792754487471",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012267101000712624",
     "source": "twitter",
     "author": "d2ac__",
@@ -46,6 +121,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2012265376504021249",
+    "source": "twitter",
+    "author": "_abilshr",
+    "content": "@FactoryAI @zeddotdev Me 🤝 Zed",
+    "url": "https://x.com/_abilshr/status/2012265376504021249",
+    "timestamp": "2026-01-16T20:47:06.000Z",
+    "metadata": {
+      "conversation_id": "2012265376504021249",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2012263176591540499",
