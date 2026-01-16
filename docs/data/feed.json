@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2012010764274720982",
+    "source": "twitter",
+    "author": "ICTStudent2023",
+    "content": "@Alberto8793 @iannuttall @steipete @FactoryAI Those 8.2 billion tokens of Codex must have done better work for u than 2.7 billion tokens in Claude. Keep very high api costs so that users feel like they are getting a banger of a deal when moving to subscription.\n\nBtw, what r u building?",
+    "url": "https://x.com/ICTStudent2023/status/2012010764274720982",
+    "timestamp": "2026-01-16T03:55:22.000Z",
+    "metadata": {
+      "conversation_id": "2012010764274720982",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012005068518932557",
+    "source": "twitter",
+    "author": "FrancoE114696",
+    "content": "@0xgaut I literally have a windows startup script that open 2 claude code and 2 @FactoryAI droid CLI on my obsidian vault",
+    "url": "https://x.com/FrancoE114696/status/2012005068518932557",
+    "timestamp": "2026-01-16T03:32:44.000Z",
+    "metadata": {
+      "conversation_id": "2012005068518932557",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012002170288185810",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@iannuttall Please. Ask. Me. What. I. Am. Building. 👀💀 I want so badly to share but no one asks @steipete if you add @FactoryAI I can shamelessly show you that too 💘 https://t.co/qGf8li2JAu",
+    "url": "https://x.com/Alberto8793/status/2012002170288185810",
+    "timestamp": "2026-01-16T03:21:13.000Z",
+    "metadata": {
+      "conversation_id": "2012002170288185810",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011993388107845644",
+    "source": "twitter",
+    "author": "gilhildebrand",
+    "content": "@alvinsng @FactoryAI As a developer I use linters, but I’ve never looked at them under the hood\n\nSince I’m building droids for non coding use cases, would you say it’s possible to build linters for marketing, support support, and other types of use cases? \n\nIf so what would that look like?",
+    "url": "https://x.com/gilhildebrand/status/2011993388107845644",
+    "timestamp": "2026-01-16T02:46:19.000Z",
+    "metadata": {
+      "conversation_id": "2011993388107845644",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011991462423195881",
+    "source": "twitter",
+    "author": "Sourik24",
+    "content": "@matanSF @FactoryAI @EnoReyes Dm'd you!",
+    "url": "https://x.com/Sourik24/status/2011991462423195881",
+    "timestamp": "2026-01-16T02:38:40.000Z",
+    "metadata": {
+      "conversation_id": "2011991462423195881",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011980425682354460",
     "source": "twitter",
     "author": "erd0xbc",
@@ -14,6 +89,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2011976156644589721",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@EnoReyes @AGI_Tiramisu @FactoryAI @EnoReyes Think it's exclusive to default GLM 4.7.",
+    "url": "https://x.com/launchaddict/status/2011976156644589721",
+    "timestamp": "2026-01-16T01:37:51.000Z",
+    "metadata": {
+      "conversation_id": "2011976156644589721",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011971647906127916",
+    "source": "twitter",
+    "author": "AGI_Tiramisu",
+    "content": "@launchaddict @EnoReyes @FactoryAI @matanSF please check",
+    "url": "https://x.com/AGI_Tiramisu/status/2011971647906127916",
+    "timestamp": "2026-01-16T01:19:56.000Z",
+    "metadata": {
+      "conversation_id": "2011971647906127916",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011970637599064255",
@@ -32,6 +137,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2011968295080247769",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@Sourik24 @FactoryAI @EnoReyes lets go!",
+    "url": "https://x.com/matanSF/status/2011968295080247769",
+    "timestamp": "2026-01-16T01:06:36.000Z",
+    "metadata": {
+      "conversation_id": "2011968295080247769",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2011968195821781490",
+    "source": "twitter",
+    "author": "Sourik24",
+    "content": "@FactoryAI @EnoReyes @matanSF You guys have cooked up something really great! Every bit of Droid has been so carefully crafted that it left me spellbound! Keep up the good work. I am definitely a superfan from now on :) Would love to provide feedback on the small issues I faced.",
+    "url": "https://x.com/Sourik24/status/2011968195821781490",
+    "timestamp": "2026-01-16T01:06:13.000Z",
+    "metadata": {
+      "conversation_id": "2011968195821781490",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2011961668730044784",
     "source": "twitter",
     "author": "brdunton",
@@ -46,6 +181,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2011958148043612464",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@alvinsng @FactoryAI I think its the repo that people are thankful. Learning from experts :adore:",
+    "url": "https://x.com/launchaddict/status/2011958148043612464",
+    "timestamp": "2026-01-16T00:26:17.000Z",
+    "metadata": {
+      "conversation_id": "2011958148043612464",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2011952855410672040",
