@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012263176591540499",
+    "source": "twitter",
+    "author": "AlecMey25715067",
+    "content": "@mrkmcknz @anilkishan @FactoryAI @droid It’s great except Gemini 3 Pro. Every time I tried 3 pro with Droid it does extremely strange things and also likes to quit responding out of the blue for no reason",
+    "url": "https://x.com/AlecMey25715067/status/2012263176591540499",
+    "timestamp": "2026-01-16T20:38:21.000Z",
+    "metadata": {
+      "conversation_id": "2012263176591540499",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012259207194489158",
     "source": "twitter",
     "author": "WolfyBlair",
@@ -14,6 +29,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2012259181579936028",
+    "source": "twitter",
+    "author": "WolfyBlair",
+    "content": "@droid create an app?",
+    "url": "https://x.com/WolfyBlair/status/2012259181579936028",
+    "timestamp": "2026-01-16T20:22:29.000Z",
+    "metadata": {
+      "conversation_id": "2012259181579936028",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2012259123572756904",
