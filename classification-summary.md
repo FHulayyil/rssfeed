@@ -1,12 +1,8 @@
 # Classification Summary
 
-**Date:** 2026-01-16 08:59 UTC
+**Date**: 2026-01-16 09:50 UTC
 
-## Results
-
-- **Total items classified:** 1
-
-### Category Breakdown
+**Total items classified**: 1
 
 | Category | Count | Percentage |
 |----------|-------|------------|
