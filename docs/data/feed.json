@@ -16,6 +16,21 @@
     "category": "bug"
   },
   {
+    "id": "twitter_2012292976794616225",
+    "source": "twitter",
+    "author": "GregorySchier",
+    "content": "@FactoryAI your onboarding appears to be broken. Just get stuck in a loop. Can you fix?",
+    "url": "https://x.com/GregorySchier/status/2012292976794616225",
+    "timestamp": "2026-01-16T22:36:46.000Z",
+    "metadata": {
+      "conversation_id": "2012292976794616225",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012289486990786873",
     "source": "twitter",
     "author": "matanSF",
