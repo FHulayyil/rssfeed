@@ -98,6 +98,51 @@
     "category": "bug"
   },
   {
+    "id": "twitter_2012144386004722136",
+    "source": "twitter",
+    "author": "aidailyprimer",
+    "content": "@iannuttall @FactoryAI how is sonnet more expensive than 5.2-codex-high? i guess you will be charged more due to the 10 page essay reasoning per request",
+    "url": "https://x.com/aidailyprimer/status/2012144386004722136",
+    "timestamp": "2026-01-16T12:46:20.000Z",
+    "metadata": {
+      "conversation_id": "2012144386004722136",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012136188531163228",
+    "source": "twitter",
+    "author": "carmandale",
+    "content": "@FactoryAI droid is taking ~30s to launch on v0.52.0 on M-series Mac, even with just droid --help. I cleared history and sessions and logs, but no luck. any ideas?",
+    "url": "https://x.com/carmandale/status/2012136188531163228",
+    "timestamp": "2026-01-16T12:13:45.000Z",
+    "metadata": {
+      "conversation_id": "2012136188531163228",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012131042547974342",
+    "source": "twitter",
+    "author": "mavmilli",
+    "content": "@affekani @aroussi @FactoryAI Don't need to spam bro he will see soon",
+    "url": "https://x.com/mavmilli/status/2012131042547974342",
+    "timestamp": "2026-01-16T11:53:18.000Z",
+    "metadata": {
+      "conversation_id": "2012131042547974342",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012117766606639325",
     "source": "twitter",
     "author": "theplgeek",
