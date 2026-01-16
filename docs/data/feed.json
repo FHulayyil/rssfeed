@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012278859333308490",
+    "source": "twitter",
+    "author": "fun_innit",
+    "content": "@remusofmars It’s not MCP related.\n\n@cursor_ai @AmpCode @droid @OpenAI have already begun rolling out prototype Ralph-centric systems.",
+    "url": "https://x.com/fun_innit/status/2012278859333308490",
+    "timestamp": "2026-01-16T21:40:41.000Z",
+    "metadata": {
+      "conversation_id": "2012278859333308490",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012275528049303976",
     "source": "twitter",
     "author": "blueemi99",
@@ -62,6 +77,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2012270534122168481",
+    "source": "twitter",
+    "author": "d2ac__",
+    "content": "@sqs @droid @AmpCode @opencode https://t.co/ZU7VLoQjrl",
+    "url": "https://x.com/d2ac__/status/2012270534122168481",
+    "timestamp": "2026-01-16T21:07:36.000Z",
+    "metadata": {
+      "conversation_id": "2012270534122168481",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2012269898236387381",
@@ -142,6 +172,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2012267541041734003",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@d2ac__ @droid @AmpCode @opencode Cool, that's helpful to hear, thx for the feedback",
+    "url": "https://x.com/sqs/status/2012267541041734003",
+    "timestamp": "2026-01-16T20:55:42.000Z",
+    "metadata": {
+      "conversation_id": "2012267541041734003",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2012267101000712624",
