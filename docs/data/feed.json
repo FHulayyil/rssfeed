@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2012245005008585112",
+    "source": "twitter",
+    "author": "pharo7700",
+    "content": "@FactoryAI @anilkishan @droid @FactoryAI can we use chatgpt sub to use droid",
+    "url": "https://x.com/pharo7700/status/2012245005008585112",
+    "timestamp": "2026-01-16T19:26:09.000Z",
+    "metadata": {
+      "conversation_id": "2012245005008585112",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012243579394019729",
+    "source": "twitter",
+    "author": "d2ac__",
+    "content": "@drnafizhamid @sqs @droid @AmpCode @opencode Yeah I need to get use to that. I still prefer Codex than Opus at this very moment",
+    "url": "https://x.com/d2ac__/status/2012243579394019729",
+    "timestamp": "2026-01-16T19:20:29.000Z",
+    "metadata": {
+      "conversation_id": "2012243579394019729",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012242819507798286",
+    "source": "twitter",
+    "author": "_samadahmed",
+    "content": "@d2ac__ @droid @AmpCode @opencode Have not tried Droid yet but Amp is pretty good",
+    "url": "https://x.com/_samadahmed/status/2012242819507798286",
+    "timestamp": "2026-01-16T19:17:28.000Z",
+    "metadata": {
+      "conversation_id": "2012242819507798286",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012242662892474397",
+    "source": "twitter",
+    "author": "tkwoncpa",
+    "content": "@Dimillian Or @droid by @FactoryAI - I guess now I can move over from conductor dot build!",
+    "url": "https://x.com/tkwoncpa/status/2012242662892474397",
+    "timestamp": "2026-01-16T19:16:51.000Z",
+    "metadata": {
+      "conversation_id": "2012242662892474397",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012242537881215108",
+    "source": "twitter",
+    "author": "AzothZephyr",
+    "content": "@anilkishan @FactoryAI @droid just cancel claude and try it for a month, thats all you need",
+    "url": "https://x.com/AzothZephyr/status/2012242537881215108",
+    "timestamp": "2026-01-16T19:16:21.000Z",
+    "metadata": {
+      "conversation_id": "2012242537881215108",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012242415432741028",
+    "source": "twitter",
+    "author": "drnafizhamid",
+    "content": "@d2ac__ @sqs @droid @AmpCode @opencode Instead of handoff, try starting a new session, press enter to refer the previous thread that is planning and then just say implement the plan here. In my experience, much better than using handoff.",
+    "url": "https://x.com/drnafizhamid/status/2012242415432741028",
+    "timestamp": "2026-01-16T19:15:52.000Z",
+    "metadata": {
+      "conversation_id": "2012242415432741028",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012242302614266034",
+    "source": "twitter",
+    "author": "SaqlainRazee",
+    "content": "@anilkishan @FactoryAI @droid I used 20 dollar plan and get out of token really fast speically when used Opus. \nI don't blame Factory but if ur budget is tight then going with cc max will be good option it reset after some time. but if money isn't problem then it is the best.",
+    "url": "https://x.com/SaqlainRazee/status/2012242302614266034",
+    "timestamp": "2026-01-16T19:15:25.000Z",
+    "metadata": {
+      "conversation_id": "2012242302614266034",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012241128670597503",
+    "source": "twitter",
+    "author": "mrkmcknz",
+    "content": "@anilkishan @FactoryAI @droid I've never been disappointed with the output from Droid, not once",
+    "url": "https://x.com/mrkmcknz/status/2012241128670597503",
+    "timestamp": "2026-01-16T19:10:45.000Z",
+    "metadata": {
+      "conversation_id": "2012241128670597503",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012237309987725548",
     "source": "twitter",
     "author": "d2ac__",
