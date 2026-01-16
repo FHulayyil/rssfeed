@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012091647899979897",
+    "source": "twitter",
+    "author": "d2ac__",
+    "content": "Personal experience for coding rn\n@droid  &gt; @AmpCode  = @opencode  &gt; claude code",
+    "url": "https://x.com/d2ac__/status/2012091647899979897",
+    "timestamp": "2026-01-16T09:16:46.000Z",
+    "metadata": {
+      "conversation_id": "2012091647899979897",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_discussion_596",
     "source": "github",
     "author": "khoafullstack",
