@@ -15098,6 +15098,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_565",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Discussion] Clear tests, whitepaper or anything showing that droid is secure against modern takeovers\n\nhttps://cybernews.com/security/ai-agents-highly-vulnerable-to-prompt-injection-attacks/\r\n\r\nQuick summary:\r\n> Security researchers warns that AI agents like Anthropic's Claude Code, GitHub Copilot, Google Jules, and Devin (**BASICALLY  ANY FRAMEWORK**) are highly vulnerable to prompt injection attacks, enabling hackers to hijack systems with simple words hidden` in websites, documents, or GitHub repos without malware or user input. Demonstrations at the 39th Chaos Communication Congress showed ag",
+    "url": "https://github.com/Factory-AI/factory/discussions/565",
+    "timestamp": "2026-01-06T13:48:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 565
+    }
+  },
+  {
     "id": "twitter_2008535238524424699",
     "source": "twitter",
     "author": "AonSayyed",
