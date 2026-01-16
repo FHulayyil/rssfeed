@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2012259207194489158",
+    "source": "twitter",
+    "author": "WolfyBlair",
+    "content": "@maddiehfaulkner @FactoryAI @droid Really?",
+    "url": "https://x.com/WolfyBlair/status/2012259207194489158",
+    "timestamp": "2026-01-16T20:22:35.000Z",
+    "metadata": {
+      "conversation_id": "2012259207194489158",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012259123572756904",
+    "source": "twitter",
+    "author": "Joedefendre",
+    "content": "@FactoryAI @zeddotdev what am i doing wrong https://t.co/E5wgo31GRk",
+    "url": "https://x.com/Joedefendre/status/2012259123572756904",
+    "timestamp": "2026-01-16T20:22:15.000Z",
+    "metadata": {
+      "conversation_id": "2012259123572756904",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012258690334634069",
+    "source": "twitter",
+    "author": "SEDIDEL",
+    "content": "@FactoryAI any eta for ChatGPT sign in option to use ChatGPT's plan? 👀",
+    "url": "https://x.com/SEDIDEL/status/2012258690334634069",
+    "timestamp": "2026-01-16T20:20:32.000Z",
+    "metadata": {
+      "conversation_id": "2012258690334634069",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012258163240673298",
+    "source": "twitter",
+    "author": "HuuuuuuGon",
+    "content": "@FactoryAI @zeddotdev Maxプランみたいなの欲しいなぁ",
+    "url": "https://x.com/HuuuuuuGon/status/2012258163240673298",
+    "timestamp": "2026-01-16T20:18:26.000Z",
+    "metadata": {
+      "conversation_id": "2012258163240673298",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012258144676679689",
+    "source": "twitter",
+    "author": "Joedefendre",
+    "content": "@FactoryAI @zeddotdev ok fine i am back to using zed for the day  lets see  you got droid https://t.co/gBXWfp5uFE",
+    "url": "https://x.com/Joedefendre/status/2012258144676679689",
+    "timestamp": "2026-01-16T20:18:22.000Z",
+    "metadata": {
+      "conversation_id": "2012258144676679689",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012255941337788490",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@moinulmoin @FactoryAI We shipped status lines which let's you do this. If you paste this, droid will add it for you:\n\n\"/statusline please add the current folder path\"",
+    "url": "https://x.com/EnoReyes/status/2012255941337788490",
+    "timestamp": "2026-01-16T20:09:36.000Z",
+    "metadata": {
+      "conversation_id": "2012255941337788490",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012251872845787594",
     "source": "twitter",
     "author": "sqs",
