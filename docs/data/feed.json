@@ -32,6 +32,36 @@
     "category": "love"
   },
   {
+    "id": "twitter_2012225575692181966",
+    "source": "twitter",
+    "author": "DCasota",
+    "content": "@vmiss33 The @FactoryAI 200usd/month subscription has been the best decision so far. Yes Opus is more expensive, but the max tokens window and the reasoning options are great. FactoryAI‘s support organization is responsive and they introduce new models and improvements on a daily basis.",
+    "url": "https://x.com/DCasota/status/2012225575692181966",
+    "timestamp": "2026-01-16T18:08:57.000Z",
+    "metadata": {
+      "conversation_id": "2012225575692181966",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012210912183169512",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@jcurtis @FactoryAI looking into it! can you share a bug id",
+    "url": "https://x.com/bentossell/status/2012210912183169512",
+    "timestamp": "2026-01-16T17:10:41.000Z",
+    "metadata": {
+      "conversation_id": "2012210912183169512",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012207994704986274",
     "source": "twitter",
     "author": "YuriKushch",
