@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2012355920827994174",
+    "source": "twitter",
+    "author": "Timur_Yessenov",
+    "content": "@FactoryAI @zeddotdev mcp support is becoming the standard handshake between agents and tools. smart move integrating with zed - fast editor + capable agent = actual productivity.",
+    "url": "https://x.com/Timur_Yessenov/status/2012355920827994174",
+    "timestamp": "2026-01-17T02:46:53.000Z",
+    "metadata": {
+      "conversation_id": "2012355920827994174",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012351057574367349",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@wgw_eth @zeddotdev @FactoryAI @droid Sure. As I said I use Open Code every day. Prefer Droid personally.",
+    "url": "https://x.com/nathanclark_/status/2012351057574367349",
+    "timestamp": "2026-01-17T02:27:34.000Z",
+    "metadata": {
+      "conversation_id": "2012351057574367349",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012349170590396456",
+    "source": "twitter",
+    "author": "wgw_eth",
+    "content": "@nathanclark_ @zeddotdev @FactoryAI @droid opencode zen is also pretty good at speed, caching and harness. 🤷‍♂️ will check tho.",
+    "url": "https://x.com/wgw_eth/status/2012349170590396456",
+    "timestamp": "2026-01-17T02:20:04.000Z",
+    "metadata": {
+      "conversation_id": "2012349170590396456",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012347940593889415",
     "source": "twitter",
     "author": "sasha_zelts",
@@ -30,6 +75,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2012344846107770893",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@FactoryAI @zeddotdev Factory, Droid integration within Zed sounds like a good way to improve agent performance.",
+    "url": "https://x.com/codewithimanshu/status/2012344846107770893",
+    "timestamp": "2026-01-17T02:02:53.000Z",
+    "metadata": {
+      "conversation_id": "2012344846107770893",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2012344310889316709",
@@ -112,6 +172,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2012328714831286424",
+    "source": "twitter",
+    "author": "Negusnati",
+    "content": "@FactoryAI @zeddotdev gpt login wen?",
+    "url": "https://x.com/Negusnati/status/2012328714831286424",
+    "timestamp": "2026-01-17T00:58:47.000Z",
+    "metadata": {
+      "conversation_id": "2012328714831286424",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012326374036426925",
     "source": "twitter",
     "author": "zeddotdev",
@@ -142,6 +217,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2012314505032905214",
+    "source": "twitter",
+    "author": "hicder810",
+    "content": "@FactoryAI does subagent work with zed acp?",
+    "url": "https://x.com/hicder810/status/2012314505032905214",
+    "timestamp": "2026-01-17T00:02:19.000Z",
+    "metadata": {
+      "conversation_id": "2012314505032905214",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2012298932634735016",
@@ -27354,6 +27444,19 @@
       "number": 418
     },
     "category": "bug"
+  },
+  {
+    "id": "github_discussion_418",
+    "source": "github",
+    "author": "WeYaTa-Dev",
+    "content": "[Discussion] Unable to authenticate Figma MCP\n\nI have run this command and the mcp's added successfully\r\n`droid mcp add figma https://mcp.figma.com/mcp --type http`\r\n\r\nBut when I tried to authenticate the mcp via /mcp command, it said:\r\n<img width=\"1209\" height=\"420\" alt=\"image\" src=\"https://github.com/user-attachments/assets/01774d30-442e-4361-b2ec-2cb67855f193\" />",
+    "url": "https://github.com/Factory-AI/factory/discussions/418",
+    "timestamp": "2025-11-22T09:31:10Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 418
+    }
   },
   {
     "id": "github_discussion_384",
