@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2012580894251364821",
+    "source": "twitter",
+    "author": "gootecks",
+    "content": "@fluffypony @tirzahitonan @burkov @FactoryAI Oh wow I can see how that would be useful for a team. \n\nUnfortunately right now for me it’s a vibe code team of one 🤣\n\nThanks for the insights!",
+    "url": "https://x.com/gootecks/status/2012580894251364821",
+    "timestamp": "2026-01-17T17:40:51.000Z",
+    "metadata": {
+      "conversation_id": "2012580894251364821",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012580306692215252",
+    "source": "twitter",
+    "author": "fluffypony",
+    "content": "I’ve had great experiences with Factory, too - I totally forgot to mention that! A big differentiator for me is that it lacks the “team” focused stuff Amp has - like all my threads are visible in our workspace, any other engineer can go and see how I did something. They can even get Amp to look at a particular thread of mine as they build on the feature, so that the new session has access to all the thoughts and prompts etc from that thread.",
+    "url": "https://x.com/fluffypony/status/2012580306692215252",
+    "timestamp": "2026-01-17T17:38:31.000Z",
+    "metadata": {
+      "conversation_id": "2012580306692215252",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_609",
     "source": "github",
     "author": "qiviut",
