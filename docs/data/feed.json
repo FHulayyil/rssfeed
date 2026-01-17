@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012628756553425139",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 17: Early morning range session was rough 😅\n\nBad news first: Played like garbage. Somewhat expected after yesterday's solid video-game round.\n\nGood news: Workflow is starting to click. Getting comfortable using Grok + Opus in reasoning mode to build solid specs and break them into backlog items. Linear integration is still flaky for kickoff (unreliable agent execution), so I'm just copying/pasting the specs over there for record-keeping and visibility.\n\nFrom there, I spin up a new agent in Haiku mode to actually execute. Cheapass mode activated — trying to keep token burn low while still moving forward.\n\nIt's actually working surprisingly well.\n\nWill drop a screenshot of the latest changes later today.\n\nSmall wins, even on a bad range day. ⛳",
+    "url": "https://x.com/iamkevchan/status/2012628756553425139",
+    "timestamp": "2026-01-17T20:51:03.000Z",
+    "metadata": {
+      "conversation_id": "2012628756553425139",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012626317356015772",
     "source": "twitter",
     "author": "Mattslayga",
