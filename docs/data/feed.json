@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012535509625508248",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "woah, @droid  becoming my default slowly, and also 5.2 codex seems good fit there and also alternative of opus 4.5, just need to get faster a bit, lets see what happended before next month",
+    "url": "https://x.com/moinulmoin/status/2012535509625508248",
+    "timestamp": "2026-01-17T14:40:31.000Z",
+    "metadata": {
+      "conversation_id": "2012535509625508248",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012534033645961526",
     "source": "twitter",
     "author": "m0nle0z",
@@ -15074,6 +15089,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
+  },
+  {
+    "id": "reddit_1q6erpe",
+    "source": "reddit",
+    "author": "und3rc0d3",
+    "content": "Bad experience.\n\nI asked Factory to do a relatively simple task: modify a component so it renders inside a modal.\n\nI first used Opus Medium; it set up most of the structure correctly, but it completely forgot to migrate half of the existing features. They were just ignored.\n\nThen I explicitly asked it to carefully search for everything that was missing and fix it. At that point it burned \\~500k tokens just trying (and failing) to fix a very basic MapboxGL issue (a simple resize() when opening the modal).\n\nAfter ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q6erpe/bad_experience/",
+    "timestamp": "2026-01-07T13:01:53.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2008886622331482612",
