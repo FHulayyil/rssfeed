@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2012347940593889415",
+    "source": "twitter",
+    "author": "sasha_zelts",
+    "content": "@tkwoncpa @Dimillian @droid @FactoryAI Interested to know what you mean by that. You felt conductor was lacking ?",
+    "url": "https://x.com/sasha_zelts/status/2012347940593889415",
+    "timestamp": "2026-01-17T02:15:11.000Z",
+    "metadata": {
+      "conversation_id": "2012347940593889415",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012347194536607897",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@wgw_eth @zeddotdev @FactoryAI @droid https://t.co/UcT3ndqEFj",
+    "url": "https://x.com/nathanclark_/status/2012347194536607897",
+    "timestamp": "2026-01-17T02:12:13.000Z",
+    "metadata": {
+      "conversation_id": "2012347194536607897",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012344310889316709",
+    "source": "twitter",
+    "author": "wgw_eth",
+    "content": "@nathanclark_ @zeddotdev @FactoryAI @droid what's the tldr of this Droid? hearing it for 2nd time.",
+    "url": "https://x.com/wgw_eth/status/2012344310889316709",
+    "timestamp": "2026-01-17T02:00:45.000Z",
+    "metadata": {
+      "conversation_id": "2012344310889316709",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012339974767529984",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@wgw_eth @zeddotdev @FactoryAI @droid I prefer Droid for sure but also using OpenCode literally every day. \n\nGood news, just switch between them seamlessly. https://t.co/ycYYISdMwE",
+    "url": "https://x.com/nathanclark_/status/2012339974767529984",
+    "timestamp": "2026-01-17T01:43:32.000Z",
+    "metadata": {
+      "conversation_id": "2012339974767529984",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012339634433388551",
+    "source": "twitter",
+    "author": "wgw_eth",
+    "content": "@nathanclark_ @zeddotdev @FactoryAI @droid nah OpenCode is OP",
+    "url": "https://x.com/wgw_eth/status/2012339634433388551",
+    "timestamp": "2026-01-17T01:42:10.000Z",
+    "metadata": {
+      "conversation_id": "2012339634433388551",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012338226116342201",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@superzac @zeddotdev @FactoryAI @droid I’m sorry Zac yes I am sending you to Yet Another App",
+    "url": "https://x.com/nathanclark_/status/2012338226116342201",
+    "timestamp": "2026-01-17T01:36:35.000Z",
+    "metadata": {
+      "conversation_id": "2012338226116342201",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012338067667918943",
+    "source": "twitter",
+    "author": "superzac",
+    "content": "@nathanclark_ @zeddotdev @FactoryAI @droid BRO",
+    "url": "https://x.com/superzac/status/2012338067667918943",
+    "timestamp": "2026-01-17T01:35:57.000Z",
+    "metadata": {
+      "conversation_id": "2012338067667918943",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012326374036426925",
     "source": "twitter",
     "author": "zeddotdev",
