@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_609",
+    "source": "github",
+    "author": "qiviut",
+    "content": "[Issue] Settings reset after droid update\n\nI had configured a number of things in `~/.factory/settings.json` (byok, disabling cloud sync, etc). After the update to version 0.53, I noticed that settings.json had been overwritten, and all my settings were removed.\n\nI only noticed it when I started droid after an update and it started responding with a different model than I'm used to. I did not get any notification about this.",
+    "url": "https://github.com/Factory-AI/factory/issues/609",
+    "timestamp": "2026-01-17T17:14:14Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 609
+    }
+  },
+  {
     "id": "github_issue_604",
     "source": "github",
     "author": "a112121788",
