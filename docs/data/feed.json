@@ -16,6 +16,66 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2012396510122520631",
+    "source": "twitter",
+    "author": "1991borders",
+    "content": "@d2ac__ @YuriKushch @sqs @droid @AmpCode @opencode Interesting take, if im not mistaken omo is heavily influenced by amp",
+    "url": "https://x.com/1991borders/status/2012396510122520631",
+    "timestamp": "2026-01-17T05:28:11.000Z",
+    "metadata": {
+      "conversation_id": "2012396510122520631",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012395915307319390",
+    "source": "twitter",
+    "author": "philliphaydon",
+    "content": "@d2ac__ @sqs @droid @AmpCode @opencode Research into a doc and use that as reference. Until OpenAI does something new I have no reason to touch codex. Codex is so bad at tool calling that as a standalone model it’s worthless.",
+    "url": "https://x.com/philliphaydon/status/2012395915307319390",
+    "timestamp": "2026-01-17T05:25:49.000Z",
+    "metadata": {
+      "conversation_id": "2012395915307319390",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012393953950380357",
+    "source": "twitter",
+    "author": "1991borders",
+    "content": "@sqs @d2ac__ @droid @AmpCode @opencode In my opinion ppl should be able to switch between top tier models for each orchestration position. For example opus or codex for the main driver, gemini pro or 5.2 for the oracle, etc",
+    "url": "https://x.com/1991borders/status/2012393953950380357",
+    "timestamp": "2026-01-17T05:18:01.000Z",
+    "metadata": {
+      "conversation_id": "2012393953950380357",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012393332329042427",
+    "source": "twitter",
+    "author": "1991borders",
+    "content": "@sqs @d2ac__ @droid @AmpCode @opencode I’m willingly trust you with opinionated orchestration flow because this is where you clearly have an edge as the tool builder. But I’m struggling to see how can you be sure that some model from the top tier is the best for all the different tasks ppl are solving.",
+    "url": "https://x.com/1991borders/status/2012393332329042427",
+    "timestamp": "2026-01-17T05:15:33.000Z",
+    "metadata": {
+      "conversation_id": "2012393332329042427",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012391820982989091",
     "source": "twitter",
     "author": "kargarisaac",
