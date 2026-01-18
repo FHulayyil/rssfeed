@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2012850873031184402",
+    "source": "twitter",
+    "author": "devfaizanali",
+    "content": "@moinulmoin @droid Opus 4.5 still has edge cases where it’s stronger,Codex is better overall but not perfect.",
+    "url": "https://x.com/devfaizanali/status/2012850873031184402",
+    "timestamp": "2026-01-18T11:33:39.000Z",
+    "metadata": {
+      "conversation_id": "2012850873031184402",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012850688808939707",
+    "source": "twitter",
+    "author": "JianchengW29643",
+    "content": "@nathanclark_ @zeddotdev @FactoryAI @droid droid burning token too fast",
+    "url": "https://x.com/JianchengW29643/status/2012850688808939707",
+    "timestamp": "2026-01-18T11:32:55.000Z",
+    "metadata": {
+      "conversation_id": "2012850688808939707",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012843076763402319",
     "source": "twitter",
     "author": "moinulmoin",
