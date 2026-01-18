@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012949929220812911",
+    "source": "twitter",
+    "author": "BEAST_OFFICIIAL",
+    "content": "Please improve Droid UX make it more clean. @matanSF @FactoryAI",
+    "url": "https://x.com/BEAST_OFFICIIAL/status/2012949929220812911",
+    "timestamp": "2026-01-18T18:07:16.000Z",
+    "metadata": {
+      "conversation_id": "2012949929220812911",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012945755816792529",
     "source": "twitter",
     "author": "CavalliniPosada",
@@ -29230,6 +29245,19 @@
       "number": 214
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_214",
+    "source": "github",
+    "author": "0xStuart",
+    "content": "[Discussion] JetBrains Plugin\n\nThe documentation says there is a JetBrains Plugin in the marketplace, but I can't find it.",
+    "url": "https://github.com/Factory-AI/factory/discussions/214",
+    "timestamp": "2025-10-19T19:55:35Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 214
+    }
   },
   {
     "id": "reddit_1o98xc1",
