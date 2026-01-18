@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2012985673624490320",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2012982574231011837",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2012981638607597720",
@@ -29615,7 +29618,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 95
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_92",
@@ -29642,7 +29646,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 92
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_82",
