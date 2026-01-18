@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012901710277292050",
+    "source": "twitter",
+    "author": "mhadtk",
+    "content": "@theplgeek Amazin!! I would love to use this via @FactoryAI and a custom model such as GLM 4.7. Can i setup via configurations the custom model now? Thanks",
+    "url": "https://x.com/mhadtk/status/2012901710277292050",
+    "timestamp": "2026-01-18T14:55:40.000Z",
+    "metadata": {
+      "conversation_id": "2012901710277292050",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_610",
     "source": "github",
     "author": "li01223123",
