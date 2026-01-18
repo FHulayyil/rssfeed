@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2012985884136645104",
+    "source": "twitter",
+    "author": "ItoriYolk38278",
+    "content": "@erd0xbc @aeitroc @0xSero @droid Other dev friends noticed the same problem, unfortunately. I like the tool, but it feels like QA is lacking tbh.",
+    "url": "https://x.com/ItoriYolk38278/status/2012985884136645104",
+    "timestamp": "2026-01-18T20:30:08.000Z",
+    "metadata": {
+      "conversation_id": "2012985884136645104",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012985673624490320",
+    "source": "twitter",
+    "author": "ItoriYolk38278",
+    "content": "@erd0xbc @aeitroc @0xSero @droid What I can think of right now:\n- w/ Gemini it doesn't finish its task list, often doesn't comment on tasks after doing it.\n- w/ Opus it scrolls back up to the start randomly.\n- Executing code wit Opus frequently freezes the CLI (\"message queued\"), requiring a restart.",
+    "url": "https://x.com/ItoriYolk38278/status/2012985673624490320",
+    "timestamp": "2026-01-18T20:29:18.000Z",
+    "metadata": {
+      "conversation_id": "2012985673624490320",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012982574231011837",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@ItoriYolk38278 @aeitroc @0xSero Any examples that @droid needs to fix?",
+    "url": "https://x.com/erd0xbc/status/2012982574231011837",
+    "timestamp": "2026-01-18T20:16:59.000Z",
+    "metadata": {
+      "conversation_id": "2012982574231011837",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012981638607597720",
     "source": "twitter",
     "author": "jcurtis",
@@ -29560,6 +29605,19 @@
     "category": "mention"
   },
   {
+    "id": "github_discussion_95",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] CLI v0.16.0 Release Notes\n\n- Sonnet 4.5 model is now available\r\n- Clear chat input using double ESC or Ctrl-C\r\n- User-configured allow and deny list of commands to execute\r\n- Option to disable droid commit co-authoring\r\n- Auth using FACTORY_API_KEY\r\n- Fixed UI bugs due to resizing",
+    "url": "https://github.com/Factory-AI/factory/discussions/95",
+    "timestamp": "2025-10-01T20:05:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 95
+    }
+  },
+  {
     "id": "github_discussion_92",
     "source": "github",
     "author": "msneijders",
@@ -29572,6 +29630,19 @@
       "number": 92
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_92",
+    "source": "github",
+    "author": "msneijders",
+    "content": "[Discussion] MCP tools filtering\n\nI would like to configure exactly what tools of a MCP server should be made available.\r\n\r\nMotivation: MCP servers with overlapping functionality and too many unneeded tools is confusing the models.",
+    "url": "https://github.com/Factory-AI/factory/discussions/92",
+    "timestamp": "2025-10-01T09:07:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 92
+    }
   },
   {
     "id": "github_discussion_82",
