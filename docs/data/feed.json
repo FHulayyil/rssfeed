@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2012974202974843198",
@@ -29541,7 +29542,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 99
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_95",
