@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2012928107825566192",
@@ -28995,7 +28996,8 @@
       "type": "discussion",
       "category": "General",
       "number": 374
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "github_discussion_361",
@@ -29022,7 +29024,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 361
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_309",
