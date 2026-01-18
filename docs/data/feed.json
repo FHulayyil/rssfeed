@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012887563258802450",
+    "source": "twitter",
+    "author": "DSlotvinskyi",
+    "content": "A couple weeks ago I saw @donvito Claude Code tutorial, and tried to implement it on @droid from @FactoryAI \nYou can check my version of usage @MiniMax_AI  MiniMax M2.1 in Factory Droid (BYOK setup   local @ollama  fallback) https://t.co/Kc47qBUzOA",
+    "url": "https://x.com/DSlotvinskyi/status/2012887563258802450",
+    "timestamp": "2026-01-18T13:59:27.000Z",
+    "metadata": {
+      "conversation_id": "2012887563258802450",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012873657240940586",
     "source": "twitter",
     "author": "blueemi99",
