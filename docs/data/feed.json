@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012819804252459424",
+    "source": "twitter",
+    "author": "_andypeacock",
+    "content": "@jonwerthen @arvidkahl @FactoryAI I only open vscode/cursor to read Claude's MD files",
+    "url": "https://x.com/_andypeacock/status/2012819804252459424",
+    "timestamp": "2026-01-18T09:30:12.000Z",
+    "metadata": {
+      "conversation_id": "2012819804252459424",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012787745392087332",
     "source": "twitter",
     "author": "troymartig",
