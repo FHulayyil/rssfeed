@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2012928107825566192",
+    "source": "twitter",
+    "author": "desugar_64",
+    "content": "@0xSero @FactoryAI Big downside of multi-model usage is cache invalidation. Every model switch resets the chat cache. I burned ~3M/20M tokens in the first hour. Painful😣 \n\nNow I plan with one model, execute with a 2nd, and avoid long single-chat sessions.",
+    "url": "https://x.com/desugar_64/status/2012928107825566192",
+    "timestamp": "2026-01-18T16:40:33.000Z",
+    "metadata": {
+      "conversation_id": "2012928107825566192",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012927761690534048",
+    "source": "twitter",
+    "author": "desugar_64",
+    "content": "@0xSero @FactoryAI Before NY, I grabbed a 1-year GLM sub during the holiday sale for a bit over $100. Interesting model, but tbh it feels pretty mediocre for Android dev.\n\nNow I’m on Droid. Gemini is great for Android dev, Claude or GPT for planning + bug fixing.",
+    "url": "https://x.com/desugar_64/status/2012927761690534048",
+    "timestamp": "2026-01-18T16:39:11.000Z",
+    "metadata": {
+      "conversation_id": "2012927761690534048",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012919687089398189",
     "source": "twitter",
     "author": "felipedeleon_",
