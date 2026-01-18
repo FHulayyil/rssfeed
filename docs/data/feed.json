@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2012945755816792529",
@@ -29257,7 +29258,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1o98xc1",
