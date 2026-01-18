@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2012990624371294423",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@gasatrya @FactoryAI very glad to hear it! What have you been building?",
+    "url": "https://x.com/matanSF/status/2012990624371294423",
+    "timestamp": "2026-01-18T20:48:59.000Z",
+    "metadata": {
+      "conversation_id": "2012990624371294423",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012985884136645104",
     "source": "twitter",
     "author": "ItoriYolk38278",
@@ -30,6 +45,21 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2012984312002396474",
+    "source": "twitter",
+    "author": "filligerr",
+    "content": "gave @FactoryAI another shot \n\nhow do people survive on 20 million tokens?\n\nwhat are you guys doing? send a prompt per day? https://t.co/4aXZxhxSdg",
+    "url": "https://x.com/filligerr/status/2012984312002396474",
+    "timestamp": "2026-01-18T20:23:54.000Z",
+    "metadata": {
+      "conversation_id": "2012984312002396474",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2012982574231011837",
