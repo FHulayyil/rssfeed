@@ -29112,7 +29112,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_225",
