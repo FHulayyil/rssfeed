@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2012916050883449080",
+    "source": "twitter",
+    "author": "gasatrya",
+    "content": "I've been testing Droid @FactoryAI + GPT 5.2. Even with low reasoning, the results were amazing! https://t.co/BlO4eKJMlN",
+    "url": "https://x.com/gasatrya/status/2012916050883449080",
+    "timestamp": "2026-01-18T15:52:39.000Z",
+    "metadata": {
+      "conversation_id": "2012916050883449080",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2012914573574025495",
+    "source": "twitter",
+    "author": "abhagsain",
+    "content": "@FactoryAI @bentossell @matanSF \nWith the recent update, the file tagging feature has gone 📉\nThere's a file named useOutlineStore, and the search couldn't find it https://t.co/cxDyCYCewg",
+    "url": "https://x.com/abhagsain/status/2012914573574025495",
+    "timestamp": "2026-01-18T15:46:47.000Z",
+    "metadata": {
+      "conversation_id": "2012914573574025495",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2012901710277292050",
     "source": "twitter",
     "author": "mhadtk",
