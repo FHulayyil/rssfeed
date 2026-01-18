@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2012942572109340858",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2012936111471939720",
@@ -29198,7 +29200,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "reddit_1oazqru",
