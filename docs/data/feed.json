@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2013206609086816689",
+    "source": "twitter",
+    "author": "zzxwill",
+    "content": "@dddanielwang @FactoryAI 嗯，我也是这个思路，让 Claude 或 Codex 去 plan，然后试跑，生成 Prompt，再全军出击 https://t.co/RdZAtOgYsw",
+    "url": "https://x.com/zzxwill/status/2013206609086816689",
+    "timestamp": "2026-01-19T11:07:13.000Z",
+    "metadata": {
+      "conversation_id": "2013206609086816689",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013206410369118271",
+    "source": "twitter",
+    "author": "open_cowork",
+    "content": "@thorstenball @FactoryAI?",
+    "url": "https://x.com/open_cowork/status/2013206410369118271",
+    "timestamp": "2026-01-19T11:06:26.000Z",
+    "metadata": {
+      "conversation_id": "2013206410369118271",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013199683305259246",
+    "source": "twitter",
+    "author": "YuriKushch",
+    "content": "@realZachi007 @FactoryAI Harness is important. Pretty sure that Codex is doing something additionally in the background for what you are not charged. And factory is doing just api call most likely",
+    "url": "https://x.com/YuriKushch/status/2013199683305259246",
+    "timestamp": "2026-01-19T10:39:42.000Z",
+    "metadata": {
+      "conversation_id": "2013199683305259246",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013196176204365832",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "@TomDavenport @FactoryAI That’s the model I mentioned, but I get the point non codex 5.2 xhigh is way slower. \n\nLike to use it for bug finding.",
+    "url": "https://x.com/realZachi007/status/2013196176204365832",
+    "timestamp": "2026-01-19T10:25:46.000Z",
+    "metadata": {
+      "conversation_id": "2013196176204365832",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013195847425487304",
+    "source": "twitter",
+    "author": "TomDavenport",
+    "content": "@realZachi007 @FactoryAI You should try the 5.2-codex-xhigh version, I find it faster and more than happy with its work",
+    "url": "https://x.com/TomDavenport/status/2013195847425487304",
+    "timestamp": "2026-01-19T10:24:28.000Z",
+    "metadata": {
+      "conversation_id": "2013195847425487304",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013195798255653042",
+    "source": "twitter",
+    "author": "AjayEdupuganti",
+    "content": "@realZachi007 @FactoryAI Thats why they are collaborating with @cerebras",
+    "url": "https://x.com/AjayEdupuganti/status/2013195798255653042",
+    "timestamp": "2026-01-19T10:24:16.000Z",
+    "metadata": {
+      "conversation_id": "2013195798255653042",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013189927215693974",
     "source": "twitter",
     "author": "realZachi007",
