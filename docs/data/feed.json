@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_2013397261804265518",
+    "source": "twitter",
+    "author": "_BrianKimball",
+    "content": "@Kyler_Lorin @EnoReyes @realZachi007 @opencode @FactoryAI Mac only. I develop on Linux or windows",
+    "url": "https://x.com/_BrianKimball/status/2013397261804265518",
+    "timestamp": "2026-01-19T23:44:48.000Z",
+    "metadata": {
+      "conversation_id": "2013397261804265518",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013394069330735602",
+    "source": "twitter",
+    "author": "RalphUtz",
+    "content": "@nathanpareo @FactoryAI How is it with @FactoryAI  on non coding tasks?",
+    "url": "https://x.com/RalphUtz/status/2013394069330735602",
+    "timestamp": "2026-01-19T23:32:07.000Z",
+    "metadata": {
+      "conversation_id": "2013394069330735602",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013393599749116139",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "@moinulmoin @EnoReyes @opencode @FactoryAI that’s not a thing factory can change I think. models don’t share their full reasoning, letting the execution model be out of the full context \n\njust my guess",
+    "url": "https://x.com/realZachi007/status/2013393599749116139",
+    "timestamp": "2026-01-19T23:30:15.000Z",
+    "metadata": {
+      "conversation_id": "2013393599749116139",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013393151742935167",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "@EnoReyes @realZachi007 @opencode @FactoryAI custom models as spec model and execute model i need it :(, also previously i found options like dicuss more or plan more but then i found if never, why? i liked that cz sometimes it really doesnt complete the research/plan",
+    "url": "https://x.com/moinulmoin/status/2013393151742935167",
+    "timestamp": "2026-01-19T23:28:29.000Z",
+    "metadata": {
+      "conversation_id": "2013393151742935167",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013392868094755043",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "@EnoReyes @opencode @FactoryAI nothing to be honest. droid will stay my go to but I like to variate from time to time \n\nBut a 100 USD plan for 10 million token would be great",
+    "url": "https://x.com/realZachi007/status/2013392868094755043",
+    "timestamp": "2026-01-19T23:27:21.000Z",
+    "metadata": {
+      "conversation_id": "2013392868094755043",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013392340073816072",
+    "source": "twitter",
+    "author": "MiclauMarius",
+    "content": "@nathanpareo @FactoryAI Why though? What's the difference?",
+    "url": "https://x.com/MiclauMarius/status/2013392340073816072",
+    "timestamp": "2026-01-19T23:25:15.000Z",
+    "metadata": {
+      "conversation_id": "2013392340073816072",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013391899462107591",
+    "source": "twitter",
+    "author": "_BrianKimball",
+    "content": "@Kyler_Lorin @EnoReyes @realZachi007 @opencode @FactoryAI I'll check it out. Thanks",
+    "url": "https://x.com/_BrianKimball/status/2013391899462107591",
+    "timestamp": "2026-01-19T23:23:30.000Z",
+    "metadata": {
+      "conversation_id": "2013391899462107591",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013391624320008387",
+    "source": "twitter",
+    "author": "iAmHenryMascot",
+    "content": "@realZachi007 @FactoryAI Really?",
+    "url": "https://x.com/iAmHenryMascot/status/2013391624320008387",
+    "timestamp": "2026-01-19T23:22:24.000Z",
+    "metadata": {
+      "conversation_id": "2013391624320008387",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013390500922073096",
+    "source": "twitter",
+    "author": "Kyler_Lorin",
+    "content": "@_BrianKimball @EnoReyes @realZachi007 @opencode @FactoryAI https://t.co/Tjc0HF1ayx I use this and it works great",
+    "url": "https://x.com/Kyler_Lorin/status/2013390500922073096",
+    "timestamp": "2026-01-19T23:17:57.000Z",
+    "metadata": {
+      "conversation_id": "2013390500922073096",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013385885534875664",
     "source": "twitter",
     "author": "_BrianKimball",
