@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2013212865486836109",
+    "source": "twitter",
+    "author": "thorstenball",
+    "content": "@open_cowork @FactoryAI No, the Factory, man",
+    "url": "https://x.com/thorstenball/status/2013212865486836109",
+    "timestamp": "2026-01-19T11:32:05.000Z",
+    "metadata": {
+      "conversation_id": "2013212865486836109",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013211526979579910",
+    "source": "twitter",
+    "author": "Mattslayga",
+    "content": "@xlcizor @EnoReyes @nummanali @FactoryAI I’m in the exact same boat and feel the same way. I love droid, easily my favourite cli harness, but the value just isn’t there. I can rip 200m tokens in a week",
+    "url": "https://x.com/Mattslayga/status/2013211526979579910",
+    "timestamp": "2026-01-19T11:26:46.000Z",
+    "metadata": {
+      "conversation_id": "2013211526979579910",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013211118635000105",
     "source": "twitter",
     "author": "AIFlow_ML",
@@ -14,6 +44,51 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2013210694892802239",
+    "source": "twitter",
+    "author": "xlcizor",
+    "content": "I checked my ccusage (assuming that's accurate), and i've used 8,508,605,572 opus 4.5 tokens on a $200 max plan last month. That is 85x factory's quota. Per ccusage, the API pricing for it would have been $7800. \n\nIt doesn't matter how good @FactoryAI is, how are you going to even compete with that margin?",
+    "url": "https://x.com/xlcizor/status/2013210694892802239",
+    "timestamp": "2026-01-19T11:23:27.000Z",
+    "metadata": {
+      "conversation_id": "2013210694892802239",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013209707729584540",
+    "source": "twitter",
+    "author": "RogerAlsing",
+    "content": "@realZachi007 @TomDavenport @FactoryAI droid running low and charge you for xhigh? :D",
+    "url": "https://x.com/RogerAlsing/status/2013209707729584540",
+    "timestamp": "2026-01-19T11:19:32.000Z",
+    "metadata": {
+      "conversation_id": "2013209707729584540",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013208723049603219",
+    "source": "twitter",
+    "author": "dddanielwang",
+    "content": "@zzxwill @FactoryAI bookmark了，八agent齐上感觉美刀在燃烧😭，等上班了一定体验一下这种感觉，thx~",
+    "url": "https://x.com/dddanielwang/status/2013208723049603219",
+    "timestamp": "2026-01-19T11:15:37.000Z",
+    "metadata": {
+      "conversation_id": "2013208723049603219",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2013206609086816689",
