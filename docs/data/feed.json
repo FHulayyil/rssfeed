@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2013283011513688169",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@WasBruba @sticktoitivity @FactoryAI Droids built in /review command is great for this",
+    "url": "https://x.com/EnoReyes/status/2013283011513688169",
+    "timestamp": "2026-01-19T16:10:49.000Z",
+    "metadata": {
+      "conversation_id": "2013283011513688169",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013282574152663328",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "FWIW I believe this is counting cached tokens, which are handled differently (e.g. for us that is a 0.1x multiplier on the model multiplier). I would venture to guess it’s more like 2-4x more usage than we’d offer. Agreed that’s a decent jump - but we’re making our plans more comparable soon. You also don’t currently get rate limited by us!",
+    "url": "https://x.com/EnoReyes/status/2013282574152663328",
+    "timestamp": "2026-01-19T16:09:05.000Z",
+    "metadata": {
+      "conversation_id": "2013282574152663328",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013280865720172856",
+    "source": "twitter",
+    "author": "MinChonChiSF",
+    "content": "@realZachi007 @FactoryAI Interesting difference between FactoryAI and the CLI. Worth profiling both environments.",
+    "url": "https://x.com/MinChonChiSF/status/2013280865720172856",
+    "timestamp": "2026-01-19T16:02:17.000Z",
+    "metadata": {
+      "conversation_id": "2013280865720172856",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013280539722060108",
+    "source": "twitter",
+    "author": "handikawisnu",
+    "content": "@Codydearkland @FactoryAI @droid one missing feature from Droid: it has incomplete rollback feature though..the rewound conversation only rewinds the chats, but not the files.\n\ni know we can use git, but that means commit on every chat? would be wicked if Droid implement opencode's rollback feature.",
+    "url": "https://x.com/handikawisnu/status/2013280539722060108",
+    "timestamp": "2026-01-19T16:01:00.000Z",
+    "metadata": {
+      "conversation_id": "2013280539722060108",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013277494820950407",
+    "source": "twitter",
+    "author": "willIsbillls",
+    "content": "I like to watch them \"reason\". @FactoryAI, i know you can add a toggle to show reasoning. this wouldn't be an issue if Droid was open",
+    "url": "https://x.com/willIsbillls/status/2013277494820950407",
+    "timestamp": "2026-01-19T15:48:54.000Z",
+    "metadata": {
+      "conversation_id": "2013277494820950407",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013277012274860097",
     "source": "twitter",
     "author": "buildwithumair",
