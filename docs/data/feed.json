@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2013104674295926949",
+    "source": "twitter",
+    "author": "jcochranio",
+    "content": "@EnoReyes @Zai_org @FactoryAI Hmmm ok I'll have to into that.",
+    "url": "https://x.com/jcochranio/status/2013104674295926949",
+    "timestamp": "2026-01-19T04:22:10.000Z",
+    "metadata": {
+      "conversation_id": "2013104674295926949",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013101883745873927",
+    "source": "twitter",
+    "author": "bavaria_kush",
+    "content": "@FactoryAI  has codereview my life has changed",
+    "url": "https://x.com/bavaria_kush/status/2013101883745873927",
+    "timestamp": "2026-01-19T04:11:05.000Z",
+    "metadata": {
+      "conversation_id": "2013101883745873927",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013100709286207498",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@realZachi007 @FactoryAI The GPT models like to explore the codebase before writing any code. \n\nThe Droid harness seems to have some magic which gives more context about the codebase so that GPT 5.2 can find what it needs.",
+    "url": "https://x.com/delaanthonio/status/2013100709286207498",
+    "timestamp": "2026-01-19T04:06:25.000Z",
+    "metadata": {
+      "conversation_id": "2013100709286207498",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013096012152242603",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@sticktoitivity It's long context is great. We don't see a ton of usage in the @FactoryAI droid, but when users do use it they use a lot of it.",
+    "url": "https://x.com/EnoReyes/status/2013096012152242603",
+    "timestamp": "2026-01-19T03:47:45.000Z",
+    "metadata": {
+      "conversation_id": "2013096012152242603",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013095857386655868",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@jcochranio @Zai_org Try using @FactoryAI droid. You can get a pro plan that gives you usage for both!",
+    "url": "https://x.com/EnoReyes/status/2013095857386655868",
+    "timestamp": "2026-01-19T03:47:08.000Z",
+    "metadata": {
+      "conversation_id": "2013095857386655868",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013093367761228028",
+    "source": "twitter",
+    "author": "rahulvrane",
+    "content": "@AmpCode @FactoryAI - have you all tested your agent harness on data analytics? Im thinking of some adversarial testing cuz i need a good one for synthetic Biology Research and Claude Code ain't cutting it... context gets muddled or refusals go up because it dumps lit research into subtasks and I cbf with hooks...",
+    "url": "https://x.com/rahulvrane/status/2013093367761228028",
+    "timestamp": "2026-01-19T03:37:14.000Z",
+    "metadata": {
+      "conversation_id": "2013093367761228028",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013087927463542869",
     "source": "twitter",
     "author": "divinprnc",
