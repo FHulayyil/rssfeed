@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2013189927215693974",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "@avg_engineer_ @FactoryAI https://t.co/infvrtzBXU",
+    "url": "https://x.com/realZachi007/status/2013189927215693974",
+    "timestamp": "2026-01-19T10:00:56.000Z",
+    "metadata": {
+      "conversation_id": "2013189927215693974",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013189450059129045",
+    "source": "twitter",
+    "author": "avg_engineer_",
+    "content": "@realZachi007 @FactoryAI Codex gives better rate limits compared to peers. So I guess this is how they afford 5x better limits",
+    "url": "https://x.com/avg_engineer_/status/2013189450059129045",
+    "timestamp": "2026-01-19T09:59:02.000Z",
+    "metadata": {
+      "conversation_id": "2013189450059129045",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013188253164228720",
+    "source": "twitter",
+    "author": "darrenjr",
+    "content": "@realZachi007 @FactoryAI this is why harness matters :)",
+    "url": "https://x.com/darrenjr/status/2013188253164228720",
+    "timestamp": "2026-01-19T09:54:17.000Z",
+    "metadata": {
+      "conversation_id": "2013188253164228720",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013183033365643370",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "It's the same model, so it's practically the same outputs, but exponentially slower. I literally fall asleep wating for processes to finish!\n\nI'm hoping that the openai / cerebras partnership delivers what everyone is writing their fan-fics about in the past few days.\n\nThat will make performance a non-issue and we can just keep innovating.",
+    "url": "https://x.com/AriesTheCoder/status/2013183033365643370",
+    "timestamp": "2026-01-19T09:33:32.000Z",
+    "metadata": {
+      "conversation_id": "2013183033365643370",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013181973984936125",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "@AriesTheCoder @FactoryAI @matanSF How’s the output quality?",
+    "url": "https://x.com/realZachi007/status/2013181973984936125",
+    "timestamp": "2026-01-19T09:29:20.000Z",
+    "metadata": {
+      "conversation_id": "2013181973984936125",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013172520229212305",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@mikehostetler @paraddox @opencode Would love to get support for @FactoryAI droid as well too - this is the tool is tried, tested and is inexplicably fast. \n\nIt has in it's own way solved long running processes by a combination of compaction and handoff juggling.",
+    "url": "https://x.com/AriesTheCoder/status/2013172520229212305",
+    "timestamp": "2026-01-19T08:51:46.000Z",
+    "metadata": {
+      "conversation_id": "2013172520229212305",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013171148792463823",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@realZachi007 @FactoryAI Has to be something magic in @FactoryAI.\n\nConfession: @matanSF - I've been using opencode with GPT 5.2 Codex high on a project. It's slow on there as well.",
+    "url": "https://x.com/AriesTheCoder/status/2013171148792463823",
+    "timestamp": "2026-01-19T08:46:19.000Z",
+    "metadata": {
+      "conversation_id": "2013171148792463823",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013170352432505063",
     "source": "twitter",
     "author": "DanielWhit21874",
@@ -16,6 +121,36 @@
     "category": "love"
   },
   {
+    "id": "twitter_2013170311479316586",
+    "source": "twitter",
+    "author": "dddanielwang",
+    "content": "@FactoryAI 的CTO推荐：让Opus来做plan，再让glm/codex做执行，可以几乎达到全程用opus的效果，但是token花销只是零头\n这么看来，copilot是很不错的选择了，支持多种模型，计费模式感觉也比较安心\n有机会测试一下droid 和 opencode+copilot",
+    "url": "https://x.com/dddanielwang/status/2013170311479316586",
+    "timestamp": "2026-01-19T08:42:59.000Z",
+    "metadata": {
+      "conversation_id": "2013170311479316586",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013166087286948309",
+    "source": "twitter",
+    "author": "mikenguyen_me",
+    "content": "What's your current stack for coding? Curious to know whether there's anything new I should pick up.\n\n1. Terminal agents: @FactoryAI if I just receive my paycheck. Else @claudeai + @goon_nguyen ClaudeKit for more affordability. \n2. IDE: @zeddotdev mainly for visualizing code change and occasionally open @windsurf for free autocompletion. \n3. Database: @supabase for Postgres. I rarely use NoSQL, but if I want it quick, I'll use @MongoDB \n4. Auth: @better_auth all the way. \n5. Payment: @polar_sh (nice alternatives to Stripe as it doesn't support my country) & @RevenueCat .\n6. Review: @coderabbitai lite plan. \n\nAnything cool you think I should try or replace my existing ones? Let me know in the comments. Thanks :D",
+    "url": "https://x.com/mikenguyen_me/status/2013166087286948309",
+    "timestamp": "2026-01-19T08:26:12.000Z",
+    "metadata": {
+      "conversation_id": "2013166087286948309",
+      "likes": 7,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1qgyltr",
     "source": "reddit",
     "author": "Cheema42",
@@ -28,6 +163,21 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2013163569202843973",
+    "source": "twitter",
+    "author": "Ssslly3",
+    "content": "Love your work around ToolBot and now kyth — huge respect for OG vibe coding builders like you.\n\nWe’re a tiny team working on Step1, a vibe coding tool focused on frontend: with a browser plugin you can clone any website’s layout or specific components in one click, get clean editable code, and then use AI chat to reshape UI, copy, and interactions.\n\nI’d really love to get a product founder’s perspective like yours:\n– to see if Step1 actually helps your web‑building workflow,\n– and whether it gets you closer to the kind of UI you want, faster.\nIf you’re open to it, I’d be honored to have you in our private beta and hear your honest feedback.",
+    "url": "https://x.com/Ssslly3/status/2013163569202843973",
+    "timestamp": "2026-01-19T08:16:12.000Z",
+    "metadata": {
+      "conversation_id": "2013163569202843973",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2013161247139610963",
