@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2013120514538008843",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@jcochranio @Zai_org @FactoryAI Lmk if you have any questions - we have a trial that should let you give it a good run!",
+    "url": "https://x.com/EnoReyes/status/2013120514538008843",
+    "timestamp": "2026-01-19T05:25:07.000Z",
+    "metadata": {
+      "conversation_id": "2013120514538008843",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013119316523172260",
+    "source": "twitter",
+    "author": "nazar44444444",
+    "content": "@realZachi007 @FactoryAI imo droid prompts result in overly eager agents good for fast results and easy/small tasks but end up being really bad for big repo/projects",
+    "url": "https://x.com/nazar44444444/status/2013119316523172260",
+    "timestamp": "2026-01-19T05:20:21.000Z",
+    "metadata": {
+      "conversation_id": "2013119316523172260",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013111189966876994",
+    "source": "twitter",
+    "author": "rahulvrane",
+    "content": "@EnoReyes @AmpCode @FactoryAI Can't wait",
+    "url": "https://x.com/rahulvrane/status/2013111189966876994",
+    "timestamp": "2026-01-19T04:48:04.000Z",
+    "metadata": {
+      "conversation_id": "2013111189966876994",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013111085486772423",
+    "source": "twitter",
+    "author": "bavaria_kush",
+    "content": "@FactoryAI @varinnair is this droid responding?",
+    "url": "https://x.com/bavaria_kush/status/2013111085486772423",
+    "timestamp": "2026-01-19T04:47:39.000Z",
+    "metadata": {
+      "conversation_id": "2013111085486772423",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013110417594220635",
+    "source": "twitter",
+    "author": "jcochranio",
+    "content": "@EnoReyes @Zai_org @FactoryAI ...ill have to LOOK into that... I really wish X would add reply edits.",
+    "url": "https://x.com/jcochranio/status/2013110417594220635",
+    "timestamp": "2026-01-19T04:44:59.000Z",
+    "metadata": {
+      "conversation_id": "2013110417594220635",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013109690113139055",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@rahulvrane @AmpCode @FactoryAI Yes - it's quite good at it. We'll have something that maeks this even better very soon. Will DM https://t.co/P4RdhsXfNg",
+    "url": "https://x.com/EnoReyes/status/2013109690113139055",
+    "timestamp": "2026-01-19T04:42:06.000Z",
+    "metadata": {
+      "conversation_id": "2013109690113139055",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013104674295926949",
     "source": "twitter",
     "author": "jcochranio",
