@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2013322602190614724",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "Is it just me, or is Droid cycling only between Auto (off) and Spec mode? I've noticed this for the last two days. Tested on both Ghostty and Mac Terminal.\n@bentossell @FactoryAI https://t.co/udtLI04hbT",
+    "url": "https://x.com/nathanpareo/status/2013322602190614724",
+    "timestamp": "2026-01-19T18:48:08.000Z",
+    "metadata": {
+      "conversation_id": "2013322602190614724",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_611",
     "source": "github",
     "author": "mikez93",
