@@ -48,6 +48,36 @@
     "category": "love"
   },
   {
+    "id": "twitter_2013339565461770702",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "@draslan_eth @steipete @matanSF @EnoReyes @droid @clawdbot oh dang! on it thanks",
+    "url": "https://x.com/tomosman/status/2013339565461770702",
+    "timestamp": "2026-01-19T19:55:33.000Z",
+    "metadata": {
+      "conversation_id": "2013339565461770702",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013339096756765062",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@tomosman @steipete @matanSF @EnoReyes @droid @clawdbot It /exec droid. Just ask it to install it",
+    "url": "https://x.com/draslan_eth/status/2013339096756765062",
+    "timestamp": "2026-01-19T19:53:41.000Z",
+    "metadata": {
+      "conversation_id": "2013339096756765062",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013335181999120783",
     "source": "twitter",
     "author": "nathanclark_",
