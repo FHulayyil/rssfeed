@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2013256788897091668",
+    "source": "twitter",
+    "author": "YelaHankaa",
+    "content": "@thorstenball @open_cowork @FactoryAI gt",
+    "url": "https://x.com/YelaHankaa/status/2013256788897091668",
+    "timestamp": "2026-01-19T14:26:37.000Z",
+    "metadata": {
+      "conversation_id": "2013256788897091668",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013255647597330524",
+    "source": "twitter",
+    "author": "druv_kotwani",
+    "content": "@realZachi007 @FactoryAI got it, thanks🙌🏻",
+    "url": "https://x.com/druv_kotwani/status/2013255647597330524",
+    "timestamp": "2026-01-19T14:22:05.000Z",
+    "metadata": {
+      "conversation_id": "2013255647597330524",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013255327404224916",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "@druv_kotwani @FactoryAI For very complex bugs, I use the Codex CLI with gpt-5.2-xhigh. Takes a long time but eventually finds it.\n\nFor everything else, you’re good with factory. It’s like 80% faster with a reduction of quality of like 10%. It’s a fair deal.",
+    "url": "https://x.com/realZachi007/status/2013255327404224916",
+    "timestamp": "2026-01-19T14:20:49.000Z",
+    "metadata": {
+      "conversation_id": "2013255327404224916",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013253449320964337",
+    "source": "twitter",
+    "author": "druv_kotwani",
+    "content": "@realZachi007 @FactoryAI not tried codex 5.2xhigh on factory yet, is the quality same or codex is better?",
+    "url": "https://x.com/druv_kotwani/status/2013253449320964337",
+    "timestamp": "2026-01-19T14:13:21.000Z",
+    "metadata": {
+      "conversation_id": "2013253449320964337",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013251834551402921",
     "source": "twitter",
     "author": "realZachi007",
