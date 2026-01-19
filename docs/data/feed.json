@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2013251834551402921",
+    "source": "twitter",
+    "author": "realZachi007",
+    "content": "@Koshirolzumi @FactoryAI You clearly don’t have a clue of what you’re talking about.\n\nFactory supports BYOK. You can literally call the 5.2-xhigh model yourself through the OpenAI api and see a significant speed improvement.",
+    "url": "https://x.com/realZachi007/status/2013251834551402921",
+    "timestamp": "2026-01-19T14:06:56.000Z",
+    "metadata": {
+      "conversation_id": "2013251834551402921",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013239882693623924",
     "source": "twitter",
     "author": "HarryStuck77",
@@ -16094,6 +16109,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1q7aica",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.44.0 Released - `/statusline` command and more\n\n## New features\n\n* **`/statusline` command** - Configure custom status line, can import PS1 from shell config\n* **Bulk MCP tool management** - Manage multiple MCP tools at once via ToolsOverviewView\n* **Auto-include Skill tool** - Custom droids (subagents) now automatically include the Skill tool\n\n## Bug fixes\n\n* **Session resume system info** - Session resume now shows correct/up-to-date system info and local date\n* **Model display alignment** - Fixed model display alignment in UI\n* **MCP proje",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q7aica/factory_cli_v0440_released_statusline_command_and/",
+    "timestamp": "2026-01-08T12:27:52.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2009238926817677752",
