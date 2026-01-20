@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2013446925060632995",
+    "source": "twitter",
+    "author": "dyfrai",
+    "content": "@FactoryAI @bentossell Pls open in Lisbon",
+    "url": "https://x.com/dyfrai/status/2013446925060632995",
+    "timestamp": "2026-01-20T03:02:09.000Z",
+    "metadata": {
+      "conversation_id": "2013446925060632995",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013440407586148732",
+    "source": "twitter",
+    "author": "codecoach",
+    "content": "@nathanpareo @FactoryAI better than GPT-4 Turbo? that's saying somethin.",
+    "url": "https://x.com/codecoach/status/2013440407586148732",
+    "timestamp": "2026-01-20T02:36:15.000Z",
+    "metadata": {
+      "conversation_id": "2013440407586148732",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013440064370413726",
+    "source": "twitter",
+    "author": "codecoach",
+    "content": "@FactoryAI Nice congrats on the new office. Hope the expansion goes well.",
+    "url": "https://x.com/codecoach/status/2013440064370413726",
+    "timestamp": "2026-01-20T02:34:53.000Z",
+    "metadata": {
+      "conversation_id": "2013440064370413726",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013436064095183194",
+    "source": "twitter",
+    "author": "sPredictorX1807",
+    "content": "@realZachi007 @opencode @FactoryAI @FactoryAI seems to be good benchmarks but have seen CC performance better in real world complex tasks.",
+    "url": "https://x.com/sPredictorX1807/status/2013436064095183194",
+    "timestamp": "2026-01-20T02:19:00.000Z",
+    "metadata": {
+      "conversation_id": "2013436064095183194",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013435563949379911",
+    "source": "twitter",
+    "author": "sPredictorX1807",
+    "content": "@FactoryAI @nathanpareo Not sure why I have urge to use factory then I often backout..",
+    "url": "https://x.com/sPredictorX1807/status/2013435563949379911",
+    "timestamp": "2026-01-20T02:17:00.000Z",
+    "metadata": {
+      "conversation_id": "2013435563949379911",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013422595337572625",
+    "source": "twitter",
+    "author": "TWangpo_",
+    "content": "@FactoryAI @nathanpareo @bentossell Do you have a hot keys page?",
+    "url": "https://x.com/TWangpo_/status/2013422595337572625",
+    "timestamp": "2026-01-20T01:25:28.000Z",
+    "metadata": {
+      "conversation_id": "2013422595337572625",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013419637375901917",
     "source": "twitter",
     "author": "RalphUtz",
