@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2013709017819029967",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@stefanosandes @AmpCode @FactoryAI @opencode @zeddotdev Thx! Is \"can't compete\" about how much free usage the plans offer ($10 daily free on Amp vs. more on paid Copilot Pro), or something else about the quality or product?",
+    "url": "https://x.com/sqs/status/2013709017819029967",
+    "timestamp": "2026-01-20T20:23:37.000Z",
+    "metadata": {
+      "conversation_id": "2013709017819029967",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013706406327624111",
+    "source": "twitter",
+    "author": "stefanosandes",
+    "content": "@AmpCode @FactoryAI @opencode @zeddotdev I'm using the free plan of @AmpCode. Unfortunately, it can't compete with the Copilot Pro plan. Their tool is really good.",
+    "url": "https://x.com/stefanosandes/status/2013706406327624111",
+    "timestamp": "2026-01-20T20:13:14.000Z",
+    "metadata": {
+      "conversation_id": "2013706406327624111",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013705904290435426",
+    "source": "twitter",
+    "author": "stefanosandes",
+    "content": "@AmpCode @FactoryAI @opencode @zeddotdev I love @zeddotdev so much, I've completely migrated from VS Code/Cursor and never looked back. But their AI integration can be improved. I have a Copilot plan, so most of the time I use Droid and OpenCode. Droid needs a proxy to use Copilot. I'm using VibeProxy.",
+    "url": "https://x.com/stefanosandes/status/2013705904290435426",
+    "timestamp": "2026-01-20T20:11:15.000Z",
+    "metadata": {
+      "conversation_id": "2013705904290435426",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013705105900450171",
+    "source": "twitter",
+    "author": "stefanosandes",
+    "content": "Ok, my impressions with third-party coding agents for now are:  \n1. @AmpCode - Completely surprised by how good it is  \n2. @FactoryAI Droid - Awesome experience (my go-to)  \n3. @opencode - Very good and with great potential  \nI use @zeddotdev AI panel for simpler things too.",
+    "url": "https://x.com/stefanosandes/status/2013705105900450171",
+    "timestamp": "2026-01-20T20:08:04.000Z",
+    "metadata": {
+      "conversation_id": "2013705105900450171",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013703928597127659",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@nathanpareo @FactoryAI Codex 5.2 high is a great driver",
+    "url": "https://x.com/draslan_eth/status/2013703928597127659",
+    "timestamp": "2026-01-20T20:03:24.000Z",
+    "metadata": {
+      "conversation_id": "2013703928597127659",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013690081601605744",
     "source": "twitter",
     "author": "87xysr",
