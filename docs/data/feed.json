@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2013613475658977556",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "I often wonder if there's a world where @NotionHQ and @FactoryAI play together",
+    "url": "https://x.com/NickSloggett/status/2013613475658977556",
+    "timestamp": "2026-01-20T14:03:58.000Z",
+    "metadata": {
+      "conversation_id": "2013613475658977556",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013605506464559464",
     "source": "twitter",
     "author": "willIsbillls",
@@ -15820,6 +15835,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1q89ov9",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.45.0 Released\n\n## Bug fixes\n\n* **Ctrl+O detailed view** - Now shows full accumulated command output instead of truncated view\n* **File autocomplete** - Menu now closes properly on Ctrl+C\n* **MCP modal** - Fixed modal and status notification display issues\n* **Autonomy level** - Fixed autonomy level not being applied correctly\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q89ov9/factory_cli_v0450_released/",
+    "timestamp": "2026-01-09T14:28:46.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2009631395359113515",
