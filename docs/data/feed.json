@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2013623955374932242",
+    "source": "twitter",
+    "author": "dooartlabs",
+    "content": "@amritwt @FactoryAI i love the digging mechanics, makes me think of the snes zelda",
+    "url": "https://x.com/dooartlabs/status/2013623955374932242",
+    "timestamp": "2026-01-20T14:45:36.000Z",
+    "metadata": {
+      "conversation_id": "2013623955374932242",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013613475658977556",
     "source": "twitter",
     "author": "NickSloggett",
@@ -31538,6 +31553,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1pwu3cs",
+    "source": "reddit",
+    "author": "nockyama",
+    "content": "[Question] Additional plan tier?\n\nJust wondering if there could be $60 or $100 plan tier, since the gap between $20 and $200 makes it hard to justify which plan to go for.\n\n  \n(Also, anyone really tried the $2,000 plan?)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1pwu3cs/question_additional_plan_tier/",
+    "timestamp": "2025-12-27T09:48:01.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "reddit_1pwrsra",
