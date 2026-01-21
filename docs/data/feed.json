@@ -256,6 +256,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2013702471911407772",
+    "source": "twitter",
+    "author": "corestoryai",
+    "content": "We’re excited to announce that CoreStory has partnered with @FactoryAI. We’re enabling AI agents to work with real architectural context, driving more accurate, reliable, and production-ready code across the SDLC. Read more: https://t.co/L9dqsC48d0",
+    "url": "https://x.com/corestoryai/status/2013702471911407772",
+    "timestamp": "2026-01-20T19:57:36.000Z",
+    "metadata": {
+      "conversation_id": "2013702471911407772",
+      "likes": 0,
+      "retweets": 2,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013690081601605744",
     "source": "twitter",
     "author": "87xysr",
