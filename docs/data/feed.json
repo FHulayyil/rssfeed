@@ -1,5 +1,305 @@
 [
   {
+    "id": "twitter_2014078534042407095",
+    "source": "twitter",
+    "author": "ankitml",
+    "content": "@matanSF @Codydearkland @FactoryAI @droid alright, found the desktop app. lol. quite hidden",
+    "url": "https://x.com/ankitml/status/2014078534042407095",
+    "timestamp": "2026-01-21T20:51:56.000Z",
+    "metadata": {
+      "conversation_id": "2014078534042407095",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014077576973586853",
+    "source": "twitter",
+    "author": "jackw_xyz",
+    "content": "@alvinsng @FactoryAI blog post on long running agents pls",
+    "url": "https://x.com/jackw_xyz/status/2014077576973586853",
+    "timestamp": "2026-01-21T20:48:08.000Z",
+    "metadata": {
+      "conversation_id": "2014077576973586853",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014077033354031196",
+    "source": "twitter",
+    "author": "clagosarias",
+    "content": "@FactoryAI This fits sooooo good with tools like https://t.co/hjYjqgkjsE",
+    "url": "https://x.com/clagosarias/status/2014077033354031196",
+    "timestamp": "2026-01-21T20:45:59.000Z",
+    "metadata": {
+      "conversation_id": "2014077033354031196",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014075455192883699",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@FactoryAI @zeddotdev Honestly this is soooo bad. \n\nHaven't tried on anything but 5.2.. Using CLI droid is sooo much better.. Am I doing something wrong.. DO it not have the context/history of the conversation @bentossell @EnoReyes This is frankly unusable https://t.co/r1m20qbrES",
+    "url": "https://x.com/launchaddict/status/2014075455192883699",
+    "timestamp": "2026-01-21T20:39:42.000Z",
+    "metadata": {
+      "conversation_id": "2014075455192883699",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014074530386395363",
+    "source": "twitter",
+    "author": "willIsbillls",
+    "content": "@FactoryAI please give me the ability to remove the banner and also I dont get why I always have to login",
+    "url": "https://x.com/willIsbillls/status/2014074530386395363",
+    "timestamp": "2026-01-21T20:36:02.000Z",
+    "metadata": {
+      "conversation_id": "2014074530386395363",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014072859463680459",
+    "source": "twitter",
+    "author": "nos_ult",
+    "content": "@FactoryAI This seems so useful in the age of rising token usage",
+    "url": "https://x.com/nos_ult/status/2014072859463680459",
+    "timestamp": "2026-01-21T20:29:24.000Z",
+    "metadata": {
+      "conversation_id": "2014072859463680459",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014072314883698719",
+    "source": "twitter",
+    "author": "dreamworks2050",
+    "content": "@FactoryAI This is the real deal. Getting to level 5 is the AGI",
+    "url": "https://x.com/dreamworks2050/status/2014072314883698719",
+    "timestamp": "2026-01-21T20:27:14.000Z",
+    "metadata": {
+      "conversation_id": "2014072314883698719",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014071659754303516",
+    "source": "twitter",
+    "author": "kcosr",
+    "content": "@stefanosandes @AmpCode @FactoryAI @opencode @zeddotdev You missed the up-and-comer, pi. It's by far the most extensible but still provides a good experience out of the box. It also has official support for OpenAI.\nhttps://t.co/Fuy2W2fCIY",
+    "url": "https://x.com/kcosr/status/2014071659754303516",
+    "timestamp": "2026-01-21T20:24:37.000Z",
+    "metadata": {
+      "conversation_id": "2014071659754303516",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014069750968586739",
+    "source": "twitter",
+    "author": "dhasandev",
+    "content": "@kcosr @FactoryAI @alvinsng https://t.co/Yt1ZE7Fvmu",
+    "url": "https://x.com/dhasandev/status/2014069750968586739",
+    "timestamp": "2026-01-21T20:17:02.000Z",
+    "metadata": {
+      "conversation_id": "2014069750968586739",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014069518880895228",
+    "source": "twitter",
+    "author": "somi_ai",
+    "content": "@FactoryAI tbh this is something we noticed building our own agent workflows. repos with clear module boundaries and good test coverage let agents iterate way faster. the feedback loop is everything.",
+    "url": "https://x.com/somi_ai/status/2014069518880895228",
+    "timestamp": "2026-01-21T20:16:07.000Z",
+    "metadata": {
+      "conversation_id": "2014069518880895228",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014069306498437457",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "In @FactoryAI droid what does Size mean is /sessions? And how on earth can I change the title. Everything is a new session ¯\\_(ツ)_/¯ https://t.co/Z5c4KxU4NS",
+    "url": "https://x.com/launchaddict/status/2014069306498437457",
+    "timestamp": "2026-01-21T20:15:16.000Z",
+    "metadata": {
+      "conversation_id": "2014069306498437457",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014068309554004276",
+    "source": "twitter",
+    "author": "kcosr",
+    "content": "@FactoryAI Who is going to create an open skill for this concept? Any takers? 🤔",
+    "url": "https://x.com/kcosr/status/2014068309554004276",
+    "timestamp": "2026-01-21T20:11:19.000Z",
+    "metadata": {
+      "conversation_id": "2014068309554004276",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014067998433100001",
+    "source": "twitter",
+    "author": "kcosr",
+    "content": "@dhasandev @FactoryAI @alvinsng Have a link to the article? I can't seem to find it.",
+    "url": "https://x.com/kcosr/status/2014067998433100001",
+    "timestamp": "2026-01-21T20:10:05.000Z",
+    "metadata": {
+      "conversation_id": "2014067998433100001",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014067771047350754",
+    "source": "twitter",
+    "author": "idanzei",
+    "content": "@FactoryAI You can’t drop agents into legacy entropy and expect magic, structure is the multiplier",
+    "url": "https://x.com/idanzei/status/2014067771047350754",
+    "timestamp": "2026-01-21T20:09:10.000Z",
+    "metadata": {
+      "conversation_id": "2014067771047350754",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014063869866463494",
+    "source": "twitter",
+    "author": "30Thrd",
+    "content": "@FactoryAI Do I have to be a paid droid user to use this?",
+    "url": "https://x.com/30Thrd/status/2014063869866463494",
+    "timestamp": "2026-01-21T19:53:40.000Z",
+    "metadata": {
+      "conversation_id": "2014063869866463494",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014061157712032115",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "@alvinsng @FactoryAI Agent Readiness and Droid FTW",
+    "url": "https://x.com/tomosman/status/2014061157712032115",
+    "timestamp": "2026-01-21T19:42:54.000Z",
+    "metadata": {
+      "conversation_id": "2014061157712032115",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014058756338815169",
+    "source": "twitter",
+    "author": "liran_tal",
+    "content": "@FactoryAI Splendid and bright your future is.",
+    "url": "https://x.com/liran_tal/status/2014058756338815169",
+    "timestamp": "2026-01-21T19:33:21.000Z",
+    "metadata": {
+      "conversation_id": "2014058756338815169",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014057634111037803",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 21: More data, more visuals.\n\nGSPro users get a nice shot statistics summary after every round — I've added OCR to parse that data too.\n\nNow each round journal gets extra context: GIR %, fairways hit % - key metrics that actually matter.\n\nAlso gave the navbar a little flair — feels cleaner and more intentional.\n\nSmall upgrade, big difference in how the data feels.\n\nMore tomorrow or later today.",
+    "url": "https://x.com/iamkevchan/status/2014057634111037803",
+    "timestamp": "2026-01-21T19:28:54.000Z",
+    "metadata": {
+      "conversation_id": "2014057634111037803",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014057388802773296",
+    "source": "twitter",
+    "author": "dhasandev",
+    "content": "@FactoryAI Lol you guys codified @alvinsng's article. Love to see it",
+    "url": "https://x.com/dhasandev/status/2014057388802773296",
+    "timestamp": "2026-01-21T19:27:55.000Z",
+    "metadata": {
+      "conversation_id": "2014057388802773296",
+      "likes": 6,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014054316902920444",
+    "source": "twitter",
+    "author": "SarthiB7",
+    "content": "@Carlos_0x @FactoryAI True.",
+    "url": "https://x.com/SarthiB7/status/2014054316902920444",
+    "timestamp": "2026-01-21T19:15:43.000Z",
+    "metadata": {
+      "conversation_id": "2014054316902920444",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014050062557499781",
     "source": "twitter",
     "author": "ankitml",
