@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2013817648471998852",
+    "source": "twitter",
+    "author": "nicolasembleton",
+    "content": "Prop to @FactoryAI Droid for the really cool \"Distill session into skill\" that is also excellent: https://t.co/ckWtA6yZDU",
+    "url": "https://x.com/nicolasembleton/status/2013817648471998852",
+    "timestamp": "2026-01-21T03:35:16.000Z",
+    "metadata": {
+      "conversation_id": "2013817648471998852",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013799122919096741",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "Why don’t LLM chat interfaces let you continue a conversation in a new chat?\n\nLong chats get painfully slow. You should be able to start fresh with the important context carried over automatically.\n\n@FactoryAI already does this for code. It’s clearly doable.",
+    "url": "https://x.com/NathanLands/status/2013799122919096741",
+    "timestamp": "2026-01-21T02:21:40.000Z",
+    "metadata": {
+      "conversation_id": "2013799122919096741",
+      "likes": 6,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013789156548239440",
     "source": "twitter",
     "author": "th3mus1cman",
