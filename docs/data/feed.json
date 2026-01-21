@@ -268,7 +268,8 @@
       "retweets": 2,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2013690081601605744",
