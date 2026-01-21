@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2014122004023288250",
+    "source": "twitter",
+    "author": "JeffKazzee",
+    "content": "This is going to be wild when they start doing AI research autonomously. Coding is already consumed by these tools. Any skilled engineer can steer them to do extremely advanced work. It's being really underestimated I think. It's advancement is exceeding the rate of adoption. The general public may never use AI in an advanced way but the cool shit that developers make will bring them extremely cool shit. But development will barely even mean babysitting an AI coding team.",
+    "url": "https://x.com/JeffKazzee/status/2014122004023288250",
+    "timestamp": "2026-01-21T23:44:40.000Z",
+    "metadata": {
+      "conversation_id": "2014122004023288250",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014119175875145863",
+    "source": "twitter",
+    "author": "CrackingDeFi",
+    "content": "@alvinsng @FactoryAI This shift is wild. If agents handle the bulk of execution, how are your teams evolving their approach to high-level architecture? It feels like the role is becoming more about orchestration than syntax.",
+    "url": "https://x.com/CrackingDeFi/status/2014119175875145863",
+    "timestamp": "2026-01-21T23:33:26.000Z",
+    "metadata": {
+      "conversation_id": "2014119175875145863",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014114038834204780",
     "source": "twitter",
     "author": "alvinsng",
