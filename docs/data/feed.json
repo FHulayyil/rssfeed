@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2013920910865322301",
+    "source": "twitter",
+    "author": "JoshuaJAlbert",
+    "content": "@NathanLands @FactoryAI OpenAI was pretty good about implementing changes if enough people ask for it. A bunch of us were asking for the ability to branch off a chat, and we got it.",
+    "url": "https://x.com/JoshuaJAlbert/status/2013920910865322301",
+    "timestamp": "2026-01-21T10:25:36.000Z",
+    "metadata": {
+      "conversation_id": "2013920910865322301",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013919022790615148",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "@JoshuaJAlbert @FactoryAI I do the same but I'm sure all power users run into this. It really should be built in And more convenient",
+    "url": "https://x.com/NathanLands/status/2013919022790615148",
+    "timestamp": "2026-01-21T10:18:06.000Z",
+    "metadata": {
+      "conversation_id": "2013919022790615148",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2013917272989892823",
+    "source": "twitter",
+    "author": "sanchitcodes",
+    "content": "@johnrushx @FactoryAI more like kilo code, am i right or am i right? but fr tho, i love kilo code for this exact stuff, work with mcps and so many models at the same time, sometimes i end up saving costs even with API pricing..because i end up doing the easy stuff with models that barely cost anything",
+    "url": "https://x.com/sanchitcodes/status/2013917272989892823",
+    "timestamp": "2026-01-21T10:11:09.000Z",
+    "metadata": {
+      "conversation_id": "2013917272989892823",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2013915945752735772",
     "source": "twitter",
     "author": "JoshuaJAlbert",
