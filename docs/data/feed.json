@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2014201320551354488",
+    "source": "twitter",
+    "author": "ClearThinkinAi",
+    "content": "@FactoryAI This is the missing layer people ignore.\nAgents don’t fail because they’re “dumb”  they fail because repos aren’t designed for delegation.\nMeasuring agent readiness feels like the same shift we saw with CI maturity years ago.",
+    "url": "https://x.com/ClearThinkinAi/status/2014201320551354488",
+    "timestamp": "2026-01-22T04:59:51.000Z",
+    "metadata": {
+      "conversation_id": "2014201320551354488",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014188325234417961",
     "source": "twitter",
     "author": "OpenHandsDev",
