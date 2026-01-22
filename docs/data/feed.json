@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2014179635777413375",
+    "source": "twitter",
+    "author": "shreyas1009",
+    "content": "@alvinsng @FactoryAI Review driven design! https://t.co/bceys4O9mJ",
+    "url": "https://x.com/shreyas1009/status/2014179635777413375",
+    "timestamp": "2026-01-22T03:33:41.000Z",
+    "metadata": {
+      "conversation_id": "2014179635777413375",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014179533449023729",
+    "source": "twitter",
+    "author": "iDeepakGautam",
+    "content": "@alvinsng @FactoryAI Nigga... lying will not make your fake AI startup successful.",
+    "url": "https://x.com/iDeepakGautam/status/2014179533449023729",
+    "timestamp": "2026-01-22T03:33:17.000Z",
+    "metadata": {
+      "conversation_id": "2014179533449023729",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014176733021221120",
+    "source": "twitter",
+    "author": "mat_tremblay_qc",
+    "content": "@alvinsng @FactoryAI https://t.co/v26OzPFw75",
+    "url": "https://x.com/mat_tremblay_qc/status/2014176733021221120",
+    "timestamp": "2026-01-22T03:22:09.000Z",
+    "metadata": {
+      "conversation_id": "2014176733021221120",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014171523595305271",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@FactoryAI Gemini 3 Flash also has this bug.",
+    "url": "https://x.com/launchaddict/status/2014171523595305271",
+    "timestamp": "2026-01-22T03:01:27.000Z",
+    "metadata": {
+      "conversation_id": "2014171523595305271",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014170143572824508",
+    "source": "twitter",
+    "author": "techstermania",
+    "content": "@alvinsng @FactoryAI 10x coders. A mythical unicorn-like creature that has never been proven to exist.",
+    "url": "https://x.com/techstermania/status/2014170143572824508",
+    "timestamp": "2026-01-22T02:55:58.000Z",
+    "metadata": {
+      "conversation_id": "2014170143572824508",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014168595232952716",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "Would love for @FactoryAI to have have a breakdown of which model is using most tokens, or a usage breakdown my session. Maybe these already exist @bentossell @EnoReyes ¯\\_(ツ)_/¯ but I can never find them https://t.co/HuCmw4CLaV",
+    "url": "https://x.com/launchaddict/status/2014168595232952716",
+    "timestamp": "2026-01-22T02:49:49.000Z",
+    "metadata": {
+      "conversation_id": "2014168595232952716",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014168202519933176",
+    "source": "twitter",
+    "author": "gilhildebrand",
+    "content": "@FactoryAI /create-skill is cool, but can we get a skill for creating headless agents with Droid Exec? @EnoReyes",
+    "url": "https://x.com/gilhildebrand/status/2014168202519933176",
+    "timestamp": "2026-01-22T02:48:15.000Z",
+    "metadata": {
+      "conversation_id": "2014168202519933176",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014166342770041138",
+    "source": "twitter",
+    "author": "nichochar",
+    "content": "@alvinsng @FactoryAI Got any engineers you want to offload? We’re hiring",
+    "url": "https://x.com/nichochar/status/2014166342770041138",
+    "timestamp": "2026-01-22T02:40:52.000Z",
+    "metadata": {
+      "conversation_id": "2014166342770041138",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014164098590658599",
     "source": "twitter",
     "author": "delaanthonio",
@@ -14,6 +134,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2014163893330096210",
+    "source": "twitter",
+    "author": "vibercoding",
+    "content": "@frumza @FactoryAI @AnthropicAI yes",
+    "url": "https://x.com/vibercoding/status/2014163893330096210",
+    "timestamp": "2026-01-22T02:31:08.000Z",
+    "metadata": {
+      "conversation_id": "2014163893330096210",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014162166711017696",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@FactoryAI This is so helpful to guide organizations to have more powerful agents. Welcome to the Great Acceleration.",
+    "url": "https://x.com/delaanthonio/status/2014162166711017696",
+    "timestamp": "2026-01-22T02:24:16.000Z",
+    "metadata": {
+      "conversation_id": "2014162166711017696",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2014157506256548002",
