@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2014164098590658599",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@donvito Try @droid for GPT 5.2 Codex. Is it a machine.",
+    "url": "https://x.com/delaanthonio/status/2014164098590658599",
+    "timestamp": "2026-01-22T02:31:57.000Z",
+    "metadata": {
+      "conversation_id": "2014164098590658599",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014157506256548002",
     "source": "twitter",
     "author": "alvinsng",
@@ -240,6 +255,21 @@
     "category": "bug"
   },
   {
+    "id": "twitter_2014132360241930459",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "Made a thing this weekend: flipbook SaaS prototype.\n\nDrop a PDF or images → get an interactive flipbook.\nUse cases: product catalogs, menus, portfolios, pitch decks, magazines, training docs.\n\nStarted in @Lovable , moved to @droid for fixes. Still a little laggy, still a lot to do. But waiting for perfect means never shipping.\n\nReleasing soon.",
+    "url": "https://x.com/nathanpareo/status/2014132360241930459",
+    "timestamp": "2026-01-22T00:25:50.000Z",
+    "metadata": {
+      "conversation_id": "2014132360241930459",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
     "id": "twitter_2014125933964231036",
     "source": "twitter",
     "author": "mdmathewdc",
@@ -256,6 +286,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2014122647131697577",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@0xShoosh @clawdbot @droid https://t.co/etJlpUAhKh",
+    "url": "https://x.com/nathanclark_/status/2014122647131697577",
+    "timestamp": "2026-01-21T23:47:14.000Z",
+    "metadata": {
+      "conversation_id": "2014122647131697577",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014122004023288250",
     "source": "twitter",
     "author": "JeffKazzee",
@@ -270,6 +315,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2014120843446792523",
+    "source": "twitter",
+    "author": "0xShoosh",
+    "content": "@nathanclark_ @clawdbot @droid Wadiyatalkinabeet",
+    "url": "https://x.com/0xShoosh/status/2014120843446792523",
+    "timestamp": "2026-01-21T23:40:04.000Z",
+    "metadata": {
+      "conversation_id": "2014120843446792523",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2014119175875145863",
