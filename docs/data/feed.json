@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2014349990416486796",
+    "source": "twitter",
+    "author": "sergejsha",
+    "content": "Preferred Enter behavior in AI CLI:\n   Enter (⏎): Insert a new line\n   Cmd + Enter (⌘ + ⏎): Submit the prompt\n\nUsing Enter alone often submits incomplete prompts 👀 @droid @antigravity",
+    "url": "https://x.com/sergejsha/status/2014349990416486796",
+    "timestamp": "2026-01-22T14:50:37.000Z",
+    "metadata": {
+      "conversation_id": "2014349990416486796",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014336658926137509",
     "source": "twitter",
     "author": "Teraaiguide",
