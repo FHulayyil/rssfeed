@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2014402303042978304",
+    "source": "twitter",
+    "author": "marcelochaman",
+    "content": "who uses @FactoryAI / @droid ? how is it different than @claudeai code or @cursor_ai ?\n\nbig fan of the agent readiness concept, but not sure why else we'd use it at gumloop. who can i talk to about this?",
+    "url": "https://x.com/marcelochaman/status/2014402303042978304",
+    "timestamp": "2026-01-22T18:18:29.000Z",
+    "metadata": {
+      "conversation_id": "2014402303042978304",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014401093128880556",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@etka_01 @FactoryAI https://t.co/SgVXJ7RJe5",
+    "url": "https://x.com/alvinsng/status/2014401093128880556",
+    "timestamp": "2026-01-22T18:13:41.000Z",
+    "metadata": {
+      "conversation_id": "2014401093128880556",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014400703859720316",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@quickapay @FactoryAI We support many models including all the frontier models from Anthropic, OpenAI and Gemini plus leading OSS ones too!",
+    "url": "https://x.com/alvinsng/status/2014400703859720316",
+    "timestamp": "2026-01-22T18:12:08.000Z",
+    "metadata": {
+      "conversation_id": "2014400703859720316",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014400319200100814",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@nichochar @FactoryAI 🤦 all credibility 📉",
+    "url": "https://x.com/alvinsng/status/2014400319200100814",
+    "timestamp": "2026-01-22T18:10:36.000Z",
+    "metadata": {
+      "conversation_id": "2014400319200100814",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014398168566567391",
+    "source": "twitter",
+    "author": "JonLucui",
+    "content": "@FactoryAI @TheLicke Yes, shareable reports coming soon!",
+    "url": "https://x.com/JonLucui/status/2014398168566567391",
+    "timestamp": "2026-01-22T18:02:03.000Z",
+    "metadata": {
+      "conversation_id": "2014398168566567391",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014376852563820649",
     "source": "twitter",
     "author": "markfersh",
