@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2014418515944735011",
+    "source": "twitter",
+    "author": "marcelochaman",
+    "content": "@matanSF @FactoryAI @droid @claudeai @cursor_ai i haven’t yet played with a cli coding agent (embarrassingly enough). im cursor power user. i will give it a shot though.",
+    "url": "https://x.com/marcelochaman/status/2014418515944735011",
+    "timestamp": "2026-01-22T19:22:54.000Z",
+    "metadata": {
+      "conversation_id": "2014418515944735011",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014418311828914286",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@marcelochaman @FactoryAI @droid @claudeai @cursor_ai thank you! (fwiw i personally prefer the cli)",
+    "url": "https://x.com/matanSF/status/2014418311828914286",
+    "timestamp": "2026-01-22T19:22:06.000Z",
+    "metadata": {
+      "conversation_id": "2014418311828914286",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014413769741684801",
     "source": "twitter",
     "author": "marcelochaman",
