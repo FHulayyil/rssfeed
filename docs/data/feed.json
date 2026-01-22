@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2014188325234417961",
+    "source": "twitter",
+    "author": "OpenHandsDev",
+    "content": "@FactoryAI This is great! We created an open source AgentSkill to create this readiness report for an arbitrary repo, compatible with Claude Code, OpenHands, and other coding agents here: https://t.co/hARhveItCa",
+    "url": "https://x.com/OpenHandsDev/status/2014188325234417961",
+    "timestamp": "2026-01-22T04:08:13.000Z",
+    "metadata": {
+      "conversation_id": "2014188325234417961",
+      "likes": 7,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014185912650043826",
     "source": "twitter",
     "author": "RahulRaghav_10",
