@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2014157506256548002",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@CrackingDeFi @FactoryAI Yes, the role is shifting. Devs are now orchestrators managing agent fleets to solve complex problems, less syntax, more strategy.\n\nWe’re doubling down on re-skilling. Between constant knowledge sharing and weekly lunch &amp; learns, we’re upleveling the entire team continuously.",
+    "url": "https://x.com/alvinsng/status/2014157506256548002",
+    "timestamp": "2026-01-22T02:05:45.000Z",
+    "metadata": {
+      "conversation_id": "2014157506256548002",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014156354773021019",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@ryanam26 @FactoryAI Yes! But this is not just Factory but applies to any company that is leveraging AI tools to the max",
+    "url": "https://x.com/alvinsng/status/2014156354773021019",
+    "timestamp": "2026-01-22T02:01:10.000Z",
+    "metadata": {
+      "conversation_id": "2014156354773021019",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014156171968655375",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@victor_explore @FactoryAI One day!",
+    "url": "https://x.com/alvinsng/status/2014156171968655375",
+    "timestamp": "2026-01-22T02:00:27.000Z",
+    "metadata": {
+      "conversation_id": "2014156171968655375",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014155815150669893",
+    "source": "twitter",
+    "author": "victor_explore",
+    "content": "@alvinsng @FactoryAI the real flex is when your agents start rejecting your code reviews",
+    "url": "https://x.com/victor_explore/status/2014155815150669893",
+    "timestamp": "2026-01-22T01:59:02.000Z",
+    "metadata": {
+      "conversation_id": "2014155815150669893",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014154179044868304",
+    "source": "twitter",
+    "author": "oliversgriff",
+    "content": "@FactoryAI cool",
+    "url": "https://x.com/oliversgriff/status/2014154179044868304",
+    "timestamp": "2026-01-22T01:52:32.000Z",
+    "metadata": {
+      "conversation_id": "2014154179044868304",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014153190543908975",
+    "source": "twitter",
+    "author": "ryanam26",
+    "content": "@alvinsng @FactoryAI It’s that good?",
+    "url": "https://x.com/ryanam26/status/2014153190543908975",
+    "timestamp": "2026-01-22T01:48:36.000Z",
+    "metadata": {
+      "conversation_id": "2014153190543908975",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014149227799351511",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@EnoReyes @FactoryAI @zeddotdev @bentossell Thanks Eno, I lose the history too so can't even go back to /bug report it.",
+    "url": "https://x.com/launchaddict/status/2014149227799351511",
+    "timestamp": "2026-01-22T01:32:51.000Z",
+    "metadata": {
+      "conversation_id": "2014149227799351511",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014144156793270556",
     "source": "twitter",
     "author": "jonnyvjames",
@@ -15220,6 +15325,19 @@
       "number": 578
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_578",
+    "source": "github",
+    "author": "1SuperEmployee",
+    "content": "[Issue] Error: 400: Thinking blocks not preserved in conversation history causes API validation errors\n\nI'm experiencing frequent API errors when using extended thinking models (e.g., Opus 4.5 Thinking). The error occurs both in fresh sessions and after compacting conversations:\n\n    ```\n    API Validation Error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"messages.X.content.0.type: Expected `thinking` or `redacted_thinking`, but found\n    `text`. When `thinking` is enabled, a final `assistant` message must start with a thinking block (preceeding the lastmost set of `too",
+    "url": "https://github.com/Factory-AI/factory/issues/578",
+    "timestamp": "2026-01-10T17:02:06Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 578
+    }
   },
   {
     "id": "twitter_2010034375388475637",
