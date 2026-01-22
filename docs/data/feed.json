@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2014285121260822562",
+    "source": "twitter",
+    "author": "askcodi",
+    "content": "@alvinsng @FactoryAI i sneeze and my agent already shipped a feature i didn’t ask for",
+    "url": "https://x.com/askcodi/status/2014285121260822562",
+    "timestamp": "2026-01-22T10:32:51.000Z",
+    "metadata": {
+      "conversation_id": "2014285121260822562",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014283164433199343",
+    "source": "twitter",
+    "author": "ilqdty",
+    "content": "@FactoryAI the real moat in ai agents isn't the model anymore. it's the tooling layer. repos that get this early are gonna compound",
+    "url": "https://x.com/ilqdty/status/2014283164433199343",
+    "timestamp": "2026-01-22T10:25:04.000Z",
+    "metadata": {
+      "conversation_id": "2014283164433199343",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014264923933810966",
     "source": "twitter",
     "author": "quickapay",
