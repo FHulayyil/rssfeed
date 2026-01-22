@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2014157506256548002",
@@ -267,7 +268,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 1
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2014125933964231036",
@@ -298,7 +300,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2014122004023288250",
@@ -329,7 +332,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2014119175875145863",
