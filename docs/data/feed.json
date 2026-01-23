@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2014500901654790251",
+    "source": "twitter",
+    "author": "DimitriosMitsos",
+    "content": "Droid is dethroned from terminal bench. New Sota?!?\n100% on Terminal Bench with Haiku + AgentsKB\n@droid Im not an expert but in my test baseline haiku achieved around 40% which match the public reported result. I didnt do any special magic just added a KB, no special harness.",
+    "url": "https://x.com/DimitriosMitsos/status/2014500901654790251",
+    "timestamp": "2026-01-23T00:50:17.000Z",
+    "metadata": {
+      "conversation_id": "2014500901654790251",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014499864202146190",
     "source": "twitter",
     "author": "nrtypnt863",
