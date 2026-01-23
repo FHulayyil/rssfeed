@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2014718618894844320",
+    "source": "twitter",
+    "author": "muzikdinle",
+    "content": "@KorOglan @FactoryAI Hızlıca deneyim bıktım claudeden",
+    "url": "https://x.com/muzikdinle/status/2014718618894844320",
+    "timestamp": "2026-01-23T15:15:25.000Z",
+    "metadata": {
+      "conversation_id": "2014718618894844320",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014716942699876839",
+    "source": "twitter",
+    "author": "fatihsahinbas",
+    "content": "@KorOglan @FactoryAI Senden onayı aldıysam devam ederim buna.",
+    "url": "https://x.com/fatihsahinbas/status/2014716942699876839",
+    "timestamp": "2026-01-23T15:08:45.000Z",
+    "metadata": {
+      "conversation_id": "2014716942699876839",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014716815201419695",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 23: Locking features down\n\nHappy Friday! \n\nSpent this morning cleaning up the Round section — made it feel more consistent with the rest of the app.\n\nOne thing I noticed: even after a few rounds of refactoring, Claude still duplicated some code in places. Not a huge deal, but the former dev in me won’t let that ship. \n\nSo we’ll do a light refactor pass, clean it up, and add some basic unit tests for quality.\n\nThat’s it for new features for now — next up is profile setup and payment rails when I’m ready to think about the monetization side.",
+    "url": "https://x.com/iamkevchan/status/2014716815201419695",
+    "timestamp": "2026-01-23T15:08:15.000Z",
+    "metadata": {
+      "conversation_id": "2014716815201419695",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014716556899479991",
+    "source": "twitter",
+    "author": "KorOglan",
+    "content": "@fatihsahinbas @FactoryAI bende claude ile başladım ama yanından geçmem artık.",
+    "url": "https://x.com/KorOglan/status/2014716556899479991",
+    "timestamp": "2026-01-23T15:07:13.000Z",
+    "metadata": {
+      "conversation_id": "2014716556899479991",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014716061325652459",
+    "source": "twitter",
+    "author": "fatihsahinbas",
+    "content": "@KorOglan @FactoryAI Cli kullanmıyorum ama kodlar için hep claude kullandım aga. Bu ay şans verim mi? Biliyon beni python, c# ve java ile ilgili advanced düzey proje mimari ve sorunları çözer mi",
+    "url": "https://x.com/fatihsahinbas/status/2014716061325652459",
+    "timestamp": "2026-01-23T15:05:15.000Z",
+    "metadata": {
+      "conversation_id": "2014716061325652459",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014715178345025679",
+    "source": "twitter",
+    "author": "EdwardKens50830",
+    "content": "@FactoryAI so they’re telling me apache superset is “agent-ready” now? last time i checked, it was just another data viz tool. nothing special here, just buzzwords repackaged.",
+    "url": "https://x.com/EdwardKens50830/status/2014715178345025679",
+    "timestamp": "2026-01-23T15:01:44.000Z",
+    "metadata": {
+      "conversation_id": "2014715178345025679",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014708350416478600",
+    "source": "twitter",
+    "author": "KorOglan",
+    "content": "aylardır @FactoryAI 'in Droid CLI'ını kullanıyorum. diyebilirim ki, claude code'dan 10 kay daha iyi. opus 4.5 ile aynı sorunu hem droid'e hem claude'a anlatıyorum. claude sürekli patinaj çekerken droid \"tak tak kapıda kim var? babayla zor yarışırlar\" modunda çözüp geliyor. \n\nbana öyle geliyor ki @AnthropicAI 'in aslında tek derdi kullanıcının token limitini aptal şeylerle bir an önce dolduralım ve limitlere ulaştıralım. arada bir de düzgün iş yapıp woooaaaww dedirtiriz oldu bitti.",
+    "url": "https://x.com/KorOglan/status/2014708350416478600",
+    "timestamp": "2026-01-23T14:34:36.000Z",
+    "metadata": {
+      "conversation_id": "2014708350416478600",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014706193462186403",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "GLM 4.7 never really worked in my DROID. \n\nWhats going on?\n\n@FactoryAI https://t.co/oDZIjkUkiQ",
+    "url": "https://x.com/draslan_eth/status/2014706193462186403",
+    "timestamp": "2026-01-23T14:26:02.000Z",
+    "metadata": {
+      "conversation_id": "2014706193462186403",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014697365979181196",
     "source": "twitter",
     "author": "tristanbob",
@@ -48,6 +168,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2014685621470544271",
+    "source": "twitter",
+    "author": "BillCrosby",
+    "content": "@FactoryAI never tried superset but sounds like it’s got a good rep around here lately",
+    "url": "https://x.com/BillCrosby/status/2014685621470544271",
+    "timestamp": "2026-01-23T13:04:17.000Z",
+    "metadata": {
+      "conversation_id": "2014685621470544271",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014681518895923644",
     "source": "twitter",
     "author": "willIsbillls",
@@ -80,6 +215,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2014671305782464514",
+    "source": "twitter",
+    "author": "thisiswenzel",
+    "content": "@bran_don_gell @bentossell @FactoryAI @ryancarson @every @KatieParrott @nateliason Damn. That's the who's who of builders.",
+    "url": "https://x.com/thisiswenzel/status/2014671305782464514",
+    "timestamp": "2026-01-23T12:07:24.000Z",
+    "metadata": {
+      "conversation_id": "2014671305782464514",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014668144116113811",
     "source": "twitter",
     "author": "MejiasDev",
@@ -94,6 +244,36 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2014653158136672499",
+    "source": "twitter",
+    "author": "niceMiewMiew",
+    "content": "I cant use it on iphone @FactoryAI https://t.co/ReIHnPTYjF",
+    "url": "https://x.com/niceMiewMiew/status/2014653158136672499",
+    "timestamp": "2026-01-23T10:55:18.000Z",
+    "metadata": {
+      "conversation_id": "2014653158136672499",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014652743525531667",
+    "source": "twitter",
+    "author": "mikenguyen_me",
+    "content": "@bcherny @NickADobos It doesn't work on Warp. Please support sound notifications like how @FactoryAI does it.",
+    "url": "https://x.com/mikenguyen_me/status/2014652743525531667",
+    "timestamp": "2026-01-23T10:53:39.000Z",
+    "metadata": {
+      "conversation_id": "2014652743525531667",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2014629136984371541",
