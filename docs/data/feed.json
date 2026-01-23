@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2014793421508997193",
+    "source": "twitter",
+    "author": "KorOglan",
+    "content": "@ardabalkandev @yengiyegen @FactoryAI akacak kan, damarda durmaz.",
+    "url": "https://x.com/KorOglan/status/2014793421508997193",
+    "timestamp": "2026-01-23T20:12:39.000Z",
+    "metadata": {
+      "conversation_id": "2014793421508997193",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014792640387285323",
+    "source": "twitter",
+    "author": "yengiyegen",
+    "content": "@ardabalkandev @KorOglan @FactoryAI special thanks to @kirodotdev",
+    "url": "https://x.com/yengiyegen/status/2014792640387285323",
+    "timestamp": "2026-01-23T20:09:33.000Z",
+    "metadata": {
+      "conversation_id": "2014792640387285323",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014792155361853887",
+    "source": "twitter",
+    "author": "ardabalkandev",
+    "content": "@yengiyegen @KorOglan @FactoryAI Benim sadık yarim, Antigravity...",
+    "url": "https://x.com/ardabalkandev/status/2014792155361853887",
+    "timestamp": "2026-01-23T20:07:37.000Z",
+    "metadata": {
+      "conversation_id": "2014792155361853887",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014791670202531964",
+    "source": "twitter",
+    "author": "yengiyegen",
+    "content": "@ardabalkandev @KorOglan @FactoryAI Allaaa alllaaa ilginçmiş 😳",
+    "url": "https://x.com/yengiyegen/status/2014791670202531964",
+    "timestamp": "2026-01-23T20:05:41.000Z",
+    "metadata": {
+      "conversation_id": "2014791670202531964",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014791527961117053",
+    "source": "twitter",
+    "author": "ardabalkandev",
+    "content": "@yengiyegen @KorOglan @FactoryAI Test için son uygulamanın genelini kontrol ettirdim, bak bakiim olmuş mu dedim. StoreKit2 entegrasyonunda bir sorun buldu, detaylı rapor istedim, raporu yazdı. Hepsi bu.",
+    "url": "https://x.com/ardabalkandev/status/2014791527961117053",
+    "timestamp": "2026-01-23T20:05:07.000Z",
+    "metadata": {
+      "conversation_id": "2014791527961117053",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014790479225741524",
+    "source": "twitter",
+    "author": "yengiyegen",
+    "content": "@ardabalkandev @KorOglan @FactoryAI 2m token ne abi, findos mu yazdırdın 😳",
+    "url": "https://x.com/yengiyegen/status/2014790479225741524",
+    "timestamp": "2026-01-23T20:00:57.000Z",
+    "metadata": {
+      "conversation_id": "2014790479225741524",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014789935153233988",
+    "source": "twitter",
+    "author": "ardabalkandev",
+    "content": "@KorOglan @yengiyegen @FactoryAI Su gibi gidiyor! https://t.co/wmU9HF6FZ2",
+    "url": "https://x.com/ardabalkandev/status/2014789935153233988",
+    "timestamp": "2026-01-23T19:58:48.000Z",
+    "metadata": {
+      "conversation_id": "2014789935153233988",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014779374260912636",
     "source": "twitter",
     "author": "cgoddard",
