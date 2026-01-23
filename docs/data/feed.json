@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2014586130990088537",
+    "source": "twitter",
+    "author": "Negusnati",
+    "content": "@cline @OpenAI @FactoryAI when?",
+    "url": "https://x.com/Negusnati/status/2014586130990088537",
+    "timestamp": "2026-01-23T06:28:57.000Z",
+    "metadata": {
+      "conversation_id": "2014586130990088537",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014585422710517921",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@FactoryAI This is getting annoying!!! &gt;:( https://t.co/5HbxaN3Jel",
+    "url": "https://x.com/draslan_eth/status/2014585422710517921",
+    "timestamp": "2026-01-23T06:26:08.000Z",
+    "metadata": {
+      "conversation_id": "2014585422710517921",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014579038837473600",
+    "source": "twitter",
+    "author": "LoomisLoud",
+    "content": "In the last 2 weeks, 0% of our features were written by me, 100% by @FactoryAI . We 5x'd our dev speed, and reduce our monthly dev cost 80%. Most of my time has been architectural decisions, requirements, coding patterns, and building a self sustaining agents platform. Crazy...",
+    "url": "https://x.com/LoomisLoud/status/2014579038837473600",
+    "timestamp": "2026-01-23T06:00:46.000Z",
+    "metadata": {
+      "conversation_id": "2014579038837473600",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_discussion_613",
     "source": "github",
     "author": "NTQ-TaiHX",
@@ -14,6 +59,21 @@
     "category": "bug"
   },
   {
+    "id": "twitter_2014560190884876599",
+    "source": "twitter",
+    "author": "bythewayimchris",
+    "content": "@realZachi007 @FactoryAI You’re not their target user. It’s very expensive",
+    "url": "https://x.com/bythewayimchris/status/2014560190884876599",
+    "timestamp": "2026-01-23T04:45:52.000Z",
+    "metadata": {
+      "conversation_id": "2014560190884876599",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_612",
     "source": "github",
     "author": "didasy",
@@ -26,6 +86,96 @@
       "number": 612
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2014544117905424668",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "@FactoryAI Day 22: Immortalizing the good round\n\nAdded some button polish and a little progress bar for the OCR process.\n\nYou know you're getting closer… or maybe just further down the rabbit hole… when you're polishing details like this. 😅\n\nSmall wins, good vibes. Streak still alive. https://t.co/g8P9JpdAvD",
+    "url": "https://x.com/iamkevchan/status/2014544117905424668",
+    "timestamp": "2026-01-23T03:42:00.000Z",
+    "metadata": {
+      "conversation_id": "2014544117905424668",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014541292743884944",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@chongdashu Seriously though, try using Opus on another harness like @FactoryAI or @blackboxai. \n\nIt's been stead on FactoryAI and in some occssions pretty fast with BlackboxAI. 🏁",
+    "url": "https://x.com/AriesTheCoder/status/2014541292743884944",
+    "timestamp": "2026-01-23T03:30:47.000Z",
+    "metadata": {
+      "conversation_id": "2014541292743884944",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014535650414899678",
+    "source": "twitter",
+    "author": "gmickel",
+    "content": "Now live in version 0.18.2 (/flow-next:prime).\n\nDecided to break it down into two scores:\n\n- Agent Readiness\n- Production Readiness\n\nIt will offer to help you fix the agent readiness issues via the AskQuestionTool but only report on Production Readiness \n\nh/t to @FactoryAI for the inspiration",
+    "url": "https://x.com/gmickel/status/2014535650414899678",
+    "timestamp": "2026-01-23T03:08:21.000Z",
+    "metadata": {
+      "conversation_id": "2014535650414899678",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014532367021486471",
+    "source": "twitter",
+    "author": "subhuti2010",
+    "content": "Am I stupid or the droid @FactoryAI sessions or saved when @zeddotdev restarted?",
+    "url": "https://x.com/subhuti2010/status/2014532367021486471",
+    "timestamp": "2026-01-23T02:55:19.000Z",
+    "metadata": {
+      "conversation_id": "2014532367021486471",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014530673269211270",
+    "source": "twitter",
+    "author": "_AIAcceleration",
+    "content": "@FactoryAI This is a really cool idea\n\nThis is the future so to tools to optimize for it are going to be huge",
+    "url": "https://x.com/_AIAcceleration/status/2014530673269211270",
+    "timestamp": "2026-01-23T02:48:35.000Z",
+    "metadata": {
+      "conversation_id": "2014530673269211270",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014527218869821681",
+    "source": "twitter",
+    "author": "giffboake",
+    "content": "@alvinsng @FactoryAI I'm sure you catch an insane amount of bugs.",
+    "url": "https://x.com/giffboake/status/2014527218869821681",
+    "timestamp": "2026-01-23T02:34:51.000Z",
+    "metadata": {
+      "conversation_id": "2014527218869821681",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2014505357071012342",
