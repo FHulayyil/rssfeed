@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "github_issue_614",
@@ -25,7 +26,8 @@
       "type": "issue",
       "labels": [],
       "number": 614
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2014731994396295180",
@@ -40,7 +42,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2014718618894844320",
