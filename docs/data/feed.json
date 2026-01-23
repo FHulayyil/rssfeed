@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2014629136984371541",
+    "source": "twitter",
+    "author": "JudeTejada2",
+    "content": "@realZachi007 @FactoryAI I like droid but some of their features require you to be on their subscription",
+    "url": "https://x.com/JudeTejada2/status/2014629136984371541",
+    "timestamp": "2026-01-23T09:19:50.000Z",
+    "metadata": {
+      "conversation_id": "2014629136984371541",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014622030562206095",
+    "source": "twitter",
+    "author": "AndryHTC",
+    "content": "@FactoryAI @FactoryAI, where can I download the report? I want to use it to ask Droid to improve readiness",
+    "url": "https://x.com/AndryHTC/status/2014622030562206095",
+    "timestamp": "2026-01-23T08:51:36.000Z",
+    "metadata": {
+      "conversation_id": "2014622030562206095",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2014615665139753226",
+    "source": "twitter",
+    "author": "o_mega___",
+    "content": "@FactoryAI Factory's framework (Jan 2026) shifts repo maturity from human-readable to agent-executable. With 8 pillars and 60+ criteria, a 74% score requires deterministic builds and 0.6% evaluation variance. Clean code isn't enough.",
+    "url": "https://x.com/o_mega___/status/2014615665139753226",
+    "timestamp": "2026-01-23T08:26:18.000Z",
+    "metadata": {
+      "conversation_id": "2014615665139753226",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014586130990088537",
     "source": "twitter",
     "author": "Negusnati",
