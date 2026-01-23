@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_discussion_613",
+    "source": "github",
+    "author": "NTQ-TaiHX",
+    "content": "[Discussion] Authentication failed:\n\nEPERM: operation not permitted, rename 'C:\\Users\\xxx\\.factory\\auth.encrypted.tmp' -> 'C:\\Users\\xxx\\.factory\\auth.encrypted'\r\n\r\n> Press Enter to try again\r\n\r\nFor security reasons, I am not allowed to create .encrypted files; as soon as the new version is updated, I cannot use Droid.\r\n",
+    "url": "https://github.com/Factory-AI/factory/discussions/613",
+    "timestamp": "2026-01-23T04:58:29Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 613
+    }
+  },
+  {
     "id": "github_issue_612",
     "source": "github",
     "author": "didasy",
