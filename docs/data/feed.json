@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2015141065326801180",
+    "source": "twitter",
+    "author": "waynesutton",
+    "content": "Devs syncing from @opencode, @claudeai,  @droid, and @OpenAI codex for real-time dashboards with @convex. https://t.co/3BrJG7dlqQ",
+    "url": "https://x.com/waynesutton/status/2015141065326801180",
+    "timestamp": "2026-01-24T19:14:04.000Z",
+    "metadata": {
+      "conversation_id": "2015141065326801180",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015138730328412574",
     "source": "twitter",
     "author": "berthojoris",
@@ -14,6 +29,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2015138357685497993",
+    "source": "twitter",
+    "author": "adishjain333",
+    "content": "Cool setup! Splitting spec/plan from execution is smart. Curious how you're validating the handoff between agents - when the plan agent passes specs to the main agent, are you checking that the spec interpretation matches intent? That's often where multi-agent setups fail silently - each agent works fine alone but the coordination produces unexpected behavior.",
+    "url": "https://x.com/adishjain333/status/2015138357685497993",
+    "timestamp": "2026-01-24T19:03:18.000Z",
+    "metadata": {
+      "conversation_id": "2015138357685497993",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2015135864364699738",
