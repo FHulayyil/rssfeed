@@ -15286,6 +15286,19 @@
     "category": "question"
   },
   {
+    "id": "github_issue_586",
+    "source": "github",
+    "author": "umairimtiaz9",
+    "content": "[Issue] [URGENT] provide a way to disable auto update\n\nAdd a way to disable the auto update. because it sucks when you just open it and it starts auto uodating.",
+    "url": "https://github.com/Factory-AI/factory/issues/586",
+    "timestamp": "2026-01-13T22:56:34Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 586
+    }
+  },
+  {
     "id": "twitter_2011202607977775459",
     "source": "twitter",
     "author": "EnoReyes",
