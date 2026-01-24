@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2014868327022395876",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 23: Unit Tests and Capacitor\n\nAfter this afternoon's code review and refactor, I started thinking about what's actually needed to make this ready for multiplatform deployment. I originally built it as a web app, assuming that would be the easiest path to port.\n\nGrok suggested a few options: React Native, Flutter, and Capacitor. I was initially leaning toward Flutter, but given the app's simplicity, Capacitor seems like the most straightforward choice.\n\nJust wrapped up all the unit tests, and Grok is down now... \n\nPerfect time to take a break and hit the sim!\n\n#BuildInPublic",
+    "url": "https://x.com/iamkevchan/status/2014868327022395876",
+    "timestamp": "2026-01-24T01:10:18.000Z",
+    "metadata": {
+      "conversation_id": "2014868327022395876",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2014831677378593198",
     "source": "twitter",
     "author": "iAmDon_eth",
