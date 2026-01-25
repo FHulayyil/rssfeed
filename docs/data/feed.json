@@ -16,6 +16,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2015264979294068767",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@_abilshr @AmpCode @droid Cool, thanks for the feedback. Yeah - what models and anything that makes Droid do better there?",
+    "url": "https://x.com/sqs/status/2015264979294068767",
+    "timestamp": "2026-01-25T03:26:27.000Z",
+    "metadata": {
+      "conversation_id": "2015264979294068767",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015261865312489496",
+    "source": "twitter",
+    "author": "hclin0812",
+    "content": "@EnoReyes @droid Prefer @droid, but stuck on this bug: \"Failed to compact and start a new session\" (Error: A is not an Object). Report ID: 5f76b51d-918b-4736-90ac-02cbb3090925. Any workaround? #Help",
+    "url": "https://x.com/hclin0812/status/2015261865312489496",
+    "timestamp": "2026-01-25T03:14:05.000Z",
+    "metadata": {
+      "conversation_id": "2015261865312489496",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015250736972513396",
     "source": "twitter",
     "author": "huntermbown",
@@ -32,6 +62,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2015249289375813634",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@sqs @_abilshr @AmpCode @droid BYOK without having to use backdoor or internal parameters buried in the minified JS.",
+    "url": "https://x.com/benvargas/status/2015249289375813634",
+    "timestamp": "2026-01-25T02:24:06.000Z",
+    "metadata": {
+      "conversation_id": "2015249289375813634",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015247764544737452",
+    "source": "twitter",
+    "author": "_abilshr",
+    "content": "@EnoReyes @AmpCode @droid Amp is always better at:\n1) Initial planning ( even with ambigious and short prompts )\n2) integrating libraries ( feels like it has better github search)\n3) Handoff (thread compaction in droid is slow in comparison)\n4) Debugging tasks ( the oracle in AMP is really really good)",
+    "url": "https://x.com/_abilshr/status/2015247764544737452",
+    "timestamp": "2026-01-25T02:18:03.000Z",
+    "metadata": {
+      "conversation_id": "2015247764544737452",
+      "likes": 6,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015242536177332265",
     "source": "twitter",
     "author": "fire",
@@ -46,6 +106,36 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2015238980984569915",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@_abilshr @AmpCode @droid Where is Amp better than Droid? So we can improve as well ;)",
+    "url": "https://x.com/EnoReyes/status/2015238980984569915",
+    "timestamp": "2026-01-25T01:43:09.000Z",
+    "metadata": {
+      "conversation_id": "2015238980984569915",
+      "likes": 10,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015233230006538581",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@beffjezos This is how I feel about @droid  - I’ve built two awesome projects so far and getting a ton of business. You are as good as your ideas.",
+    "url": "https://x.com/JoelDeTeves/status/2015233230006538581",
+    "timestamp": "2026-01-25T01:20:17.000Z",
+    "metadata": {
+      "conversation_id": "2015233230006538581",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2015225445449695250",
