@@ -48,6 +48,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2015429499366551603",
+    "source": "twitter",
+    "author": "Shashikant86",
+    "content": "@ollama Tested with @FactoryAI Droid . It took 29 seconds https://t.co/othmJh2pWW",
+    "url": "https://x.com/Shashikant86/status/2015429499366551603",
+    "timestamp": "2026-01-25T14:20:12.000Z",
+    "metadata": {
+      "conversation_id": "2015429499366551603",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015428852512895407",
     "source": "twitter",
     "author": "voidsnam",
@@ -78,6 +93,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2015423023617343532",
+    "source": "twitter",
+    "author": "quantumaidev",
+    "content": "The best $20 that you can spend on coding is the $20 plan from @FactoryAI \n\nNothing comes close to it!",
+    "url": "https://x.com/quantumaidev/status/2015423023617343532",
+    "timestamp": "2026-01-25T13:54:28.000Z",
+    "metadata": {
+      "conversation_id": "2015423023617343532",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2015406126271979707",
