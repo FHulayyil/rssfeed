@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2015676479087014158",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@steipete Tried @RepoPrompt ? Or @FactoryAI droid review?",
+    "url": "https://x.com/erd0xbc/status/2015676479087014158",
+    "timestamp": "2026-01-26T06:41:36.000Z",
+    "metadata": {
+      "conversation_id": "2015676479087014158",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015673530583851325",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "Day 25: One more before bed..\n\nLanding page live in preview + semi-pro dev mode activated.\n\nGot the Vercel preview working for the landing page tonight and tested the form endpoint. \n\nCut a new branch off main so I can finish the remaining feature fixes/adds properly now that some core pieces are ready for prod.\n\nUsed the basic/cheapest Droid GLM-4.7 model for this pass... and honestly, I'm pretty impressed with how well it handled the landing page changes and broken dependency fixes.\n\nWill do a quick write-up tomorrow on how it went.",
+    "url": "https://x.com/iamkevchan/status/2015673530583851325",
+    "timestamp": "2026-01-26T06:29:53.000Z",
+    "metadata": {
+      "conversation_id": "2015673530583851325",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015671393468530864",
+    "source": "twitter",
+    "author": "RayScript",
+    "content": "@FactoryAI Do you guys have something like the AskUserQuestion Tool from Claude Code?",
+    "url": "https://x.com/RayScript/status/2015671393468530864",
+    "timestamp": "2026-01-26T06:21:24.000Z",
+    "metadata": {
+      "conversation_id": "2015671393468530864",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015668508021887165",
     "source": "twitter",
     "author": "hidefromcapital",
