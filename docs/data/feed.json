@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2015884944493670607",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "Self-improving AI agents are here.\n\nSignals analyzes thousands of sessions daily to detect friction, then Droid fixes itself: filing tickets, shipping PRs, reviewing its own code. 73% of issues auto-resolved in &lt;4h.\n\nThe more you use @FactoryAI, the smarter it gets, for everyone.",
+    "url": "https://x.com/alvinsng/status/2015884944493670607",
+    "timestamp": "2026-01-26T20:29:58.000Z",
+    "metadata": {
+      "conversation_id": "2015884944493670607",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2015883746415693994",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "nice polish being added to @FactoryAI @droid",
+    "url": "https://x.com/erd0xbc/status/2015883746415693994",
+    "timestamp": "2026-01-26T20:25:13.000Z",
+    "metadata": {
+      "conversation_id": "2015883746415693994",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2015878070830284940",
     "source": "twitter",
     "author": "kargarisaac",
