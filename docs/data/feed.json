@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2016265464683561341",
+    "source": "twitter",
+    "author": "lennysan",
+    "content": "@Francesco_Oddo @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Yes, check the details here https://t.co/1Mai7Em68K",
+    "url": "https://x.com/lennysan/status/2016265464683561341",
+    "timestamp": "2026-01-27T21:42:01.000Z",
+    "metadata": {
+      "conversation_id": "2016265464683561341",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016265344009355273",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@launchaddict @AmpCode @FactoryAI @opencode very early, not good yet, don't tell @nicolaygerold I am sharing this, but in @AmpCode:\n\n\"amp.experimental.modes\": [\"bombadil\"]\n\nthen choose the `bombadil` mode for kimi k2.5",
+    "url": "https://x.com/sqs/status/2016265344009355273",
+    "timestamp": "2026-01-27T21:41:33.000Z",
+    "metadata": {
+      "conversation_id": "2016265344009355273",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016263724424962195",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@FactoryAI @AmpCode @opencode Lol you guys..\nCan we get minimax m2 soon 🙏",
+    "url": "https://x.com/launchaddict/status/2016263724424962195",
+    "timestamp": "2026-01-27T21:35:06.000Z",
+    "metadata": {
+      "conversation_id": "2016263724424962195",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016260831613485085",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "Is Kimi 2.5 on any @AmpCode @FactoryAI @opencode .. Keen to try it out but dont want another sub 😭",
+    "url": "https://x.com/launchaddict/status/2016260831613485085",
+    "timestamp": "2026-01-27T21:23:37.000Z",
+    "metadata": {
+      "conversation_id": "2016260831613485085",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016259847017398782",
+    "source": "twitter",
+    "author": "lennysan",
+    "content": "@zarif_cho @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp 🫡",
+    "url": "https://x.com/lennysan/status/2016259847017398782",
+    "timestamp": "2026-01-27T21:19:42.000Z",
+    "metadata": {
+      "conversation_id": "2016259847017398782",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016259771125662077",
+    "source": "twitter",
+    "author": "lennysan",
+    "content": "@alvinsng @FactoryAI 🌀",
+    "url": "https://x.com/lennysan/status/2016259771125662077",
+    "timestamp": "2026-01-27T21:19:24.000Z",
+    "metadata": {
+      "conversation_id": "2016259771125662077",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016259431973924894",
+    "source": "twitter",
+    "author": "zarif_cho",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Dude what? That’s incredible, I’ve been meaning to try out Factoy and Manus in particular. Signing up",
+    "url": "https://x.com/zarif_cho/status/2016259431973924894",
+    "timestamp": "2026-01-27T21:18:03.000Z",
+    "metadata": {
+      "conversation_id": "2016259431973924894",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016258968604070219",
     "source": "twitter",
     "author": "Francesco_Oddo",
