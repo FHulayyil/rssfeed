@@ -1,5 +1,155 @@
 [
   {
+    "id": "twitter_2016279800059711650",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@skull8888888888 @FactoryAI @raymondmarkable Looks compelling!",
+    "url": "https://x.com/sqs/status/2016279800059711650",
+    "timestamp": "2026-01-27T22:38:59.000Z",
+    "metadata": {
+      "conversation_id": "2016279800059711650",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016279556127400129",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@ryan0x44 @launchaddict @AmpCode @FactoryAI @opencode @nicolaygerold It is on Fireworks (US-based data center) right now because that was the one with immediate availability, not sure where we will end up running it if it makes it into a real non-experimental Amp mode",
+    "url": "https://x.com/sqs/status/2016279556127400129",
+    "timestamp": "2026-01-27T22:38:01.000Z",
+    "metadata": {
+      "conversation_id": "2016279556127400129",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016278475871777031",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "I need @FactoryAI swag",
+    "url": "https://x.com/NickSloggett/status/2016278475871777031",
+    "timestamp": "2026-01-27T22:33:43.000Z",
+    "metadata": {
+      "conversation_id": "2016278475871777031",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016278460105114017",
+    "source": "twitter",
+    "author": "skull8888888888",
+    "content": "@FactoryAI @raymondmarkable @sqs thoughts on Signals (both ours and Factory's)?",
+    "url": "https://x.com/skull8888888888/status/2016278460105114017",
+    "timestamp": "2026-01-27T22:33:40.000Z",
+    "metadata": {
+      "conversation_id": "2016278460105114017",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016278371479548404",
+    "source": "twitter",
+    "author": "mehkhi07",
+    "content": "@launchaddict @AmpCode @FactoryAI @opencode It’s on opencode",
+    "url": "https://x.com/mehkhi07/status/2016278371479548404",
+    "timestamp": "2026-01-27T22:33:19.000Z",
+    "metadata": {
+      "conversation_id": "2016278371479548404",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016278365192462571",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "@FactoryAI @launchaddict @AmpCode @opencode So fast.",
+    "url": "https://x.com/NickSloggett/status/2016278365192462571",
+    "timestamp": "2026-01-27T22:33:17.000Z",
+    "metadata": {
+      "conversation_id": "2016278365192462571",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016277964414185546",
+    "source": "twitter",
+    "author": "ryan0x44",
+    "content": "@sqs @launchaddict @AmpCode @FactoryAI @opencode @nicolaygerold where's the model running? or local?",
+    "url": "https://x.com/ryan0x44/status/2016277964414185546",
+    "timestamp": "2026-01-27T22:31:42.000Z",
+    "metadata": {
+      "conversation_id": "2016277964414185546",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016276621527842973",
+    "source": "twitter",
+    "author": "luismmolina",
+    "content": "@launchaddict @AmpCode @FactoryAI @opencode Why not in Claude Code?, works fine",
+    "url": "https://x.com/luismmolina/status/2016276621527842973",
+    "timestamp": "2026-01-27T22:26:21.000Z",
+    "metadata": {
+      "conversation_id": "2016276621527842973",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016276334989984062",
+    "source": "twitter",
+    "author": "NathanLands",
+    "content": "@FactoryAI @lennysan Awesome collab",
+    "url": "https://x.com/NathanLands/status/2016276334989984062",
+    "timestamp": "2026-01-27T22:25:13.000Z",
+    "metadata": {
+      "conversation_id": "2016276334989984062",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016276133369557483",
+    "source": "twitter",
+    "author": "SNARKAMOTO",
+    "content": "@launchaddict @AmpCode @FactoryAI @opencode kilocode cli it's free my friend.",
+    "url": "https://x.com/SNARKAMOTO/status/2016276133369557483",
+    "timestamp": "2026-01-27T22:24:25.000Z",
+    "metadata": {
+      "conversation_id": "2016276133369557483",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016273403830059355",
     "source": "twitter",
     "author": "NickSloggett",
