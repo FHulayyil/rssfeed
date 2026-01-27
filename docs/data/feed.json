@@ -24988,7 +24988,8 @@
       "type": "issue",
       "labels": [],
       "number": 570
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2009195399546806448",
@@ -26425,7 +26426,8 @@
         "bug"
       ],
       "number": 569
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2008887333110812941",
@@ -26728,7 +26730,8 @@
       "type": "issue",
       "labels": [],
       "number": 567
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2008782871037673833",
