@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2016295476467785912",
+    "source": "twitter",
+    "author": "n3crafter",
+    "content": "@FactoryAI How does it compare to others in your initial tests?",
+    "url": "https://x.com/n3crafter/status/2016295476467785912",
+    "timestamp": "2026-01-27T23:41:17.000Z",
+    "metadata": {
+      "conversation_id": "2016295476467785912",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016294813570617527",
+    "source": "twitter",
+    "author": "AndyBeard",
+    "content": "Even more crazy value\n\nIncludes both @FactoryAI and @ManusAI now at the lower tier",
+    "url": "https://x.com/AndyBeard/status/2016294813570617527",
+    "timestamp": "2026-01-27T23:38:39.000Z",
+    "metadata": {
+      "conversation_id": "2016294813570617527",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016294218956706292",
+    "source": "twitter",
+    "author": "lapembakuzi",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp thank you",
+    "url": "https://x.com/lapembakuzi/status/2016294218956706292",
+    "timestamp": "2026-01-27T23:36:17.000Z",
+    "metadata": {
+      "conversation_id": "2016294218956706292",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016293573512101888",
+    "source": "twitter",
+    "author": "HsiminR",
+    "content": "@Jg852300Marsh @matanSF @FactoryAI Yes, I'm talking about coding because this is a Factory AI post. If you dig into it, you'll see AA's Terminal Bench score for Opus 4.5 is 47% and for Kimi K2.5 is 35%.",
+    "url": "https://x.com/HsiminR/status/2016293573512101888",
+    "timestamp": "2026-01-27T23:33:43.000Z",
+    "metadata": {
+      "conversation_id": "2016293573512101888",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016293454016610628",
     "source": "twitter",
     "author": "lennysan",
