@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2016288781863711030",
+    "source": "twitter",
+    "author": "Jg852300Marsh",
+    "content": "@HsiminR @matanSF @FactoryAI Yes, that's the point",
+    "url": "https://x.com/Jg852300Marsh/status/2016288781863711030",
+    "timestamp": "2026-01-27T23:14:41.000Z",
+    "metadata": {
+      "conversation_id": "2016288781863711030",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016287812161589691",
+    "source": "twitter",
+    "author": "HsiminR",
+    "content": "@matanSF @FactoryAI When you say \"SOTA performance at 1/8 the cost\", you're not comparing it to open models, you're comparing it to Opus 4.5",
+    "url": "https://x.com/HsiminR/status/2016287812161589691",
+    "timestamp": "2026-01-27T23:10:49.000Z",
+    "metadata": {
+      "conversation_id": "2016287812161589691",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016287683178352979",
+    "source": "twitter",
+    "author": "LlmStats",
+    "content": "@FactoryAI Great 😎",
+    "url": "https://x.com/LlmStats/status/2016287683178352979",
+    "timestamp": "2026-01-27T23:10:19.000Z",
+    "metadata": {
+      "conversation_id": "2016287683178352979",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016286849715863804",
+    "source": "twitter",
+    "author": "yusufg",
+    "content": "@matanSF @tomosman Matan @FactoryAI ,  is this live.  I don't see it on 0.56.1 ?",
+    "url": "https://x.com/yusufg/status/2016286849715863804",
+    "timestamp": "2026-01-27T23:07:00.000Z",
+    "metadata": {
+      "conversation_id": "2016286849715863804",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016286674817294463",
     "source": "twitter",
     "author": "LoukilMo",
