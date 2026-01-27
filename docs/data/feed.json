@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_621",
+    "source": "github",
+    "author": "zwen64657",
+    "content": "[Issue] Droid MCP Connection Status Display Issue\n\n Issue Description\n\n   When Droid CLI starts, the default MCP status displays as yellow (connecting/spinning) and requires manual\n    refresh by pressing Ctrl+L to change to green (connected). The yellow status persists indefinitely\n   without manual intervention.\n\n   Environment\n   •  OS: Windows 11\n   •  Droid Version: 0.55.2 \n   •  Terminal: Windows Terminal\n   •  Model: GLM-4.7  [GLM Coding Plan China] - Openai [custom]\n\n   MCP Configuration\n\n   Configured with 4 MCP servers (in ~/.factory/m",
+    "url": "https://github.com/Factory-AI/factory/issues/621",
+    "timestamp": "2026-01-27T14:18:46Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 621
+    }
+  },
+  {
+    "id": "twitter_2016151164761305112",
+    "source": "twitter",
+    "author": "rvm0n_",
+    "content": "whoever did these animations for @FactoryAI really cooked 🔸🔸🔸 https://t.co/2PyED7bqvj",
+    "url": "https://x.com/rvm0n_/status/2016151164761305112",
+    "timestamp": "2026-01-27T14:07:50.000Z",
+    "metadata": {
+      "conversation_id": "2016151164761305112",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016145887094046948",
     "source": "twitter",
     "author": "funkyidol",
