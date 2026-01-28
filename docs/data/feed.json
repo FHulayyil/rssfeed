@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2016595252841173245",
+    "source": "twitter",
+    "author": "TheHamzaFarhan",
+    "content": "@zeddotdev @jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen @AmpCode when?",
+    "url": "https://x.com/TheHamzaFarhan/status/2016595252841173245",
+    "timestamp": "2026-01-28T19:32:29.000Z",
+    "metadata": {
+      "conversation_id": "2016595252841173245",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016593179106287676",
+    "source": "twitter",
+    "author": "callmeaaryan",
+    "content": "@FactoryAI this was unexpected",
+    "url": "https://x.com/callmeaaryan/status/2016593179106287676",
+    "timestamp": "2026-01-28T19:24:15.000Z",
+    "metadata": {
+      "conversation_id": "2016593179106287676",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016592859864932691",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@FactoryAI Congrats!",
+    "url": "https://x.com/erd0xbc/status/2016592859864932691",
+    "timestamp": "2026-01-28T19:22:58.000Z",
+    "metadata": {
+      "conversation_id": "2016592859864932691",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016591605587988591",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "@iannuttall Agree Opus on Claude Code plan mode then implement with Codex 5.2 using Codex CLI or @FactoryAI \n\nAlso been playing with different context tools; I think @windsurf SWE GREP x Codex 5.2 is the best planner out there.",
+    "url": "https://x.com/Alberto8793/status/2016591605587988591",
+    "timestamp": "2026-01-28T19:17:59.000Z",
+    "metadata": {
+      "conversation_id": "2016591605587988591",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016587793107997131",
+    "source": "twitter",
+    "author": "nummanali",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Thank you my man 🫡",
+    "url": "https://x.com/nummanali/status/2016587793107997131",
+    "timestamp": "2026-01-28T19:02:50.000Z",
+    "metadata": {
+      "conversation_id": "2016587793107997131",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016587791040479269",
+    "source": "twitter",
+    "author": "lennysan",
+    "content": "@arunsathiya Go @FactoryAI!",
+    "url": "https://x.com/lennysan/status/2016587791040479269",
+    "timestamp": "2026-01-28T19:02:50.000Z",
+    "metadata": {
+      "conversation_id": "2016587791040479269",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016587693485068329",
+    "source": "twitter",
+    "author": "lennysan",
+    "content": "@nummanali @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Start here https://t.co/5y38EhLaRa",
+    "url": "https://x.com/lennysan/status/2016587693485068329",
+    "timestamp": "2026-01-28T19:02:27.000Z",
+    "metadata": {
+      "conversation_id": "2016587693485068329",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016587461812502921",
+    "source": "twitter",
+    "author": "nummanali",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp I came to you for the passes\n\nNow looking forward to learning more about what you actually do 😂\n\nI suppose in wet Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿 we don’t get exposure to much of the west side of the world",
+    "url": "https://x.com/nummanali/status/2016587461812502921",
+    "timestamp": "2026-01-28T19:01:31.000Z",
+    "metadata": {
+      "conversation_id": "2016587461812502921",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016578533066240349",
     "source": "twitter",
     "author": "pascallammers_",
