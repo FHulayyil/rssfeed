@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_625",
+    "source": "github",
+    "author": "aaroncarry",
+    "content": "[Issue] droid exec does not follow AGENTS.md in non-interactive runs\n\nWhen I use droid exec to run non-interactive tasks, I’ve noticed that droid does not appear to reference or follow the conventions defined in AGENTS.md. This behavior is inconsistent with other CLIs (such as auggie/opencode), which do follow those rules in non-interactive runs.\n\nIs this the intended design of droid exec? If so, does droid provide a command similar to auggie run that can execute non-interactive tasks while adhering to the rules defined in AGENTS.md?",
+    "url": "https://github.com/Factory-AI/factory/issues/625",
+    "timestamp": "2026-01-28T03:12:30Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 625
+    }
+  },
+  {
     "id": "github_issue_621",
     "source": "github",
     "author": "zwen64657",
