@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2016329731327799386",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2016328502102880585",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2016328352685068538",
@@ -57,7 +60,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2016328314911391952",
@@ -72,7 +76,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2016328267050242473",
@@ -87,7 +92,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2016327628026675580",
@@ -102,7 +108,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2016327401001619473",
@@ -117,7 +124,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2016326932212940949",
@@ -132,7 +140,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2016326421904564485",
@@ -147,7 +156,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2016325782134784403",
@@ -162,7 +172,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2016325753147949164",
@@ -177,7 +188,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 1
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2016325309327626500",
@@ -192,7 +204,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2016324512644792752",
@@ -207,7 +220,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2016323883981537379",
@@ -15430,7 +15444,8 @@
       "type": "issue",
       "labels": [],
       "number": 598
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2012144386004722136",
@@ -15523,7 +15538,8 @@
         "bug"
       ],
       "number": 597
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2012100211204841917",
@@ -32116,7 +32132,8 @@
       "score": 3,
       "num_comments": 4,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2008138129027289387",
