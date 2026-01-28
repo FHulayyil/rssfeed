@@ -30710,6 +30710,19 @@
     "category": "bug"
   },
   {
+    "id": "reddit_1q6erpe",
+    "source": "reddit",
+    "author": "und3rc0d3",
+    "content": "Bad experience.\n\nI asked Factory to do a relatively simple task: modify a component so it renders inside a modal.\n\nI first used Opus Medium; it set up most of the structure correctly, but it completely forgot to migrate half of the existing features. They were just ignored.\n\nThen I explicitly asked it to carefully search for everything that was missing and fix it. At that point it burned \\~500k tokens just trying (and failing) to fix a very basic MapboxGL issue (a simple resize() when opening the modal).\n\nAfter ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1q6erpe/bad_experience/",
+    "timestamp": "2026-01-07T13:01:53.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2008886622331482612",
     "source": "twitter",
     "author": "bentossell",
