@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2016305828249383128",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "@FactoryAI Wow that was fast. Nice work!",
+    "url": "https://x.com/iamkevchan/status/2016305828249383128",
+    "timestamp": "2026-01-28T00:22:25.000Z",
+    "metadata": {
+      "conversation_id": "2016305828249383128",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016301191282442663",
+    "source": "twitter",
+    "author": "AZLabs_AI",
+    "content": "@FactoryAI @launchaddict @AmpCode @opencode Exciting times. Can't wait to see what the Factory team has cooking.",
+    "url": "https://x.com/AZLabs_AI/status/2016301191282442663",
+    "timestamp": "2026-01-28T00:03:59.000Z",
+    "metadata": {
+      "conversation_id": "2016301191282442663",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016300095747047641",
+    "source": "twitter",
+    "author": "MysticEru",
+    "content": "@FactoryAI funny how this post out of all has incentivized me the most to give Droid another shot 👀",
+    "url": "https://x.com/MysticEru/status/2016300095747047641",
+    "timestamp": "2026-01-27T23:59:38.000Z",
+    "metadata": {
+      "conversation_id": "2016300095747047641",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016295476467785912",
     "source": "twitter",
     "author": "n3crafter",
