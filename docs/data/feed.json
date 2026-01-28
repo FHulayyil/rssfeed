@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2016533420470387153",
+    "source": "twitter",
+    "author": "zeddotdev",
+    "content": "@jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen 🤝",
+    "url": "https://x.com/zeddotdev/status/2016533420470387153",
+    "timestamp": "2026-01-28T15:26:47.000Z",
+    "metadata": {
+      "conversation_id": "2016533420470387153",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016531316804649382",
+    "source": "twitter",
+    "author": "jetbrains",
+    "content": "@zeddotdev @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen Thank you to @zeddotdev for a great collaboration 🙌",
+    "url": "https://x.com/jetbrains/status/2016531316804649382",
+    "timestamp": "2026-01-28T15:18:25.000Z",
+    "metadata": {
+      "conversation_id": "2016531316804649382",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016527449224585632",
+    "source": "twitter",
+    "author": "0xMaverics",
+    "content": "@zeddotdev @jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen 👊🏾🙌🏽 https://t.co/M29VyuIBDr",
+    "url": "https://x.com/0xMaverics/status/2016527449224585632",
+    "timestamp": "2026-01-28T15:03:03.000Z",
+    "metadata": {
+      "conversation_id": "2016527449224585632",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016527346208047242",
+    "source": "twitter",
+    "author": "TheHamzaFarhan",
+    "content": "@zeddotdev @jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen 🚀",
+    "url": "https://x.com/TheHamzaFarhan/status/2016527346208047242",
+    "timestamp": "2026-01-28T15:02:39.000Z",
+    "metadata": {
+      "conversation_id": "2016527346208047242",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016520759707889727",
     "source": "twitter",
     "author": "WebRenew_",
@@ -14,6 +74,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2016515064052810095",
+    "source": "twitter",
+    "author": "leonardodias",
+    "content": "@FactoryAI Amazing! I will try!",
+    "url": "https://x.com/leonardodias/status/2016515064052810095",
+    "timestamp": "2026-01-28T14:13:50.000Z",
+    "metadata": {
+      "conversation_id": "2016515064052810095",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2016504458738274786",
