@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_625",
+    "source": "github",
+    "author": "aaroncarry",
+    "content": "[Issue] droid exec does not follow AGENTS.md in non-interactive runs\n\nWhen I use droid exec to run non-interactive tasks, I’ve noticed that droid does not appear to reference or follow the conventions defined in AGENTS.md. This behavior is inconsistent with other CLIs (such as auggie/opencode), which do follow those rules in non-interactive runs.\n\nIs this the intended design of droid exec? If so, does droid provide a command similar to auggie run that can execute non-interactive tasks while adhering to the rules defined in AGENTS.md?",
+    "url": "https://github.com/Factory-AI/factory/issues/625",
+    "timestamp": "2026-01-28T03:12:30Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 625
+    }
+  },
+  {
     "id": "twitter_2016335755937755391",
     "source": "twitter",
     "author": "Esongsofficial",
@@ -256,6 +269,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2016321995697193040",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@moinulmoin @droid Droid is black magic",
+    "url": "https://x.com/delaanthonio/status/2016321995697193040",
+    "timestamp": "2026-01-28T01:26:39.000Z",
+    "metadata": {
+      "conversation_id": "2016321995697193040",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016319946016620965",
     "source": "twitter",
     "author": "huvinesh99",
@@ -286,6 +314,21 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2016319621557854422",
+    "source": "twitter",
+    "author": "nateberkopec",
+    "content": "@badlogicgames @droid EXECUTE\nEXECUTE\nEXECUTE",
+    "url": "https://x.com/nateberkopec/status/2016319621557854422",
+    "timestamp": "2026-01-28T01:17:13.000Z",
+    "metadata": {
+      "conversation_id": "2016319621557854422",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2016317708569346369",
@@ -350,6 +393,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2016315072176423363",
+    "source": "twitter",
+    "author": "tunahorse21",
+    "content": "@ICode4Freedom leaning @droid or @Kimi_Moonshot",
+    "url": "https://x.com/tunahorse21/status/2016315072176423363",
+    "timestamp": "2026-01-28T00:59:09.000Z",
+    "metadata": {
+      "conversation_id": "2016315072176423363",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2016314332599156781",
@@ -512,6 +570,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2016308454277996675",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@badlogicgames @droid murder on the agent express",
+    "url": "https://x.com/matanSF/status/2016308454277996675",
+    "timestamp": "2026-01-28T00:32:51.000Z",
+    "metadata": {
+      "conversation_id": "2016308454277996675",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016306816926548464",
     "source": "twitter",
     "author": "sqs",
@@ -588,6 +661,36 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2016299201446215984",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "K2.5 in @droid at a 0.25x multiplier is such a win. https://t.co/EzADOt3U1R",
+    "url": "https://x.com/nathanclark_/status/2016299201446215984",
+    "timestamp": "2026-01-27T23:56:05.000Z",
+    "metadata": {
+      "conversation_id": "2016299201446215984",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016297962557575478",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "Factory's @droid is a murderer.",
+    "url": "https://x.com/badlogicgames/status/2016297962557575478",
+    "timestamp": "2026-01-27T23:51:09.000Z",
+    "metadata": {
+      "conversation_id": "2016297962557575478",
+      "likes": 10,
+      "retweets": 2,
+      "replies": 2,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2016295476467785912",
@@ -15274,6 +15377,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1qela7d",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.52.0 Released - `/share` command\n\n## New features\n\n* **`/share` command** - Share your current session with organization members, copies share URL to clipboard\n\n## Bug fixes\n\n* **Task tool view** - Fixed Ctrl+O view for Task tool\n* **Settings file writes** - Avoid unnecessary file writes when updating unrelated settings\n* **Unified tool display** - Fixed tool result pending display issue\n* **Subagent version** - Fixed subagent spawning to use correct droid version\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qela7d/factory_cli_v0520_released_share_command/",
+    "timestamp": "2026-01-16T16:51:37.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1qekkhl",
     "source": "reddit",
     "author": "anchit_rana",
@@ -15286,6 +15402,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "other"
+  },
+  {
+    "id": "reddit_1qekkhl",
+    "source": "reddit",
+    "author": "anchit_rana",
+    "content": "I have some AWS credits to burn\n\nThumbnail: default\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qekkhl/i_have_some_aws_credits_to_burn/",
+    "timestamp": "2026-01-16T16:26:24.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2012177341523411096",
