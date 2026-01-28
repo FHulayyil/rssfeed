@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2016379457230274711",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@ryan0x44 @launchaddict @AmpCode @FactoryAI @opencode @nicolaygerold Yeah, I've seen it get stuck. Will see. Glad to hear it showed some signs of greatness.",
+    "url": "https://x.com/sqs/status/2016379457230274711",
+    "timestamp": "2026-01-28T05:14:59.000Z",
+    "metadata": {
+      "conversation_id": "2016379457230274711",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016378773059559748",
+    "source": "twitter",
+    "author": "MRehan_5",
+    "content": "@FactoryAI What's is this factory ? 🤔",
+    "url": "https://x.com/MRehan_5/status/2016378773059559748",
+    "timestamp": "2026-01-28T05:12:16.000Z",
+    "metadata": {
+      "conversation_id": "2016378773059559748",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016376979637805164",
+    "source": "twitter",
+    "author": "dreamsandcode",
+    "content": "Is anyone still using @FactoryAI ?",
+    "url": "https://x.com/dreamsandcode/status/2016376979637805164",
+    "timestamp": "2026-01-28T05:05:09.000Z",
+    "metadata": {
+      "conversation_id": "2016376979637805164",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016376734233624976",
+    "source": "twitter",
+    "author": "ryan0x44",
+    "content": "@sqs @launchaddict @AmpCode @FactoryAI @opencode @nicolaygerold Used Kimi 2.5 most of today, it's great. At one point forgot I was using it, only realised as it kept getting stuck - not sure if that's an Amp thing given how experimental it is? Then I switched back to Opus and watched it spin up parallel subagents &amp; was reminded of its power😅",
+    "url": "https://x.com/ryan0x44/status/2016376734233624976",
+    "timestamp": "2026-01-28T05:04:10.000Z",
+    "metadata": {
+      "conversation_id": "2016376734233624976",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016376457035993196",
+    "source": "twitter",
+    "author": "nicolaygerold",
+    "content": "@sqs @launchaddict @AmpCode @FactoryAI @opencode Timezone abuse :D",
+    "url": "https://x.com/nicolaygerold/status/2016376457035993196",
+    "timestamp": "2026-01-28T05:03:04.000Z",
+    "metadata": {
+      "conversation_id": "2016376457035993196",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016376305613193238",
+    "source": "twitter",
+    "author": "nicolaygerold",
+    "content": "@Deor @sqs @launchaddict @AmpCode @FactoryAI @opencode It's pretty early. \n\nIt can be our harness (I have not done much to it), but also the model configuration. Most model configurations are a bit complex to get right (chat template, quantization, ...)",
+    "url": "https://x.com/nicolaygerold/status/2016376305613193238",
+    "timestamp": "2026-01-28T05:02:28.000Z",
+    "metadata": {
+      "conversation_id": "2016376305613193238",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016372757773361539",
+    "source": "twitter",
+    "author": "rardedd",
+    "content": "@ksazerac @pipelineabuser @blackboxai @FactoryAI Maybe skill issue but my api key just keeps dying when I try to use droid in clawdebot",
+    "url": "https://x.com/rardedd/status/2016372757773361539",
+    "timestamp": "2026-01-28T04:48:22.000Z",
+    "metadata": {
+      "conversation_id": "2016372757773361539",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016372656644174295",
     "source": "twitter",
     "author": "delaanthonio",
