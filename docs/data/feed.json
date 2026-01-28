@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2016364991218139343",
+    "source": "twitter",
+    "author": "DavideFi",
+    "content": "@Francesco_Oddo @lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp signed up since august, highly recommend",
+    "url": "https://x.com/DavideFi/status/2016364991218139343",
+    "timestamp": "2026-01-28T04:17:30.000Z",
+    "metadata": {
+      "conversation_id": "2016364991218139343",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016360220092461314",
+    "source": "twitter",
+    "author": "Svboy10977",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Any possibly to pay for insider plan monthly?",
+    "url": "https://x.com/Svboy10977/status/2016360220092461314",
+    "timestamp": "2026-01-28T03:58:33.000Z",
+    "metadata": {
+      "conversation_id": "2016360220092461314",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016353726244728895",
+    "source": "twitter",
+    "author": "karthikr3ddy",
+    "content": "@FUCORY Well, @FactoryAI definitely deserves a spot in A tier",
+    "url": "https://x.com/karthikr3ddy/status/2016353726244728895",
+    "timestamp": "2026-01-28T03:32:45.000Z",
+    "metadata": {
+      "conversation_id": "2016353726244728895",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016353716333617495",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@nahcrof @FactoryAI happy to help however I can",
+    "url": "https://x.com/fire/status/2016353716333617495",
+    "timestamp": "2026-01-28T03:32:42.000Z",
+    "metadata": {
+      "conversation_id": "2016353716333617495",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016353070423122113",
+    "source": "twitter",
+    "author": "nahcrof",
+    "content": "@fire @FactoryAI not sure, I'll get droid set up and start some debugging, maybe if I get somewhat lucky I can figure out the issue tomorrow",
+    "url": "https://x.com/nahcrof/status/2016353070423122113",
+    "timestamp": "2026-01-28T03:30:08.000Z",
+    "metadata": {
+      "conversation_id": "2016353070423122113",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016352789279256773",
+    "source": "twitter",
+    "author": "sunnypause",
+    "content": "@syqrel @FactoryAI 1/8th means 0.25x?",
+    "url": "https://x.com/sunnypause/status/2016352789279256773",
+    "timestamp": "2026-01-28T03:29:01.000Z",
+    "metadata": {
+      "conversation_id": "2016352789279256773",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016352525792821275",
     "source": "twitter",
     "author": "ICode4Freedom",
@@ -16,6 +106,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2016351474947674195",
+    "source": "twitter",
+    "author": "kargarisaac",
+    "content": "One issue i had with kimi k2 in kimi cli was that it was not a good agentic system 2-3 months ago. And was hallucinating a lot about what he has done and completed and i had to do a lot of checks myself or using other models. How is k2.5? I think it was partly kimi cli and not the model but i was on kimi coding plan.\nAny benchmarking you have done vs opus or gpt 5.2 codex? Can it be a replacement for any of those?",
+    "url": "https://x.com/kargarisaac/status/2016351474947674195",
+    "timestamp": "2026-01-28T03:23:48.000Z",
+    "metadata": {
+      "conversation_id": "2016351474947674195",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_625",
     "source": "github",
     "author": "aaroncarry",
@@ -28,6 +133,36 @@
       "number": 625
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2016342596625322169",
+    "source": "twitter",
+    "author": "chux52",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Offering $50 for each person who wants me to hassle them to cancel all these subscriptions in 11.5 months!",
+    "url": "https://x.com/chux52/status/2016342596625322169",
+    "timestamp": "2026-01-28T02:48:31.000Z",
+    "metadata": {
+      "conversation_id": "2016342596625322169",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016339807967052135",
+    "source": "twitter",
+    "author": "paneerchilli65",
+    "content": "@sqs @launchaddict @AmpCode @FactoryAI @opencode @nicolaygerold thanks, works",
+    "url": "https://x.com/paneerchilli65/status/2016339807967052135",
+    "timestamp": "2026-01-28T02:37:26.000Z",
+    "metadata": {
+      "conversation_id": "2016339807967052135",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2016335755937755391",
