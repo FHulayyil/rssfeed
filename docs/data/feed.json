@@ -1,5 +1,170 @@
 [
   {
+    "id": "twitter_2016323883981537379",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@fire @nahcrof @FactoryAI What is the CrofAI provider? There's a chance there's some unexpected outputs there. We have a native version of the model that should work better. Can u send /bug so we can diagnose",
+    "url": "https://x.com/EnoReyes/status/2016323883981537379",
+    "timestamp": "2026-01-28T01:34:10.000Z",
+    "metadata": {
+      "conversation_id": "2016323883981537379",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016322085367263645",
+    "source": "twitter",
+    "author": "pcrowe",
+    "content": "@lennysan @dan_ddyo @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Even if you’re an existing paying customer of those products ?!?",
+    "url": "https://x.com/pcrowe/status/2016322085367263645",
+    "timestamp": "2026-01-28T01:27:01.000Z",
+    "metadata": {
+      "conversation_id": "2016322085367263645",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016319946016620965",
+    "source": "twitter",
+    "author": "huvinesh99",
+    "content": "@droid @FactoryAI @matanSF I’m using ghostty and yes I’ve tried /terminal-setup but it’s not working on ghostty",
+    "url": "https://x.com/huvinesh99/status/2016319946016620965",
+    "timestamp": "2026-01-28T01:18:31.000Z",
+    "metadata": {
+      "conversation_id": "2016319946016620965",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016319869126681065",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@nahcrof @FactoryAI lol I had hope but alas k2.5 still trips over the droid harness https://t.co/TJWwEhVg8w",
+    "url": "https://x.com/fire/status/2016319869126681065",
+    "timestamp": "2026-01-28T01:18:12.000Z",
+    "metadata": {
+      "conversation_id": "2016319869126681065",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016317708569346369",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@Deor @launchaddict @AmpCode @FactoryAI @opencode @nicolaygerold That’s awesome to hear. We just added it and haven’t done much work on it, so I hope it can get a bit better.",
+    "url": "https://x.com/sqs/status/2016317708569346369",
+    "timestamp": "2026-01-28T01:09:37.000Z",
+    "metadata": {
+      "conversation_id": "2016317708569346369",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016316660404076763",
+    "source": "twitter",
+    "author": "Deor",
+    "content": "@sqs @launchaddict @AmpCode @FactoryAI @opencode @nicolaygerold its very close though, i would use this in conjunction with smart",
+    "url": "https://x.com/Deor/status/2016316660404076763",
+    "timestamp": "2026-01-28T01:05:27.000Z",
+    "metadata": {
+      "conversation_id": "2016316660404076763",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016316548651065600",
+    "source": "twitter",
+    "author": "Deor",
+    "content": "@sqs @launchaddict @AmpCode @FactoryAI @opencode @nicolaygerold when it does not stop for no reason, it is actually pretty good! Feels like a more \"concise\" mode. Doesnt feel better than smart, but the cost savings are great",
+    "url": "https://x.com/Deor/status/2016316548651065600",
+    "timestamp": "2026-01-28T01:05:01.000Z",
+    "metadata": {
+      "conversation_id": "2016316548651065600",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016316490845126820",
+    "source": "twitter",
+    "author": "PumpedAnAce",
+    "content": "@launchaddict @AmpCode @FactoryAI @opencode free on kilocode rn",
+    "url": "https://x.com/PumpedAnAce/status/2016316490845126820",
+    "timestamp": "2026-01-28T01:04:47.000Z",
+    "metadata": {
+      "conversation_id": "2016316490845126820",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016314332599156781",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@Deor @launchaddict @AmpCode @FactoryAI @opencode @nicolaygerold I’m seeing that as well",
+    "url": "https://x.com/sqs/status/2016314332599156781",
+    "timestamp": "2026-01-28T00:56:12.000Z",
+    "metadata": {
+      "conversation_id": "2016314332599156781",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016313998816510378",
+    "source": "twitter",
+    "author": "xxholly32",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp respect，国内有人搞这个么，现在买了好多产品的会员",
+    "url": "https://x.com/xxholly32/status/2016313998816510378",
+    "timestamp": "2026-01-28T00:54:53.000Z",
+    "metadata": {
+      "conversation_id": "2016313998816510378",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016313701104570395",
+    "source": "twitter",
+    "author": "Deor",
+    "content": "@sqs @launchaddict @AmpCode @FactoryAI @opencode @nicolaygerold Messing around with it and saw that sometimes it stops for no reason (never does that on smart mode)",
+    "url": "https://x.com/Deor/status/2016313701104570395",
+    "timestamp": "2026-01-28T00:53:42.000Z",
+    "metadata": {
+      "conversation_id": "2016313701104570395",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016312839271809026",
     "source": "twitter",
     "author": "justine_chang39",
@@ -15172,6 +15337,19 @@
       "number": 596
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_596",
+    "source": "github",
+    "author": "khoafullstack",
+    "content": "[Discussion] How to check or see the MCP Call Details\n\n<img width=\"629\" height=\"202\" alt=\"image\" src=\"https://github.com/user-attachments/assets/10e4b6a1-f135-4bd3-8154-1f8e317c8150\" />\r\n\r\nIn my Droid , i can not see the SQL script to run on my own database or details of MCP call.",
+    "url": "https://github.com/Factory-AI/factory/discussions/596",
+    "timestamp": "2026-01-16T08:22:59Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 596
+    }
   },
   {
     "id": "twitter_2012071541908086839",
