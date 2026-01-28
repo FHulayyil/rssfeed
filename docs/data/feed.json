@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2016424183362945377",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "Connected my Obsidian vault to my AI coding agent via MCP and now it reads, versions, archives and cross-references my specs automatically using @FactoryAI Droid CLI.\n\nI say \"update the phase 2.10 spec\" and it archives v1.1, creates v1.2, updates all wikilinks, and adds cross-references to related docs.\n\nLiving in the future.",
+    "url": "https://x.com/martin_ict_algo/status/2016424183362945377",
+    "timestamp": "2026-01-28T08:12:43.000Z",
+    "metadata": {
+      "conversation_id": "2016424183362945377",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016422393456009721",
+    "source": "twitter",
+    "author": "Francesco_Oddo",
+    "content": "@lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Speaking of Builder tools, where is @convex??",
+    "url": "https://x.com/Francesco_Oddo/status/2016422393456009721",
+    "timestamp": "2026-01-28T08:05:36.000Z",
+    "metadata": {
+      "conversation_id": "2016422393456009721",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016420055076978933",
+    "source": "twitter",
+    "author": "aroussi",
+    "content": "@FactoryAI I’d love to see a terminal bench of droid with kimi. Looks very promising",
+    "url": "https://x.com/aroussi/status/2016420055076978933",
+    "timestamp": "2026-01-28T07:56:19.000Z",
+    "metadata": {
+      "conversation_id": "2016420055076978933",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016417582836850803",
     "source": "twitter",
     "author": "JeffAmazonX",
