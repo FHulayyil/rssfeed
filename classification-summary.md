@@ -1,14 +1,14 @@
 # Classification Summary
 
-**Date:** 2026-01-29 06:51 UTC
+**Date:** 2026-01-29 07:13 UTC
 
 ## Statistics
 
 | Metric | Value |
 |--------|-------|
-| Items Classified | 4 |
-| mention | 3 (75.0%) |
-| bug | 0 (0.0%) |
+| Items Classified | 8 |
+| mention | 6 (75.0%) |
+| bug | 1 (12.5%) |
 | love | 0 (0.0%) |
-| question | 1 (25.0%) |
+| question | 1 (12.5%) |
 | other | 0 (0.0%) |
