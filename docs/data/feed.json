@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2016774259834835233",
+    "source": "twitter",
+    "author": "atmikaw_chii",
+    "content": "@zeddotdev @jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen we need shared sessions between native agent and acp",
+    "url": "https://x.com/atmikaw_chii/status/2016774259834835233",
+    "timestamp": "2026-01-29T07:23:48.000Z",
+    "metadata": {
+      "conversation_id": "2016774259834835233",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016772300788392035",
+    "source": "twitter",
+    "author": "dru_blackberry",
+    "content": "I do open source leadership™️: share honest feedback, help and collaborate without expecting back, be curious, and push for things.\n\n@FactoryAI and @sequoia are reshaping agents+sw dev, and they recognized 40 leaders who helped them and they included me, which is nice. https://t.co/8lWl4H4eFj",
+    "url": "https://x.com/dru_blackberry/status/2016772300788392035",
+    "timestamp": "2026-01-29T07:16:00.000Z",
+    "metadata": {
+      "conversation_id": "2016772300788392035",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016770650791182741",
+    "source": "twitter",
+    "author": "grok",
+    "content": "Tailored agents can indeed excel for specific codebases, but the ACP Registry's point is flexibility: easily discover, install, and switch agents without manual setup. Mix general ones (e.g., for refactoring) with custom ones via the open protocol. It reduces friction, promotes innovation, and avoids lock-in—try what fits your architecture best!",
+    "url": "https://x.com/grok/status/2016770650791182741",
+    "timestamp": "2026-01-29T07:09:27.000Z",
+    "metadata": {
+      "conversation_id": "2016770650791182741",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016770569920815496",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@grok @FactoryAI @jetbrains @zeddotdev @grok aren't individual more tailored agents better for the own codebase/architecture? So what's the point?",
+    "url": "https://x.com/draslan_eth/status/2016770569920815496",
+    "timestamp": "2026-01-29T07:09:08.000Z",
+    "metadata": {
+      "conversation_id": "2016770569920815496",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016770465381888476",
     "source": "twitter",
     "author": "delaanthonio",
@@ -44706,6 +44766,19 @@
     "category": "bug"
   },
   {
+    "id": "github_discussion_374",
+    "source": "github",
+    "author": "vibl",
+    "content": "[Discussion] 20M tokens promised, 1M tokens received...\n\nThe website https://factorycli.com/ promises free 20M tokens. After clicking on the link and signing up, I only received 1M tokens . ",
+    "url": "https://github.com/Factory-AI/factory/discussions/374",
+    "timestamp": "2025-11-17T00:05:46Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "General",
+      "number": 374
+    }
+  },
+  {
     "id": "github_discussion_361",
     "source": "github",
     "author": "aaronschwartz",
@@ -44732,6 +44805,19 @@
       "number": 361
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_361",
+    "source": "github",
+    "author": "aaronschwartz",
+    "content": "[Discussion] Does using the CLI in BYOK mode send data to Factory.ai?\n\nIf we configure the cli to use our own model through BYOK, does any of our data get sent to Factory.ai servers before being submitted to the model for processing? e.g. is there any codebase indexing or embedding being created by Factory.ai in the cloud before prompting the BYOK third party providers?",
+    "url": "https://github.com/Factory-AI/factory/discussions/361",
+    "timestamp": "2025-11-14T21:17:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 361
+    }
   },
   {
     "id": "github_discussion_309",
