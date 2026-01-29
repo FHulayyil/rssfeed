@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2016788272996024502",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@craigzLiszt In @FactoryAI droid I dont find that at all keep on working compressing and all the relevant info there",
+    "url": "https://x.com/martin_ict_algo/status/2016788272996024502",
+    "timestamp": "2026-01-29T08:19:29.000Z",
+    "metadata": {
+      "conversation_id": "2016788272996024502",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016788169274933669",
+    "source": "twitter",
+    "author": "kargarisaac",
+    "content": "@FactoryAI @jetbrains @zeddotdev 🤞👏",
+    "url": "https://x.com/kargarisaac/status/2016788169274933669",
+    "timestamp": "2026-01-29T08:19:04.000Z",
+    "metadata": {
+      "conversation_id": "2016788169274933669",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016784027471036752",
     "source": "twitter",
     "author": "JoshuaPoddoku",
@@ -45236,6 +45266,19 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_164",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Discussion] Droid Exec - custom models supported?\n\ncan we have support for custom models in droid exec? even if it were just simple endpoint/key.",
+    "url": "https://github.com/Factory-AI/factory/discussions/164",
+    "timestamp": "2025-10-10T18:34:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 164
+    }
+  },
+  {
     "id": "github_discussion_151",
     "source": "github",
     "author": "snowarch",
@@ -45262,6 +45305,19 @@
       "number": 151
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_151",
+    "source": "github",
+    "author": "snowarch",
+    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
+    "url": "https://github.com/Factory-AI/factory/discussions/151",
+    "timestamp": "2025-10-09T10:20:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 151
+    }
   },
   {
     "id": "reddit_1o16e9t",
