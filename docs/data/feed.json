@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2016850016271266238",
+    "source": "twitter",
+    "author": "0xtiago_",
+    "content": "@zeddotdev @jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen done! https://t.co/OKOCYXtaEJ",
+    "url": "https://x.com/0xtiago_/status/2016850016271266238",
+    "timestamp": "2026-01-29T12:24:49.000Z",
+    "metadata": {
+      "conversation_id": "2016850016271266238",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016848061692014905",
+    "source": "twitter",
+    "author": "0xtiago_",
+    "content": "@zeddotdev @jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen ill make one thank you!",
+    "url": "https://x.com/0xtiago_/status/2016848061692014905",
+    "timestamp": "2026-01-29T12:17:03.000Z",
+    "metadata": {
+      "conversation_id": "2016848061692014905",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016844071977849341",
+    "source": "twitter",
+    "author": "zeddotdev",
+    "content": "@0xtiago_ @jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen if you have a github issue with repro ill happily have the team take a look today",
+    "url": "https://x.com/zeddotdev/status/2016844071977849341",
+    "timestamp": "2026-01-29T12:01:12.000Z",
+    "metadata": {
+      "conversation_id": "2016844071977849341",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016843632381243711",
+    "source": "twitter",
+    "author": "0xtiago_",
+    "content": "@zeddotdev @jetbrains @opencode @MistralAI @FactoryAI @augmentcode @Kimi_Moonshot @goose_oss @Alibaba_Qwen okay please fix the formatters not working AT ALL this is really pissing me off",
+    "url": "https://x.com/0xtiago_/status/2016843632381243711",
+    "timestamp": "2026-01-29T11:59:27.000Z",
+    "metadata": {
+      "conversation_id": "2016843632381243711",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016840588838965615",
     "source": "twitter",
     "author": "moinulmoin",
@@ -16,6 +76,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2016832117284753688",
+    "source": "twitter",
+    "author": "dreamworks2050",
+    "content": "@KimiProduct @KimiProduct @Kimi_Moonshot how can we Install the coding plan into @FactoryAI droid??? Pls pls pls",
+    "url": "https://x.com/dreamworks2050/status/2016832117284753688",
+    "timestamp": "2026-01-29T11:13:42.000Z",
+    "metadata": {
+      "conversation_id": "2016832117284753688",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016831360145445302",
     "source": "twitter",
     "author": "moinulmoin",
@@ -30,6 +105,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2016829613050151198",
+    "source": "twitter",
+    "author": "Flup18",
+    "content": "@FactoryAI @jetbrains @zeddotdev works great in Intellij Idea!!",
+    "url": "https://x.com/Flup18/status/2016829613050151198",
+    "timestamp": "2026-01-29T11:03:45.000Z",
+    "metadata": {
+      "conversation_id": "2016829613050151198",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2016819060353487240",
