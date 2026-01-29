@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2016909043307335921",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@pvncher @stewnightNZ @moltbot @RepoPrompt Correct - done a lot of customization with local models for memory embedding and cheaper inference.\n\nGave it @RepoPrompt rp_cli and @Droid exec access with exe dot dev VM’s and it’s hard to look back",
+    "url": "https://x.com/GitMaxd/status/2016909043307335921",
+    "timestamp": "2026-01-29T16:19:22.000Z",
+    "metadata": {
+      "conversation_id": "2016909043307335921",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016905536625652160",
+    "source": "twitter",
+    "author": "Kenvsryu24",
+    "content": "@bentossell @tylertringas @every @droid +1 for CE plugin. I don't Claude without it anymore",
+    "url": "https://x.com/Kenvsryu24/status/2016905536625652160",
+    "timestamp": "2026-01-29T16:05:26.000Z",
+    "metadata": {
+      "conversation_id": "2016905536625652160",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016903545799270693",
     "source": "twitter",
     "author": "BillCrosby",
