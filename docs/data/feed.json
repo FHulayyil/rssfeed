@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2016808817967976780",
+    "source": "twitter",
+    "author": "AriesTheCoder",
+    "content": "@robinebers Ah ok..  I work with large codebases - platform builds, monolithic apps refactored into microservices. \n\nOOP heavy MVC userland code with libraries. Codex and claude has a hard time with those. Only one that's had some success with it is @FactoryAI  @droid",
+    "url": "https://x.com/AriesTheCoder/status/2016808817967976780",
+    "timestamp": "2026-01-29T09:41:07.000Z",
+    "metadata": {
+      "conversation_id": "2016808817967976780",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016796934002954562",
     "source": "twitter",
     "author": "fullpatstack",
@@ -16,6 +31,51 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2016795829651046641",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "@LagunitaLake @droid aye? naye, not in my case; i also use with custom models with my gpt and claude sub, so i only pay $20 dollar fr some convenience.",
+    "url": "https://x.com/moinulmoin/status/2016795829651046641",
+    "timestamp": "2026-01-29T08:49:30.000Z",
+    "metadata": {
+      "conversation_id": "2016795829651046641",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016795491392970983",
+    "source": "twitter",
+    "author": "moinulmoin",
+    "content": "by default fr me, opencode is just a bit better probably than claude, or similar other that its a bit faster and u can use any models, and good fr less steering like claude, and more like codex and to get better harness u need to use, oh my opencode or similar plugin but its too token hungry\n\nbut in droid, u get the better harness by default, less steering, faster too, great ui/ux like claude, you can use diff custom models",
+    "url": "https://x.com/moinulmoin/status/2016795491392970983",
+    "timestamp": "2026-01-29T08:48:10.000Z",
+    "metadata": {
+      "conversation_id": "2016795491392970983",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016792499868598280",
+    "source": "twitter",
+    "author": "TheyCallMeCheng",
+    "content": "@moinulmoin @droid (I'm just trying out different competitors so I'm just curious)",
+    "url": "https://x.com/TheyCallMeCheng/status/2016792499868598280",
+    "timestamp": "2026-01-29T08:36:16.000Z",
+    "metadata": {
+      "conversation_id": "2016792499868598280",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2016792443879076007",
     "source": "twitter",
     "author": "ericwong1874",
@@ -30,6 +90,36 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2016792295467560978",
+    "source": "twitter",
+    "author": "TheyCallMeCheng",
+    "content": "@moinulmoin @droid Why droid and not open code ?",
+    "url": "https://x.com/TheyCallMeCheng/status/2016792295467560978",
+    "timestamp": "2026-01-29T08:35:28.000Z",
+    "metadata": {
+      "conversation_id": "2016792295467560978",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2016791596210278494",
+    "source": "twitter",
+    "author": "LagunitaLake",
+    "content": "@moinulmoin @droid No, you have to try 10x harder to get things done, so it’s actually more expensive.",
+    "url": "https://x.com/LagunitaLake/status/2016791596210278494",
+    "timestamp": "2026-01-29T08:32:41.000Z",
+    "metadata": {
+      "conversation_id": "2016791596210278494",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2016788272996024502",
