@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2016788169274933669",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2016784027471036752",
@@ -45276,19 +45278,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 164
-    }
-  },
-  {
-    "id": "github_discussion_151",
-    "source": "github",
-    "author": "snowarch",
-    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
-    "url": "https://github.com/Factory-AI/factory/discussions/151",
-    "timestamp": "2025-10-09T10:20:14Z",
-    "metadata": {
-      "type": "discussion",
-      "category": "Feature requests",
-      "number": 151
     },
     "category": "question"
   },
@@ -45317,7 +45306,22 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 151
-    }
+    },
+    "category": "question"
+  },
+  {
+    "id": "github_discussion_151",
+    "source": "github",
+    "author": "snowarch",
+    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
+    "url": "https://github.com/Factory-AI/factory/discussions/151",
+    "timestamp": "2025-10-09T10:20:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 151
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1o16e9t",
