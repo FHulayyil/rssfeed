@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2016792443879076007",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2016788272996024502",
@@ -45406,7 +45408,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 108
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_99",
@@ -45447,7 +45450,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 99
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_95",
@@ -45488,7 +45492,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 95
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_92",
