@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2017138920652493057",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@arvislacis @daveashworth @lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp Yes, that's correct.",
+    "url": "https://x.com/sqs/status/2017138920652493057",
+    "timestamp": "2026-01-30T07:32:49.000Z",
+    "metadata": {
+      "conversation_id": "2017138920652493057",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017129439981953417",
+    "source": "twitter",
+    "author": "iamkevchan",
+    "content": "@FactoryAI Day 29: Design Hell Part 2\n\nCleaned up the Modal behaviour and hopefully reduced friction.\n\nLiking the design a lot more, will post a screenshot. \n\nGPT 5.2 running into an issue with logo and theme colors and can't seem to figure it out so I'm calling it a night.",
+    "url": "https://x.com/iamkevchan/status/2017129439981953417",
+    "timestamp": "2026-01-30T06:55:09.000Z",
+    "metadata": {
+      "conversation_id": "2017129439981953417",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017123798206558719",
     "source": "twitter",
     "author": "arvislacis",
