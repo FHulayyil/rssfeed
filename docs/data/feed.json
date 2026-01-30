@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2017291031818166782",
+    "source": "twitter",
+    "author": "nihilxmatter",
+    "content": "@lennysan @tomaslaucom @FactoryAI @AmpCode @cognition @WisprFlow @Lovable @Replit @boltdotnew https://t.co/8fCOF9zUvG",
+    "url": "https://x.com/nihilxmatter/status/2017291031818166782",
+    "timestamp": "2026-01-30T17:37:16.000Z",
+    "metadata": {
+      "conversation_id": "2017291031818166782",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017286461780017496",
     "source": "twitter",
     "author": "JoelDeTeves",
@@ -14,6 +29,51 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2017285798509629766",
+    "source": "twitter",
+    "author": "lennysan",
+    "content": "@tomaslaucom @FactoryAI @AmpCode @cognition @WisprFlow @Lovable @Replit @boltdotnew The world is your oyster.",
+    "url": "https://x.com/lennysan/status/2017285798509629766",
+    "timestamp": "2026-01-30T17:16:28.000Z",
+    "metadata": {
+      "conversation_id": "2017285798509629766",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017284518269321223",
+    "source": "twitter",
+    "author": "edgarasben",
+    "content": "@tomaslaucom @lennysan @FactoryAI @AmpCode @cognition @WisprFlow @Lovable @Replit @boltdotnew Things are moving real fast…",
+    "url": "https://x.com/edgarasben/status/2017284518269321223",
+    "timestamp": "2026-01-30T17:11:23.000Z",
+    "metadata": {
+      "conversation_id": "2017284518269321223",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017283088326222125",
+    "source": "twitter",
+    "author": "tomaslaucom",
+    "content": "If you're building stuff, this deal by @lennysan is unbeatable!\n\nRocking @FactoryAI, @AmpCode, @cognition's Devin AI while whispering @WisprFlow.\n\nAlso got @Lovable, @Replit and @boltdotnew for my wife to enter the beautiful vibe coding world.\n\nLife's good. https://t.co/pL2WbVABVC",
+    "url": "https://x.com/tomaslaucom/status/2017283088326222125",
+    "timestamp": "2026-01-30T17:05:42.000Z",
+    "metadata": {
+      "conversation_id": "2017283088326222125",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2017278577104888045",
