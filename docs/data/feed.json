@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2017315027980546286",
+    "source": "twitter",
+    "author": "kcosr",
+    "content": "@LeslieCBarry @FactoryAI @openclaw Why not create an adapter around Claude Code JSON streaming output? Wouldn't that address the \"Claude Code only\" restriction for Max plans?",
+    "url": "https://x.com/kcosr/status/2017315027980546286",
+    "timestamp": "2026-01-30T19:12:37.000Z",
+    "metadata": {
+      "conversation_id": "2017315027980546286",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017308360958480485",
     "source": "twitter",
     "author": "phanindra_ai",
