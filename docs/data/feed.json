@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2017305766634643538",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@haritssr @FactoryAI @droid Here's how /cost looks... https://t.co/ja6wOu7AHP",
+    "url": "https://x.com/benvargas/status/2017305766634643538",
+    "timestamp": "2026-01-30T18:35:49.000Z",
+    "metadata": {
+      "conversation_id": "2017305766634643538",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017305711919997266",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@haritssr @FactoryAI @droid Yeah, here's a /readiness-report via k2.5 https://t.co/itLJNIr0gA",
+    "url": "https://x.com/benvargas/status/2017305711919997266",
+    "timestamp": "2026-01-30T18:35:36.000Z",
+    "metadata": {
+      "conversation_id": "2017305711919997266",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017303389055685080",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@handikawisnu @FactoryAI @droid For sure, all BYOK should as the Factory team is locked in - really cool of them to support BYOK. This was just allowing users to use alt subscriptions too.",
+    "url": "https://x.com/benvargas/status/2017303389055685080",
+    "timestamp": "2026-01-30T18:26:22.000Z",
+    "metadata": {
+      "conversation_id": "2017303389055685080",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017302347471606245",
+    "source": "twitter",
+    "author": "handikawisnu",
+    "content": "@benvargas @FactoryAI @droid openrouter works well with Droid too!",
+    "url": "https://x.com/handikawisnu/status/2017302347471606245",
+    "timestamp": "2026-01-30T18:22:13.000Z",
+    "metadata": {
+      "conversation_id": "2017302347471606245",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017300546638758007",
     "source": "twitter",
     "author": "haritssr",
