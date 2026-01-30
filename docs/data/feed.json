@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2017106918624678282",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Use the @FactoryAI @droid cli with subscription kimi-k2.5 account from the likes of synthetic or opencode/zen black.\n\nThis is a straightforward BYOK setup, just define your model pointing to your subscription provider endpoint.\n👇 https://t.co/Q7k2HYnMKX",
+    "url": "https://x.com/benvargas/status/2017106918624678282",
+    "timestamp": "2026-01-30T05:25:40.000Z",
+    "metadata": {
+      "conversation_id": "2017106918624678282",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017098246259454376",
+    "source": "twitter",
+    "author": "nateberkopec",
+    "content": "Quick vibe check on @FactoryAI's Droid\n\n* Easiest and safest way to try Kimi K2.5 today. \n* I really like autonomy levels. Much better than the permission model in any other harness.\n* I like sounds. I think more harnesses should use them by default. \n* Has the sauce",
+    "url": "https://x.com/nateberkopec/status/2017098246259454376",
+    "timestamp": "2026-01-30T04:51:12.000Z",
+    "metadata": {
+      "conversation_id": "2017098246259454376",
+      "likes": 9,
+      "retweets": 2,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017071197356220695",
     "source": "twitter",
     "author": "d0xxed",
