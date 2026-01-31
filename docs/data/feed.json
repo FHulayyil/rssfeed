@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2017638249112465483",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@LLMJunky nah, it's the best. @FactoryAI",
+    "url": "https://x.com/draslan_eth/status/2017638249112465483",
+    "timestamp": "2026-01-31T16:36:59.000Z",
+    "metadata": {
+      "conversation_id": "2017638249112465483",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017634562419888315",
+    "source": "twitter",
+    "author": "FrancescoD_Ales",
+    "content": "@tomaslaucom @lennysan @FactoryAI @AmpCode @cognition @WisprFlow @Lovable @Replit @boltdotnew We’re hoping to match it soon!",
+    "url": "https://x.com/FrancescoD_Ales/status/2017634562419888315",
+    "timestamp": "2026-01-31T16:22:20.000Z",
+    "metadata": {
+      "conversation_id": "2017634562419888315",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017632052632318276",
+    "source": "twitter",
+    "author": "clarshio",
+    "content": "for anyone trying to setup @Kimi_Moonshot Code on @FactoryAI this is how you do it.\n\nusing the generic openai provider will return 403 errors, switching to anthropic fixes this.\n\nhopes this helps someone. https://t.co/s7stAipES7",
+    "url": "https://x.com/clarshio/status/2017632052632318276",
+    "timestamp": "2026-01-31T16:12:21.000Z",
+    "metadata": {
+      "conversation_id": "2017632052632318276",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017614278858027254",
+    "source": "twitter",
+    "author": "Flup18",
+    "content": "@swairshah @lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp is actually only adding 5$ per day if you are using an existing account; is a bit misleading, I was dissapointed to find out this",
+    "url": "https://x.com/Flup18/status/2017614278858027254",
+    "timestamp": "2026-01-31T15:01:44.000Z",
+    "metadata": {
+      "conversation_id": "2017614278858027254",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017613835570381125",
+    "source": "twitter",
+    "author": "Flup18",
+    "content": "@daveashworth @lennysan @ManusAI @FactoryAI @AmpCode @Railway @elevenlabsio @canva @framer @Lovable @Replit @n8n_io @GammaApp is 5 additional per day",
+    "url": "https://x.com/Flup18/status/2017613835570381125",
+    "timestamp": "2026-01-31T14:59:58.000Z",
+    "metadata": {
+      "conversation_id": "2017613835570381125",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017607881370058783",
     "source": "twitter",
     "author": "aroussi",
