@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2017422299620618514",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "I've noticed that @droid does not have an explore agent like every other harness like Claude Code and OpenCode.\n\nYet Droid seems to have a good idea of where to edit files.\n\nIt seems like great engineering.",
+    "url": "https://x.com/delaanthonio/status/2017422299620618514",
+    "timestamp": "2026-01-31T02:18:52.000Z",
+    "metadata": {
+      "conversation_id": "2017422299620618514",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2017409675436679353",
+    "source": "twitter",
+    "author": "87xysr",
+    "content": "@lmstudio @JoelDeTeves @droid YES",
+    "url": "https://x.com/87xysr/status/2017409675436679353",
+    "timestamp": "2026-01-31T01:28:42.000Z",
+    "metadata": {
+      "conversation_id": "2017409675436679353",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2017405893508235772",
     "source": "twitter",
     "author": "Gunvir",
