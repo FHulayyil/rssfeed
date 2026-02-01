@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2018107264859840675",
+    "source": "twitter",
+    "author": "gootecks",
+    "content": "@FactoryAI i been trying to get the google stitch MCP server working for so long, i'm about to run out of tokens.  \n\nthe CLI fired up a droid to investigate and the droid said it worked for him 🤦‍♂️ i'd post on github but there's already a ton of MCP issues with no reply and i'm so exhausted from trying to get this working all night",
+    "url": "https://x.com/gootecks/status/2018107264859840675",
+    "timestamp": "2026-02-01T23:40:41.000Z",
+    "metadata": {
+      "conversation_id": "2018107264859840675",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018093398373310738",
     "source": "twitter",
     "author": "Kyler_Lorin",
