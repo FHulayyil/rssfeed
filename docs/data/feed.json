@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2018366515041431850",
+    "source": "twitter",
+    "author": "87xysr",
+    "content": "@johnbarker @SnazzyLabs @FactoryAI I haven’t done a full token to token comparison but I’d assume it won’t be too far off Claude Max. You get 20M tokens on the $20 plan and 200M on $200 plan.\n\n@FactoryAI does the task in less prompts too so that’s also a factor. With Claude Code i always have to ask it to refine.",
+    "url": "https://x.com/87xysr/status/2018366515041431850",
+    "timestamp": "2026-02-02T16:50:51.000Z",
+    "metadata": {
+      "conversation_id": "2018366515041431850",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018364008387260604",
+    "source": "twitter",
+    "author": "Ra1kshit",
+    "content": "@_genesisdayrit @FactoryAI there is a way you can use claude code sub in droid. I use the 100$ claude code + 20$ droid ( for gpt 5.2, and kimi)",
+    "url": "https://x.com/Ra1kshit/status/2018364008387260604",
+    "timestamp": "2026-02-02T16:40:53.000Z",
+    "metadata": {
+      "conversation_id": "2018364008387260604",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018363604467081274",
+    "source": "twitter",
+    "author": "johnbarker",
+    "content": "@87xysr @SnazzyLabs @FactoryAI How does use of FactoryAI compare financially? The biggest value with Claude Code is the insane dollar-to-token value you get with the Max plan.",
+    "url": "https://x.com/johnbarker/status/2018363604467081274",
+    "timestamp": "2026-02-02T16:39:17.000Z",
+    "metadata": {
+      "conversation_id": "2018363604467081274",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018357906530500887",
     "source": "twitter",
     "author": "doesdatmaksense",
