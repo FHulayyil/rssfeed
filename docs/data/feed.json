@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2018325918347846134",
+    "source": "twitter",
+    "author": "_alissonryan",
+    "content": "o que tenho percebido: se vc ja usava mcp, skills via CLI você pode ir para o openclaw e migrar isso tudo. \n\nEu usava muito o Droid CLI da @FactoryAI para analisar dados via mcp, com isso foi fácil eu achar uma utilidade do openclaw. \n\nAs outras coisas agora estão vindo de acordo com o uso.",
+    "url": "https://x.com/_alissonryan/status/2018325918347846134",
+    "timestamp": "2026-02-02T14:09:32.000Z",
+    "metadata": {
+      "conversation_id": "2018325918347846134",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_630",
     "source": "github",
     "author": "funkyidol",
