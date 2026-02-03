@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2018517956872098064",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "With droid and CLIProxyAPI if you’re seeing crazy drastic cache breaking or drastically higher token use it could be a reason not to use it. I haven’t seen noticeably high use myself but I use one account. It’s not busting my hourly/weekly quotas; I only had the 20M starter tokens and never got any extra from factory so tough for me to compare to using factory tokens… would have to do some comparison between their sub, similar work via codex, and the same usage pattern on CLIProxyAPI to see what’s going on.\n\nCould be the account rotation/pooling breaking cache, could be something else. I’ve seen CLIProxyAPI team be careful about cache and implement fixes, I’m sure if something can be pinpointed it can be improved - nobody wants to waste resources.\n\nIt’s extra challenging with droid being closed source as well.",
+    "url": "https://x.com/benvargas/status/2018517956872098064",
+    "timestamp": "2026-02-03T02:52:37.000Z",
+    "metadata": {
+      "conversation_id": "2018517956872098064",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018517229902414033",
+    "source": "twitter",
+    "author": "thesohom2",
+    "content": "@GitMaxd @FactoryAI loved reading this cool to see how easy it is to set up.",
+    "url": "https://x.com/thesohom2/status/2018517229902414033",
+    "timestamp": "2026-02-03T02:49:44.000Z",
+    "metadata": {
+      "conversation_id": "2018517229902414033",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018514351825805783",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "You know you’re a power user when you have @FactoryAI droids fixing your merge conflicts.\n\nSaving those precious minutes just to post about it here https://t.co/AeZnLq5nrN",
+    "url": "https://x.com/alvinsng/status/2018514351825805783",
+    "timestamp": "2026-02-03T02:38:18.000Z",
+    "metadata": {
+      "conversation_id": "2018514351825805783",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018511418572546471",
+    "source": "twitter",
+    "author": "paperplane12345",
+    "content": "@benvargas @FactoryAI @droid But why would i use the proxy? I wanted to pool multiple openai accounts, but if the translation is not efficient and too much context is lost or sessions are not handled properly I better not use the proxy, no?",
+    "url": "https://x.com/paperplane12345/status/2018511418572546471",
+    "timestamp": "2026-02-03T02:26:38.000Z",
+    "metadata": {
+      "conversation_id": "2018511418572546471",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018509088473395306",
     "source": "twitter",
     "author": "benvargas",
