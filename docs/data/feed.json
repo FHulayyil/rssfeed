@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_631",
+    "source": "github",
+    "author": "zwen64657",
+    "content": "[Issue] Subject: Feature Request: Option to Disable Internal \"Read\" Tool to Prevent Hallucinations\n\n\n\n1. Executive Summary\nI am writing to request a critical feature update for Droid: the ability to manually disable the built-in read tool.\n\nCurrently, when external MCP tools (such as the zai-mcp-server) encounter connection errors, Droid triggers an unwanted fallback mechanism that uses the read tool. This behavior causes severe hallucinations and must be made optional for users.\n\n2. Problem Description\n\nContext: I am using Droid in China with the Zhipu AI MCP server (zai-mcp-server). Due to n",
+    "url": "https://github.com/Factory-AI/factory/issues/631",
+    "timestamp": "2026-02-03T04:37:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 631
+    }
+  },
+  {
+    "id": "twitter_2018540623897219583",
+    "source": "twitter",
+    "author": "SeeLos",
+    "content": "@benvargas @FactoryAI @droid Haha yea I believe you that it works bc I did the same thing with opencode. Tried pushing a pr to remove the base prompt when a user has a custom agent prompt but they said it’s required by OpenAI, so they just append the custom agent prompt instead",
+    "url": "https://x.com/SeeLos/status/2018540623897219583",
+    "timestamp": "2026-02-03T04:22:42.000Z",
+    "metadata": {
+      "conversation_id": "2018540623897219583",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018537574000902255",
     "source": "twitter",
     "author": "benvargas",
@@ -62,6 +90,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2018524216266797452",
+    "source": "twitter",
+    "author": "mati_lft",
+    "content": "@mgonto @droid 👏🏻👏🏻👏🏻👏🏻",
+    "url": "https://x.com/mati_lft/status/2018524216266797452",
+    "timestamp": "2026-02-03T03:17:30.000Z",
+    "metadata": {
+      "conversation_id": "2018524216266797452",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2018517956872098064",
@@ -128,6 +171,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2018509442564899173",
+    "source": "twitter",
+    "author": "yenkel",
+    "content": "@mgonto @droid 👏 polifuncional",
+    "url": "https://x.com/yenkel/status/2018509442564899173",
+    "timestamp": "2026-02-03T02:18:47.000Z",
+    "metadata": {
+      "conversation_id": "2018509442564899173",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018509088473395306",
     "source": "twitter",
     "author": "benvargas",
@@ -142,6 +200,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2018509014347477124",
+    "source": "twitter",
+    "author": "mgonto",
+    "content": "Now I changed my https://t.co/udik4JatAc site to show that I work not only with Marketing, but also with Product Growth with companies!\n\nAlso added logos of companies I've worked lately!\n\nFun @droid project!",
+    "url": "https://x.com/mgonto/status/2018509014347477124",
+    "timestamp": "2026-02-03T02:17:05.000Z",
+    "metadata": {
+      "conversation_id": "2018509014347477124",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2018508335364944234",
