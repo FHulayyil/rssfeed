@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2018482289144209827",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@benvargas @FactoryAI @droid LFG",
+    "url": "https://x.com/erd0xbc/status/2018482289144209827",
+    "timestamp": "2026-02-03T00:30:53.000Z",
+    "metadata": {
+      "conversation_id": "2018482289144209827",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018481604671451502",
+    "source": "twitter",
+    "author": "nathanwchan",
+    "content": "My history of AI tools used for coding (mainly iOS):\n\nEarly 2023: copying and pasting code from ChatGPT dot com to Xcode\nMid 2024: switching between Xcode and Cursor + VSCode plugin Sweetpad\nEarly 2025: @alexcodes_ai (Cursor for Xcode)\nSept 2025: Codex CLI + @FactoryAI Droid CLI\nDec 2025: Codex CLI + Claude Code CLI\nJan 2026: @conductor_build + Codex CLI\nToday: Codex MacOS app\n\nUninstalled everything else. The Codex MacOS app is all I need.\n\n(also wild see my personal tool churn rate)",
+    "url": "https://x.com/nathanwchan/status/2018481604671451502",
+    "timestamp": "2026-02-03T00:28:10.000Z",
+    "metadata": {
+      "conversation_id": "2018481604671451502",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018467157034832121",
     "source": "twitter",
     "author": "nisargjain108",
