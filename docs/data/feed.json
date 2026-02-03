@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2018509088473395306",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@paperplane12345 @FactoryAI @droid They (OpenAI) give sooooo much usage though, and for two months it now doubles, it’s still very much worth it even if those claims are true (haven’t analytically compared it). For me, the sub route with OpenAI has always provided the better value.",
+    "url": "https://x.com/benvargas/status/2018509088473395306",
+    "timestamp": "2026-02-03T02:17:23.000Z",
+    "metadata": {
+      "conversation_id": "2018509088473395306",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018508335364944234",
+    "source": "twitter",
+    "author": "paperplane12345",
+    "content": "@benvargas @FactoryAI @droid They dont use responses api very well,  doing agentic work over this proxy consumes 50-80% more tokens. I was doing some tests yesterday.  \n\nTested codex using my plan vs codex using the proxy api (that uses my codex plan) and for the same medium size task one used 10M tk vs 18M",
+    "url": "https://x.com/paperplane12345/status/2018508335364944234",
+    "timestamp": "2026-02-03T02:14:23.000Z",
+    "metadata": {
+      "conversation_id": "2018508335364944234",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018482289144209827",
     "source": "twitter",
     "author": "erd0xbc",
