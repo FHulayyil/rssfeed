@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_631",
+    "source": "github",
+    "author": "zwen64657",
+    "content": "[Issue] Subject: Feature Request: Option to Disable Internal \"Read\" Tool to Prevent Hallucinations\n\n\n\n1. Executive Summary\nI am writing to request a critical feature update for Droid: the ability to manually disable the built-in read tool.\n\nCurrently, when external MCP tools (such as the zai-mcp-server) encounter connection errors, Droid triggers an unwanted fallback mechanism that uses the read tool. This behavior causes severe hallucinations and must be made optional for users.\n\n2. Problem Description\n\nContext: I am using Droid in China with the Zhipu AI MCP server (zai-mcp-server). Due to n",
+    "url": "https://github.com/Factory-AI/factory/issues/631",
+    "timestamp": "2026-02-03T04:37:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 631
+    }
+  },
+  {
     "id": "github_issue_630",
     "source": "github",
     "author": "funkyidol",
