@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2018986172702130489",
+    "source": "twitter",
+    "author": "juniorro16",
+    "content": "@FactoryAI Have you tried OpenRouter/stepfun/Stepfun-3.5-flash?\n\nCan't make it work. Allways fails with tool calls.",
+    "url": "https://x.com/juniorro16/status/2018986172702130489",
+    "timestamp": "2026-02-04T09:53:09.000Z",
+    "metadata": {
+      "conversation_id": "2018986172702130489",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018982974012993648",
+    "source": "twitter",
+    "author": "askcodi",
+    "content": "@alvinsng @FactoryAI love how the droids are basically writing the rulebook for future droids",
+    "url": "https://x.com/askcodi/status/2018982974012993648",
+    "timestamp": "2026-02-04T09:40:26.000Z",
+    "metadata": {
+      "conversation_id": "2018982974012993648",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018963899505365494",
     "source": "twitter",
     "author": "JoelDeTeves",
