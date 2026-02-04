@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2018896993695961314",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@hampsonw @FactoryAI You can never be too excited for lint rules!",
+    "url": "https://x.com/alvinsng/status/2018896993695961314",
+    "timestamp": "2026-02-04T03:58:47.000Z",
+    "metadata": {
+      "conversation_id": "2018896993695961314",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018896991527514510",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@Lat3ntG3nius @FactoryAI Well said!",
+    "url": "https://x.com/alvinsng/status/2018896991527514510",
+    "timestamp": "2026-02-04T03:58:46.000Z",
+    "metadata": {
+      "conversation_id": "2018896991527514510",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018891727747310055",
+    "source": "twitter",
+    "author": "malikwas1f",
+    "content": "@benvargas @FactoryAI @droid I knew something was amiss either droid or cliproxyapi but couldn’t really point it out. On droid, cliproxyapi eats tokens for gpt/codex like a lot and haven’t been able to use it in droid with confidence. I hope that is exactly what was fixed. 🤞",
+    "url": "https://x.com/malikwas1f/status/2018891727747310055",
+    "timestamp": "2026-02-04T03:37:51.000Z",
+    "metadata": {
+      "conversation_id": "2018891727747310055",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018887850524364929",
+    "source": "twitter",
+    "author": "hampsonw",
+    "content": "@alvinsng @FactoryAI I am actually extremely excited about this, definitely more than I should be. Thank you guys!",
+    "url": "https://x.com/hampsonw/status/2018887850524364929",
+    "timestamp": "2026-02-04T03:22:27.000Z",
+    "metadata": {
+      "conversation_id": "2018887850524364929",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018881866435379620",
     "source": "twitter",
     "author": "EnoReyes",
@@ -14,6 +74,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2018877004179968464",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@FactoryAI I'm so happy to see this ship.\n\nThis will make enterprise adoption much easier.\n\nI'm going to help devs at my org set up Droid and ship great code.",
+    "url": "https://x.com/delaanthonio/status/2018877004179968464",
+    "timestamp": "2026-02-04T02:39:21.000Z",
+    "metadata": {
+      "conversation_id": "2018877004179968464",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2018876755742760977",
@@ -32,6 +107,36 @@
     "category": "bug"
   },
   {
+    "id": "twitter_2018875625885610133",
+    "source": "twitter",
+    "author": "Lat3ntG3nius",
+    "content": "@alvinsng @FactoryAI Lint rules as constraints for agent output quality is brilliant. Convention over configuration works because the constraints are codified. If your droids generate the rules themselves, you're building the feedback loop that makes agent output production-ready.",
+    "url": "https://x.com/Lat3ntG3nius/status/2018875625885610133",
+    "timestamp": "2026-02-04T02:33:52.000Z",
+    "metadata": {
+      "conversation_id": "2018875625885610133",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018873997891612806",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "@bpodgursky Just pay for @FactoryAI",
+    "url": "https://x.com/anthonyronning/status/2018873997891612806",
+    "timestamp": "2026-02-04T02:27:24.000Z",
+    "metadata": {
+      "conversation_id": "2018873997891612806",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018863555832078787",
     "source": "twitter",
     "author": "DominickSGerard",
@@ -46,6 +151,126 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2018834936455720976",
+    "source": "twitter",
+    "author": "badlogicgames",
+    "content": "Sorry @FactoryAI couldn't resist :D\n\nLove ya big time!",
+    "url": "https://x.com/badlogicgames/status/2018834936455720976",
+    "timestamp": "2026-02-03T23:52:11.000Z",
+    "metadata": {
+      "conversation_id": "2018834936455720976",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018828475445211443",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@tiagoefreitas @FactoryAI @tannerlinsley Yup! We've been doing this for a long time!",
+    "url": "https://x.com/alvinsng/status/2018828475445211443",
+    "timestamp": "2026-02-03T23:26:31.000Z",
+    "metadata": {
+      "conversation_id": "2018828475445211443",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018823581967503590",
+    "source": "twitter",
+    "author": "tiagoefreitas",
+    "content": "@alvinsng @FactoryAI @tannerlinsley this is a great idea, turning ai rules into deterministic lint rules, agent sees the errors and fixes",
+    "url": "https://x.com/tiagoefreitas/status/2018823581967503590",
+    "timestamp": "2026-02-03T23:07:04.000Z",
+    "metadata": {
+      "conversation_id": "2018823581967503590",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018822594892636324",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@caunlee @FactoryAI This is live! Check it out:\n\nhttps://t.co/HIaKDuOILL",
+    "url": "https://x.com/alvinsng/status/2018822594892636324",
+    "timestamp": "2026-02-03T23:03:09.000Z",
+    "metadata": {
+      "conversation_id": "2018822594892636324",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018822210824352063",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@andyrewlee @FactoryAI Thanks for asking!",
+    "url": "https://x.com/alvinsng/status/2018822210824352063",
+    "timestamp": "2026-02-03T23:01:37.000Z",
+    "metadata": {
+      "conversation_id": "2018822210824352063",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018813569446621603",
+    "source": "twitter",
+    "author": "Lat3ntG3nius",
+    "content": "@FactoryAI The plugin model mirrors how human teams work: reusable processes that adapt to workflow context. When agents can compose skills + commands + other agents, you get emergent collaboration patterns.",
+    "url": "https://x.com/Lat3ntG3nius/status/2018813569446621603",
+    "timestamp": "2026-02-03T22:27:17.000Z",
+    "metadata": {
+      "conversation_id": "2018813569446621603",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018810491293024536",
+    "source": "twitter",
+    "author": "dreamworks2050",
+    "content": "@alxfazio @flydotio @Zai_org cool idea . Also, there’s @FactoryAI that has their CLI named “droid”",
+    "url": "https://x.com/dreamworks2050/status/2018810491293024536",
+    "timestamp": "2026-02-03T22:15:03.000Z",
+    "metadata": {
+      "conversation_id": "2018810491293024536",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018805016698732838",
+    "source": "twitter",
+    "author": "zoeysandel",
+    "content": "@embirico @FactoryAI svp, merci!",
+    "url": "https://x.com/zoeysandel/status/2018805016698732838",
+    "timestamp": "2026-02-03T21:53:18.000Z",
+    "metadata": {
+      "conversation_id": "2018805016698732838",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2018794878797529543",
@@ -46114,6 +46339,19 @@
       "number": 558
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_558",
+    "source": "github",
+    "author": "mfursov",
+    "content": "[Discussion] A shortcut to switch directly into the Planning mode\n\nI know Shift-Tab switches between modes, but there are a lot of them 5.\r\n\r\nIt would be great if we can switch into the Planning mode directly. Like Alt+P or something similar.",
+    "url": "https://github.com/Factory-AI/factory/discussions/558",
+    "timestamp": "2025-12-31T01:26:07Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 558
+    }
   },
   {
     "id": "twitter_2006173619584721060",
