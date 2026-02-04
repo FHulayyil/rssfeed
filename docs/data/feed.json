@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2019062921112989855",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@iblamewhiterose @FactoryAI @droid Hasn’t been my experience but pi is my main daily driver right now because of the extensibility.\n\nMaybe open is issue on the project if you have solid measurement method that proves there is a cache breaking issue or something?",
+    "url": "https://x.com/benvargas/status/2019062921112989855",
+    "timestamp": "2026-02-04T14:58:07.000Z",
+    "metadata": {
+      "conversation_id": "2019062921112989855",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019058558000623633",
+    "source": "twitter",
+    "author": "iblamewhiterose",
+    "content": "@benvargas @FactoryAI @droid why is it using so many tokens, i measured it and its kinda insane compared to just using factory without byok",
+    "url": "https://x.com/iblamewhiterose/status/2019058558000623633",
+    "timestamp": "2026-02-04T14:40:47.000Z",
+    "metadata": {
+      "conversation_id": "2019058558000623633",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019016600360542564",
     "source": "twitter",
     "author": "GabrielMillien1",
