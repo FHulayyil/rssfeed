@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2018921618840690773",
+    "source": "twitter",
+    "author": "iamyangjay1",
+    "content": "@droid @FactoryAI Could you adjust the auto-compress feature? \nThe results after compress are truly disappointing, and it ends up losing a lot of detail. \nIs it possible to provide an option to disable auto-compress?",
+    "url": "https://x.com/iamyangjay1/status/2018921618840690773",
+    "timestamp": "2026-02-04T05:36:38.000Z",
+    "metadata": {
+      "conversation_id": "2018921618840690773",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018896993695961314",
     "source": "twitter",
     "author": "alvinsng",
