@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2019063873891078396",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@iblamewhiterose @FactoryAI @droid Also make sure you’re current on releases as some fixes have gone in. With debugging on in CLIProxyAPI the full turn details can be inspected and you could look at what’s being sent/received.",
+    "url": "https://x.com/benvargas/status/2019063873891078396",
+    "timestamp": "2026-02-04T15:01:54.000Z",
+    "metadata": {
+      "conversation_id": "2019063873891078396",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019062921112989855",
     "source": "twitter",
     "author": "benvargas",
@@ -16,6 +31,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2019062921473524057",
+    "source": "twitter",
+    "author": "klyndrud1",
+    "content": "Droid CLI is totally broken, not even able to do a bug report. pls fix @FactoryAI @bentossell",
+    "url": "https://x.com/klyndrud1/status/2019062921473524057",
+    "timestamp": "2026-02-04T14:58:07.000Z",
+    "metadata": {
+      "conversation_id": "2019062921473524057",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019058558000623633",
     "source": "twitter",
     "author": "iblamewhiterose",
@@ -30,6 +60,66 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2019054566294372650",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@alvinsng @FactoryAI @alvinsng, open-sourcing those lint rules is a great move for community contributions and improved code quality.",
+    "url": "https://x.com/codewithimanshu/status/2019054566294372650",
+    "timestamp": "2026-02-04T14:24:55.000Z",
+    "metadata": {
+      "conversation_id": "2019054566294372650",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019048322837688575",
+    "source": "twitter",
+    "author": "_alissonryan",
+    "content": "É o que eu tenho feito a meses, mas usando o Droid CLI da @FactoryAI\nNão sou dev, sou da área de marketing, e conectei mcp's do google ads, meta ads, google analytics para analise de campanhas.\nComo criei skills de marketing e copywriting para me ajudar nas otimizações e criação de campanha. \n\nPor isso que ir para o @openclaw ficou mais \"fácil\" encontrar um caso de uso, pois só migrei do pc para o meu telegram os mesmos comandos que já fazia.",
+    "url": "https://x.com/_alissonryan/status/2019048322837688575",
+    "timestamp": "2026-02-04T14:00:06.000Z",
+    "metadata": {
+      "conversation_id": "2019048322837688575",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019048076812390815",
+    "source": "twitter",
+    "author": "Linkuma_EN",
+    "content": "@FactoryAI Agent readiness as a framework. Preparing the environment before deploying AI. Basics that most skip.",
+    "url": "https://x.com/Linkuma_EN/status/2019048076812390815",
+    "timestamp": "2026-02-04T13:59:08.000Z",
+    "metadata": {
+      "conversation_id": "2019048076812390815",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019047105214521687",
+    "source": "twitter",
+    "author": "Linkuma_EN",
+    "content": "@FactoryAI Agent readiness as a concept. The environment matters as much as the model. Most skip this step.",
+    "url": "https://x.com/Linkuma_EN/status/2019047105214521687",
+    "timestamp": "2026-02-04T13:55:16.000Z",
+    "metadata": {
+      "conversation_id": "2019047105214521687",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2019016600360542564",
