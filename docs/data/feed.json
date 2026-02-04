@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2018881866435379620",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@alxfazio @flydotio @Zai_org @droid hack into this guys mainframe",
+    "url": "https://x.com/EnoReyes/status/2018881866435379620",
+    "timestamp": "2026-02-04T02:58:40.000Z",
+    "metadata": {
+      "conversation_id": "2018881866435379620",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018876755742760977",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "Here's my experience with running the Gemini 3 Pro model in @droid \n- It tends to call the spec tool a lot even when not in spec mode. I expect it to use the ask user tool instead of the spec tool for questions.\n- It classifies lint and type check commands as high risk, so it prompts me even when I have medium autonomy enabled. The GPT and Sonnet models don't have this problem.",
+    "url": "https://x.com/delaanthonio/status/2018876755742760977",
+    "timestamp": "2026-02-04T02:38:22.000Z",
+    "metadata": {
+      "conversation_id": "2018876755742760977",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018863555832078787",
     "source": "twitter",
     "author": "DominickSGerard",
