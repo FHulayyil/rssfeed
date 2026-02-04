@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2018922596323180864",
+    "source": "twitter",
+    "author": "bleuonbase",
+    "content": "@alvinsng @FactoryAI i made a fake tsc shim wrapper that escalates the lint issues to a can’t compile error\n\nthe great tragedy of TS is that is so easy to not givr it any thought at all and just side step it.",
+    "url": "https://x.com/bleuonbase/status/2018922596323180864",
+    "timestamp": "2026-02-04T05:40:31.000Z",
+    "metadata": {
+      "conversation_id": "2018922596323180864",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2018921692324843555",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@FactoryAI Take it back. 2.5 seems to be cooking now 🥳",
+    "url": "https://x.com/launchaddict/status/2018921692324843555",
+    "timestamp": "2026-02-04T05:36:55.000Z",
+    "metadata": {
+      "conversation_id": "2018921692324843555",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018921618840690773",
     "source": "twitter",
     "author": "iamyangjay1",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2018917556313301110",
+    "source": "twitter",
+    "author": "kshvbgde",
+    "content": "@AnomalistG @UltraLinx I mostly used @FactoryAI and @cursor_ai",
+    "url": "https://x.com/kshvbgde/status/2018917556313301110",
+    "timestamp": "2026-02-04T05:20:29.000Z",
+    "metadata": {
+      "conversation_id": "2018917556313301110",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2018896993695961314",
