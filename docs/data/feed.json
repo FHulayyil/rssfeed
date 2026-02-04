@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2018963899505365494",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "Imported Claude’s plugins into @droid and Droid is executing a Ralph loop!",
+    "url": "https://x.com/JoelDeTeves/status/2018963899505365494",
+    "timestamp": "2026-02-04T08:24:38.000Z",
+    "metadata": {
+      "conversation_id": "2018963899505365494",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2018951552455897531",
     "source": "twitter",
     "author": "tricalt",
