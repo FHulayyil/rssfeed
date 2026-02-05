@@ -96,6 +96,21 @@
     "category": "question"
   },
   {
+    "id": "twitter_2019509596256436439",
+    "source": "twitter",
+    "author": "rofedgo",
+    "content": "@aidenybai been using @droid and it's really good",
+    "url": "https://x.com/rofedgo/status/2019509596256436439",
+    "timestamp": "2026-02-05T20:33:03.000Z",
+    "metadata": {
+      "conversation_id": "2019509596256436439",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019505680508678200",
     "source": "twitter",
     "author": "GitMaxd",
@@ -174,6 +189,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2019496324391903534",
+    "source": "twitter",
+    "author": "MirAI_Newz",
+    "content": "Recreate this Generation 1 Pokemon Guessing Game w/ @droid and Opus 4.6: https://t.co/So7t9SRioA",
+    "url": "https://x.com/MirAI_Newz/status/2019496324391903534",
+    "timestamp": "2026-02-05T19:40:18.000Z",
+    "metadata": {
+      "conversation_id": "2019496324391903534",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2019495946024022065",
