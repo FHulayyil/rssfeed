@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2019389211141661000",
+    "source": "twitter",
+    "author": "UncleJAI",
+    "content": "@alvinsng @FactoryAI This is the right abstraction level. Don't tell AI models how to code — encode your conventions into lint rules and let them self-correct. Rules &gt; prompts for consistency. Open sourcing these is a gift to the ecosystem.",
+    "url": "https://x.com/UncleJAI/status/2019389211141661000",
+    "timestamp": "2026-02-05T12:34:41.000Z",
+    "metadata": {
+      "conversation_id": "2019389211141661000",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019351197594055022",
     "source": "twitter",
     "author": "draslan_eth",
