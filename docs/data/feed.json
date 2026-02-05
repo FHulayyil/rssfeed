@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2019287223297011819",
+    "source": "twitter",
+    "author": "xingyu_liao",
+    "content": "@droid 另外下面的 blog 也反映了 gpt5.2-high 在执行长任务时候的稳定性\nhttps://t.co/cmdztUiziB https://t.co/HhQTJ0dW4v",
+    "url": "https://x.com/xingyu_liao/status/2019287223297011819",
+    "timestamp": "2026-02-05T05:49:25.000Z",
+    "metadata": {
+      "conversation_id": "2019287223297011819",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019284262642675951",
+    "source": "twitter",
+    "author": "xingyu_liao",
+    "content": "最近一直在 @droid  里面对比使用 opus4.5 和 gpt5.2，虽然感觉 opus4.5 速度更快，但是总觉得 gpt5.2 效果更好。不过总是感觉 opus4.5 越来越不好用了，果然有 tracking 网站发现 opus4.5 存在持续的降智问题，而 gpt5.2-high 反而精度越来越高，不能再信任 anthropic 了。\nhttps://t.co/KPina7MAMh https://t.co/ovYdqqdNDp",
+    "url": "https://x.com/xingyu_liao/status/2019284262642675951",
+    "timestamp": "2026-02-05T05:37:39.000Z",
+    "metadata": {
+      "conversation_id": "2019284262642675951",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019272790684364980",
     "source": "twitter",
     "author": "alvinsng",
