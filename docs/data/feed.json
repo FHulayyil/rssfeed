@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2019476876113174978",
+    "source": "twitter",
+    "author": "DataDeLaurier",
+    "content": "@NickSloggett @FactoryAI @droid The wonderful @francesca_lab sent me my mug (and other goodies).",
+    "url": "https://x.com/DataDeLaurier/status/2019476876113174978",
+    "timestamp": "2026-02-05T18:23:01.000Z",
+    "metadata": {
+      "conversation_id": "2019476876113174978",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019474454162604498",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "@DataDeLaurier @FactoryAI @droid who do I need to bribe to get one of these bad boys",
+    "url": "https://x.com/NickSloggett/status/2019474454162604498",
+    "timestamp": "2026-02-05T18:13:24.000Z",
+    "metadata": {
+      "conversation_id": "2019474454162604498",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019471865241116857",
     "source": "twitter",
     "author": "karlkbuilds",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2019470383636717654",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "Here we go again! Not available in @droid :( I guess I have to wait.",
+    "url": "https://x.com/nathanpareo/status/2019470383636717654",
+    "timestamp": "2026-02-05T17:57:14.000Z",
+    "metadata": {
+      "conversation_id": "2019470383636717654",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2019465959933608320",
