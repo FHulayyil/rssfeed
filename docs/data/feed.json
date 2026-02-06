@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2019707660720111810",
+    "source": "twitter",
+    "author": "RakaDeSilva",
+    "content": "@sqs @Kulshekhar @AmpCode @FactoryAI Wasn't aware, will try now! Thank you!\n\nWhat's the best way to keep skills in sync with https://t.co/bbQHn3JHUC?",
+    "url": "https://x.com/RakaDeSilva/status/2019707660720111810",
+    "timestamp": "2026-02-06T09:40:05.000Z",
+    "metadata": {
+      "conversation_id": "2019707660720111810",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019707418444521615",
+    "source": "twitter",
+    "author": "Behumbledreal",
+    "content": "people who use AI coding everyday with @FactoryAI or @OpenAI Codex\nvs\npeople who use web chat bot\n\nHere's their gitlab commit: https://t.co/nXwNQqV4Fb",
+    "url": "https://x.com/Behumbledreal/status/2019707418444521615",
+    "timestamp": "2026-02-06T09:39:07.000Z",
+    "metadata": {
+      "conversation_id": "2019707418444521615",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019706807137255632",
+    "source": "twitter",
+    "author": "OMGitsRomi",
+    "content": "@FactoryAI Where is 5.3 😭",
+    "url": "https://x.com/OMGitsRomi/status/2019706807137255632",
+    "timestamp": "2026-02-06T09:36:41.000Z",
+    "metadata": {
+      "conversation_id": "2019706807137255632",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019706606645350899",
+    "source": "twitter",
+    "author": "apachesuperset",
+    "content": "@FactoryAI Thanks for the report... pretty interesting!\n\nCould nitpick a couple of the findings if you're interested in discussing... for instance Claude is actually our #1 contributor by co-commits lately ;)\n\nThere's definitely a lot of AI being built in Superset-land. More news soon...",
+    "url": "https://x.com/apachesuperset/status/2019706606645350899",
+    "timestamp": "2026-02-06T09:35:54.000Z",
+    "metadata": {
+      "conversation_id": "2019706606645350899",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019705277789216962",
+    "source": "twitter",
+    "author": "apachesuperset",
+    "content": "@EdwardKens50830 @FactoryAI But it's the best BI tool, we'd argue ;)\n\nWait 'til you get a load of the MCP service we're cookin' up. And how that plays into the Extensions framework that's taking a foothold. Things are heating up.",
+    "url": "https://x.com/apachesuperset/status/2019705277789216962",
+    "timestamp": "2026-02-06T09:30:37.000Z",
+    "metadata": {
+      "conversation_id": "2019705277789216962",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019702893746815095",
     "source": "twitter",
     "author": "sqs",
