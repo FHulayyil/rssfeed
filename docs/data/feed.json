@@ -16,6 +16,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2019780308493602874",
+    "source": "twitter",
+    "author": "kargarisaac",
+    "content": "@matanSF What about @droid with codex 5.3? :)",
+    "url": "https://x.com/kargarisaac/status/2019780308493602874",
+    "timestamp": "2026-02-06T14:28:45.000Z",
+    "metadata": {
+      "conversation_id": "2019780308493602874",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019777670083498423",
     "source": "twitter",
     "author": "draslan_eth",
