@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2019660819584413740",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@Kulshekhar @AmpCode @FactoryAI What do you think we should explore there? What's missing?",
+    "url": "https://x.com/sqs/status/2019660819584413740",
+    "timestamp": "2026-02-06T06:33:57.000Z",
+    "metadata": {
+      "conversation_id": "2019660819584413740",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019653431385026946",
+    "source": "twitter",
+    "author": "Kulshekhar",
+    "content": "I wonder whether @AmpCode or @FactoryAI are working on something like the codex desktop app. That feels like a step in the direction of what the IDE will eventually be like. \n\nA lot better than the sidebar in the IDE or the CLI",
+    "url": "https://x.com/Kulshekhar/status/2019653431385026946",
+    "timestamp": "2026-02-06T06:04:36.000Z",
+    "metadata": {
+      "conversation_id": "2019653431385026946",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019621370444017738",
     "source": "twitter",
     "author": "abhishek_a_i",
