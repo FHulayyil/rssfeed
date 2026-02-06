@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2019879671891136534",
+    "source": "twitter",
+    "author": "kr0der",
+    "content": "@alvinsng @FactoryAI this is irrelevant but why enums over string unions",
+    "url": "https://x.com/kr0der/status/2019879671891136534",
+    "timestamp": "2026-02-06T21:03:35.000Z",
+    "metadata": {
+      "conversation_id": "2019879671891136534",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019875995239739806",
     "source": "twitter",
     "author": "matanSF",
