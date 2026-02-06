@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2019702893746815095",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@RakaDeSilva @Kulshekhar @AmpCode @FactoryAI Have you tried Amp’s support for creating and editing skills inside Amp itself? You can just ask it to do so, and it works pretty well. Not working for you or not aware? Let me know!",
+    "url": "https://x.com/sqs/status/2019702893746815095",
+    "timestamp": "2026-02-06T09:21:08.000Z",
+    "metadata": {
+      "conversation_id": "2019702893746815095",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019702086754324991",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@johnrtian @Kulshekhar @AmpCode @FactoryAI Yep - 44:00 in the episode we posted this morning is about how we think context compaction might work well enough now: https://t.co/Q75N8eDZL4\n\nInteresting about worktrees. Are you using Codex Cloud? Or just for local and worktrees?",
+    "url": "https://x.com/sqs/status/2019702086754324991",
+    "timestamp": "2026-02-06T09:17:56.000Z",
+    "metadata": {
+      "conversation_id": "2019702086754324991",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019691875159142629",
     "source": "twitter",
     "author": "RakaDeSilva",
