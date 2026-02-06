@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2019922666468307235",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@FactoryAI @FactoryAI, querying the database directly with dbt skills is a clever approach for efficient data access.",
+    "url": "https://x.com/codewithimanshu/status/2019922666468307235",
+    "timestamp": "2026-02-06T23:54:26.000Z",
+    "metadata": {
+      "conversation_id": "2019922666468307235",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019915124291825786",
     "source": "twitter",
     "author": "jbeebae",
