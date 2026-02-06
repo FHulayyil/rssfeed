@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2019893898467016736",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "That’s a great question. The primary rationale is architectural consistency. Since the majority of our codebase already utilizes Enums, we decided to standardize on a single pattern. This improves overall code quality and 'grepability,' making the logic much easier to navigate.\n\nBeyond searchability, it eliminates 'magic strings.' When reading the code, it’s immediately clear that you’re dealing with a defined Enum member rather than a string that just happens to satisfy a type requirement.",
+    "url": "https://x.com/alvinsng/status/2019893898467016736",
+    "timestamp": "2026-02-06T22:00:07.000Z",
+    "metadata": {
+      "conversation_id": "2019893898467016736",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019879671891136534",
     "source": "twitter",
     "author": "kr0der",
