@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2019716596974211145",
+    "source": "twitter",
+    "author": "sqs",
+    "content": "@RakaDeSilva @Kulshekhar @AmpCode @FactoryAI Ah, not sure. I think it’d be the same for any agent. I think you could add a bit to your AGENTS dot md file to tell it how to update skills when you ask it to do so.",
+    "url": "https://x.com/sqs/status/2019716596974211145",
+    "timestamp": "2026-02-06T10:15:35.000Z",
+    "metadata": {
+      "conversation_id": "2019716596974211145",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019716032118865972",
+    "source": "twitter",
+    "author": "laup30",
+    "content": "@TSpencer260 @matanSF @Algorithon Probably no API yet, so @FactoryAI not able to add it to their list of supported models.",
+    "url": "https://x.com/laup30/status/2019716032118865972",
+    "timestamp": "2026-02-06T10:13:21.000Z",
+    "metadata": {
+      "conversation_id": "2019716032118865972",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019715871648932193",
+    "source": "twitter",
+    "author": "laup30",
+    "content": "@matanSF @Algorithon They put something different in the water there at @FactoryAI …",
+    "url": "https://x.com/laup30/status/2019715871648932193",
+    "timestamp": "2026-02-06T10:12:42.000Z",
+    "metadata": {
+      "conversation_id": "2019715871648932193",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019707660720111810",
     "source": "twitter",
     "author": "RakaDeSilva",
