@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2019794617382867234",
+    "source": "twitter",
+    "author": "johnrtian",
+    "content": "Shoot haven’t gotten around to watching it yet haha. I don’t use worktrees at all because it’s so jank; I know that merging them all at the end is gonna be a pain so it deters me from even trying. I don’t use Codex cloud because I don’t like not having explicit control over the model being used (e.g. I can’t be sure if it’s always using 5.3 Codex). Hope that’s helpful!",
+    "url": "https://x.com/johnrtian/status/2019794617382867234",
+    "timestamp": "2026-02-06T15:25:37.000Z",
+    "metadata": {
+      "conversation_id": "2019794617382867234",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2019793763510751365",
+    "source": "twitter",
+    "author": "its_me_ranjeeth",
+    "content": "@sqs @Kulshekhar @AmpCode @FactoryAI It's more user-friendly. Except for server changes or configs, ops, and CI/CD, I don't really use the terminal that much. DB tools are there, SDK clients are there. Basically, it's easy to coordinate long hours of work, that's it.",
+    "url": "https://x.com/its_me_ranjeeth/status/2019793763510751365",
+    "timestamp": "2026-02-06T15:22:13.000Z",
+    "metadata": {
+      "conversation_id": "2019793763510751365",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019782618166739297",
     "source": "twitter",
     "author": "_alissonryan",
