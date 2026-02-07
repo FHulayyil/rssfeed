@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2020215376533963258",
+    "source": "twitter",
+    "author": "musaabHQ",
+    "content": "@claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf cursor and others getting the new update https://t.co/sWgXj49nrp",
+    "url": "https://x.com/musaabHQ/status/2020215376533963258",
+    "timestamp": "2026-02-07T19:17:34.000Z",
+    "metadata": {
+      "conversation_id": "2020215376533963258",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020215112481509497",
+    "source": "twitter",
+    "author": "martinpcolley",
+    "content": "@FactoryAI Whats the token multiplier?",
+    "url": "https://x.com/martinpcolley/status/2020215112481509497",
+    "timestamp": "2026-02-07T19:16:31.000Z",
+    "metadata": {
+      "conversation_id": "2020215112481509497",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020212277312647341",
     "source": "twitter",
     "author": "Lucid_Minded_",
@@ -30570,6 +30600,19 @@
       "number": 579
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_579",
+    "source": "github",
+    "author": "abhid1234",
+    "content": "[Issue] panic(main thread): Segmentation fault at address 0x7FFF46505925 oh no: Bun has crashed. This indicates a bug in Bun, not your code.\n\nBun v1.3.3 ([`274e01c`](<https://github.com/oven-sh/bun/tree/274e01c737e85f8142070a9745b43a2ba09fce4c>)) on linux x86_64 [_]\n\nSegmentation fault at address 0x7FFF46505925\n\n- [`ld-temp.o:0`](<https://github.com/oven-sh/bun/blob/274e01c737e85f8142070a9745b43a2ba09fce4c/ld-temp.o#L0>): `wasm_trampoline_wasm_ipint_call_wide32`\n- [`ld-temp.o:0`](<https://github.com/oven-sh/bun/blob/274e01c737e85f8142070a9745b43a2ba09fce4c/ld-temp.o#L0>): `wasm_trampoline_wasm_ipint_call_wide32`\n- [`ld-temp.o:0`](<htt",
+    "url": "https://github.com/Factory-AI/factory/issues/579",
+    "timestamp": "2026-01-11T22:44:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 579
+    }
   },
   {
     "id": "twitter_2010467788008071679",
