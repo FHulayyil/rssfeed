@@ -16,6 +16,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2019935865922023895",
+    "source": "twitter",
+    "author": "allbombs",
+    "content": "@nathanclark_ @droid @opencode @openclaw @OpenAICodexCli @cursor_ai @GammaApp @NotionHQ or better said, can you share or send without heavy revisions",
+    "url": "https://x.com/allbombs/status/2019935865922023895",
+    "timestamp": "2026-02-07T00:46:53.000Z",
+    "metadata": {
+      "conversation_id": "2019935865922023895",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_2019935593942380950",
+    "source": "twitter",
+    "author": "allbombs",
+    "content": "@nathanclark_ @droid @opencode @openclaw @OpenAICodexCli @cursor_ai @GammaApp @NotionHQ what sort of quality outputs are experiencing with Gamma?",
+    "url": "https://x.com/allbombs/status/2019935593942380950",
+    "timestamp": "2026-02-07T00:45:48.000Z",
+    "metadata": {
+      "conversation_id": "2019935593942380950",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2019927615365345576",
     "source": "twitter",
     "author": "mollycantillon",
