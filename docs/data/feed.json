@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2020212277312647341",
+    "source": "twitter",
+    "author": "Lucid_Minded_",
+    "content": "@claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf Drop a $1000 plan. Agent teams burn too many tokens, even on Max.",
+    "url": "https://x.com/Lucid_Minded_/status/2020212277312647341",
+    "timestamp": "2026-02-07T19:05:15.000Z",
+    "metadata": {
+      "conversation_id": "2020212277312647341",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020211597554414036",
+    "source": "twitter",
+    "author": "CodeAkram",
+    "content": "@claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf thank you @claudeai @bcherny @trq212 @AnthropicAI https://t.co/9TKP225CsQ",
+    "url": "https://x.com/CodeAkram/status/2020211597554414036",
+    "timestamp": "2026-02-07T19:02:33.000Z",
+    "metadata": {
+      "conversation_id": "2020211597554414036",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020211341487927438",
+    "source": "twitter",
+    "author": "A9kitSingh",
+    "content": "@claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf Any ETA on wider API access? Fast mode + agents is a tempting combo 👀",
+    "url": "https://x.com/A9kitSingh/status/2020211341487927438",
+    "timestamp": "2026-02-07T19:01:32.000Z",
+    "metadata": {
+      "conversation_id": "2020211341487927438",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020211257362841723",
+    "source": "twitter",
+    "author": "Lucid_Minded_",
+    "content": "@kyl3kan @claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf True",
+    "url": "https://x.com/Lucid_Minded_/status/2020211257362841723",
+    "timestamp": "2026-02-07T19:01:12.000Z",
+    "metadata": {
+      "conversation_id": "2020211257362841723",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020211136143253547",
+    "source": "twitter",
+    "author": "claudeai",
+    "content": "@cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf We plan to expand API access to more customers. You can join the waitlist here: https://t.co/FKxOKmpEDV",
+    "url": "https://x.com/claudeai/status/2020211136143253547",
+    "timestamp": "2026-02-07T19:00:43.000Z",
+    "metadata": {
+      "conversation_id": "2020211136143253547",
+      "likes": 25,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 1
+    }
+  },
+  {
+    "id": "twitter_2020211092102742407",
+    "source": "twitter",
+    "author": "kyl3kan",
+    "content": "@claudeai @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf More expensive seems ridiculous at this point.",
+    "url": "https://x.com/kyl3kan/status/2020211092102742407",
+    "timestamp": "2026-02-07T19:00:32.000Z",
+    "metadata": {
+      "conversation_id": "2020211092102742407",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020209907753185579",
+    "source": "twitter",
+    "author": "LearnerBR",
+    "content": "빠른 모드는 추가 사용량이 활성화된 Claude Code 사용자라면 지금 바로 사용할 수 있습니다.\n\n/fast 를 치세요.\n\n@cursor_ai\n, @emergentlabs\n, @FactoryAI\n, @figma\n, @github\n Copilot, @Lovable\n, @v0\n, @windsurf\n에서도 연구 프리뷰로 지원 중 입니다.\n\nAPI 고객에 대한 액세스는 확대할 계획입니다. 대기 목록에 참여하세요.\n\nhttps://t.co/tRc41lb23a",
+    "url": "https://x.com/LearnerBR/status/2020209907753185579",
+    "timestamp": "2026-02-07T18:55:50.000Z",
+    "metadata": {
+      "conversation_id": "2020209907753185579",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020207899881140312",
     "source": "twitter",
     "author": "A9kitSingh",
