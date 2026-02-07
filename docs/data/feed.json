@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2020105887050854755",
+    "source": "twitter",
+    "author": "Kulshekhar",
+    "content": "I've had best results with 5.2 high followed closely by 5.2 codex high/medium. I'm yet to figure out how to get the best out of 5.3 😅\n\nOne rule of thumb I've had is to treat claude and codex very differently. \n\nWhen using codex, I get the best results when I'm a lot more literal, specific and clear about the problem statement and about what I want. When I do this, for the same prompt, codex almost always does better than claude, for me.\n\nWith claude, I can be a bit more casual and abstract/general and it usually (3/4 tims) 'gets' what I want right away.\n\nBut yes, this UX feels like a step in the right direction!",
+    "url": "https://x.com/Kulshekhar/status/2020105887050854755",
+    "timestamp": "2026-02-07T12:02:29.000Z",
+    "metadata": {
+      "conversation_id": "2020105887050854755",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020101237312725336",
     "source": "twitter",
     "author": "KhuuLien41587",
