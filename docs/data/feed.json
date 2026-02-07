@@ -28,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 1
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2019935593942380950",
@@ -43,7 +44,8 @@
       "retweets": 0,
       "replies": 2,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2019927615365345576",
