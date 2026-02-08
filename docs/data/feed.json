@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_638",
+    "source": "github",
+    "author": "mikez93",
+    "content": "[Issue] [Bug] v0.57.9: User-level ~/.factory/commands/ no longer scanned for custom slash commands\n\n## Description\n\nAfter updating to Droid CLI v0.57.9 (macOS), custom slash commands placed in the **user-level** `~/.factory/commands/` directory are no longer discovered or shown in the `/commands` UI. Only **workspace-level** commands (`.factory/commands/` within the repo) are recognized.\n\n## Steps to Reproduce\n\n1. Place valid `.md` command files in `~/.factory/commands/` (with proper YAML frontmatter including `description` and `argument-hint`)\n2. Open Droid in any project\n3. Navigate to `/com",
+    "url": "https://github.com/Factory-AI/factory/issues/638",
+    "timestamp": "2026-02-08T19:59:40Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 638
+    }
+  },
+  {
     "id": "twitter_2020565790097818040",
     "source": "twitter",
     "author": "JoelDeTeves",
