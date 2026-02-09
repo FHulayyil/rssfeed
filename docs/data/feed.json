@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2020813400394129881",
+    "source": "twitter",
+    "author": "laup30",
+    "content": "@ai_for_success Yeah - I think it’s potentially an existential risk for companies like @cursor_ai and @FactoryAI which are 100% reliant on API access. Right now both have a maximum offering of a Codex model that is substantially inferior to the new @OpenAI codex-5.3 model. And no way to control.",
+    "url": "https://x.com/laup30/status/2020813400394129881",
+    "timestamp": "2026-02-09T10:53:54.000Z",
+    "metadata": {
+      "conversation_id": "2020813400394129881",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020811378701877249",
+    "source": "twitter",
+    "author": "MoizArshi29",
+    "content": "Gem🤌 @FactoryAI https://t.co/uoHU8BBoDY",
+    "url": "https://x.com/MoizArshi29/status/2020811378701877249",
+    "timestamp": "2026-02-09T10:45:52.000Z",
+    "metadata": {
+      "conversation_id": "2020811378701877249",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020764564120293431",
     "source": "twitter",
     "author": "mark_k",
