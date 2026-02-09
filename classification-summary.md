@@ -1,15 +1,15 @@
 # Classification Summary
 
-**Date:** 2026-02-09 13:38 UTC
+**Date:** 2026-02-09 15:06 UTC
 
-**Items Classified:** 2 (new only)
+**Items Classified:** 1 (new only)
 
 ## Category Breakdown
 
 | Category | Count | Percentage |
 |----------|-------|------------|
-| mention | 1 | 50.0% |
-| bug | 1 | 50.0% |
+| mention | 0 | 0.0% |
+| bug | 1 | 100.0% |
 | love | 0 | 0.0% |
 | question | 0 | 0.0% |
 | other | 0 | 0.0% |
