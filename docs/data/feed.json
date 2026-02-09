@@ -16,6 +16,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2020832133913477514",
+    "source": "twitter",
+    "author": "FaisalFailed",
+    "content": "@FactoryAI There is an annoying bug in droid cli on linux. We can't paste images on Wayland. It shows for a second that it needs xclip &amp; xsel, and after installing them it still never works. It only works when opening it in a terminal launched under X11, like in the second image https://t.co/AhFZayN57S",
+    "url": "https://x.com/FaisalFailed/status/2020832133913477514",
+    "timestamp": "2026-02-09T12:08:20.000Z",
+    "metadata": {
+      "conversation_id": "2020832133913477514",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2020827176212590924",
+    "source": "twitter",
+    "author": "Gerry",
+    "content": "@katelyn_lesse @kyeburchard @cursor_ai @emergentlabs @FactoryAI @figma @github @Lovable @v0 @windsurf Well.. presumably you're making a sizable profit from fast mode?\n\n6x cost -&gt; 2.5x speed\n\nIf you're not you should be making it expensive enough that you are, because most of us currently can't afford it. Then you use those profits to buy more resources to make it cheaper 4 all.",
+    "url": "https://x.com/Gerry/status/2020827176212590924",
+    "timestamp": "2026-02-09T11:48:38.000Z",
+    "metadata": {
+      "conversation_id": "2020827176212590924",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020813400394129881",
     "source": "twitter",
     "author": "laup30",
