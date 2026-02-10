@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2021057535365742601",
+    "source": "twitter",
+    "author": "chisaehawng",
+    "content": "@alvinsng @FactoryAI refactoring is cheap is the key insight. the cost of being wrong used to be high - now its just another iteration",
+    "url": "https://x.com/chisaehawng/status/2021057535365742601",
+    "timestamp": "2026-02-10T03:04:00.000Z",
+    "metadata": {
+      "conversation_id": "2021057535365742601",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021048992491241541",
+    "source": "twitter",
+    "author": "yesadok",
+    "content": "@alvinsng @FactoryAI Shipping velocity wins.",
+    "url": "https://x.com/yesadok/status/2021048992491241541",
+    "timestamp": "2026-02-10T02:30:03.000Z",
+    "metadata": {
+      "conversation_id": "2021048992491241541",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021039449283625395",
     "source": "twitter",
     "author": "erd0xbc",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2021036239831564550",
+    "source": "twitter",
+    "author": "akkytech1",
+    "content": "Tired of manually editing model settings of droid(subagent) across Factory Droid? \nI built a bash tool to define presets (cost, performance, etc.) and switch all droids at once.\nHope this helps anyone facing the same pain! \n\nhttps://t.co/650Oy4TMeo\n@FactoryAI",
+    "url": "https://x.com/akkytech1/status/2021036239831564550",
+    "timestamp": "2026-02-10T01:39:23.000Z",
+    "metadata": {
+      "conversation_id": "2021036239831564550",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2021020127278596479",
