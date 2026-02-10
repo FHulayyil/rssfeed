@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2021010879123435718",
+    "source": "twitter",
+    "author": "nathanclark_",
+    "content": "@BillyZelsnack @cursor_ai Put Kimi K2.5 inside @droid if you want to manage cost. \n\nSet Opus 4.6 for planning. Then work with Kimi. \n\nDo it all in @zeddotdev - ACP integration is so much nicer than VS Code/Cursor extensions or running CC in terminal etc.",
+    "url": "https://x.com/nathanclark_/status/2021010879123435718",
+    "timestamp": "2026-02-09T23:58:36.000Z",
+    "metadata": {
+      "conversation_id": "2021010879123435718",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021010585396314508",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@sama Why not @droid",
+    "url": "https://x.com/JoelDeTeves/status/2021010585396314508",
+    "timestamp": "2026-02-09T23:57:26.000Z",
+    "metadata": {
+      "conversation_id": "2021010585396314508",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2020977996782502331",
     "source": "twitter",
     "author": "NickSloggett",
