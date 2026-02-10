@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2021020127278596479",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "Seeing a lot of complaints about Opus 4.6 on my TL. \n\nSkill issue.\n\nNot your skill, anthropic's skill. They butchered their golden goose with slop. \n\nUse @FactoryAI",
+    "url": "https://x.com/anthonyronning/status/2021020127278596479",
+    "timestamp": "2026-02-10T00:35:21.000Z",
+    "metadata": {
+      "conversation_id": "2021020127278596479",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021010879123435718",
     "source": "twitter",
     "author": "nathanclark_",
@@ -30,6 +45,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2021000425508339808",
+    "source": "twitter",
+    "author": "techMosavvy",
+    "content": "@sama @FactoryAI 👀",
+    "url": "https://x.com/techMosavvy/status/2021000425508339808",
+    "timestamp": "2026-02-09T23:17:04.000Z",
+    "metadata": {
+      "conversation_id": "2021000425508339808",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2020977996782502331",
