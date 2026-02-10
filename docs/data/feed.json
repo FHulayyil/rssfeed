@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2021363580411707585",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Harder than with Factory but possible, CLIProxyAPI still needs to improve their variable thinking implementation imo... I may have to PR some improvements.\n\nFor now, this branch has an improved implementation of adaptive thinking allowing `claude-opus-4-6(low|medium|high|max)` slug but there's no good way to change the model slug AMP is using like Factory allows... so you'd have to use the config.yaml to override the default model slug to map to the effort level you want.\n\nHere's the fork branch with improvements: https://t.co/fRIlt1ZGBa",
+    "url": "https://x.com/benvargas/status/2021363580411707585",
+    "timestamp": "2026-02-10T23:20:07.000Z",
+    "metadata": {
+      "conversation_id": "2021363580411707585",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021362740716257426",
+    "source": "twitter",
+    "author": "ArianJM9",
+    "content": "@FactoryAI Hi, I wrote to support 12 days ago, then 6 days ago, I just wrote again. I haven't had a real answer.\nPlease approve the refund...",
+    "url": "https://x.com/ArianJM9/status/2021362740716257426",
+    "timestamp": "2026-02-10T23:16:47.000Z",
+    "metadata": {
+      "conversation_id": "2021362740716257426",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021355924951269803",
     "source": "twitter",
     "author": "moinulmoin",
