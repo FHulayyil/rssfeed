@@ -16,6 +16,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2021163734895587482",
+    "source": "twitter",
+    "author": "dyoshikawa1993",
+    "content": "Rulesync v7.0.0をリリースしました！メジャーバージョンアップです🎉\n\n- OpenCode（@opencodeai）のHooksサポート。\n  Contributor: r1bilski（Xアカウントがわからなかった）\n- Factory Droid（@FactoryAI）のHooksサポート＆ディレクトリ構造を.factorydroidから.factoryに変更（Breaking Change）。\n  Contributor: yodusk（Xアカウントがわからなかった）\n- 非推奨だったmodular-mcp機能を削除（Breaking Change）。\n- セキュリティ改善（コマンドインジェクション対策、https://t.co/gYhXriVID4の堅牢化など）。\n\nv7.0.0はBreaking Changesを含むメジャーバージョンです。Factory Droidユーザーの方は出力パスが.factorydroidから.factoryに変わっているのでご注意ください。\n\nこれでClaude Code、Cursor、OpenCodeの3ツールでHooksをサポートしたことになります。AI Coding Agent間でのルール統一がさらに進みました。\n\nThank you for the contributors!",
+    "url": "https://x.com/dyoshikawa1993/status/2021163734895587482",
+    "timestamp": "2026-02-10T10:06:00.000Z",
+    "metadata": {
+      "conversation_id": "2021163734895587482",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021152161711731030",
     "source": "twitter",
     "author": "MoizArshi29",
