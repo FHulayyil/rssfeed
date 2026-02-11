@@ -1,15 +1,13 @@
 # Classification Summary
 
-**Date:** 2026-02-11 15:35 UTC
+**Date:** 2026-02-11 16:04 UTC
 
-## Statistics
-- **Items classified (new):** 10
+**Total items classified:** 13
 
-## Category Breakdown
 | Category | Count | Percentage |
 |----------|-------|------------|
-| mention | 5 | 50.0% |
-| bug | 0 | 0.0% |
-| love | 4 | 40.0% |
-| question | 1 | 10.0% |
-| other | 0 | 0.0% |
+| mention  | 8     | 61.5%      |
+| love     | 4     | 30.8%      |
+| question | 1     | 7.7%       |
+| bug      | 0     | 0.0%       |
+| other    | 0     | 0.0%       |
