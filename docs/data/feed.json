@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_642",
+    "source": "github",
+    "author": "xcbat",
+    "content": "[Issue] droid acp can not work on windows jetbrains\n\nInstall from ai assistant->agents\nWhen sending message, it replies that \"Count not find the droid binary for win32-x64\"\n\nI checked the config file in jetbrains and found that it used npx to run droid.\nOn windows, npx boostraps the enviroment, but some package is wrong.\nPlease check https://registry.npmjs.org/@factory/cli-win32-x64/-/cli-win32-x64-0.57.10.tgz\nIt is almost empty, but https://registry.npmjs.org/@factory/cli-linux-x64/-/cli-linux-x64-0.57.10.tgz\n\nMaybe there is no valid binary in wi",
+    "url": "https://github.com/Factory-AI/factory/issues/642",
+    "timestamp": "2026-02-11T12:43:57Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 642
+    }
+  },
+  {
     "id": "twitter_2021560190609633733",
     "source": "twitter",
     "author": "ASolovichh",
