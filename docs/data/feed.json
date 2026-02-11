@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2021644109291958523",
+    "source": "twitter",
+    "author": "ChickenT1000",
+    "content": "@FactoryAI Looking for a way to segment billing by project to enable per-token pricing for my customers I do work",
+    "url": "https://x.com/ChickenT1000/status/2021644109291958523",
+    "timestamp": "2026-02-11T17:54:50.000Z",
+    "metadata": {
+      "conversation_id": "2021644109291958523",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021643621515366718",
+    "source": "twitter",
+    "author": "kyleanthony",
+    "content": "@vrajdoing @FactoryAI appreciate that!",
+    "url": "https://x.com/kyleanthony/status/2021643621515366718",
+    "timestamp": "2026-02-11T17:52:54.000Z",
+    "metadata": {
+      "conversation_id": "2021643621515366718",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021643489994584065",
+    "source": "twitter",
+    "author": "vrajdoing",
+    "content": "@kyleanthony @FactoryAI Goes hard",
+    "url": "https://x.com/vrajdoing/status/2021643489994584065",
+    "timestamp": "2026-02-11T17:52:22.000Z",
+    "metadata": {
+      "conversation_id": "2021643489994584065",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021640311429374086",
+    "source": "twitter",
+    "author": "kyleanthony",
+    "content": "@theColtonBatts @FactoryAI Thank you 🫡",
+    "url": "https://x.com/kyleanthony/status/2021640311429374086",
+    "timestamp": "2026-02-11T17:39:45.000Z",
+    "metadata": {
+      "conversation_id": "2021640311429374086",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021639488720843188",
+    "source": "twitter",
+    "author": "theColtonBatts",
+    "content": "@kyleanthony @FactoryAI Very nice work indeed",
+    "url": "https://x.com/theColtonBatts/status/2021639488720843188",
+    "timestamp": "2026-02-11T17:36:29.000Z",
+    "metadata": {
+      "conversation_id": "2021639488720843188",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021637355971784788",
     "source": "twitter",
     "author": "kyleanthony",
@@ -55086,6 +55161,19 @@
       "number": 509
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_509",
+    "source": "github",
+    "author": "MikDal002",
+    "content": "[Discussion] How to continue chat after droid crash\n\nHello :) \r\n\r\nSometimes droid crashes unexpectedly. Is there any way to recover to that session? \r\n\r\nExample exception\r\n\r\n```\r\nBun v1.3.3 (274e01c7) Windows x64\r\nWindows v.win11_dt\r\nCPU: sse42 avx avx2\r\nArgs: \"C:\\Users\\DQ845LT\\bin\\droid.exe\" \"--resume\"\r\nFeatures: Bun.stderr(2) Bun.stdin(2) Bun.stdout(2) fetch(6) http_server(2) jsc spawn(25) standalone_executable\r\nBuiltins: \"bun:main\" \"node:assert\" \"node:async_hooks\" \"node:buffer\" \"node:child_process\" \"node:constants\" \"node:crypto\" \"node:events\" \"",
+    "url": "https://github.com/Factory-AI/factory/discussions/509",
+    "timestamp": "2025-12-10T16:12:43Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 509
+    }
   },
   {
     "id": "github_issue_507",
