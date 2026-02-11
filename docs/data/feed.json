@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2021397433658507587",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Also notable, amp is NOT using the new adaptive thinking for opus 4.6 (and as in the past, only budgets 4000 thinking tokens).\n\nCLIProxyAPI Req Received - \n\"thinking\":{\"type\":\"enabled\",\"budget_tokens\":4000}}\n\nCLIProxyAPI Req Remapped - \n\"thinking\":{\"type\":\"adaptive\"},\"output_config\":{\"effort\":\"high\"}",
+    "url": "https://x.com/benvargas/status/2021397433658507587",
+    "timestamp": "2026-02-11T01:34:38.000Z",
+    "metadata": {
+      "conversation_id": "2021397433658507587",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021395000957993089",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@moinulmoin @FactoryAI @droid https://t.co/DwRaHAmbuR",
+    "url": "https://x.com/benvargas/status/2021395000957993089",
+    "timestamp": "2026-02-11T01:24:58.000Z",
+    "metadata": {
+      "conversation_id": "2021395000957993089",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021394735202775300",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@moinulmoin @FactoryAI @droid I did PR the changes needed, if they merge it, then I have confirmed this works with Amp and the config.yaml payload override can be used to force adaptive thinking with various efforts (output_config.effort). https://t.co/SuIs1w9CaL",
+    "url": "https://x.com/benvargas/status/2021394735202775300",
+    "timestamp": "2026-02-11T01:23:55.000Z",
+    "metadata": {
+      "conversation_id": "2021394735202775300",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021363580411707585",
     "source": "twitter",
     "author": "benvargas",
