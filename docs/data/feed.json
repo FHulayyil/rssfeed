@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2022009370725449956",
+    "source": "twitter",
+    "author": "tahini",
+    "content": "@askOkara @FactoryAI can we has ?",
+    "url": "https://x.com/tahini/status/2022009370725449956",
+    "timestamp": "2026-02-12T18:06:15.000Z",
+    "metadata": {
+      "conversation_id": "2022009370725449956",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022005635110584815",
+    "source": "twitter",
+    "author": "DissonanceCoder",
+    "content": "@abhishek_a_i @geniusyinka @theo @FactoryAI Even if it was marginally better (haven't done a side by side) K2.5 is faster and cheaper by an order of magnitude.",
+    "url": "https://x.com/DissonanceCoder/status/2022005635110584815",
+    "timestamp": "2026-02-12T17:51:25.000Z",
+    "metadata": {
+      "conversation_id": "2022005635110584815",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022005581524218157",
+    "source": "twitter",
+    "author": "CreationEnjoyer",
+    "content": "@kyleanthony @FactoryAI Cool - reminds me of Nike's circular logo which I have always found to be a nice touch https://t.co/skkz6jeRvJ",
+    "url": "https://x.com/CreationEnjoyer/status/2022005581524218157",
+    "timestamp": "2026-02-12T17:51:12.000Z",
+    "metadata": {
+      "conversation_id": "2022005581524218157",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022002194560725134",
     "source": "twitter",
     "author": "skastr052",
