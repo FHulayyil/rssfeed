@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2021981891461521780",
+    "source": "twitter",
+    "author": "cloudxdev",
+    "content": "How to setup @MiniMax_AI M2.5 with @FactoryAI Droid?\n\n1. Use following command to edit the configuration file located at ~/.factory/config.json:\n\n{\n    \"custom_models\": [\n        {\n            \"model_display_name\": \"MiniMax-M2.5\",\n            \"model\": \"MiniMax-M2.5\",\n            \"base_url\": \"https://t.co/QRhl0aMMWq\",\n            \"api_key\": \"<MINIMAX_API_KEY>\",\n            \"provider\": \"anthropic\",\n            \"max_tokens\": 64000\n        }\n    ]\n}\n\nP.S:\n1- Config ~/.factory/config.json, NOT ~/.factory/settings.json\n2- Clear the ANTHROPIC_AUTH_TOKEN environment variable, otherwise it will override the API key in .factory/config.json and cause errors",
+    "url": "https://x.com/cloudxdev/status/2021981891461521780",
+    "timestamp": "2026-02-12T16:17:04.000Z",
+    "metadata": {
+      "conversation_id": "2021981891461521780",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021978041761902599",
+    "source": "twitter",
+    "author": "uxvukm",
+    "content": "@kyleanthony @FactoryAI love this style man!",
+    "url": "https://x.com/uxvukm/status/2021978041761902599",
+    "timestamp": "2026-02-12T16:01:46.000Z",
+    "metadata": {
+      "conversation_id": "2021978041761902599",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021941791424229529",
     "source": "twitter",
     "author": "Ra1kshit",
