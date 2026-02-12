@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_644",
+    "source": "github",
+    "author": "zhqyy",
+    "content": "[Issue] Bug Report: Image paste (Alt+V) hangs on \"Processing images...\" in Windows CLI\n\n   When attempting to paste an image into the Droid CLI prompt using Alt+V on Windows, the interface briefly displays \"Processing images...\" but the image is never attached or uploaded. The prompt returns to its previous state without the image.\n\n###    Steps to Reproduce\n   1. Take a screenshot or copy an image to the system clipboard.\n   2. Open Droid CLI in a Windows terminal (PowerShell/CMD).\n   3. Press Alt+V to paste the image.\n   4. Observe the message \"Processing images...\".\n   \n###    E",
+    "url": "https://github.com/Factory-AI/factory/issues/644",
+    "timestamp": "2026-02-12T16:27:43Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 644
+    }
+  },
+  {
     "id": "github_issue_642",
     "source": "github",
     "author": "xcbat",
