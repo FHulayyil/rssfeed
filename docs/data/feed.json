@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2021838966719492424",
+    "source": "twitter",
+    "author": "akkkshaaay",
+    "content": "@kyleanthony @FactoryAI love it",
+    "url": "https://x.com/akkkshaaay/status/2021838966719492424",
+    "timestamp": "2026-02-12T06:49:08.000Z",
+    "metadata": {
+      "conversation_id": "2021838966719492424",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2021835689445535827",
     "source": "twitter",
     "author": "launchaddict",
@@ -15040,6 +15055,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1qoqf6t",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.55.2 Released - Marketplace auto-updates and more\n\n## New features\n\n* **Marketplace auto-updates** - New management UI with auto-update setting and silent auto-installation of missing marketplaces on startup\n* **`--allow-background-processes` flag** - Added flag support for interactive and resumed sessions\n\n## Bug fixes\n\n* **AskUser tool parsing** - Improved parsing logic for questionnaire formatting\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qoqf6t/factory_cli_v0552_released_marketplace/",
+    "timestamp": "2026-01-27T20:59:59.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2016254820513153526",
