@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2022002194560725134",
+    "source": "twitter",
+    "author": "skastr052",
+    "content": "@abhishek_a_i @FactoryAI @geniusyinka @theo Can confirm this setup is nice! I’ll say that I’m right now using codex for everything, assessing. With the pro sub and 5.3 speed boosts it’s very competitive",
+    "url": "https://x.com/skastr052/status/2022002194560725134",
+    "timestamp": "2026-02-12T17:37:44.000Z",
+    "metadata": {
+      "conversation_id": "2022002194560725134",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022001738660843527",
+    "source": "twitter",
+    "author": "abhishek_a_i",
+    "content": "@geniusyinka @theo @FactoryAI Droid CLI in action with the above mentioned ensemble https://t.co/eTm52bm6QF",
+    "url": "https://x.com/abhishek_a_i/status/2022001738660843527",
+    "timestamp": "2026-02-12T17:35:56.000Z",
+    "metadata": {
+      "conversation_id": "2022001738660843527",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022001383747305620",
+    "source": "twitter",
+    "author": "Rydx101",
+    "content": "@kyleanthony @FactoryAI so good",
+    "url": "https://x.com/Rydx101/status/2022001383747305620",
+    "timestamp": "2026-02-12T17:34:31.000Z",
+    "metadata": {
+      "conversation_id": "2022001383747305620",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2021998967861699005",
+    "source": "twitter",
+    "author": "jrdnmix",
+    "content": "@kyleanthony @FactoryAI I hate myself for saying this but would purchase merch",
+    "url": "https://x.com/jrdnmix/status/2021998967861699005",
+    "timestamp": "2026-02-12T17:24:55.000Z",
+    "metadata": {
+      "conversation_id": "2021998967861699005",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_644",
     "source": "github",
     "author": "zhqyy",
