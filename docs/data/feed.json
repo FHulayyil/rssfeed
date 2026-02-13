@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2022434314697556222",
+    "source": "twitter",
+    "author": "Arindam_1729",
+    "content": "@FactoryAI Is 5.3 Codex Spark also available?",
+    "url": "https://x.com/Arindam_1729/status/2022434314697556222",
+    "timestamp": "2026-02-13T22:14:50.000Z",
+    "metadata": {
+      "conversation_id": "2022434314697556222",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022433091516785022",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@ileppane @FactoryAI Yup!",
+    "url": "https://x.com/alvinsng/status/2022433091516785022",
+    "timestamp": "2026-02-13T22:09:58.000Z",
+    "metadata": {
+      "conversation_id": "2022433091516785022",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022432704558665978",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@Ra1kshit @FactoryAI @matanSF 👀",
+    "url": "https://x.com/erd0xbc/status/2022432704558665978",
+    "timestamp": "2026-02-13T22:08:26.000Z",
+    "metadata": {
+      "conversation_id": "2022432704558665978",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022429031237587173",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "@FactoryAI Where are the terminal bench results?",
+    "url": "https://x.com/delaanthonio/status/2022429031237587173",
+    "timestamp": "2026-02-13T21:53:50.000Z",
+    "metadata": {
+      "conversation_id": "2022429031237587173",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022428920591847638",
+    "source": "twitter",
+    "author": "ileppane",
+    "content": "@alvinsng @FactoryAI Seems that the new firmware has been loaded in! https://t.co/awOjCZSBsU",
+    "url": "https://x.com/ileppane/status/2022428920591847638",
+    "timestamp": "2026-02-13T21:53:24.000Z",
+    "metadata": {
+      "conversation_id": "2022428920591847638",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022423744338366842",
     "source": "twitter",
     "author": "ColdBrewTrades",
