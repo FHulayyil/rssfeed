@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2022405656859545968",
+    "source": "twitter",
+    "author": "mihneaptu",
+    "content": "@jfbrly @FactoryAI soon on terminal-bench 2.0\nI think they will be #1 again on the leaderboard",
+    "url": "https://x.com/mihneaptu/status/2022405656859545968",
+    "timestamp": "2026-02-13T20:20:57.000Z",
+    "metadata": {
+      "conversation_id": "2022405656859545968",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022405446775247289",
+    "source": "twitter",
+    "author": "Ra1kshit",
+    "content": "@FactoryAI terminal bench 2 scores? @matanSF",
+    "url": "https://x.com/Ra1kshit/status/2022405446775247289",
+    "timestamp": "2026-02-13T20:20:07.000Z",
+    "metadata": {
+      "conversation_id": "2022405446775247289",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022400394077602007",
     "source": "twitter",
     "author": "jfbrly",
