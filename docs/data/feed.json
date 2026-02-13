@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2022443697099481230",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "@launchaddict @FactoryAI great question cc @matanSF",
+    "url": "https://x.com/MitchBernstein/status/2022443697099481230",
+    "timestamp": "2026-02-13T22:52:07.000Z",
+    "metadata": {
+      "conversation_id": "2022443697099481230",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022442806640623930",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@MitchBernstein @FactoryAI Don't understand why factory don't have minimax as a core model",
+    "url": "https://x.com/launchaddict/status/2022442806640623930",
+    "timestamp": "2026-02-13T22:48:34.000Z",
+    "metadata": {
+      "conversation_id": "2022442806640623930",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022437174210367793",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@FactoryAI What's the multiplier???",
+    "url": "https://x.com/launchaddict/status/2022437174210367793",
+    "timestamp": "2026-02-13T22:26:12.000Z",
+    "metadata": {
+      "conversation_id": "2022437174210367793",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022436193108136190",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@FactoryAI https://t.co/irSfiyzIvQ",
+    "url": "https://x.com/launchaddict/status/2022436193108136190",
+    "timestamp": "2026-02-13T22:22:18.000Z",
+    "metadata": {
+      "conversation_id": "2022436193108136190",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022434314697556222",
     "source": "twitter",
     "author": "Arindam_1729",
