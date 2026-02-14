@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2022662158979600626",
+    "source": "twitter",
+    "author": "phanindra_ai",
+    "content": "@MitchBernstein @FactoryAI 0.25x that is great",
+    "url": "https://x.com/phanindra_ai/status/2022662158979600626",
+    "timestamp": "2026-02-14T13:20:12.000Z",
+    "metadata": {
+      "conversation_id": "2022662158979600626",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022661462637056383",
+    "source": "twitter",
+    "author": "kn_neeraj1",
+    "content": "@petergyang @FactoryAI @tryramp @linear Can you post some more details!",
+    "url": "https://x.com/kn_neeraj1/status/2022661462637056383",
+    "timestamp": "2026-02-14T13:17:26.000Z",
+    "metadata": {
+      "conversation_id": "2022661462637056383",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022660816445804827",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "@phanindra_ai @FactoryAI Like 8x less than opus",
+    "url": "https://x.com/MitchBernstein/status/2022660816445804827",
+    "timestamp": "2026-02-14T13:14:52.000Z",
+    "metadata": {
+      "conversation_id": "2022660816445804827",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022660745071333553",
+    "source": "twitter",
+    "author": "MitchBernstein",
+    "content": "@sunnypause @FactoryAI I agree it is forgetful. Testing codex 5.3 now",
+    "url": "https://x.com/MitchBernstein/status/2022660745071333553",
+    "timestamp": "2026-02-14T13:14:35.000Z",
+    "metadata": {
+      "conversation_id": "2022660745071333553",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022657775353106540",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mikez93 @iannuttall @FactoryAI ha no just a personal lightweight openclaw clone",
+    "url": "https://x.com/bentossell/status/2022657775353106540",
+    "timestamp": "2026-02-14T13:02:47.000Z",
+    "metadata": {
+      "conversation_id": "2022657775353106540",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022652874862530850",
     "source": "twitter",
     "author": "mikez93",
@@ -46418,6 +46493,19 @@
       "number": 565
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_565",
+    "source": "github",
+    "author": "jakob1379",
+    "content": "[Discussion] Clear tests, whitepaper or anything showing that droid is secure against modern takeovers\n\nhttps://cybernews.com/security/ai-agents-highly-vulnerable-to-prompt-injection-attacks/\r\n\r\nQuick summary:\r\n> Security researchers warns that AI agents like Anthropic's Claude Code, GitHub Copilot, Google Jules, and Devin (**BASICALLY  ANY FRAMEWORK**) are highly vulnerable to prompt injection attacks, enabling hackers to hijack systems with simple words hidden` in websites, documents, or GitHub repos without malware or user input. Demonstrations at the 39th Chaos Communication Congress showed ag",
+    "url": "https://github.com/Factory-AI/factory/discussions/565",
+    "timestamp": "2026-01-06T13:48:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 565
+    }
   },
   {
     "id": "twitter_2008535238524424699",
