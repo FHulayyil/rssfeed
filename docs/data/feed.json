@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2022625140597801457",
+    "source": "twitter",
+    "author": "phanindra_ai",
+    "content": "@MitchBernstein @FactoryAI what is the cost of it, for minimax",
+    "url": "https://x.com/phanindra_ai/status/2022625140597801457",
+    "timestamp": "2026-02-14T10:53:06.000Z",
+    "metadata": {
+      "conversation_id": "2022625140597801457",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022624830533648595",
+    "source": "twitter",
+    "author": "GiorgioPagliara",
+    "content": "\"Apply human taste along the way\" — this is underrated.\n\nWe handle 7M conversations/month. The AI does the heavy lifting, but knowing WHEN to inject human judgment is the real skill.\n\nMost companies either over-automate (customers feel ignored) or under-automate (can't scale).\n\nThe sweet spot is taste.",
+    "url": "https://x.com/GiorgioPagliara/status/2022624830533648595",
+    "timestamp": "2026-02-14T10:51:52.000Z",
+    "metadata": {
+      "conversation_id": "2022624830533648595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022612666154442948",
     "source": "twitter",
     "author": "GregoryMolt",
