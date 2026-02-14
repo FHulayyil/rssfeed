@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2022608715028008973",
+    "source": "twitter",
+    "author": "WalnutJobs",
+    "content": "@petergyang @FactoryAI @tryramp @linear Love the insight! Is that possible that you could share more about how to build a more AI native team? Like what kind of the qualities a person should have so he or she could be qualified for the role to onboard and delegate the AI agents?",
+    "url": "https://x.com/WalnutJobs/status/2022608715028008973",
+    "timestamp": "2026-02-14T09:47:50.000Z",
+    "metadata": {
+      "conversation_id": "2022608715028008973",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022605471501422643",
+    "source": "twitter",
+    "author": "dshekhar17",
+    "content": "@petergyang @FactoryAI @tryramp @linear We're moving from craft-based output to system-based leverage.\nTaste and judgement become the scarce layer.",
+    "url": "https://x.com/dshekhar17/status/2022605471501422643",
+    "timestamp": "2026-02-14T09:34:57.000Z",
+    "metadata": {
+      "conversation_id": "2022605471501422643",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022601727988347128",
     "source": "twitter",
     "author": "BAPxAI",
@@ -30634,6 +30664,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1qela7d",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.52.0 Released - `/share` command\n\n## New features\n\n* **`/share` command** - Share your current session with organization members, copies share URL to clipboard\n\n## Bug fixes\n\n* **Task tool view** - Fixed Ctrl+O view for Task tool\n* **Settings file writes** - Avoid unnecessary file writes when updating unrelated settings\n* **Unified tool display** - Fixed tool result pending display issue\n* **Subagent version** - Fixed subagent spawning to use correct droid version\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qela7d/factory_cli_v0520_released_share_command/",
+    "timestamp": "2026-01-16T16:51:37.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "reddit_1qekkhl",
     "source": "reddit",
     "author": "anchit_rana",
@@ -30660,6 +30703,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "other"
+  },
+  {
+    "id": "reddit_1qekkhl",
+    "source": "reddit",
+    "author": "anchit_rana",
+    "content": "I have some AWS credits to burn\n\nThumbnail: default\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qekkhl/i_have_some_aws_credits_to_burn/",
+    "timestamp": "2026-01-16T16:26:24.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2012177341523411096",
