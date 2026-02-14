@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2022790568427040938",
+    "source": "twitter",
+    "author": "petergyang",
+    "content": "@FactoryAI @tryramp @linear If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.\n\nJoin 110,000+ subscribers here:\nhttps://t.co/yz9xcsfrhF",
+    "url": "https://x.com/petergyang/status/2022790568427040938",
+    "timestamp": "2026-02-14T21:50:27.000Z",
+    "metadata": {
+      "conversation_id": "2022790568427040938",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022784254376378842",
     "source": "twitter",
     "author": "ASolovichh",
@@ -58716,6 +58731,19 @@
       "number": 418
     },
     "category": "bug"
+  },
+  {
+    "id": "github_discussion_418",
+    "source": "github",
+    "author": "WeYaTa-Dev",
+    "content": "[Discussion] Unable to authenticate Figma MCP\n\nI have run this command and the mcp's added successfully\r\n`droid mcp add figma https://mcp.figma.com/mcp --type http`\r\n\r\nBut when I tried to authenticate the mcp via /mcp command, it said:\r\n<img width=\"1209\" height=\"420\" alt=\"image\" src=\"https://github.com/user-attachments/assets/01774d30-442e-4361-b2ec-2cb67855f193\" />",
+    "url": "https://github.com/Factory-AI/factory/discussions/418",
+    "timestamp": "2025-11-22T09:31:10Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 418
+    }
   },
   {
     "id": "github_discussion_384",
