@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_656",
+    "source": "github",
+    "author": "alexhamidi",
+    "content": "[Issue] Droid incompatible with Grok 4 BYOK due to reasoning_effort param\n\n### Problem\nUsing BYOK with Grok 4.1 returns a 400 error: \n`Error: 400 \"Model grok-4-1-fast-reasoning does not support parameter reasoningEffort.\"`\n\nhere is the `config.json` entry that caused the error:\n```json\n{\n      \"model\": \"grok-4-1-fast-reasoning\",\n      \"id\": \"custom:Grok-4.1-0\",\n      \"index\": 0,\n      \"baseUrl\": \"https://api.x.ai/v1\",\n      \"apiKey\": \"xai-****\",\n      \"displayName\": \"Grok 4.1\",\n      \"maxOutputTokens\": 8192,\n      \"noImageSupport\": false,\n      \"provider\": \"openai\"\n }\n",
+    "url": "https://github.com/Factory-AI/factory/issues/656",
+    "timestamp": "2026-02-14T06:39:57Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 656
+    }
+  },
+  {
     "id": "github_issue_644",
     "source": "github",
     "author": "zhqyy",
