@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2022780107929055507",
+    "source": "twitter",
+    "author": "dedene",
+    "content": "@samfitz @FactoryAI @bentossell 🔥",
+    "url": "https://x.com/dedene/status/2022780107929055507",
+    "timestamp": "2026-02-14T21:08:53.000Z",
+    "metadata": {
+      "conversation_id": "2022780107929055507",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022779808183210466",
+    "source": "twitter",
+    "author": "samfitz",
+    "content": "@dedene @FactoryAI @bentossell Currently at 0.12x",
+    "url": "https://x.com/samfitz/status/2022779808183210466",
+    "timestamp": "2026-02-14T21:07:42.000Z",
+    "metadata": {
+      "conversation_id": "2022779808183210466",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022776279435555286",
+    "source": "twitter",
+    "author": "ArianJM9",
+    "content": "@FactoryAI I asked for a refund more than a week ago, never received an answer. Please answer.\nCc. @EnoReyes",
+    "url": "https://x.com/ArianJM9/status/2022776279435555286",
+    "timestamp": "2026-02-14T20:53:41.000Z",
+    "metadata": {
+      "conversation_id": "2022776279435555286",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022771187118424552",
     "source": "twitter",
     "author": "darrenjr",
