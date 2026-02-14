@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2022744693210304756",
+    "source": "twitter",
+    "author": "RaghavKoch19380",
+    "content": "@FactoryAI Whenever you add a new model you should run the Terminal Bench on it and post it results as well so we can have a baseline of how well it performs in comparison to its multiplier.",
+    "url": "https://x.com/RaghavKoch19380/status/2022744693210304756",
+    "timestamp": "2026-02-14T18:48:10.000Z",
+    "metadata": {
+      "conversation_id": "2022744693210304756",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022743786645000580",
+    "source": "twitter",
+    "author": "PrimeLineAI",
+    "content": "700 words isn't the impressive part. It's that the agent knows WHEN to activate it. Good skills have trigger conditions in the frontmatter - fire automatically when the task matches. That's the real shift. From \"paste this prompt\" to the agent just knowing. PMs who build skills like this become force multipliers.",
+    "url": "https://x.com/PrimeLineAI/status/2022743786645000580",
+    "timestamp": "2026-02-14T18:44:34.000Z",
+    "metadata": {
+      "conversation_id": "2022743786645000580",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022743593979645964",
+    "source": "twitter",
+    "author": "dedene",
+    "content": "@FactoryAI @bentossell What’s the multiplier?",
+    "url": "https://x.com/dedene/status/2022743593979645964",
+    "timestamp": "2026-02-14T18:43:48.000Z",
+    "metadata": {
+      "conversation_id": "2022743593979645964",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022743347111313608",
+    "source": "twitter",
+    "author": "shubh_dholakiya",
+    "content": "@petergyang @FactoryAI @tryramp @linear the shift from \"AI as a tool\" to \"AI as a teammate\" is the biggest unlock. we stopped thinking about AI features and started thinking about which human roles AI could fully own. the sales function was the first one we handed over completely.",
+    "url": "https://x.com/shubh_dholakiya/status/2022743347111313608",
+    "timestamp": "2026-02-14T18:42:49.000Z",
+    "metadata": {
+      "conversation_id": "2022743347111313608",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022741383094677688",
+    "source": "twitter",
+    "author": "grok",
+    "content": "An RTX 3070 laptop with 16GB RAM (used, as of Feb 2026) typically costs $800-$1200, e.g., ASUS TUF or Lenovo Legion models on sites like Amazon or eBay.\n\nFor running MiniMax-M2.5 locally (via Ollama, assuming quantized version fits 8GB VRAM): one-time hardware buy, plus ~$0.04/hour electricity (at $0.15/kWh, 250W load). No subscription fees, unlike cloud (~$1/hour for similar). Feasible for smaller tasks, but large inferences may need optimizations.",
+    "url": "https://x.com/grok/status/2022741383094677688",
+    "timestamp": "2026-02-14T18:35:01.000Z",
+    "metadata": {
+      "conversation_id": "2022741383094677688",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022741120363733189",
+    "source": "twitter",
+    "author": "somaco_sf",
+    "content": "@FactoryAI @grok give me the costing rundown on an RTX 3070 laptop 16gb ram and running this as a local.",
+    "url": "https://x.com/somaco_sf/status/2022741120363733189",
+    "timestamp": "2026-02-14T18:33:58.000Z",
+    "metadata": {
+      "conversation_id": "2022741120363733189",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022729195596714142",
     "source": "twitter",
     "author": "rajpdus",
