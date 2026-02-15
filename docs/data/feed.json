@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2022832203126772130",
+    "source": "twitter",
+    "author": "jarredgeller",
+    "content": "@petergyang @FactoryAI @tryramp @linear Really well put. ICs are a thing of the past. You are managing agents, managing people, or both.",
+    "url": "https://x.com/jarredgeller/status/2022832203126772130",
+    "timestamp": "2026-02-15T00:35:54.000Z",
+    "metadata": {
+      "conversation_id": "2022832203126772130",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022825897821389190",
+    "source": "twitter",
+    "author": "ayushporwalhq",
+    "content": "@F2aldi @MiniMax_AI @FactoryAI I didnt try it out yet. I am afraid to mess up my claude code config. However, yes I do plan to try it out. I will post in the same thread. Any recommendations?",
+    "url": "https://x.com/ayushporwalhq/status/2022825897821389190",
+    "timestamp": "2026-02-15T00:10:50.000Z",
+    "metadata": {
+      "conversation_id": "2022825897821389190",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022821402051576067",
+    "source": "twitter",
+    "author": "dr021212",
+    "content": "@petergyang @FactoryAI @tryramp @linear Ramp is def not ai native",
+    "url": "https://x.com/dr021212/status/2022821402051576067",
+    "timestamp": "2026-02-14T23:52:59.000Z",
+    "metadata": {
+      "conversation_id": "2022821402051576067",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022819180932747538",
     "source": "twitter",
     "author": "iam_zachi",
