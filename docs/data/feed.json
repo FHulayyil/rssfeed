@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2023105956679483650",
+    "source": "twitter",
+    "author": "grahams_takes",
+    "content": "@utsengar @kieranklaassen @claudeai @OpenAI @opencode @FactoryAI @cursor_ai @geminicli Afaik plugins get installed with all their components locally. You can just grab those components and manually extend/change. Might need to move them from the plugins folder but I've done this with some other plugins that needed my orgs flavor added",
+    "url": "https://x.com/grahams_takes/status/2023105956679483650",
+    "timestamp": "2026-02-15T18:43:42.000Z",
+    "metadata": {
+      "conversation_id": "2023105956679483650",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023103758474043475",
+    "source": "twitter",
+    "author": "NichesHunter",
+    "content": "@petergyang @EnoReyes @FactoryAI @meetgranola crushing it! ai pm game 🔥🚀",
+    "url": "https://x.com/NichesHunter/status/2023103758474043475",
+    "timestamp": "2026-02-15T18:34:58.000Z",
+    "metadata": {
+      "conversation_id": "2023103758474043475",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023101549283877283",
+    "source": "twitter",
+    "author": "xlcizor",
+    "content": "The surprise was @AmpCode from @sqs . Amp was actually better AND faster than Claude Code, with pretty generous free tier. How is that possible? \n\n@FactoryAI  Droid was a surprise too, that how bad it got. I remember it used to be ahead of the pack just a few months ago, but now it just couldn’t deliver. its win rate was <10%.\n\nBoth Amp and Droid subscriptions were provided by @lennysan's awesome pass. Highly recommended.",
+    "url": "https://x.com/xlcizor/status/2023101549283877283",
+    "timestamp": "2026-02-15T18:26:11.000Z",
+    "metadata": {
+      "conversation_id": "2023101549283877283",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023096384120103134",
+    "source": "twitter",
+    "author": "utsengar",
+    "content": "@kieranklaassen @claudeai @OpenAI @opencode @FactoryAI @cursor_ai @geminicli I would love to extend Compound engineering for an org’s setup with new subsgents, skills, modify existing ones. Suggestions on how to do that?",
+    "url": "https://x.com/utsengar/status/2023096384120103134",
+    "timestamp": "2026-02-15T18:05:39.000Z",
+    "metadata": {
+      "conversation_id": "2023096384120103134",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023096266734141692",
+    "source": "twitter",
+    "author": "rv_RAJvishnu",
+    "content": "@petergyang @EnoReyes @FactoryAI the 11-star experience framework is underrated. most PMs stop at \"good enough\" and never think about what would make users genuinely surprised. saving this one for sure",
+    "url": "https://x.com/rv_RAJvishnu/status/2023096266734141692",
+    "timestamp": "2026-02-15T18:05:11.000Z",
+    "metadata": {
+      "conversation_id": "2023096266734141692",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023091937335521558",
     "source": "twitter",
     "author": "_alissonryan",
