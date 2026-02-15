@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2023076313406280044",
+    "source": "twitter",
+    "author": "giffboake",
+    "content": "@petergyang @FactoryAI @tryramp @linear P\nSorry not even 10% of tech workers \"don't know this\"\nWe all know about it, smart people just choose to ignore it",
+    "url": "https://x.com/giffboake/status/2023076313406280044",
+    "timestamp": "2026-02-15T16:45:54.000Z",
+    "metadata": {
+      "conversation_id": "2023076313406280044",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023074810247463274",
+    "source": "twitter",
+    "author": "LucasBigandt",
+    "content": "@OpenAI @AnthropicAI @MiniMax_AI  @Kimi_Moonshot @moonshot @xai @FactoryAI https://t.co/wgyZ96u7JN",
+    "url": "https://x.com/LucasBigandt/status/2023074810247463274",
+    "timestamp": "2026-02-15T16:39:56.000Z",
+    "metadata": {
+      "conversation_id": "2023074810247463274",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023069517036012031",
+    "source": "twitter",
+    "author": "0_Aakash_0",
+    "content": "The \"onboard and delegate work to AI\" framing is the key shift.\n\nIn traditional companies, the org chart is a tree of human-to-human delegation. In AI-native companies, every person is a small management layer that coordinates 5-10x more throughput by directing AI agents.\n\nThis changes hiring too. You stop optimizing for \"can this person do the work\" and start optimizing for \"can this person define what good output looks like and course-correct fast.\"\n\nThe companies that figure this out first will look absurdly productive compared to peers. Not because they have better AI, but because they've reorganized their workflows around it.",
+    "url": "https://x.com/0_Aakash_0/status/2023069517036012031",
+    "timestamp": "2026-02-15T16:18:54.000Z",
+    "metadata": {
+      "conversation_id": "2023069517036012031",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023065768087232725",
     "source": "twitter",
     "author": "rv_RAJvishnu",
