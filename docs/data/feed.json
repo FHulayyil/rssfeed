@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_659",
+    "source": "github",
+    "author": "gcmdr",
+    "content": "[Issue] Can't copy and paste in Windows app without dragging\n\nI can drag text out of the Factory app, but I can't right click to see a menu, and I can't use Ctrl+C, I tried Ctrl+Shift+C as well.  ",
+    "url": "https://github.com/Factory-AI/factory/issues/659",
+    "timestamp": "2026-02-15T21:20:18Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 659
+    }
+  },
+  {
     "id": "github_issue_656",
     "source": "github",
     "author": "alexhamidi",
