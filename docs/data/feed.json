@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2022869872024469792",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@JoelDeTeves @openclaw @droid Now tell it you want to create a @droid skill that specializes in the exec CLI 👀\n\nGood times",
+    "url": "https://x.com/GitMaxd/status/2022869872024469792",
+    "timestamp": "2026-02-15T03:05:35.000Z",
+    "metadata": {
+      "conversation_id": "2022869872024469792",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022866098723410385",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "I have @openclaw using @droid to write its own plugins. This is insane.",
+    "url": "https://x.com/JoelDeTeves/status/2022866098723410385",
+    "timestamp": "2026-02-15T02:50:35.000Z",
+    "metadata": {
+      "conversation_id": "2022866098723410385",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022864371085611434",
     "source": "twitter",
     "author": "iAmDon_eth",
