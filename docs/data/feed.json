@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2022859632977518733",
+    "source": "twitter",
+    "author": "iAmDon_eth",
+    "content": "Yah.. you obviously fell in love with the simplicity of the Codex app, plus you trust the Codex model’s code. Knowing how strict you are with your code\n\nYou should test out Factory Droid. \n\nAll these editors have access to the different LLM’s\n\nBUT, they have their own LLM harnesses. So even if you use Codex, it might act differently.\n\nDroid is really good with their harnesses",
+    "url": "https://x.com/iAmDon_eth/status/2022859632977518733",
+    "timestamp": "2026-02-15T02:24:54.000Z",
+    "metadata": {
+      "conversation_id": "2022859632977518733",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022856342592012522",
+    "source": "twitter",
+    "author": "rollablazer",
+    "content": "@iAmDon_eth @sama @FactoryAI You reminded me, I think I can now add my ChatGPT model to my app. Been using Groq for layouts currently",
+    "url": "https://x.com/rollablazer/status/2022856342592012522",
+    "timestamp": "2026-02-15T02:11:49.000Z",
+    "metadata": {
+      "conversation_id": "2022856342592012522",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022855542855864429",
+    "source": "twitter",
+    "author": "iAmDon_eth",
+    "content": "Yeah, so you basically want to add new cool ideas while ur on the shitter or out grocery shopping.\n\nYou can either make sure your code is on GitHub.. create a new branch from you phone using Droid\n\nOr you can setup OpenClaw on a spare machine and let it just use the Codex api. You can just use Telegram and give it to do lists of features you want added to your codebase \n\nBoth ways can be setup to use the Codex API",
+    "url": "https://x.com/iAmDon_eth/status/2022855542855864429",
+    "timestamp": "2026-02-15T02:08:38.000Z",
+    "metadata": {
+      "conversation_id": "2022855542855864429",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022854842205806605",
+    "source": "twitter",
+    "author": "Akumunokokoro",
+    "content": "@omarsar0 @MiniMax_AI M2.5 has been pretty awful on @kilocode so I'm hoping the harness is just weak. @FactoryAI's Droid apparently gets solid performance so I need to try that.",
+    "url": "https://x.com/Akumunokokoro/status/2022854842205806605",
+    "timestamp": "2026-02-15T02:05:51.000Z",
+    "metadata": {
+      "conversation_id": "2022854842205806605",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022853308877340877",
+    "source": "twitter",
+    "author": "rollablazer",
+    "content": "@iAmDon_eth @sama @FactoryAI Codex is the only tool I have trusted to edit my code so far.\n\nI just want a hand-off like experience with Codex.\n\nNot sure if willing to adopt a second tool.\n\nBasically, I want to have some ideas, and add them to my desktop app, then run if required.",
+    "url": "https://x.com/rollablazer/status/2022853308877340877",
+    "timestamp": "2026-02-15T01:59:46.000Z",
+    "metadata": {
+      "conversation_id": "2022853308877340877",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022852476622508461",
+    "source": "twitter",
+    "author": "iAmDon_eth",
+    "content": "@rollablazer @sama @FactoryAI Really worth a look..",
+    "url": "https://x.com/iAmDon_eth/status/2022852476622508461",
+    "timestamp": "2026-02-15T01:56:27.000Z",
+    "metadata": {
+      "conversation_id": "2022852476622508461",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2022837418164994484",
+    "source": "twitter",
+    "author": "ryanleecode",
+    "content": "What is even the point of the When to use this Skill section. it serves no purpose as this AI has already ingested the skill",
+    "url": "https://x.com/ryanleecode/status/2022837418164994484",
+    "timestamp": "2026-02-15T00:56:37.000Z",
+    "metadata": {
+      "conversation_id": "2022837418164994484",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2022832203126772130",
     "source": "twitter",
     "author": "jarredgeller",
