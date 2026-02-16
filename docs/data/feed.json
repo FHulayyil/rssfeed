@@ -16,6 +16,141 @@
     "category": "love"
   },
   {
+    "id": "twitter_2023251543760453726",
+    "source": "twitter",
+    "author": "delaanthonio",
+    "content": "Opus 4.6 on @FactoryAI Droid is a beast. It can plan and execute complex tasks as you would expect.\n\nGPT Codex 5.3 on Factory Droid needs some work. It often ends work prematurely.",
+    "url": "https://x.com/delaanthonio/status/2023251543760453726",
+    "timestamp": "2026-02-16T04:22:12.000Z",
+    "metadata": {
+      "conversation_id": "2023251543760453726",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023248640215834918",
+    "source": "twitter",
+    "author": "petergyang",
+    "content": "@TheChinthala @tweetycoolguy @EnoReyes @FactoryAI Here's the link: https://t.co/EcS7029Bw4",
+    "url": "https://x.com/petergyang/status/2023248640215834918",
+    "timestamp": "2026-02-16T04:10:40.000Z",
+    "metadata": {
+      "conversation_id": "2023248640215834918",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023248593327731008",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@FactoryAI It’s great at coding. Opus still crushes it for creative thinking.",
+    "url": "https://x.com/JoelDeTeves/status/2023248593327731008",
+    "timestamp": "2026-02-16T04:10:29.000Z",
+    "metadata": {
+      "conversation_id": "2023248593327731008",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023247887585669603",
+    "source": "twitter",
+    "author": "TheChinthala",
+    "content": "@petergyang @tweetycoolguy @EnoReyes @FactoryAI @petergyang is the link out somewhere",
+    "url": "https://x.com/TheChinthala/status/2023247887585669603",
+    "timestamp": "2026-02-16T04:07:41.000Z",
+    "metadata": {
+      "conversation_id": "2023247887585669603",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023242294082580966",
+    "source": "twitter",
+    "author": "PRCrecluse674",
+    "content": "@petergyang @EnoReyes @FactoryAI @meetgranola Basically the dream for any scaling team lol. Most AI tools fail because they don't understand the 'why' behind product decisions, just the 'what'. If this actually maintains context on principles without needing a human to babysit every PRD, that's huge",
+    "url": "https://x.com/PRCrecluse674/status/2023242294082580966",
+    "timestamp": "2026-02-16T03:45:27.000Z",
+    "metadata": {
+      "conversation_id": "2023242294082580966",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023233725035655568",
+    "source": "twitter",
+    "author": "FaisalFailed",
+    "content": "@FactoryAI i've been getting `Error: 503 no healthy upstream` for hours when using glm :(",
+    "url": "https://x.com/FaisalFailed/status/2023233725035655568",
+    "timestamp": "2026-02-16T03:11:24.000Z",
+    "metadata": {
+      "conversation_id": "2023233725035655568",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023233692861427895",
+    "source": "twitter",
+    "author": "kieranklaassen",
+    "content": "@utsengar @claudeai @OpenAI @opencode @FactoryAI @cursor_ai @geminicli run /setup it will customize it locally for you!",
+    "url": "https://x.com/kieranklaassen/status/2023233692861427895",
+    "timestamp": "2026-02-16T03:11:16.000Z",
+    "metadata": {
+      "conversation_id": "2023233692861427895",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023233674842403249",
+    "source": "twitter",
+    "author": "rv_RAJvishnu",
+    "content": "@petergyang @EnoReyes @FactoryAI the 11-star experience framework is underrated. most PMs stop at \"good enough\" and never map out what exceptional actually looks like. downloading this immediately",
+    "url": "https://x.com/rv_RAJvishnu/status/2023233674842403249",
+    "timestamp": "2026-02-16T03:11:12.000Z",
+    "metadata": {
+      "conversation_id": "2023233674842403249",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023232740703846459",
+    "source": "twitter",
+    "author": "rv_RAJvishnu",
+    "content": "@petergyang @EnoReyes @FactoryAI the PRD templates and prioritization frameworks alone would save most PMs hours every week. love that this is packaged as a skill you can just plug in instead of building from scratch",
+    "url": "https://x.com/rv_RAJvishnu/status/2023232740703846459",
+    "timestamp": "2026-02-16T03:07:29.000Z",
+    "metadata": {
+      "conversation_id": "2023232740703846459",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023188022075019678",
     "source": "twitter",
     "author": "TSpencer260",
