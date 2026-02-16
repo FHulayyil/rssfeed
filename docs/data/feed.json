@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2023353684420391138",
+    "source": "twitter",
+    "author": "ES0XJEM",
+    "content": "Spending this month with @FactoryAI’s @droid. Going to compare it with OpenCode, amp and Claude Code. \n\nSpec mode vs ultrawork/ulw with oh-my-opencode vs Compound Engineering vs Deep mode. \n\nNo scientific evals, just subjective developer experience.",
+    "url": "https://x.com/ES0XJEM/status/2023353684420391138",
+    "timestamp": "2026-02-16T11:08:05.000Z",
+    "metadata": {
+      "conversation_id": "2023353684420391138",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023352910105674113",
+    "source": "twitter",
+    "author": "stuli1989",
+    "content": "Currently powering our design rewrite with @FactoryAI + GPT 5.3 Codex (as they said it has a 0.7x multiplier) - gotta maximize the credits.\n\nUsage at 12.5 M / 20 M tokens for the month. \n\nLFG🚀 https://t.co/UbSYapXiOx",
+    "url": "https://x.com/stuli1989/status/2023352910105674113",
+    "timestamp": "2026-02-16T11:05:00.000Z",
+    "metadata": {
+      "conversation_id": "2023352910105674113",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023340167587885243",
+    "source": "twitter",
+    "author": "lightsprintai",
+    "content": "@petergyang @EnoReyes @FactoryAI Love seeing AI PM tools evolve! We've been building similar workflows at Lightsprint - PRD generation that understands your codebase and streams structured specs in real-time. The future of product work is conversational 🚀",
+    "url": "https://x.com/lightsprintai/status/2023340167587885243",
+    "timestamp": "2026-02-16T10:14:22.000Z",
+    "metadata": {
+      "conversation_id": "2023340167587885243",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023337119733665906",
+    "source": "twitter",
+    "author": "tiagoefreitas",
+    "content": "@kieranklaassen @claudeai @OpenAI @opencode @FactoryAI @cursor_ai @geminicli How does it do codex hooks?",
+    "url": "https://x.com/tiagoefreitas/status/2023337119733665906",
+    "timestamp": "2026-02-16T10:02:15.000Z",
+    "metadata": {
+      "conversation_id": "2023337119733665906",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023310463115964914",
     "source": "twitter",
     "author": "stuli1989",
