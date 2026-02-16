@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2023424810769141891",
+    "source": "twitter",
+    "author": "damienoir",
+    "content": "@petergyang @EnoReyes @FactoryAI the point about validation loops is underrated. delegation without guardrails is chaos. delegation with feedback is scale.",
+    "url": "https://x.com/damienoir/status/2023424810769141891",
+    "timestamp": "2026-02-16T15:50:42.000Z",
+    "metadata": {
+      "conversation_id": "2023424810769141891",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023422563612025095",
+    "source": "twitter",
+    "author": "petergyang",
+    "content": "My top 5 takeaways from @EnoReyes (co-founder @factoryai):\n\n1. \"AI native\" is moving from prompts to skills\n\nBasic usage is sending prompts. Real activation happens when you build skills, hooks, and custom workflows that compound over time. “You can tell who’s a power user by how much of their work they delegate to the agent.”\n\n2. Build shared AI skills for your company\n\nFactory has go-to skills for product management, frontend UI, data querying/analysis, vibe coding, browser automation, and more.\n\n3. AI coding agents aren’t just for engineers\n\nFactory’s #3 user is in sales. He uses AI agents for customer research, analyzing usage data, and tracking deals through Salesforce. “Software development agents are basically the next generation of general AI systems.”\n\n4. Give everyone read access to your codebase\n\nOps, product, QA, data science — these roles all touch the product but rarely understand the code. AI agents make it easy to ask questions about a codebase. “It really democratizes access to what used to be very complex.”\n\n5. Build in automatic validation after every AI coding change\n\nAsk your AI agent to validate every change it makes. Adding validation loops to your AI coding iterations will dramatically improve output quality.\n\n📌 Eno packed so many insights into our brief 35 min chat, watch now:\nhttps://t.co/ovkjLY4D2p",
+    "url": "https://x.com/petergyang/status/2023422563612025095",
+    "timestamp": "2026-02-16T15:41:47.000Z",
+    "metadata": {
+      "conversation_id": "2023422563612025095",
+      "likes": 12,
+      "retweets": 2,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023353684420391138",
     "source": "twitter",
     "author": "ES0XJEM",
