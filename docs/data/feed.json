@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_issue_660",
@@ -25,7 +26,8 @@
       "type": "issue",
       "labels": [],
       "number": 660
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2023260975663927474",
