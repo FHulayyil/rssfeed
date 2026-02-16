@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_660",
+    "source": "github",
+    "author": "funkyidol",
+    "content": "[Issue] droid does not respect project level config for model selection\n\nMy current global `settings.json` contains the following config\n```\n\"sessionDefaultSettings\": {\n    \"autonomyMode\": \"auto-medium\",\n    \"model\": \"gpt-5.3-codex\",\n    \"reasoningEffort\": \"none\",\n    \"specModeReasoningEffort\": \"medium\",\n    \"specModeModel\": \"gpt-5.3-codex\"\n  },\n```\n\nand my project level `settings.json` contains the following config\n```\n{\n  \"sessionDefaultSettings\": {\n    \"model\": \"glm-5\",\n    \"specModeModel\": \"glm-5\"\n  }\n}\n```\n\nbut starting new droid session in the project starts dr",
+    "url": "https://github.com/Factory-AI/factory/issues/660",
+    "timestamp": "2026-02-16T08:13:26Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 660
+    }
+  },
+  {
     "id": "github_issue_659",
     "source": "github",
     "author": "gcmdr",
