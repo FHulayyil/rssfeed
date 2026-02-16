@@ -1,5 +1,33 @@
 [
   {
+    "id": "twitter_2023310463115964914",
+    "source": "twitter",
+    "author": "stuli1989",
+    "content": "Need to do a big CSS and LESS (Style files) refactor for Art Lounge - which model Codex or Opus @jessethanley ?\n\nWill be running it via @FactoryAI and have everything broken into discrete tasks.",
+    "url": "https://x.com/stuli1989/status/2023310463115964914",
+    "timestamp": "2026-02-16T08:16:20.000Z",
+    "metadata": {
+      "conversation_id": "2023310463115964914",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_660",
+    "source": "github",
+    "author": "funkyidol",
+    "content": "[Issue] droid does not respect project level config for model selection\n\nMy current global `settings.json` contains the following config\n```\n\"sessionDefaultSettings\": {\n    \"autonomyMode\": \"auto-medium\",\n    \"model\": \"gpt-5.3-codex\",\n    \"reasoningEffort\": \"none\",\n    \"specModeReasoningEffort\": \"medium\",\n    \"specModeModel\": \"gpt-5.3-codex\"\n  },\n```\n\nand my project level `settings.json` contains the following config\n```\n{\n  \"sessionDefaultSettings\": {\n    \"model\": \"glm-5\",\n    \"specModeModel\": \"glm-5\"\n  }\n}\n```\n\nbut starting new droid session in the project starts dr",
+    "url": "https://github.com/Factory-AI/factory/issues/660",
+    "timestamp": "2026-02-16T08:13:26Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 660
+    }
+  },
+  {
     "id": "twitter_2023260975663927474",
     "source": "twitter",
     "author": "JoelDeTeves",
