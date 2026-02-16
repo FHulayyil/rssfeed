@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2023469071162093821",
+    "source": "twitter",
+    "author": "TheInsiderrz",
+    "content": "@ES0XJEM @FactoryAI @droid Is OMO better than the rest??",
+    "url": "https://x.com/TheInsiderrz/status/2023469071162093821",
+    "timestamp": "2026-02-16T18:46:35.000Z",
+    "metadata": {
+      "conversation_id": "2023469071162093821",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023466555212964042",
+    "source": "twitter",
+    "author": "LFuckingG",
+    "content": "@petergyang @EnoReyes @FactoryAI this shift is huge. basic users stay stuck in one-shot prompting while power users build persistent context, templates, and workflows that learn from each interaction. the real unlock is when your ai remembers your patterns and adapts its responses to your specific domain",
+    "url": "https://x.com/LFuckingG/status/2023466555212964042",
+    "timestamp": "2026-02-16T18:36:35.000Z",
+    "metadata": {
+      "conversation_id": "2023466555212964042",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023457768267755823",
     "source": "twitter",
     "author": "DanielGPT2022",
@@ -30410,6 +30440,19 @@
       "number": 610
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_610",
+    "source": "github",
+    "author": "li01223123",
+    "content": "[Issue] [BUG]Error: $ is not an Object. (evaluating '\"object\"in $')\n\nError: $ is not an Object. (evaluating '\"object\" in $')\nThis issue occurs intermittently while using GPT5.2 XHIGH. and can`t continue to do \ndroid version:0.53 \nwindows 11\n<img width=\"891\" height=\"259\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a76c4b90-0023-4172-81f8-88c90d199497\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/610",
+    "timestamp": "2026-01-18T14:49:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 610
+    }
   },
   {
     "id": "twitter_2012887563258802450",
