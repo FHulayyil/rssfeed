@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2023260975663927474",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "I asked @droid how to orchestrate multiple droid agents to build out features in parallel\n\nIt went and searched the @FactoryAI docs and came back with the best way to use… itself\n\nI had it turn its findings into a skill.\n\nIt created a droid-orchestrator skill that works 👀",
+    "url": "https://x.com/JoelDeTeves/status/2023260975663927474",
+    "timestamp": "2026-02-16T04:59:41.000Z",
+    "metadata": {
+      "conversation_id": "2023260975663927474",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023188022075019678",
     "source": "twitter",
     "author": "TSpencer260",
