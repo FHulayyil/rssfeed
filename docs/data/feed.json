@@ -10,7 +10,8 @@
       "type": "issue",
       "labels": [],
       "number": 663
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2023771791416803676",
@@ -25,7 +26,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2023771768864055701",
@@ -40,7 +42,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2023771393587093849",
@@ -55,7 +58,8 @@
       "retweets": 0,
       "replies": 2,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2023759764665364795",
