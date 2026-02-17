@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2023561310668288259",
@@ -60769,7 +60770,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_223",
@@ -60824,7 +60826,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
+    },
+    "category": "question"
   },
   {
     "id": "reddit_1oazqru",
