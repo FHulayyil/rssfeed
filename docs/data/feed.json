@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2023907690783928372",
+    "source": "twitter",
+    "author": "stuli1989",
+    "content": "Yeah so the big refactor project isn't going as well as hoped.\n\nThe stylesheets etc are made but the output is just shite right now.\n\nGood thing I had added a visual regression test into it.\n\nIssue currently being hit is that @FactoryAI with Codex 5.3 Xhigh was sucking at actually analyzing the differences. Just giving a pass to everything. Ugh.\n\nNow switching to Claude Code with Sonnet 4.6 to see if it can do better.",
+    "url": "https://x.com/stuli1989/status/2023907690783928372",
+    "timestamp": "2026-02-17T23:49:30.000Z",
+    "metadata": {
+      "conversation_id": "2023907690783928372",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023904932148244713",
+    "source": "twitter",
+    "author": "gsudul",
+    "content": "@kieranklaassen @claudeai @OpenAI @opencode @FactoryAI @cursor_ai @geminicli Any recommendations on how to handle the review workflow without using up the entire context window? Using Opus 4.6 and it can't finish the analysis without hitting the limit, even on a fresh session.",
+    "url": "https://x.com/gsudul/status/2023904932148244713",
+    "timestamp": "2026-02-17T23:38:32.000Z",
+    "metadata": {
+      "conversation_id": "2023904932148244713",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023883072714973610",
     "source": "twitter",
     "author": "yusufg",
