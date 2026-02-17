@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_667",
+    "source": "github",
+    "author": "gcmdr",
+    "content": "[Issue] Seems like Gpt 5.3 Codex works in CLI on windows but not Desktop App\n\n<img width=\"1352\" height=\"361\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/3c59623b-1a5c-4b33-aa69-d8d10467d583\" />\n\n<img width=\"1006\" height=\"1093\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/500e24e6-9b93-4c9d-9d3f-84edc71f131f\" />\n\nI found a thread on twitter that said to run \n`RUST_LOG='codex_api::sse::responses=trace' codex exec --skip-git-repo-check -s read-only -m\n   'gpt-5.3-codex' 'hi' 2>&1 >/dev/null | rg -o --replace '$1' '\"model\":\"([^\"]+)\"' | head -n1`",
+    "url": "https://github.com/Factory-AI/factory/issues/667",
+    "timestamp": "2026-02-17T20:41:49Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 667
+    }
+  },
+  {
     "id": "github_issue_666",
     "source": "github",
     "author": "ain3sh",
