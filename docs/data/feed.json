@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2023870577539453394",
+    "source": "twitter",
+    "author": "astelldev",
+    "content": "@FactoryAI feels like a scam. Signed up to explore, added a card assuming pay-as-you-go. Didn't like the vibe &amp; deleted the app without running a single prompt. Got charged $20 seven days later. Emailed support immediately but I've been ignored for a week. Stay away.",
+    "url": "https://x.com/astelldev/status/2023870577539453394",
+    "timestamp": "2026-02-17T21:22:02.000Z",
+    "metadata": {
+      "conversation_id": "2023870577539453394",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_667",
     "source": "github",
     "author": "gcmdr",
