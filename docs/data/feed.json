@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_663",
+    "source": "github",
+    "author": "Yoshuar",
+    "content": "[Issue] Add setting to restrict model cycling (Ctrl+N) to custom models only\n\n## Problem\n\nWhen using `customModels` in `~/.factory/settings.json`, pressing Ctrl+N cycles through **all** models (built-in + custom). Worse, custom models are not included in the cycle at all.\n\nFor users who exclusively use custom models (e.g. via a local proxy like CLIProxyAPI), cycling through built-in models is useless and disruptive.\n\n## Proposed Solution\n\nAdd a setting like `modelCycleList` or `hideDefaultModels` to `settings.json`:\n\n```json\n{\n  \"hideDefaultModels\": true\n}\n```\n\nOr alterna",
+    "url": "https://github.com/Factory-AI/factory/issues/663",
+    "timestamp": "2026-02-17T15:06:31Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 663
+    }
+  },
+  {
     "id": "github_issue_660",
     "source": "github",
     "author": "funkyidol",
