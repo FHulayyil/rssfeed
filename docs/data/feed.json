@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2023816710860718494",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "been using Codex app for a bit. Tapped on @droid a bit today. Nice polish over the last month or so.",
+    "url": "https://x.com/erd0xbc/status/2023816710860718494",
+    "timestamp": "2026-02-17T17:47:59.000Z",
+    "metadata": {
+      "conversation_id": "2023816710860718494",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023813336534774096",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@dhh Thanks for keeping reminder us about @Kimi_Moonshot K2.5. Just got it rolling via @FactoryAI @droid and with the agent skills feels just like Opus 4.6 in Claude Code.",
+    "url": "https://x.com/erd0xbc/status/2023813336534774096",
+    "timestamp": "2026-02-17T17:34:34.000Z",
+    "metadata": {
+      "conversation_id": "2023813336534774096",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023811632925946168",
     "source": "twitter",
     "author": "heyjonmor",
@@ -14,6 +44,21 @@
       "quotes": 0
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2023811631269159007",
+    "source": "twitter",
+    "author": "heyjonmor",
+    "content": "Finally getting around to trying @droid  🙌 https://t.co/bAI42JQyYq",
+    "url": "https://x.com/heyjonmor/status/2023811631269159007",
+    "timestamp": "2026-02-17T17:27:48.000Z",
+    "metadata": {
+      "conversation_id": "2023811631269159007",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "github_issue_663",
