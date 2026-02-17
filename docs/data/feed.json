@@ -12,7 +12,8 @@
       "retweets": 1,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2023559136839938538",
@@ -60641,7 +60642,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 309
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_240",
@@ -60696,7 +60698,8 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "github_discussion_225",
