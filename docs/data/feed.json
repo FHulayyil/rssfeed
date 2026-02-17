@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2023606920381178319",
+    "source": "twitter",
+    "author": "mek0768",
+    "content": "@petergyang @EnoReyes @FactoryAI is gonna revolutionize the space by shifting from basic prompts to advanced skills and custom workflows, totally changing the game.",
+    "url": "https://x.com/mek0768/status/2023606920381178319",
+    "timestamp": "2026-02-17T03:54:21.000Z",
+    "metadata": {
+      "conversation_id": "2023606920381178319",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023593295063249413",
     "source": "twitter",
     "author": "ES0XJEM",
@@ -16,6 +31,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2023587427504566639",
+    "source": "twitter",
+    "author": "nembal",
+    "content": "@matanSF @FactoryAI would have never guessed. quite interesting \n\nso it seems railway is not for rails and factory isn’t for production floors. ❤️ \n\nstill love your naming",
+    "url": "https://x.com/nembal/status/2023587427504566639",
+    "timestamp": "2026-02-17T02:36:53.000Z",
+    "metadata": {
+      "conversation_id": "2023587427504566639",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023583432253583457",
+    "source": "twitter",
+    "author": "captaink99",
+    "content": "@GitaGopinath Why get stuck on one model?\n\n@FactoryAI",
+    "url": "https://x.com/captaink99/status/2023583432253583457",
+    "timestamp": "2026-02-17T02:21:01.000Z",
+    "metadata": {
+      "conversation_id": "2023583432253583457",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023576229933420979",
     "source": "twitter",
     "author": "matanSF",
@@ -30,6 +75,36 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2023572790649979325",
+    "source": "twitter",
+    "author": "tsbrenterprises",
+    "content": "@FactoryAI i still havent heard anything back from support. here's the screenshot of what is happening below. my email is rojeka714@gmail.com https://t.co/wUirck8ouw",
+    "url": "https://x.com/tsbrenterprises/status/2023572790649979325",
+    "timestamp": "2026-02-17T01:38:44.000Z",
+    "metadata": {
+      "conversation_id": "2023572790649979325",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023570589168926915",
+    "source": "twitter",
+    "author": "tsbrenterprises",
+    "content": "Dear @FactoryAI,\n\nI have made several attempts to contact your support team; however, I have yet to receive any assistance. Despite reinstalling the application multiple times, I continue to encounter functionality issues. Your guidance on this matter would be greatly appreciated. Here’s my account email: rojeka714@gmail.com",
+    "url": "https://x.com/tsbrenterprises/status/2023570589168926915",
+    "timestamp": "2026-02-17T01:29:59.000Z",
+    "metadata": {
+      "conversation_id": "2023570589168926915",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2023561310668288259",
@@ -62,6 +137,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2023549250169430120",
+    "source": "twitter",
+    "author": "pawan_kumar100",
+    "content": "@petergyang @EnoReyes @FactoryAI @meetgranola Thanks for interview Peter!\nLoved @EnoReyes 's PM skill demo. Built a copy here for anyone to use. Product Management skill with configurable doc sources + 10 starter templates (product principles, PRD, prioritization framework, quarterly plan, etc.).\n\nhttps://t.co/IXB1Jss2WC",
+    "url": "https://x.com/pawan_kumar100/status/2023549250169430120",
+    "timestamp": "2026-02-17T00:05:11.000Z",
+    "metadata": {
+      "conversation_id": "2023549250169430120",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2023547886009831581",
@@ -61070,6 +61160,33 @@
     "category": "question"
   },
   {
+    "id": "github_discussion_164",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Discussion] Droid Exec - custom models supported?\n\ncan we have support for custom models in droid exec? even if it were just simple endpoint/key.",
+    "url": "https://github.com/Factory-AI/factory/discussions/164",
+    "timestamp": "2025-10-10T18:34:32Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 164
+    }
+  },
+  {
+    "id": "github_discussion_151",
+    "source": "github",
+    "author": "snowarch",
+    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
+    "url": "https://github.com/Factory-AI/factory/discussions/151",
+    "timestamp": "2025-10-09T10:20:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 151
+    },
+    "category": "question"
+  },
+  {
     "id": "github_discussion_151",
     "source": "github",
     "author": "snowarch",
@@ -61108,8 +61225,7 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 151
-    },
-    "category": "question"
+    }
   },
   {
     "id": "reddit_1o16e9t",
