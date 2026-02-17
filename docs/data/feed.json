@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_666",
+    "source": "github",
+    "author": "ain3sh",
+    "content": "[Issue] Droid 0.57.15 hangs on VPS when updater is enabled (IPv6 stalls; workaround in use)\n\n# Droid updater startup hang on Linux VPS with partial IPv6 egress\n\n## Summary\nOn a Hetzner Ubuntu 24.04 VPS, `droid` hangs at startup when auto-update is enabled. The hang is reproducible for both `droid` and `droid --version`.\n\nThe same Droid version works on WSL2. Current stable workaround on VPS is:\n\n```bash\nexport FACTORY_DROID_AUTO_UPDATE_ENABLED=false\n```\n\nWith this workaround, interactive Droid starts normally.\n\n## Impact\n- Interactive CLI is blocked on affected host when updater is enab",
+    "url": "https://github.com/Factory-AI/factory/issues/666",
+    "timestamp": "2026-02-17T18:49:14Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 666
+    }
+  },
+  {
     "id": "github_issue_663",
     "source": "github",
     "author": "Yoshuar",
