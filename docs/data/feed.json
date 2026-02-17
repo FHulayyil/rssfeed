@@ -1,5 +1,155 @@
 [
   {
+    "id": "twitter_2023826345139335217",
+    "source": "twitter",
+    "author": "feezybellz_ii",
+    "content": "@greenie_sr @austin_hurwitz @neukoai @affaanmustafa @FactoryAI 😂😂",
+    "url": "https://x.com/feezybellz_ii/status/2023826345139335217",
+    "timestamp": "2026-02-17T18:26:16.000Z",
+    "metadata": {
+      "conversation_id": "2023826345139335217",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023826264612864344",
+    "source": "twitter",
+    "author": "LiquorGrainNFT",
+    "content": "@greenie_sr @austin_hurwitz @neukoai @affaanmustafa @FactoryAI What happened lol",
+    "url": "https://x.com/LiquorGrainNFT/status/2023826264612864344",
+    "timestamp": "2026-02-17T18:25:57.000Z",
+    "metadata": {
+      "conversation_id": "2023826264612864344",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023825481922204034",
+    "source": "twitter",
+    "author": "__LaPine__",
+    "content": "@austin_hurwitz @neukoai @affaanmustafa @FactoryAI https://t.co/ZCyrNCHvTb",
+    "url": "https://x.com/__LaPine__/status/2023825481922204034",
+    "timestamp": "2026-02-17T18:22:50.000Z",
+    "metadata": {
+      "conversation_id": "2023825481922204034",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023824937149255914",
+    "source": "twitter",
+    "author": "austin_hurwitz",
+    "content": "@greenie_sr @neukoai @affaanmustafa @FactoryAI dont tell me tell @demdev007",
+    "url": "https://x.com/austin_hurwitz/status/2023824937149255914",
+    "timestamp": "2026-02-17T18:20:40.000Z",
+    "metadata": {
+      "conversation_id": "2023824937149255914",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023824325569319186",
+    "source": "twitter",
+    "author": "Magdalena_arc",
+    "content": "@greenie_sr @austin_hurwitz @neukoai @affaanmustafa @FactoryAI Focus",
+    "url": "https://x.com/Magdalena_arc/status/2023824325569319186",
+    "timestamp": "2026-02-17T18:18:14.000Z",
+    "metadata": {
+      "conversation_id": "2023824325569319186",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023824218052588028",
+    "source": "twitter",
+    "author": "greenie_sr",
+    "content": "@austin_hurwitz @neukoai @affaanmustafa @FactoryAI IM SORRY",
+    "url": "https://x.com/greenie_sr/status/2023824218052588028",
+    "timestamp": "2026-02-17T18:17:49.000Z",
+    "metadata": {
+      "conversation_id": "2023824218052588028",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 4,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023820674587127993",
+    "source": "twitter",
+    "author": "LiquorGrainNFT",
+    "content": "@austin_hurwitz @neukoai @affaanmustafa @FactoryAI ship https://t.co/4NgbzEjk5y",
+    "url": "https://x.com/LiquorGrainNFT/status/2023820674587127993",
+    "timestamp": "2026-02-17T18:03:44.000Z",
+    "metadata": {
+      "conversation_id": "2023820674587127993",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023820466558058800",
+    "source": "twitter",
+    "author": "kristian_sera",
+    "content": "@austin_hurwitz @neukoai @affaanmustafa @FactoryAI The goat!",
+    "url": "https://x.com/kristian_sera/status/2023820466558058800",
+    "timestamp": "2026-02-17T18:02:54.000Z",
+    "metadata": {
+      "conversation_id": "2023820466558058800",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023820171450945669",
+    "source": "twitter",
+    "author": "tdkimber",
+    "content": "@austin_hurwitz @neukoai @affaanmustafa @FactoryAI gyat dayum, GOAT’d!",
+    "url": "https://x.com/tdkimber/status/2023820171450945669",
+    "timestamp": "2026-02-17T18:01:44.000Z",
+    "metadata": {
+      "conversation_id": "2023820171450945669",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023820050164035960",
+    "source": "twitter",
+    "author": "austin_hurwitz",
+    "content": "Stop shipping slop!\n\nSharing the dev harness I use everyday to ship at @neukoai \n\nIt's built on top of @affaanmustafa's  \"everything-claude-code\" which is phenomenal with two key additions:\n\nAn agent readiness system from @FactoryAI:   52-criteria checklist that scores any project L1-L4 before you start coding. \n\nCodex-inspired tracking hooks: every tool call logged as an item, every turn tracked, context window metered with warnings at 80/90%. \n\nLink below",
+    "url": "https://x.com/austin_hurwitz/status/2023820050164035960",
+    "timestamp": "2026-02-17T18:01:15.000Z",
+    "metadata": {
+      "conversation_id": "2023820050164035960",
+      "likes": 24,
+      "retweets": 4,
+      "replies": 6,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023816710860718494",
     "source": "twitter",
     "author": "erd0xbc",
