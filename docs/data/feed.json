@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2023684769540960493",
+    "source": "twitter",
+    "author": "ysu_ChatData",
+    "content": "Love this. The PM skill idea feels like a reusable operating system for product. Curious how you store and version it, and how you prevent it from going stale as the roadmap changes. Do you measure quality with a rubric or compare PRDs against outcomes? Also, when sales is a top user, what guardrails keep it from promising features that engineering cannot ship?",
+    "url": "https://x.com/ysu_ChatData/status/2023684769540960493",
+    "timestamp": "2026-02-17T09:03:41.000Z",
+    "metadata": {
+      "conversation_id": "2023684769540960493",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023684122871238941",
+    "source": "twitter",
+    "author": "tarkanlar",
+    "content": "@matanSF @FactoryAI Why? What is Droid doing differently?",
+    "url": "https://x.com/tarkanlar/status/2023684122871238941",
+    "timestamp": "2026-02-17T09:01:07.000Z",
+    "metadata": {
+      "conversation_id": "2023684122871238941",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023680021466960285",
+    "source": "twitter",
+    "author": "curiomens",
+    "content": "@kieranklaassen @claudeai @OpenAI @opencode @FactoryAI @cursor_ai @geminicli Incredibly upgrade to my CC workflow",
+    "url": "https://x.com/curiomens/status/2023680021466960285",
+    "timestamp": "2026-02-17T08:44:49.000Z",
+    "metadata": {
+      "conversation_id": "2023680021466960285",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023673838404288674",
     "source": "twitter",
     "author": "moinulmoin",
