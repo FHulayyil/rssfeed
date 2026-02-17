@@ -30354,6 +30354,19 @@
     "category": "bug"
   },
   {
+    "id": "reddit_1qgyltr",
+    "source": "reddit",
+    "author": "Cheema42",
+    "content": "droid exec is not working for me\n\nInteractive droid works. But non-interactive does not. It just hangs for a very long time and then quits with no output. I am currently using the latest version 0.53. Anybody else seeing this?\n\nI have tried changing models, but no go. None of the models work non-interactive mode.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qgyltr/droid_exec_is_not_working_for_me/",
+    "timestamp": "2026-01-19T08:22:05.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2013163569202843973",
     "source": "twitter",
     "author": "Ssslly3",
