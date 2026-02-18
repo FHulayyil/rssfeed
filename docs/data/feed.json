@@ -16,6 +16,66 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2023915121781899485",
+    "source": "twitter",
+    "author": "stuli1989",
+    "content": "@jessethanley @FactoryAI I will try! Magento + Tailwind - never would have thunk. But why not try it out.",
+    "url": "https://x.com/stuli1989/status/2023915121781899485",
+    "timestamp": "2026-02-18T00:19:02.000Z",
+    "metadata": {
+      "conversation_id": "2023915121781899485",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023914392786714859",
+    "source": "twitter",
+    "author": "jessethanley",
+    "content": "@stuli1989 @FactoryAI Recommendation: install Tailwind (just CDN to test is fine), and just prompt new components using Tailwind.",
+    "url": "https://x.com/jessethanley/status/2023914392786714859",
+    "timestamp": "2026-02-18T00:16:08.000Z",
+    "metadata": {
+      "conversation_id": "2023914392786714859",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023914035784429794",
+    "source": "twitter",
+    "author": "stuli1989",
+    "content": "Because it was completely blocking anything new I needed to build.\n\nE.g. need to change how things look on the Brand Page just didn't work. And I was running ragged trying to look at things 5-6 levels deep and eventually just slapping !important just to add padding for example.\n\nNeed to make product images bigger on our PDPs - it took forever to figure out.\n\nHence was attempting to move to a more scaleable system.",
+    "url": "https://x.com/stuli1989/status/2023914035784429794",
+    "timestamp": "2026-02-18T00:14:43.000Z",
+    "metadata": {
+      "conversation_id": "2023914035784429794",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2023910313201185178",
+    "source": "twitter",
+    "author": "jessethanley",
+    "content": "@stuli1989 @FactoryAI Why are you “refactoring stylesheets”? That’s hard for even a human + doesn’t move the needle on the business at all.",
+    "url": "https://x.com/jessethanley/status/2023910313201185178",
+    "timestamp": "2026-02-17T23:59:55.000Z",
+    "metadata": {
+      "conversation_id": "2023910313201185178",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2023907690783928372",
     "source": "twitter",
     "author": "stuli1989",
