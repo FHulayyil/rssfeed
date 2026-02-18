@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_668",
+    "source": "github",
+    "author": "hongkongkiwi",
+    "content": "[Issue] Issues with anthropic models\n\nGetting this issue now with anthropic models:\n\nOn version: `v0.57.17`\n\n```\n Error: Streaming is required for operations that may take longer than 10 minutes. See https://github.com/anthropics/anthropic-sdk-typescript#long-requests for more details\n```",
+    "url": "https://github.com/Factory-AI/factory/issues/668",
+    "timestamp": "2026-02-18T17:21:13Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 668
+    }
+  },
+  {
     "id": "github_issue_667",
     "source": "github",
     "author": "gcmdr",
