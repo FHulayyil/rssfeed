@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2024186731483058681",
+    "source": "twitter",
+    "author": "kshvbgde",
+    "content": "@jackfriks have you tried something like @FactoryAI?",
+    "url": "https://x.com/kshvbgde/status/2024186731483058681",
+    "timestamp": "2026-02-18T18:18:19.000Z",
+    "metadata": {
+      "conversation_id": "2024186731483058681",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024178853208641968",
+    "source": "twitter",
+    "author": "anthonyronning",
+    "content": "@benhylak I find that hard to believe considering how terrible claude code is at it. Have you tried @FactoryAI ?",
+    "url": "https://x.com/anthonyronning/status/2024178853208641968",
+    "timestamp": "2026-02-18T17:47:00.000Z",
+    "metadata": {
+      "conversation_id": "2024178853208641968",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_668",
     "source": "github",
     "author": "hongkongkiwi",
