@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2024059530561376747",
+    "source": "twitter",
+    "author": "0_Aakash_0",
+    "content": "This is the right framing for AI dev adoption debates.\n\nThe problem is rarely the model. It's usually the repo: no tests, inconsistent naming, missing context files, circular dependencies. An agent drops into that and amplifies the existing entropy.\n\n\"Agent Readiness\" is actually just \"code quality\" but repackaged for a world where the reviewer is an AI that can't read your mind.",
+    "url": "https://x.com/0_Aakash_0/status/2024059530561376747",
+    "timestamp": "2026-02-18T09:52:51.000Z",
+    "metadata": {
+      "conversation_id": "2024059530561376747",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2024019403591897200",
     "source": "twitter",
     "author": "tahini",
