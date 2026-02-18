@@ -1,5 +1,48 @@
 [
   {
+    "id": "github_issue_668",
+    "source": "github",
+    "author": "hongkongkiwi",
+    "content": "[Issue] Issues with anthropic models\n\nGetting this issue now with anthropic models:\n\nOn version: `v0.57.17`\n\n```\n Error: Streaming is required for operations that may take longer than 10 minutes. See https://github.com/anthropics/anthropic-sdk-typescript#long-requests for more details\n```",
+    "url": "https://github.com/Factory-AI/factory/issues/668",
+    "timestamp": "2026-02-18T17:21:13Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 668
+    }
+  },
+  {
+    "id": "twitter_2024172017889558685",
+    "source": "twitter",
+    "author": "ES0XJEM",
+    "content": "Agent Readiness is gold! I’m smiling ear to ear. Well done @FactoryAI @droid 👏\n\nhttps://t.co/tggMv7HYZZ",
+    "url": "https://x.com/ES0XJEM/status/2024172017889558685",
+    "timestamp": "2026-02-18T17:19:51.000Z",
+    "metadata": {
+      "conversation_id": "2024172017889558685",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024171477893877986",
+    "source": "twitter",
+    "author": "HarryStuck77",
+    "content": "Minimax 2.5 is 10% the cost of Sonnet at the Droid brothers @FactoryAI @MiniMax_AI https://t.co/JyDzDaR2N5",
+    "url": "https://x.com/HarryStuck77/status/2024171477893877986",
+    "timestamp": "2026-02-18T17:17:42.000Z",
+    "metadata": {
+      "conversation_id": "2024171477893877986",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2024167163175850330",
     "source": "twitter",
     "author": "ES0XJEM",
