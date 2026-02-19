@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2024599663287120318",
+    "source": "twitter",
+    "author": "yigitkonur",
+    "content": "@DCasota @FactoryAI sure, working on it!",
+    "url": "https://x.com/yigitkonur/status/2024599663287120318",
+    "timestamp": "2026-02-19T21:39:09.000Z",
+    "metadata": {
+      "conversation_id": "2024599663287120318",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024599058275283149",
+    "source": "twitter",
+    "author": "DCasota",
+    "content": "@yigitkonur Please add @FactoryAI Droid !",
+    "url": "https://x.com/DCasota/status/2024599058275283149",
+    "timestamp": "2026-02-19T21:36:45.000Z",
+    "metadata": {
+      "conversation_id": "2024599058275283149",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024591626170225138",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@moinulmoin @benvargas @petergostev @FactoryAI We're busy working on a few things at once - will get to benchmarking soon!",
+    "url": "https://x.com/EnoReyes/status/2024591626170225138",
+    "timestamp": "2026-02-19T21:07:13.000Z",
+    "metadata": {
+      "conversation_id": "2024591626170225138",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2024588758281003413",
     "source": "twitter",
     "author": "_skris",
