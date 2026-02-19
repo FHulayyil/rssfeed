@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2024582229465137602",
+    "source": "twitter",
+    "author": "nintharc",
+    "content": "@iBhanuDahiya @FactoryAI Oh it's already in the database lmfao. \nYeah it's dope https://t.co/488chntCgK",
+    "url": "https://x.com/nintharc/status/2024582229465137602",
+    "timestamp": "2026-02-19T20:29:53.000Z",
+    "metadata": {
+      "conversation_id": "2024582229465137602",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024581655977992335",
+    "source": "twitter",
+    "author": "nintharc",
+    "content": "@iBhanuDahiya @FactoryAI will do!",
+    "url": "https://x.com/nintharc/status/2024581655977992335",
+    "timestamp": "2026-02-19T20:27:36.000Z",
+    "metadata": {
+      "conversation_id": "2024581655977992335",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024580586925617178",
+    "source": "twitter",
+    "author": "iBhanuDahiya",
+    "content": "@nintharc Checkout @FactoryAI you’ll love it",
+    "url": "https://x.com/iBhanuDahiya/status/2024580586925617178",
+    "timestamp": "2026-02-19T20:23:21.000Z",
+    "metadata": {
+      "conversation_id": "2024580586925617178",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024579473979383919",
+    "source": "twitter",
+    "author": "usiphoe",
+    "content": "@nintharc @iBhanuDahiya @FactoryAI homepage is my most favourite design",
+    "url": "https://x.com/usiphoe/status/2024579473979383919",
+    "timestamp": "2026-02-19T20:18:56.000Z",
+    "metadata": {
+      "conversation_id": "2024579473979383919",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2024577151157039611",
     "source": "twitter",
     "author": "weswinder",
@@ -14,6 +74,36 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2024576688777286022",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@benvargas @petergostev @FactoryAI Totally unacceptable to let Simple Codex rock 🫡😅",
+    "url": "https://x.com/erd0xbc/status/2024576688777286022",
+    "timestamp": "2026-02-19T20:07:52.000Z",
+    "metadata": {
+      "conversation_id": "2024576688777286022",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024574178985132183",
+    "source": "twitter",
+    "author": "dedene",
+    "content": "@johnennis @FactoryAI Very true! Last time I tried figuring that out I couldn’t find a solution. Maybe meanwhile someone found a way but I’m not aware of one.",
+    "url": "https://x.com/dedene/status/2024574178985132183",
+    "timestamp": "2026-02-19T19:57:53.000Z",
+    "metadata": {
+      "conversation_id": "2024574178985132183",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2024573068295684510",
