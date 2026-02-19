@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2024520427427811568",
+    "source": "twitter",
+    "author": "abhishek_a_i",
+    "content": "@_skris @FactoryAI Droid CLI",
+    "url": "https://x.com/abhishek_a_i/status/2024520427427811568",
+    "timestamp": "2026-02-19T16:24:18.000Z",
+    "metadata": {
+      "conversation_id": "2024520427427811568",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024518519413731472",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@petergostev Still needs a @FactoryAI benchmark with GPT-5.3-Codex added now that they've added it. https://t.co/b6nYeRQiIb",
+    "url": "https://x.com/benvargas/status/2024518519413731472",
+    "timestamp": "2026-02-19T16:16:43.000Z",
+    "metadata": {
+      "conversation_id": "2024518519413731472",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024517675976970286",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "@FactoryAI time to heal it's terminal bench for us",
+    "url": "https://x.com/NickSloggett/status/2024517675976970286",
+    "timestamp": "2026-02-19T16:13:22.000Z",
+    "metadata": {
+      "conversation_id": "2024517675976970286",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024509855935987766",
+    "source": "twitter",
+    "author": "kyleanthony",
+    "content": "@NickSloggett @FactoryAI Hopefully dropping that soon!",
+    "url": "https://x.com/kyleanthony/status/2024509855935987766",
+    "timestamp": "2026-02-19T15:42:17.000Z",
+    "metadata": {
+      "conversation_id": "2024509855935987766",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024508852444811761",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "@kyleanthony @FactoryAI hell yeah @FactoryAI swag soon!",
+    "url": "https://x.com/NickSloggett/status/2024508852444811761",
+    "timestamp": "2026-02-19T15:38:18.000Z",
+    "metadata": {
+      "conversation_id": "2024508852444811761",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2024499841766670721",
     "source": "twitter",
     "author": "kyleanthony",
