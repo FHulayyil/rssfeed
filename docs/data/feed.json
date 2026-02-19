@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2024588758281003413",
+    "source": "twitter",
+    "author": "_skris",
+    "content": "@weswinder @droid Very interesting. Thank you!",
+    "url": "https://x.com/_skris/status/2024588758281003413",
+    "timestamp": "2026-02-19T20:55:49.000Z",
+    "metadata": {
+      "conversation_id": "2024588758281003413",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024588304759378049",
+    "source": "twitter",
+    "author": "weswinder",
+    "content": "@_skris @droid it's a different type of product imo\n\nopencode is very general and supports basically everything\n\ndroid is hyper optimized with a lot of really good prompting under the hood that makes it perform significantly better than other harnesses\n\nespecially around compaction management",
+    "url": "https://x.com/weswinder/status/2024588304759378049",
+    "timestamp": "2026-02-19T20:54:01.000Z",
+    "metadata": {
+      "conversation_id": "2024588304759378049",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024587336781070418",
+    "source": "twitter",
+    "author": "_skris",
+    "content": "@weswinder @droid How is it better than opencode?",
+    "url": "https://x.com/_skris/status/2024587336781070418",
+    "timestamp": "2026-02-19T20:50:10.000Z",
+    "metadata": {
+      "conversation_id": "2024587336781070418",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2024582229465137602",
     "source": "twitter",
     "author": "nintharc",
