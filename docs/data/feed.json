@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2024607284584992820",
+    "source": "twitter",
+    "author": "yigitkonur",
+    "content": "@DCasota @FactoryAI completed, first feature release: https://t.co/rS0DRW3OtK - thx for idea!\n\nyou can run by `npx continues` as usual and it'll catch the sessions of droid too after update",
+    "url": "https://x.com/yigitkonur/status/2024607284584992820",
+    "timestamp": "2026-02-19T22:09:26.000Z",
+    "metadata": {
+      "conversation_id": "2024607284584992820",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 2
+    }
+  },
+  {
     "id": "twitter_2024599663287120318",
     "source": "twitter",
     "author": "yigitkonur",
