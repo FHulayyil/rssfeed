@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2024619451921076478",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@alpaysh @droid @OpenRouter Yeah a common pattern for me these days is rapid prototype with A.I. studio and then spin it off into a nextjs / ts / Supabase app with droid",
+    "url": "https://x.com/JoelDeTeves/status/2024619451921076478",
+    "timestamp": "2026-02-19T22:57:47.000Z",
+    "metadata": {
+      "conversation_id": "2024619451921076478",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024619048793731556",
+    "source": "twitter",
+    "author": "alpaysh",
+    "content": "@JoelDeTeves @droid @OpenRouter sounds based bro\nill try minimax\n\ni use grok a lot too\nand claude inside cursor\n\ndamn also thanks ill try google ai studio for product design",
+    "url": "https://x.com/alpaysh/status/2024619048793731556",
+    "timestamp": "2026-02-19T22:56:11.000Z",
+    "metadata": {
+      "conversation_id": "2024619048793731556",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024616602017419736",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "Grok is my daily AI\n\nUsing a lot of Sonnet 4.6 in @droid \n\nMinimax via @OpenRouter for my Claw\n\nUsing GPT 5 extensively for the API, not so much the app these days Grok replaced that for me\n\nI like Gemini in Google AI Studio for rapid prototyping / product design \n\nGemini flash is also a really good inexpensive model for certain api calls / operations",
+    "url": "https://x.com/JoelDeTeves/status/2024616602017419736",
+    "timestamp": "2026-02-19T22:46:28.000Z",
+    "metadata": {
+      "conversation_id": "2024616602017419736",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2024608997823959310",
     "source": "twitter",
     "author": "yigitkonur",
