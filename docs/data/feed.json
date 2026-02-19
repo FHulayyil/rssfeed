@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2024487751366611321",
+    "source": "twitter",
+    "author": "kyleanthony",
+    "content": "@alvarostudio_ @FactoryAI Thanks Alvaro",
+    "url": "https://x.com/kyleanthony/status/2024487751366611321",
+    "timestamp": "2026-02-19T14:14:27.000Z",
+    "metadata": {
+      "conversation_id": "2024487751366611321",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024487546076496152",
+    "source": "twitter",
+    "author": "alvarostudio_",
+    "content": "@kyleanthony @FactoryAI Really impressive",
+    "url": "https://x.com/alvarostudio_/status/2024487546076496152",
+    "timestamp": "2026-02-19T14:13:38.000Z",
+    "metadata": {
+      "conversation_id": "2024487546076496152",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024485392867565962",
+    "source": "twitter",
+    "author": "kyleanthony",
+    "content": "@tdeser @FactoryAI Thank you sir!",
+    "url": "https://x.com/kyleanthony/status/2024485392867565962",
+    "timestamp": "2026-02-19T14:05:05.000Z",
+    "metadata": {
+      "conversation_id": "2024485392867565962",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024484658633703443",
+    "source": "twitter",
+    "author": "tdeser",
+    "content": "@kyleanthony @FactoryAI Incredible work, Kyle",
+    "url": "https://x.com/tdeser/status/2024484658633703443",
+    "timestamp": "2026-02-19T14:02:10.000Z",
+    "metadata": {
+      "conversation_id": "2024484658633703443",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2024481855618396582",
     "source": "twitter",
     "author": "ultralightpcb",
