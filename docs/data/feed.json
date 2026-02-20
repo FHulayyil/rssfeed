@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_672",
+    "source": "github",
+    "author": "MaicoTimmerman",
+    "content": "[Issue] Suspending Droid (ctrl+z) leaves terminal in CSI-u keyboard mode, breaking shell keybindings.\n\nWhen suspending the CLI with `Ctrl-Z`, the terminal is left in CSI-u keyboard mode. After the process is suspended, the shell receives CSI-u encoded key sequences instead of normal control characters, causing keybindings like `Ctrl-E` to appear as literal escape sequences.\n\nFor example, pressing `Ctrl-E` after suspending shows:\n\n```\n01;5u\n```\n\ninstead of moving the cursor to the end of the line. This breaks normal shell interaction until the terminal keyboard mode is manually reset.\n\n---\n\n**Step",
+    "url": "https://github.com/Factory-AI/factory/issues/672",
+    "timestamp": "2026-02-20T16:25:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 672
+    }
+  },
+  {
     "id": "github_issue_670",
     "source": "github",
     "author": "Pull2MAX",
