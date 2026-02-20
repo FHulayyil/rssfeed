@@ -46,6 +46,21 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2024727993097113804",
+    "source": "twitter",
+    "author": "satechdev",
+    "content": "Just looked at my @droid token usage. Thanks to the referral credits they gave me at the start. https://t.co/2rDVbbBRmV",
+    "url": "https://x.com/satechdev/status/2024727993097113804",
+    "timestamp": "2026-02-20T06:09:05.000Z",
+    "metadata": {
+      "conversation_id": "2024727993097113804",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2024700342664138847",
     "source": "twitter",
     "author": "F2aldi",
