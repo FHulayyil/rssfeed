@@ -15088,6 +15088,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_631",
+    "source": "github",
+    "author": "zwen64657",
+    "content": "[Issue] Subject: Feature Request: Option to Disable Internal \"Read\" Tool to Prevent Hallucinations\n\n\n\n1. Executive Summary\nI am writing to request a critical feature update for Droid: the ability to disable the automatic fallback mechanism that uses the internal \"read\" tool when external MCP tools fail.\n\nCurrently, when external MCP tools (such as the zai-mcp-server) encounter connection errors, Droid triggers an unwanted fallback to the built-in read tool. This behavior causes severe hallucinations when processing image data and must be refined.\n\n2. Problem Description\n\nContext: I am using Dr",
+    "url": "https://github.com/Factory-AI/factory/issues/631",
+    "timestamp": "2026-02-03T04:37:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 631
+    }
+  },
+  {
     "id": "twitter_2018540623897219583",
     "source": "twitter",
     "author": "SeeLos",
