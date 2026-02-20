@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2024803438773875021",
+    "source": "twitter",
+    "author": "__jason________",
+    "content": "Been testing Factory Droid in my CLI as a long-time Claude Code CLI user and this is seriously good. Model-agnostic via a simple proxy, easy to configure, and it actually works. @FactoryAI 👀",
+    "url": "https://x.com/__jason________/status/2024803438773875021",
+    "timestamp": "2026-02-20T11:08:53.000Z",
+    "metadata": {
+      "conversation_id": "2024803438773875021",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024799983535558979",
+    "source": "twitter",
+    "author": "towrywang",
+    "content": "@FactoryAI If you disable codex 5.2 in the web setting, it will randomly output this error. Interesting. https://t.co/fJKCod72qx",
+    "url": "https://x.com/towrywang/status/2024799983535558979",
+    "timestamp": "2026-02-20T10:55:09.000Z",
+    "metadata": {
+      "conversation_id": "2024799983535558979",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2024765075446538521",
     "source": "twitter",
     "author": "Divkix",
