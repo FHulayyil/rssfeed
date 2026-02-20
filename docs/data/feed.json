@@ -15088,6 +15088,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_632",
+    "source": "github",
+    "author": "luckzylp",
+    "content": "[Issue] Factory Droid version in ACP is behind the officially released version\n\nHi Factory team,\n\nI noticed that the **Factory Droid version published in the ACP repository is consistently behind the version released through Factory’s official update channel**.\n\nThis leads to version mismatches for users or CI environments that rely on ACP, and makes it harder to reproduce issues across different install paths.\n\nIs there a recommended way to keep the ACP version in sync with Factory Droid releases, or an expected delay policy for ACP updates?\n\nThanks!\n",
+    "url": "https://github.com/Factory-AI/factory/issues/632",
+    "timestamp": "2026-02-03T05:51:48Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 632
+    }
+  },
+  {
     "id": "twitter_2018561777009881418",
     "source": "twitter",
     "author": "psw_bartolomeu",
