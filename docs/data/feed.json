@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2024838155325587730",
+    "source": "twitter",
+    "author": "djasnive",
+    "content": "@FactoryAI Got an issue with droid today\nEverytime i try to use it :\n\ndroid cli Error: Streaming is required for operations that may take longer than 10 minutes",
+    "url": "https://x.com/djasnive/status/2024838155325587730",
+    "timestamp": "2026-02-20T13:26:50.000Z",
+    "metadata": {
+      "conversation_id": "2024838155325587730",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2024806080392376375",
     "source": "twitter",
     "author": "moinulmoin",
