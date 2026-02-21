@@ -1,5 +1,33 @@
 [
   {
+    "id": "reddit_1rb14ld",
+    "source": "reddit",
+    "author": "infys",
+    "content": "I made an similar to Claude Code Web but you can connect to any of your Codex or Claude Subscription\n\nThumbnail: default\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1rb14ld/i_made_an_similar_to_claude_code_web_but_you_can/",
+    "timestamp": "2026-02-21T20:09:01.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_2025300642353250550",
+    "source": "twitter",
+    "author": "lemon07r",
+    "content": "@dbredesen @FactoryAI But in short what I'm trying to say is these evals only measure one kind of thing and isn't a good representative of all workflows, especially more developer/human involved ones. And yes the methodology is involving still, I'm still making improvments to make testing more fair",
+    "url": "https://x.com/lemon07r/status/2025300642353250550",
+    "timestamp": "2026-02-21T20:04:36.000Z",
+    "metadata": {
+      "conversation_id": "2025300642353250550",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2025290721343762493",
     "source": "twitter",
     "author": "artilectium",
