@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_674",
+    "source": "github",
+    "author": "dalisoft",
+    "content": "[Issue] `droid` not running\n\n## Excepted behavior\n\nRunning `droid` terminal instance.\n\n## Actual \n\nhttps://github.com/user-attachments/assets/ca86a49b-c064-4e99-a5b4-cbdf7e7ac199\n\n\n## Additional details\n\nDroid: 0.60.0\nZed: 0.224.10\nOS: Darwin 24.6.0 (macOS 15.7.4), Apple Silicon",
+    "url": "https://github.com/Factory-AI/factory/issues/674",
+    "timestamp": "2026-02-21T12:12:15Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 674
+    }
+  },
+  {
     "id": "github_issue_673",
     "source": "github",
     "author": "1PercentSync",
