@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2025080716179243453",
+    "source": "twitter",
+    "author": "yusufg",
+    "content": "@EnoReyes @alvinsng @FactoryAI May I humbly request some more support staffing particularly wrt email. \nFWIW,  am a paying customer. \nBeyond the autoresponder,  responses don't seem to come cc @matanSF",
+    "url": "https://x.com/yusufg/status/2025080716179243453",
+    "timestamp": "2026-02-21T05:30:41.000Z",
+    "metadata": {
+      "conversation_id": "2025080716179243453",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_673",
     "source": "github",
     "author": "1PercentSync",
