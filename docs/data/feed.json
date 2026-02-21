@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_674",
+    "source": "github",
+    "author": "dalisoft",
+    "content": "[Issue] `droid` not running\n\n## Excepted behavior\n\nRunning `droid` terminal instance.\n\n## Actual \n\nhttps://github.com/user-attachments/assets/ca86a49b-c064-4e99-a5b4-cbdf7e7ac199\n\n\n## Additional details\n\nDroid: 0.60.0\nZed: 0.224.10\nOS: Darwin 24.6.0 (macOS 15.7.4), Apple Silicon",
+    "url": "https://github.com/Factory-AI/factory/issues/674",
+    "timestamp": "2026-02-21T12:12:15Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 674
+    }
+  },
+  {
+    "id": "twitter_2025179943638823261",
+    "source": "twitter",
+    "author": "_alissonryan",
+    "content": "Kilo CLI é um wrapper do opencode. Que por sinal é muito bom sim. \n\nEu tenho usado a um bom tempo o Droid CLI da @FactoryAI \nE o que eu mais gosto deles, é a janela de compressão de contexto, ele não se perde nos assuntos, tem a opção de usar a sua chave, tem skills, mcps, subagents (droids). Me adaptei com ele, e não mudei mais.",
+    "url": "https://x.com/_alissonryan/status/2025179943638823261",
+    "timestamp": "2026-02-21T12:04:59.000Z",
+    "metadata": {
+      "conversation_id": "2025179943638823261",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2025080716179243453",
     "source": "twitter",
     "author": "yusufg",
