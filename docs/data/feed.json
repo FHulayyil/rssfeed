@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2025347945852182816",
+    "source": "twitter",
+    "author": "michielmv",
+    "content": "@nkgoutham @FactoryAI context window exhaustion on long sessions is the practical ceiling most people hit. file-based memory is a partial fix but you still need smart summarization to decide what actually gets written back",
+    "url": "https://x.com/michielmv/status/2025347945852182816",
+    "timestamp": "2026-02-21T23:12:34.000Z",
+    "metadata": {
+      "conversation_id": "2025347945852182816",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2025344229145465174",
     "source": "twitter",
     "author": "__jason________",
