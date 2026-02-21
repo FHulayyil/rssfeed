@@ -1,9 +1,9 @@
 # Classification Summary
 
-**Date:** 2026-02-20 22:45 UTC
+**Date:** 2026-02-21 03:00 UTC
 
 ## Results
 
 - **Total items classified:** 1
 - **Category breakdown:**
-  - mention: 1 (100.0%)
+  - question: 1 (100.0%)
