@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_673",
+    "source": "github",
+    "author": "1PercentSync",
+    "content": "[Issue] Bug: All models disabled in blocklist mode\n\n---\n\n## Bug: All models disabled in blocklist mode\n\n### Description\n\nWhen configuring model policy in the admin panel, disabling \"Allow All Factory Models\" while enabling \"Auto-allow New Models\" (blocklist mode) causes all models to be disabled, instead of the expected behavior where models not in the blocklist should be available.\n\n### Steps to Reproduce\n\n1. Go to Factory Droid admin panel\n2. Disable \"Allow All Factory Models\"\n3. Enable \"Auto-allow New Models\"\n4. Add some models to the blocklis",
+    "url": "https://github.com/Factory-AI/factory/issues/673",
+    "timestamp": "2026-02-21T05:27:20Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 673
+    }
+  },
+  {
     "id": "twitter_2025056984186392921",
     "source": "twitter",
     "author": "ES0XJEM",
