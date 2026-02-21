@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2025053409880277019",
+    "source": "twitter",
+    "author": "kr0der",
+    "content": "@gabegarcia @FactoryAI i tried running the readiness report and it nuked my mac’s RAM",
+    "url": "https://x.com/kr0der/status/2025053409880277019",
+    "timestamp": "2026-02-21T03:42:11.000Z",
+    "metadata": {
+      "conversation_id": "2025053409880277019",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025042175831298184",
+    "source": "twitter",
+    "author": "gabegarcia",
+    "content": "Opus 4.6 in @FactoryAI is good, but very token hungry and can easily go over 20M tokens in one coding session 💀",
+    "url": "https://x.com/gabegarcia/status/2025042175831298184",
+    "timestamp": "2026-02-21T02:57:32.000Z",
+    "metadata": {
+      "conversation_id": "2025042175831298184",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025037858021802301",
+    "source": "twitter",
+    "author": "gabegarcia",
+    "content": "@kr0der check out droid by @FactoryAI It's better than cursor and has kimi 2.5",
+    "url": "https://x.com/gabegarcia/status/2025037858021802301",
+    "timestamp": "2026-02-21T02:40:23.000Z",
+    "metadata": {
+      "conversation_id": "2025037858021802301",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025037198878539818",
+    "source": "twitter",
+    "author": "__jason________",
+    "content": "@tominovoid @FactoryAI Because Claude Code makes it hard to use other models. Droid CLI is at least on par (arguably better), and I can swap models freely - Codex, Gemini, even free Nvidia-hosted models like GLM-5. Anthropic’s weekly limits forced my hand 🤷‍♂️",
+    "url": "https://x.com/__jason________/status/2025037198878539818",
+    "timestamp": "2026-02-21T02:37:46.000Z",
+    "metadata": {
+      "conversation_id": "2025037198878539818",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025024282485739917",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@EnoReyes @FactoryAI 😅",
+    "url": "https://x.com/alvinsng/status/2025024282485739917",
+    "timestamp": "2026-02-21T01:46:26.000Z",
+    "metadata": {
+      "conversation_id": "2025024282485739917",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025020865768030546",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@alvinsng @FactoryAI Interesting post right before perf reviews....",
+    "url": "https://x.com/EnoReyes/status/2025020865768030546",
+    "timestamp": "2026-02-21T01:32:52.000Z",
+    "metadata": {
+      "conversation_id": "2025020865768030546",
+      "likes": 8,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025020047694168472",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "Be like @EnoReyes:\n\n- Top 3 human coders by lines added at @FactoryAI\n- Handles CTO/co-founder duties\n- Dozens of weekly external meetings\n- Plus dozens more 1:1s and interviews each week\n- Manages 20+ direct reports\n\nLong gone are the days when managers didn't ship code. https://t.co/QuPhhBNTB8",
+    "url": "https://x.com/alvinsng/status/2025020047694168472",
+    "timestamp": "2026-02-21T01:29:37.000Z",
+    "metadata": {
+      "conversation_id": "2025020047694168472",
+      "likes": 20,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2025018650978386338",
     "source": "twitter",
     "author": "potatameister",
@@ -14,6 +119,51 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2025014174481367451",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@alvinsng @petergostev @FactoryAI Looking forward to it!",
+    "url": "https://x.com/benvargas/status/2025014174481367451",
+    "timestamp": "2026-02-21T01:06:16.000Z",
+    "metadata": {
+      "conversation_id": "2025014174481367451",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025009086673174917",
+    "source": "twitter",
+    "author": "tominovoid",
+    "content": "@__jason________ @FactoryAI Why not just use Claude code",
+    "url": "https://x.com/tominovoid/status/2025009086673174917",
+    "timestamp": "2026-02-21T00:46:03.000Z",
+    "metadata": {
+      "conversation_id": "2025009086673174917",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2024996289516372206",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@benvargas @petergostev @FactoryAI Soon!",
+    "url": "https://x.com/alvinsng/status/2024996289516372206",
+    "timestamp": "2026-02-20T23:55:12.000Z",
+    "metadata": {
+      "conversation_id": "2024996289516372206",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2024977280020386142",
