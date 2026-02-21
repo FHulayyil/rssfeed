@@ -30,6 +30,36 @@
     "category": "mention"
   },
   {
+    "id": "twitter_2025299968475492731",
+    "source": "twitter",
+    "author": "lemon07r",
+    "content": "@dbredesen @FactoryAI Also worth noting that these kinds of evals reward agents that like to iterate on problems for longer than ones that don't. Claude code is designed to be very efficient and interactive, I can see things like that working against it in these kinds of evals",
+    "url": "https://x.com/lemon07r/status/2025299968475492731",
+    "timestamp": "2026-02-21T20:01:55.000Z",
+    "metadata": {
+      "conversation_id": "2025299968475492731",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025299630523609567",
+    "source": "twitter",
+    "author": "lemon07r",
+    "content": "@dbredesen @FactoryAI I used to run a lot of terminal bench before my own evals and Claude code usually scored pretty whelming there too. That said they've been improving a lot, Claude code has been starting to score higher with newer versions.",
+    "url": "https://x.com/lemon07r/status/2025299630523609567",
+    "timestamp": "2026-02-21T20:00:34.000Z",
+    "metadata": {
+      "conversation_id": "2025299630523609567",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2025290721343762493",
     "source": "twitter",
     "author": "artilectium",
@@ -60,6 +90,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2025289293783261325",
+    "source": "twitter",
+    "author": "ES0XJEM",
+    "content": "@skastr052 @FactoryAI @EnoReyes @matanSF https://t.co/wlYObRv66M",
+    "url": "https://x.com/ES0XJEM/status/2025289293783261325",
+    "timestamp": "2026-02-21T19:19:30.000Z",
+    "metadata": {
+      "conversation_id": "2025289293783261325",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2025285906379186283",
