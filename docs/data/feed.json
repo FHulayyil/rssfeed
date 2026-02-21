@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2025285906379186283",
+    "source": "twitter",
+    "author": "skastr052",
+    "content": "@ES0XJEM @FactoryAI @EnoReyes @matanSF Are specs or specs you're referring to a Droid feature? Or something you've implemented within Droid?",
+    "url": "https://x.com/skastr052/status/2025285906379186283",
+    "timestamp": "2026-02-21T19:06:02.000Z",
+    "metadata": {
+      "conversation_id": "2025285906379186283",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025284644191588418",
+    "source": "twitter",
+    "author": "dbredesen",
+    "content": "@lemon07r @FactoryAI Or maybe I’m just behind, with things evolving so quickly… if so, kudos to @jetbrains",
+    "url": "https://x.com/dbredesen/status/2025284644191588418",
+    "timestamp": "2026-02-21T19:01:01.000Z",
+    "metadata": {
+      "conversation_id": "2025284644191588418",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2025283889950871901",
+    "source": "twitter",
+    "author": "dbredesen",
+    "content": "@lemon07r @FactoryAI Glad to see a dedicated agentic coding benchmark, but I’d have a hard time trusting a benchmark that puts Claude Code at #24 far behind Junie at #3 (having been a long term user of both). \n\nAssume the methodology is still evolving…",
+    "url": "https://x.com/dbredesen/status/2025283889950871901",
+    "timestamp": "2026-02-21T18:58:01.000Z",
+    "metadata": {
+      "conversation_id": "2025283889950871901",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2025270924203696404",
     "source": "twitter",
     "author": "beffjezos",
