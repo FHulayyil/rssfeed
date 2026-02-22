@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_675",
+    "source": "github",
+    "author": "zwen64657",
+    "content": "[Issue] Chinese IME Candidate Window Position Issue: Fixed at Right Edge Instead of Following Cursor\n\nDescription:\nWhen using the Droid extension, the Chinese Input Method Editor (IME) candidate window fails to follow the input cursor and instead appears fixed at the far right of the screen (see screenshots below). In contrast, the VS Code integrated terminal and other extensions (such as Claude Code) correctly position the candidate window near the cursor.\nReproduction Steps:\nInstall and open the Droid extension in VS Code\nSwitch to a Chinese input method (Microsoft Pinyin, Sogou, etc.)\nType Ch",
+    "url": "https://github.com/Factory-AI/factory/issues/675",
+    "timestamp": "2026-02-22T05:37:40Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 675
+    }
+  },
+  {
     "id": "github_issue_674",
     "source": "github",
     "author": "dalisoft",
