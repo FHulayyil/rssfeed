@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2025869346866930064",
+    "source": "twitter",
+    "author": "authorofthesurf",
+    "content": "Claude max is superior to everything most of the time for me\n\nIf you're aiming to test Codex / other models I'd recommend @FactoryAI . It's a strong harness that gets good performance out of Codex when I use it. Can just do a $20/mo plan with $50-100 in overage\n\nI mainly use Factory x Codex 5.2/5.3 to implement Rust stuff and big context stuff which it seems good at. Then I used Claude to QA/review the code and it generally finds a couple things to improve",
+    "url": "https://x.com/authorofthesurf/status/2025869346866930064",
+    "timestamp": "2026-02-23T09:44:25.000Z",
+    "metadata": {
+      "conversation_id": "2025869346866930064",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2025864110286479533",
     "source": "twitter",
     "author": "cloudxdev",
