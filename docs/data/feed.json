@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2026126714020237626",
+    "source": "twitter",
+    "author": "BenSabic",
+    "content": "Your agent skills can also be installed with either a Claude plugin or @cursor_ai plugin, both kept in sync automatically for you with a sync script and GitHub workflow.\n\nPS: Claude plugins are supported in @droid too.",
+    "url": "https://x.com/BenSabic/status/2026126714020237626",
+    "timestamp": "2026-02-24T02:47:06.000Z",
+    "metadata": {
+      "conversation_id": "2026126714020237626",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2026088637067346142",
     "source": "twitter",
     "author": "harjjotsinghh",
