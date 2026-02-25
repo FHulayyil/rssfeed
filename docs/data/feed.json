@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2026722032897945822",
+    "source": "twitter",
+    "author": "AndyJScott",
+    "content": "@FactoryAI what is it @grok",
+    "url": "https://x.com/AndyJScott/status/2026722032897945822",
+    "timestamp": "2026-02-25T18:12:41.000Z",
+    "metadata": {
+      "conversation_id": "2026722032897945822",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026716462925406420",
+    "source": "twitter",
+    "author": "RaghavKoch19380",
+    "content": "@FactoryAI You should also publish how much standard token usage/ cost it took to achieve the result as well.",
+    "url": "https://x.com/RaghavKoch19380/status/2026716462925406420",
+    "timestamp": "2026-02-25T17:50:33.000Z",
+    "metadata": {
+      "conversation_id": "2026716462925406420",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026714772083769581",
+    "source": "twitter",
+    "author": "kyleanthony",
+    "content": "@khan_siam_ @FactoryAI 🫡🫡🫡",
+    "url": "https://x.com/kyleanthony/status/2026714772083769581",
+    "timestamp": "2026-02-25T17:43:50.000Z",
+    "metadata": {
+      "conversation_id": "2026714772083769581",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026714462087164167",
+    "source": "twitter",
+    "author": "khan_siam_",
+    "content": "@kyleanthony @FactoryAI Text texture is so good",
+    "url": "https://x.com/khan_siam_/status/2026714462087164167",
+    "timestamp": "2026-02-25T17:42:36.000Z",
+    "metadata": {
+      "conversation_id": "2026714462087164167",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2026709764424519808",
     "source": "twitter",
     "author": "kyleanthony",
