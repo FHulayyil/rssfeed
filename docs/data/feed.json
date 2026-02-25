@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2026661551545958556",
+    "source": "twitter",
+    "author": "dtadetayo",
+    "content": "@kyleanthony @FactoryAI It's nice connecting with you, sir.",
+    "url": "https://x.com/dtadetayo/status/2026661551545958556",
+    "timestamp": "2026-02-25T14:12:22.000Z",
+    "metadata": {
+      "conversation_id": "2026661551545958556",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026661030097526858",
+    "source": "twitter",
+    "author": "zacktoyota",
+    "content": "@kyleanthony @FactoryAI Mic drop",
+    "url": "https://x.com/zacktoyota/status/2026661030097526858",
+    "timestamp": "2026-02-25T14:10:17.000Z",
+    "metadata": {
+      "conversation_id": "2026661030097526858",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026659402338451857",
+    "source": "twitter",
+    "author": "nickteecee",
+    "content": "@anthonyronning @FactoryAI Great for ergonomics!",
+    "url": "https://x.com/nickteecee/status/2026659402338451857",
+    "timestamp": "2026-02-25T14:03:49.000Z",
+    "metadata": {
+      "conversation_id": "2026659402338451857",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026655137083609121",
+    "source": "twitter",
+    "author": "aroussi",
+    "content": "@laup30 @FactoryAI I like my agents to chatty. GPT is great but very soulless",
+    "url": "https://x.com/aroussi/status/2026655137083609121",
+    "timestamp": "2026-02-25T13:46:52.000Z",
+    "metadata": {
+      "conversation_id": "2026655137083609121",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026654604146999571",
+    "source": "twitter",
+    "author": "laup30",
+    "content": "@aroussi @FactoryAI It’s almost a full 3 points lower than the Factory GPT-5.3 Codex rig. Now THAT is a mentsch. 😎 https://t.co/W0Cu1L4PUO",
+    "url": "https://x.com/laup30/status/2026654604146999571",
+    "timestamp": "2026-02-25T13:44:45.000Z",
+    "metadata": {
+      "conversation_id": "2026654604146999571",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2026648417456312548",
     "source": "twitter",
     "author": "kyleanthony",
