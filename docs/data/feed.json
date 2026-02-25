@@ -1,5 +1,48 @@
 [
   {
+    "id": "github_issue_680",
+    "source": "github",
+    "author": "didasy",
+    "content": "[Issue] Error: 400 status code (no body)\n\nBug report ID: c6586ef6-9e5f-4313-9756-bec6e179c5a9\n\nProblem:\n\nI use cli-proxy-api, set the default model to gpt-5.3-codex. Works fine, but when I switch to gpt-5.2, it shows that error instead.\n\nAfter consulting with GPT, it told me it is because session lock set to fireworks even though it should be openai like I explicitly set in the settings.json. Then it told me to submit bug report.\n\nIt works fine in the previous versions 0.5x.x",
+    "url": "https://github.com/Factory-AI/factory/issues/680",
+    "timestamp": "2026-02-25T15:39:01Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 680
+    }
+  },
+  {
+    "id": "twitter_2026679599032074404",
+    "source": "twitter",
+    "author": "shiyam_kashfiq",
+    "content": "@kyleanthony @FactoryAI This vibe is addictive. Bold, cohesive, and unmistakably yours",
+    "url": "https://x.com/shiyam_kashfiq/status/2026679599032074404",
+    "timestamp": "2026-02-25T15:24:04.000Z",
+    "metadata": {
+      "conversation_id": "2026679599032074404",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026677947470426612",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@FactoryAI, thank you for creating a forking feature for Droid sessions - incredibly useful!",
+    "url": "https://x.com/geo_anima/status/2026677947470426612",
+    "timestamp": "2026-02-25T15:17:31.000Z",
+    "metadata": {
+      "conversation_id": "2026677947470426612",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2026670425879494942",
     "source": "twitter",
     "author": "kyleanthony",
