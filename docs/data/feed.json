@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2026819793500910012",
+    "source": "twitter",
+    "author": "Nexiamuel",
+    "content": "@FactoryAI I cannot use droid cli with my Kimi code plan, always return 400 no body, and when using GLM 5 Code plan with anthropic mode will show Streaming is required for operations that may take longer than 10 minutes error.\n\nAny idea ?",
+    "url": "https://x.com/Nexiamuel/status/2026819793500910012",
+    "timestamp": "2026-02-26T00:41:09.000Z",
+    "metadata": {
+      "conversation_id": "2026819793500910012",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026817996782473644",
+    "source": "twitter",
+    "author": "Billanueba466",
+    "content": "@FactoryAI @MiniMax_AI No, my own CLI Agent “EAI”",
+    "url": "https://x.com/Billanueba466/status/2026817996782473644",
+    "timestamp": "2026-02-26T00:34:01.000Z",
+    "metadata": {
+      "conversation_id": "2026817996782473644",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2026816836172656791",
+    "source": "twitter",
+    "author": "bledaone",
+    "content": "@Billanueba466 @FactoryAI @MiniMax_AI This 93% = Factory+ MiniMax M2.5?",
+    "url": "https://x.com/bledaone/status/2026816836172656791",
+    "timestamp": "2026-02-26T00:29:24.000Z",
+    "metadata": {
+      "conversation_id": "2026816836172656791",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2026816558778167697",
     "source": "twitter",
     "author": "bledaone",
