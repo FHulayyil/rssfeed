@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_687",
+    "source": "github",
+    "author": "romfed205",
+    "content": "[Issue] Not able to paste from clipboard occasionally (macOS)\n\nFrom time to time can't paste into the CLI. After trying to do so (pasting), the CLI lags out and nothing can't be typed in there, can't exit with ctrl+c as well  - only restart helps.",
+    "url": "https://github.com/Factory-AI/factory/issues/687",
+    "timestamp": "2026-02-26T08:24:58Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 687
+    }
+  },
+  {
     "id": "github_issue_682",
     "source": "github",
     "author": "jason-dark",
