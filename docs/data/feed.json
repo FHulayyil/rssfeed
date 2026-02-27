@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2027220661593080107",
+    "source": "twitter",
+    "author": "djasnive",
+    "content": "@FactoryAI Developers are f*cked up? Or not yet?",
+    "url": "https://x.com/djasnive/status/2027220661593080107",
+    "timestamp": "2026-02-27T03:14:04.000Z",
+    "metadata": {
+      "conversation_id": "2027220661593080107",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027220464414670985",
+    "source": "twitter",
+    "author": "weswinder",
+    "content": "@WinterArc2125 @EnoReyes @FactoryAI i’ve been wanting a cheaper plan for https://t.co/DtShwZWYcE core features because can’t really justify the $50/month for a single person\n\nbut i’m having the droids clone it rn and so far it’s basically feature complete\n\nthis is the future of build your own saas imo",
+    "url": "https://x.com/weswinder/status/2027220464414670985",
+    "timestamp": "2026-02-27T03:13:17.000Z",
+    "metadata": {
+      "conversation_id": "2027220464414670985",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027219651218829541",
+    "source": "twitter",
+    "author": "WinterArc2125",
+    "content": "@weswinder @EnoReyes @FactoryAI What would you create if you had the chance?",
+    "url": "https://x.com/WinterArc2125/status/2027219651218829541",
+    "timestamp": "2026-02-27T03:10:03.000Z",
+    "metadata": {
+      "conversation_id": "2027219651218829541",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027218813314298364",
+    "source": "twitter",
+    "author": "weswinder",
+    "content": "@EnoReyes @WinterArc2125 @FactoryAI i think this is really underrated rn because the scale is so massive it’s tough to demo with a simple screen share. it’s breaking my brain\n\ni can totally see this being absolute nuts with opus level models at cerebras level speeds",
+    "url": "https://x.com/weswinder/status/2027218813314298364",
+    "timestamp": "2026-02-27T03:06:43.000Z",
+    "metadata": {
+      "conversation_id": "2027218813314298364",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027218246907420685",
+    "source": "twitter",
+    "author": "ioevno",
+    "content": "Took me three hours before I decided to visit this website @FactoryAI #sanfrancisco https://t.co/1RTJQjPQ2O",
+    "url": "https://x.com/ioevno/status/2027218246907420685",
+    "timestamp": "2026-02-27T03:04:28.000Z",
+    "metadata": {
+      "conversation_id": "2027218246907420685",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027218132310413528",
+    "source": "twitter",
+    "author": "weswinder",
+    "content": "@nurullah_kuus @FactoryAI the biggest thing here is that it does all the testing/validation\n\nso you actually don’t need a human in the loop and you can effectively one shot MASSIVE features or full saas clones\n\nit’s kinda crazy ngl",
+    "url": "https://x.com/weswinder/status/2027218132310413528",
+    "timestamp": "2026-02-27T03:04:01.000Z",
+    "metadata": {
+      "conversation_id": "2027218132310413528",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027215788365545840",
+    "source": "twitter",
+    "author": "jakeharrisdev",
+    "content": "@FactoryAI Does droid have an agent teams like feature?",
+    "url": "https://x.com/jakeharrisdev/status/2027215788365545840",
+    "timestamp": "2026-02-27T02:54:42.000Z",
+    "metadata": {
+      "conversation_id": "2027215788365545840",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027191470877442472",
     "source": "twitter",
     "author": "Ra1kshit",
