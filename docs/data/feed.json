@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_2027469086666727599",
+    "source": "twitter",
+    "author": "amit05prakash",
+    "content": "@KalGrinberg @FactoryAI Beat modded nanogpt speedrun world record",
+    "url": "https://x.com/amit05prakash/status/2027469086666727599",
+    "timestamp": "2026-02-27T19:41:13.000Z",
+    "metadata": {
+      "conversation_id": "2027469086666727599",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027467953428377879",
+    "source": "twitter",
+    "author": "arthur_hyper88",
+    "content": "@KalGrinberg @FactoryAI Seems less challenging since you can control any engine through MCP and extend it today. Older legacy codebases with zero documentation are a different beast entirely that’s the proper benchmark. Love Droid btw!",
+    "url": "https://x.com/arthur_hyper88/status/2027467953428377879",
+    "timestamp": "2026-02-27T19:36:43.000Z",
+    "metadata": {
+      "conversation_id": "2027467953428377879",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027466803094687758",
+    "source": "twitter",
+    "author": "KalGrinberg",
+    "content": "@EverydayAI_ @FactoryAI Let’s ride",
+    "url": "https://x.com/KalGrinberg/status/2027466803094687758",
+    "timestamp": "2026-02-27T19:32:09.000Z",
+    "metadata": {
+      "conversation_id": "2027466803094687758",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027466273177678060",
+    "source": "twitter",
+    "author": "BonairoFi",
+    "content": "@KalGrinberg @FactoryAI Create a digital version of Vital Lacerda board game Lisboa fully implemented (2-4 players, no solo mode), all rules, cards, tiles etc. as in the actual game. Try to get the look and feel of the game and maximize usability, keep the game play intuitive and let players communicate",
+    "url": "https://x.com/BonairoFi/status/2027466273177678060",
+    "timestamp": "2026-02-27T19:30:02.000Z",
+    "metadata": {
+      "conversation_id": "2027466273177678060",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027466104034267558",
+    "source": "twitter",
+    "author": "AGI_Tiramisu",
+    "content": "@KalGrinberg @FactoryAI Build a github alternative, make no mistakes..",
+    "url": "https://x.com/AGI_Tiramisu/status/2027466104034267558",
+    "timestamp": "2026-02-27T19:29:22.000Z",
+    "metadata": {
+      "conversation_id": "2027466104034267558",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027465465983901891",
+    "source": "twitter",
+    "author": "Ashish_Soni08",
+    "content": "@KalGrinberg  @FactoryAI \n\n🌌 Mission Manifest: Project AETHER OS\n\nObjective: Architect and deploy Aether OS, an audio-native, generative data command center that uses a \"Spatial UI\" to turn voice queries into live, interactive dashboards.",
+    "url": "https://x.com/Ashish_Soni08/status/2027465465983901891",
+    "timestamp": "2026-02-27T19:26:50.000Z",
+    "metadata": {
+      "conversation_id": "2027465465983901891",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027464845872771560",
+    "source": "twitter",
+    "author": "itsallrandom69",
+    "content": "Build a full-fledged interactive map with whatever technology is best suitable (e.g mapbox), allowing to superpose gaussian splats / NERFs and position them accurately on the map. There should be a clear visual distinction between the base map and the gaussian splat, the viewer should be shown and it's visual representation configurable (defaults to a 3d camera icon). It's viewing angle should be shown. Gaussian splat should be shown in a \"dot matrix\" kind of vibe.\n\nAllow drone footage (with the proper time-shifting locations) to be shown superposed to the map in a \"top-down\" angle of view. Only a video with absolute timestamps and an array of coordinates + relative timestamps to the video needs to be provided for this.\nSame visual distinction as with gaussian splats should be made, although video detail should be clearly visible.",
+    "url": "https://x.com/itsallrandom69/status/2027464845872771560",
+    "timestamp": "2026-02-27T19:24:22.000Z",
+    "metadata": {
+      "conversation_id": "2027464845872771560",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027464632995352893",
+    "source": "twitter",
+    "author": "AntonyAdhiban",
+    "content": "@KalGrinberg @FactoryAI Build eclipse/sumo netedit gui for web. wasm only",
+    "url": "https://x.com/AntonyAdhiban/status/2027464632995352893",
+    "timestamp": "2026-02-27T19:23:31.000Z",
+    "metadata": {
+      "conversation_id": "2027464632995352893",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027464628775621086",
+    "source": "twitter",
+    "author": "keccak256ex",
+    "content": "@KalGrinberg @FactoryAI combine all of our data analytics and BI and make full scope changes to any of our products to make an additional $2M/mo",
+    "url": "https://x.com/keccak256ex/status/2027464628775621086",
+    "timestamp": "2026-02-27T19:23:30.000Z",
+    "metadata": {
+      "conversation_id": "2027464628775621086",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027464321794449560",
     "source": "twitter",
     "author": "weswinder",
@@ -15268,6 +15403,19 @@
       "number": 641
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_641",
+    "source": "github",
+    "author": "igoor-asso",
+    "content": "[Issue] I've received confirmation that the specification has been approved and edited.\n\nIn Droid BYOK, on Windows 11 inside VSCode, with GLM-4.7, when I'm in spec mode and Droid creates a plan, I choose to edit manually in VSCode. As soon as I start editing, I get \n\nI've received confirmation that the specification has been approved and edited.\n\neven if I didn't even save the newly created file. \nSometimes it actually starts developing without me accepting any modification.",
+    "url": "https://github.com/Factory-AI/factory/issues/641",
+    "timestamp": "2026-02-10T16:38:31Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 641
+    }
   },
   {
     "id": "twitter_2021255606724932041",
