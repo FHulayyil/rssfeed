@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_2027495816407978216",
+    "source": "twitter",
+    "author": "queaxtra",
+    "content": "@FactoryAI when did your support team last check emails? I think they haven't checked your emails for a week, or they're ignoring mine. Doesn't your support team intend to help me?",
+    "url": "https://x.com/queaxtra/status/2027495816407978216",
+    "timestamp": "2026-02-27T21:27:26.000Z",
+    "metadata": {
+      "conversation_id": "2027495816407978216",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027495620424966563",
+    "source": "twitter",
+    "author": "_Coday_",
+    "content": "@KalGrinberg @FactoryAI Is $20 pro plan enough to get stated with? What kind of limits am I looking?\n\nI already have perplexity pro, Gemini pro, Claude max, and OpenAI pro. Would love to replace one or all of them!",
+    "url": "https://x.com/_Coday_/status/2027495620424966563",
+    "timestamp": "2026-02-27T21:26:39.000Z",
+    "metadata": {
+      "conversation_id": "2027495620424966563",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1rgj6n7",
+    "source": "reddit",
+    "author": "jazzy8alex",
+    "content": "Viewing &amp; Searching Factory Droid CLI Session History with Agent Sessions (macOS)\n\nHey Droid ommunity,\n\nI built **Agent Sessions** to browse/search different local coding-agents (Codex, Claude etc) runs, and I’m sharing it here specifically for  **Droid** folks.\n\n**Project page:** [Agent Sessions](https://jazzyalex.github.io/agent-sessions)\n\n• macOS app • Open source • Local only • 282 GitHub stars\n\n# What it helps with\n\n* Browse all local Droid and 5 more CLI agents sessions (active + past)\n* Full-text search across your session history\n* Read runs as a clean message timeline",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1rgj6n7/viewing_searching_factory_droid_cli_session/",
+    "timestamp": "2026-02-27T21:16:39.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2027492836115935440",
     "source": "twitter",
     "author": "mwroblewski_dev",
