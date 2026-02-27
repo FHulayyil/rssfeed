@@ -1,5 +1,33 @@
 [
   {
+    "id": "reddit_1rglofn",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.65.0 Released - /diagnostics command and more\n\n## New features\n\n* **/diagnostics command** - New `/diagnostics` command with overlay menu and footer status for troubleshooting CLI issues\n* **Unstaged changes in diff viewer** - View and manage unstaged changes directly in the diff viewer panel (app)\n* **GitHub comments in diff viewer** - View GitHub PR comments alongside code changes in the diff viewer (app)\n* **Session deep linking** - Share and navigate directly to specific sessions via deep links (app)\n* **Diff preview for enterprise contr",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1rglofn/factory_cli_v0650_released_diagnostics_command/",
+    "timestamp": "2026-02-27T22:54:12.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_2027516232442990864",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@draslan_eth @HarryStuck77 @droid You can use free of charge if you bring your own key.",
+    "url": "https://x.com/mikez93/status/2027516232442990864",
+    "timestamp": "2026-02-27T22:48:33.000Z",
+    "metadata": {
+      "conversation_id": "2027516232442990864",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027516162062340397",
     "source": "twitter",
     "author": "CallMeMrYogurt",
@@ -32,6 +60,21 @@
     "category": "love"
   },
   {
+    "id": "twitter_2027514572853174428",
+    "source": "twitter",
+    "author": "the_yamiteru",
+    "content": "@pascallammers_ @droid Well it doesn't. If I switch to Factory paid plan I do see /mission.",
+    "url": "https://x.com/the_yamiteru/status/2027514572853174428",
+    "timestamp": "2026-02-27T22:41:58.000Z",
+    "metadata": {
+      "conversation_id": "2027514572853174428",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027514363259576471",
     "source": "twitter",
     "author": "heyellieday",
@@ -46,6 +89,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2027512454050140491",
+    "source": "twitter",
+    "author": "weswinder",
+    "content": "@geo_anima @droid why not opus as the orchestrator?",
+    "url": "https://x.com/weswinder/status/2027512454050140491",
+    "timestamp": "2026-02-27T22:33:33.000Z",
+    "metadata": {
+      "conversation_id": "2027512454050140491",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027512216614846513",
@@ -94,6 +152,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2027510296684683694",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@the_yamiteru @droid New version and than /mission for example . Should work for your own keys too",
+    "url": "https://x.com/pascallammers_/status/2027510296684683694",
+    "timestamp": "2026-02-27T22:24:58.000Z",
+    "metadata": {
+      "conversation_id": "2027510296684683694",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027509470520037409",
