@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_2027233282015015399",
+    "source": "twitter",
+    "author": "zach_sndr",
+    "content": "@FactoryAI I need to use droid just for the brutalist, deep tech aesthetics",
+    "url": "https://x.com/zach_sndr/status/2027233282015015399",
+    "timestamp": "2026-02-27T04:04:13.000Z",
+    "metadata": {
+      "conversation_id": "2027233282015015399",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027230994357481863",
+    "source": "twitter",
+    "author": "mjtechguy",
+    "content": "@FactoryAI How fast would a multi day mission kill my $200 plan? I’m a little scared to be honest.",
+    "url": "https://x.com/mjtechguy/status/2027230994357481863",
+    "timestamp": "2026-02-27T03:55:07.000Z",
+    "metadata": {
+      "conversation_id": "2027230994357481863",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027222437314671022",
+    "source": "twitter",
+    "author": "weswinder",
+    "content": "@WinterArc2125 @EnoReyes @FactoryAI most people won’t care, yes, but from my first demo of this today it’s going to be a huge leap for people that care",
+    "url": "https://x.com/weswinder/status/2027222437314671022",
+    "timestamp": "2026-02-27T03:21:07.000Z",
+    "metadata": {
+      "conversation_id": "2027222437314671022",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027221661620060217",
+    "source": "twitter",
+    "author": "WinterArc2125",
+    "content": "@weswinder @EnoReyes @FactoryAI Ooh cool.  Yep it is, but I think it'll stay restricted to devs or atleast some what technical people.",
+    "url": "https://x.com/WinterArc2125/status/2027221661620060217",
+    "timestamp": "2026-02-27T03:18:02.000Z",
+    "metadata": {
+      "conversation_id": "2027221661620060217",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027220661593080107",
     "source": "twitter",
     "author": "djasnive",
@@ -30400,6 +30460,19 @@
       "number": 613
     },
     "category": "bug"
+  },
+  {
+    "id": "github_discussion_613",
+    "source": "github",
+    "author": "NTQ-TaiHX",
+    "content": "[Discussion] Authentication failed:\n\nEPERM: operation not permitted, rename 'C:\\Users\\xxx\\.factory\\auth.encrypted.tmp' -> 'C:\\Users\\xxx\\.factory\\auth.encrypted'\r\n\r\n> Press Enter to try again\r\n\r\nFor security reasons, I am not allowed to create .encrypted files; as soon as the new version is updated, I cannot use Droid.\r\n",
+    "url": "https://github.com/Factory-AI/factory/discussions/613",
+    "timestamp": "2026-01-23T04:58:29Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 613
+    }
   },
   {
     "id": "twitter_2014560190884876599",
