@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2027249312980402636",
+    "source": "twitter",
+    "author": "albfresco",
+    "content": "ayo what’s good @FactoryAI https://t.co/EaCNqKrEow",
+    "url": "https://x.com/albfresco/status/2027249312980402636",
+    "timestamp": "2026-02-27T05:07:55.000Z",
+    "metadata": {
+      "conversation_id": "2027249312980402636",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_688",
     "source": "github",
     "author": "fanenr",
