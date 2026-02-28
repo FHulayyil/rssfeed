@@ -432,6 +432,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2027837752075817103",
+    "source": "twitter",
+    "author": "svsairevanth",
+    "content": "@ImVibhek @FactoryAI @bunjavascript next letg go for @warpdotdev",
+    "url": "https://x.com/svsairevanth/status/2027837752075817103",
+    "timestamp": "2026-02-28T20:06:10.000Z",
+    "metadata": {
+      "conversation_id": "2027837752075817103",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027837573821849938",
     "source": "twitter",
     "author": "ethiodroid",
@@ -496,6 +511,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2027835793402704191",
+    "source": "twitter",
+    "author": "archimagos",
+    "content": "@KalGrinberg @FactoryAI NebulaGraph graph backend + Qdrant external vector-store overlay for Graphiti:\nhttps://t.co/yAGdsiLlan",
+    "url": "https://x.com/archimagos/status/2027835793402704191",
+    "timestamp": "2026-02-28T19:58:23.000Z",
+    "metadata": {
+      "conversation_id": "2027835793402704191",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027835528406598049",
     "source": "twitter",
     "author": "ethiodroid",
@@ -510,6 +540,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2027835240320999769",
+    "source": "twitter",
+    "author": "svsairevanth",
+    "content": "@FactoryAI cli has been ripped up using unbun . their logic and system prompt the server api calls all key code is visible people who are using bun should be carefull .\n\n@ImVibhek has explored the entire claude code cli\n\ncc @bunjavascript",
+    "url": "https://x.com/svsairevanth/status/2027835240320999769",
+    "timestamp": "2026-02-28T19:56:11.000Z",
+    "metadata": {
+      "conversation_id": "2027835240320999769",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027835219173122139",
@@ -654,6 +699,21 @@
       "quotes": 1
     },
     "category": "bug"
+  },
+  {
+    "id": "twitter_2027832292547449169",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "@pcshipp @FactoryAI gets all of the SOTAs and is a damm good harnass. No model lock-in ftw",
+    "url": "https://x.com/launchaddict/status/2027832292547449169",
+    "timestamp": "2026-02-28T19:44:28.000Z",
+    "metadata": {
+      "conversation_id": "2027832292547449169",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027832201329410553",
