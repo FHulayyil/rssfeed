@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2027669317937205312",
+    "source": "twitter",
+    "author": "leodoan_",
+    "content": "@KalGrinberg @FactoryAI build gta 6 from scratch. make no mistake",
+    "url": "https://x.com/leodoan_/status/2027669317937205312",
+    "timestamp": "2026-02-28T08:56:52.000Z",
+    "metadata": {
+      "conversation_id": "2027669317937205312",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027664944888525115",
+    "source": "twitter",
+    "author": "theplgeek",
+    "content": "@justsisyphus @FactoryAI @EnoReyes @opencode Same with https://t.co/OZSkWKaLAT and same with https://t.co/2cVHEXLY21, and same concepts exist in most ralph-ish implementations https://t.co/fw32PbORXi",
+    "url": "https://x.com/theplgeek/status/2027664944888525115",
+    "timestamp": "2026-02-28T08:39:29.000Z",
+    "metadata": {
+      "conversation_id": "2027664944888525115",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027661250218348766",
     "source": "twitter",
     "author": "FediMoss",
