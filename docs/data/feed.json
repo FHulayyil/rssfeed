@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2027616459929919991",
+    "source": "twitter",
+    "author": "q_yeon_gyu_kim",
+    "content": "@justsisyphus @FactoryAI @EnoReyes @opencode i have introduced that atlas even before a month (i mean, i am **only** talking about the stable release)\n\nhttps://t.co/LSlShPrIqd\n\nimagine those bay area ai startups copy my features from my PERSONAL SETUP and doing virals\n\nfeels so nice\n\nthis is open source haha",
+    "url": "https://x.com/q_yeon_gyu_kim/status/2027616459929919991",
+    "timestamp": "2026-02-28T05:26:49.000Z",
+    "metadata": {
+      "conversation_id": "2027616459929919991",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027614021978083706",
+    "source": "twitter",
+    "author": "justsisyphus",
+    "content": "@shamilkayal @q_yeon_gyu_kim @FactoryAI https://t.co/kae1vOXWNe\n\nactually we were the first\n@q_yeon_gyu_kim he is a true genius",
+    "url": "https://x.com/justsisyphus/status/2027614021978083706",
+    "timestamp": "2026-02-28T05:17:08.000Z",
+    "metadata": {
+      "conversation_id": "2027614021978083706",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027613907406495746",
+    "source": "twitter",
+    "author": "justsisyphus",
+    "content": "but literally what this means is that:\nwe are far ahead and other players like @openai codex(they recently introduced their version of omo's orchestration + planning feature), and @FactoryAI \n\nguys, we are open source and our @q_yeon_gyu_kim is a true young genius",
+    "url": "https://x.com/justsisyphus/status/2027613907406495746",
+    "timestamp": "2026-02-28T05:16:41.000Z",
+    "metadata": {
+      "conversation_id": "2027613907406495746",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027613905082818965",
+    "source": "twitter",
+    "author": "justsisyphus",
+    "content": "@FactoryAI we really love your product guys and prompting skills so @q_yeon_gyu_kim 's older readme even had recommended to use droid as a respect!\n\nbetter could have credits with his name @EnoReyes \n\nhttps://t.co/uXSsmw80qi",
+    "url": "https://x.com/justsisyphus/status/2027613905082818965",
+    "timestamp": "2026-02-28T05:16:40.000Z",
+    "metadata": {
+      "conversation_id": "2027613905082818965",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027613892214722958",
+    "source": "twitter",
+    "author": "justsisyphus",
+    "content": "you saw those mission @FactoryAI, right?\nwe even read one from @EnoReyes \n\nwe had that like a month ago on oh-my-opencode @opencode \nnot a clickbait\nwe are opensource so you can see from our git logs\n\nwe exactly have had those same concepts! 🧵\n\n👇",
+    "url": "https://x.com/justsisyphus/status/2027613892214722958",
+    "timestamp": "2026-02-28T05:16:37.000Z",
+    "metadata": {
+      "conversation_id": "2027613892214722958",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 1
+    }
+  },
+  {
     "id": "twitter_2027612649890910462",
     "source": "twitter",
     "author": "JonnyD",
@@ -14,6 +89,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2027608900237987857",
+    "source": "twitter",
+    "author": "thebhomik",
+    "content": "@KalGrinberg @FactoryAI prompt: build a better openclaw alternative, use a monorepo, build a native mac app, windows app, web app, ios app, android app, cli, tui and 1000+ tools integrations and a complete memory system with skills and plugins and can be connected to any messaging channel lol 🤓",
+    "url": "https://x.com/thebhomik/status/2027608900237987857",
+    "timestamp": "2026-02-28T04:56:47.000Z",
+    "metadata": {
+      "conversation_id": "2027608900237987857",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027603034440700247",
@@ -30498,6 +30588,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1qoqf6t",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.55.2 Released - Marketplace auto-updates and more\n\n## New features\n\n* **Marketplace auto-updates** - New management UI with auto-update setting and silent auto-installation of missing marketplaces on startup\n* **`--allow-background-processes` flag** - Added flag support for interactive and resumed sessions\n\n## Bug fixes\n\n* **AskUser tool parsing** - Improved parsing logic for questionnaire formatting\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qoqf6t/factory_cli_v0552_released_marketplace/",
+    "timestamp": "2026-01-27T20:59:59.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2016254820513153526",
