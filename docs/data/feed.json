@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2027787188604182761",
+    "source": "twitter",
+    "author": "whitecollarOG",
+    "content": "So I gave @FactoryAI a shot and wow! I’m really loving it! This is THE harness to build with.",
+    "url": "https://x.com/whitecollarOG/status/2027787188604182761",
+    "timestamp": "2026-02-28T16:45:14.000Z",
+    "metadata": {
+      "conversation_id": "2027787188604182761",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027786367715934383",
+    "source": "twitter",
+    "author": "DowClem",
+    "content": "I think @FactoryAI could give clearer guidance on when to use Mission Control. I created a spec asked Droid should I use MC for this instance and it said yes.  But in reality it wasn’t a multi day task.",
+    "url": "https://x.com/DowClem/status/2027786367715934383",
+    "timestamp": "2026-02-28T16:41:59.000Z",
+    "metadata": {
+      "conversation_id": "2027786367715934383",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027785303386145079",
     "source": "twitter",
     "author": "FaultyMotivator",
@@ -288,6 +318,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2027778117322817863",
+    "source": "twitter",
+    "author": "NotionLuck",
+    "content": "@justsisyphus @FactoryAI @EnoReyes @opencode How can i add your mission control in opencode? I downloaded and dont know what to do xD",
+    "url": "https://x.com/NotionLuck/status/2027778117322817863",
+    "timestamp": "2026-02-28T16:09:12.000Z",
+    "metadata": {
+      "conversation_id": "2027778117322817863",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027778030798594201",
     "source": "twitter",
     "author": "Neysinceroo2",
@@ -318,6 +363,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2027775533040443775",
+    "source": "twitter",
+    "author": "filpizlo",
+    "content": "@birch_js @KalGrinberg @FactoryAI 🤣🤣🤣\n\nIt’s true, these things still fail a lot, if you give them anything super hard or super specialized. \n\nThey’re getting better though",
+    "url": "https://x.com/filpizlo/status/2027775533040443775",
+    "timestamp": "2026-02-28T15:58:55.000Z",
+    "metadata": {
+      "conversation_id": "2027775533040443775",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2027770531274244272",
