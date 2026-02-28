@@ -15370,7 +15370,8 @@
       "type": "issue",
       "labels": [],
       "number": 659
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2023105956679483650",
