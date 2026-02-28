@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2027756979712930233",
+    "source": "twitter",
+    "author": "birch_js",
+    "content": "@filpizlo @KalGrinberg @FactoryAI I prompted Codex CLI to run GPT 5.3 to implement WebKit’s -apple-visual-effect CSS property (a private API for rendering Liquid Glass) for a new web engine.\n\nI pointed it at the exact source code, docs, and tests. Tried four different times with hand-holding. Still utterly failed",
+    "url": "https://x.com/birch_js/status/2027756979712930233",
+    "timestamp": "2026-02-28T14:45:12.000Z",
+    "metadata": {
+      "conversation_id": "2027756979712930233",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027746272828903747",
     "source": "twitter",
     "author": "pascallammers_",
