@@ -15178,6 +15178,19 @@
     "category": "bug"
   },
   {
+    "id": "reddit_1r3ucrn",
+    "source": "reddit",
+    "author": "johannes_bertens",
+    "content": "Raspberry PI 4 support dropped?\n\nRunning droid now gives:\n\n```bash\n❯ droid\nIllegal instruction\n```\n\nVersion 0.57.5 still works:\n`https://downloads.factory.ai/factory-cli/releases/0.57.5/linux/arm64/droid`\n\nBut obviously it's sad if that's (one of?) the last versions!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1r3ucrn/raspberry_pi_4_support_dropped/",
+    "timestamp": "2026-02-13T16:50:39.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2022350627439817012",
     "source": "twitter",
     "author": "slobkebap",
