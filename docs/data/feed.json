@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_2027674757856907380",
+    "source": "twitter",
+    "author": "tiagoefreitas",
+    "content": "@KalGrinberg @FactoryAI port chromium to ios, full working app with all the chrome features but chromium rendering",
+    "url": "https://x.com/tiagoefreitas/status/2027674757856907380",
+    "timestamp": "2026-02-28T09:18:29.000Z",
+    "metadata": {
+      "conversation_id": "2027674757856907380",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027674165424361784",
+    "source": "twitter",
+    "author": "MilitantAI",
+    "content": "@KalGrinberg @FactoryAI A month won't be long enough, and I'd need to personally monitor the outputs to prevent alignment drift. But if you want to use those tokens to help change the world you should hit me up.",
+    "url": "https://x.com/MilitantAI/status/2027674165424361784",
+    "timestamp": "2026-02-28T09:16:08.000Z",
+    "metadata": {
+      "conversation_id": "2027674165424361784",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027671874554024404",
+    "source": "twitter",
+    "author": "draslan_eth",
+    "content": "@justsisyphus @FactoryAI @EnoReyes @opencode will look deeper into opencode then.",
+    "url": "https://x.com/draslan_eth/status/2027671874554024404",
+    "timestamp": "2026-02-28T09:07:01.000Z",
+    "metadata": {
+      "conversation_id": "2027671874554024404",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027669317937205312",
     "source": "twitter",
     "author": "leodoan_",
