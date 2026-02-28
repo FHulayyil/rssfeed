@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2027551584209588536",
+    "source": "twitter",
+    "author": "plantingtoearn",
+    "content": "@KalGrinberg @FactoryAI Build Gta VI ,make no mistakes.",
+    "url": "https://x.com/plantingtoearn/status/2027551584209588536",
+    "timestamp": "2026-02-28T01:09:02.000Z",
+    "metadata": {
+      "conversation_id": "2027551584209588536",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027550887132922229",
+    "source": "twitter",
+    "author": "muhammad_o7",
+    "content": "@KalGrinberg @FactoryAI Rebuild Microsoft teams using Rust and Tauri",
+    "url": "https://x.com/muhammad_o7/status/2027550887132922229",
+    "timestamp": "2026-02-28T01:06:16.000Z",
+    "metadata": {
+      "conversation_id": "2027550887132922229",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027550577073524760",
+    "source": "twitter",
+    "author": "KalGrinberg",
+    "content": "@pietAIdev @FactoryAI Ugh",
+    "url": "https://x.com/KalGrinberg/status/2027550577073524760",
+    "timestamp": "2026-02-28T01:05:02.000Z",
+    "metadata": {
+      "conversation_id": "2027550577073524760",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027550083651154303",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@KalGrinberg @FactoryAI Build a better OpenClaw using Droid Exec as the core agents.\n\nReplace the weak execution layer with persistent Droid Exec + nested Missions for real coherence power and security boundaries.",
+    "url": "https://x.com/geo_anima/status/2027550083651154303",
+    "timestamp": "2026-02-28T01:03:04.000Z",
+    "metadata": {
+      "conversation_id": "2027550083651154303",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027549799637999907",
+    "source": "twitter",
+    "author": "_colemurray",
+    "content": "@KalGrinberg @FactoryAI build fsctory signals from scratch and open source it. Make no mistakes",
+    "url": "https://x.com/_colemurray/status/2027549799637999907",
+    "timestamp": "2026-02-28T01:01:56.000Z",
+    "metadata": {
+      "conversation_id": "2027549799637999907",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027549620180816357",
+    "source": "twitter",
+    "author": "towrywang",
+    "content": "@KalGrinberg @FactoryAI So what have you build with unlimited tokens and this powerful tool? None i guess",
+    "url": "https://x.com/towrywang/status/2027549620180816357",
+    "timestamp": "2026-02-28T01:01:14.000Z",
+    "metadata": {
+      "conversation_id": "2027549620180816357",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027549011524169822",
+    "source": "twitter",
+    "author": "DowClem",
+    "content": "@RayFernando1337 @FactoryAI America’s best kept secret",
+    "url": "https://x.com/DowClem/status/2027549011524169822",
+    "timestamp": "2026-02-28T00:58:49.000Z",
+    "metadata": {
+      "conversation_id": "2027549011524169822",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027545047017918704",
+    "source": "twitter",
+    "author": "RayFernando1337",
+    "content": "@DowClem @FactoryAI It’s so damn good!!",
+    "url": "https://x.com/RayFernando1337/status/2027545047017918704",
+    "timestamp": "2026-02-28T00:43:03.000Z",
+    "metadata": {
+      "conversation_id": "2027545047017918704",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027541312451285108",
     "source": "twitter",
     "author": "DowClem",
@@ -70814,6 +70934,19 @@
       "number": 509
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_509",
+    "source": "github",
+    "author": "MikDal002",
+    "content": "[Discussion] How to continue chat after droid crash\n\nHello :) \r\n\r\nSometimes droid crashes unexpectedly. Is there any way to recover to that session? \r\n\r\nExample exception\r\n\r\n```\r\nBun v1.3.3 (274e01c7) Windows x64\r\nWindows v.win11_dt\r\nCPU: sse42 avx avx2\r\nArgs: \"C:\\Users\\DQ845LT\\bin\\droid.exe\" \"--resume\"\r\nFeatures: Bun.stderr(2) Bun.stdin(2) Bun.stdout(2) fetch(6) http_server(2) jsc spawn(25) standalone_executable\r\nBuiltins: \"bun:main\" \"node:assert\" \"node:async_hooks\" \"node:buffer\" \"node:child_process\" \"node:constants\" \"node:crypto\" \"node:events\" \"",
+    "url": "https://github.com/Factory-AI/factory/discussions/509",
+    "timestamp": "2025-12-10T16:12:43Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 509
+    }
   },
   {
     "id": "github_issue_507",
