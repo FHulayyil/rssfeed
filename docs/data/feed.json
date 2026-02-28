@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_2027875176759590992",
+    "source": "twitter",
+    "author": "enbydroid",
+    "content": "@akamepsps @akamestudio 🥺 👉👈",
+    "url": "https://x.com/enbydroid/status/2027875176759590992",
+    "timestamp": "2026-02-28T22:34:52.000Z",
+    "metadata": {
+      "conversation_id": "2027875176759590992",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027874937373970718",
+    "source": "twitter",
+    "author": "grogu_shib",
+    "content": "I love Jon's ideas. a mouse droid POV is awesome.",
+    "url": "https://x.com/grogu_shib/status/2027874937373970718",
+    "timestamp": "2026-02-28T22:33:55.000Z",
+    "metadata": {
+      "conversation_id": "2027874937373970718",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027874647744631000",
+    "source": "twitter",
+    "author": "YOUWAANN",
+    "content": "Don’t worry guys I got this https://t.co/SxXXwrojke",
+    "url": "https://x.com/YOUWAANN/status/2027874647744631000",
+    "timestamp": "2026-02-28T22:32:46.000Z",
+    "metadata": {
+      "conversation_id": "2027874647744631000",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027873611428532609",
+    "source": "twitter",
+    "author": "markzdroid",
+    "content": "@yezyfury Everything apart from gold, lmao.",
+    "url": "https://x.com/markzdroid/status/2027873611428532609",
+    "timestamp": "2026-02-28T22:28:39.000Z",
+    "metadata": {
+      "conversation_id": "2027873611428532609",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027872837256536274",
+    "source": "twitter",
+    "author": "aroussi",
+    "content": "@VanillaCache @droid Nope https://t.co/3NBHeP2DaB",
+    "url": "https://x.com/aroussi/status/2027872837256536274",
+    "timestamp": "2026-02-28T22:25:35.000Z",
+    "metadata": {
+      "conversation_id": "2027872837256536274",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027872732596129905",
+    "source": "twitter",
+    "author": "Neysinceroo2",
+    "content": "@nicollebratz @futebol_info @geglobo Guuuuol yuriiii mais um viceeeee Lanus kakaka",
+    "url": "https://x.com/Neysinceroo2/status/2027872732596129905",
+    "timestamp": "2026-02-28T22:25:10.000Z",
+    "metadata": {
+      "conversation_id": "2027872732596129905",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027872600081473757",
+    "source": "twitter",
+    "author": "SteveThreeP0",
+    "content": "Baseball fans will do anything to put the blame on the Dodgers and not their own stingy ass dumb shit cheap loser owners for not reinvesting in the product they put on the field",
+    "url": "https://x.com/SteveThreeP0/status/2027872600081473757",
+    "timestamp": "2026-02-28T22:24:38.000Z",
+    "metadata": {
+      "conversation_id": "2027872600081473757",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027872303464210778",
+    "source": "twitter",
+    "author": "NabbitFan730",
+    "content": "@grifin_station You definitely should. \n\nDude gives more genuine insight like this to Toriyama's work and manga as a whole.",
+    "url": "https://x.com/NabbitFan730/status/2027872303464210778",
+    "timestamp": "2026-02-28T22:23:27.000Z",
+    "metadata": {
+      "conversation_id": "2027872303464210778",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2027871895274852669",
+    "source": "twitter",
+    "author": "Joskney1",
+    "content": "@LadyLiberty0 Looking very nice!!  \nAre you intending on using wonder projector, a droid valet or Gek hologram, robot arms/screens or leave  for a real Traveler to bartend.\n #NoMansSky",
+    "url": "https://x.com/Joskney1/status/2027871895274852669",
+    "timestamp": "2026-02-28T22:21:50.000Z",
+    "metadata": {
+      "conversation_id": "2027871895274852669",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2027871156036833358",
     "source": "twitter",
     "author": "OnlyOneFive_",
@@ -15314,6 +15449,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1r6yrhz",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.57.15 Released\n\n---\n\n[View full changelog](https://docs.factory.ai/changelog/cli-updates)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1r6yrhz/factory_cli_v05715_released/",
+    "timestamp": "2026-02-17T06:36:36.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2023645601842557198",
@@ -77154,18 +77302,17 @@
     "category": "question"
   },
   {
-    "id": "github_discussion_151",
+    "id": "github_discussion_164",
     "source": "github",
-    "author": "snowarch",
-    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
-    "url": "https://github.com/Factory-AI/factory/discussions/151",
-    "timestamp": "2025-10-09T10:20:14Z",
+    "author": "tgerighty",
+    "content": "[Discussion] Droid Exec - custom models supported?\n\ncan we have support for custom models in droid exec? even if it were just simple endpoint/key.",
+    "url": "https://github.com/Factory-AI/factory/discussions/164",
+    "timestamp": "2025-10-10T18:34:32Z",
     "metadata": {
       "type": "discussion",
       "category": "Feature requests",
-      "number": 151
-    },
-    "category": "question"
+      "number": 164
+    }
   },
   {
     "id": "github_discussion_151",
@@ -77208,6 +77355,33 @@
       "number": 151
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_151",
+    "source": "github",
+    "author": "snowarch",
+    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
+    "url": "https://github.com/Factory-AI/factory/discussions/151",
+    "timestamp": "2025-10-09T10:20:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 151
+    },
+    "category": "question"
+  },
+  {
+    "id": "github_discussion_151",
+    "source": "github",
+    "author": "snowarch",
+    "content": "[Discussion] Sound or notification when completed task\n\nIt would be useful to have some kind of sound or notification in the system when the agent has completed the task. Droid CLI, Arch Linux.",
+    "url": "https://github.com/Factory-AI/factory/discussions/151",
+    "timestamp": "2025-10-09T10:20:14Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 151
+    }
   },
   {
     "id": "reddit_1o16e9t",
@@ -77280,6 +77454,19 @@
     "category": "mention"
   },
   {
+    "id": "github_discussion_108",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] Release v1.3.220\n\n---\r\n\r\nThis release brings HTTP MCP server support, a `/compress` command to optimize your context usage and droid exec for CDE.\r\n\r\n---\r\n\r\n## HTTP MCP Server Support\r\n\r\nFactory now supports streamable HTTP-based Model Context Protocol (MCP) servers in addition to stdio-based servers. This enables you to connect to MCP servers running as web services, making it easier to integrate with cloud-hosted tools and services.\r\n\r\nWhen adding an MCP server, Factory automatically detects whether it's HTTP o",
+    "url": "https://github.com/Factory-AI/factory/discussions/108",
+    "timestamp": "2025-10-03T20:21:56Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 108
+    }
+  },
+  {
     "id": "github_discussion_99",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -77336,18 +77523,17 @@
     "category": "question"
   },
   {
-    "id": "github_discussion_95",
+    "id": "github_discussion_99",
     "source": "github",
-    "author": "factory-ben",
-    "content": "[Discussion] CLI v0.16.0 Release Notes\n\n- Sonnet 4.5 model is now available\r\n- Clear chat input using double ESC or Ctrl-C\r\n- User-configured allow and deny list of commands to execute\r\n- Option to disable droid commit co-authoring\r\n- Auth using FACTORY_API_KEY\r\n- Fixed UI bugs due to resizing",
-    "url": "https://github.com/Factory-AI/factory/discussions/95",
-    "timestamp": "2025-10-01T20:05:01Z",
+    "author": "Evan-Kim2028",
+    "content": "[Discussion] Droid source code\n\nIs droid closed source? I am not able to find any code. I would like to be able to see how the droid tools are implemented if the code is available to see",
+    "url": "https://github.com/Factory-AI/factory/discussions/99",
+    "timestamp": "2025-10-02T17:51:27Z",
     "metadata": {
       "type": "discussion",
-      "category": "Factory Official",
-      "number": 95
-    },
-    "category": "mention"
+      "category": "Questions",
+      "number": 99
+    }
   },
   {
     "id": "github_discussion_95",
@@ -77390,6 +77576,33 @@
       "number": 95
     },
     "category": "mention"
+  },
+  {
+    "id": "github_discussion_95",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] CLI v0.16.0 Release Notes\n\n- Sonnet 4.5 model is now available\r\n- Clear chat input using double ESC or Ctrl-C\r\n- User-configured allow and deny list of commands to execute\r\n- Option to disable droid commit co-authoring\r\n- Auth using FACTORY_API_KEY\r\n- Fixed UI bugs due to resizing",
+    "url": "https://github.com/Factory-AI/factory/discussions/95",
+    "timestamp": "2025-10-01T20:05:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 95
+    },
+    "category": "mention"
+  },
+  {
+    "id": "github_discussion_95",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] CLI v0.16.0 Release Notes\n\n- Sonnet 4.5 model is now available\r\n- Clear chat input using double ESC or Ctrl-C\r\n- User-configured allow and deny list of commands to execute\r\n- Option to disable droid commit co-authoring\r\n- Auth using FACTORY_API_KEY\r\n- Fixed UI bugs due to resizing",
+    "url": "https://github.com/Factory-AI/factory/discussions/95",
+    "timestamp": "2025-10-01T20:05:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 95
+    }
   },
   {
     "id": "github_discussion_92",
