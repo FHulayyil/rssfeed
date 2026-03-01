@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2028104370764525837",
+    "source": "twitter",
+    "author": "_alissonryan",
+    "content": "@eusouomatt Eu tenho usado o antigravity do Google como IDE, e no terminal uso o Droid da @FactoryAI com o Codex, ou até com o plano coding da @Zai_org usando o GLM 5",
+    "url": "https://x.com/_alissonryan/status/2028104370764525837",
+    "timestamp": "2026-03-01T13:45:37.000Z",
+    "metadata": {
+      "conversation_id": "2028104370764525837",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028104186441683052",
     "source": "twitter",
     "author": "lumbago223",
@@ -15266,6 +15281,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1reqqdm",
+    "source": "reddit",
+    "author": "jrhabana",
+    "content": "Does factoryAi this enrich issues with codebase context?\n\nI want to  enrich the issues with codebase and doc context to create well done plans and reduce time and frustration  \nmy ideal flow is:\n\n1.- create issue -&gt;something in background read it, has static codebase context and reply asking 3 questions to gain context\n\n2. user answer -&gt; something in background do the research on behalf the user to create an issue prd or fixing plan well detailed\n\n3. something creates a PRD or Spec's plan based in the issue type and the information\n\nthe something",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1reqqdm/does_factoryai_this_enrich_issues_with_codebase/",
+    "timestamp": "2026-02-25T21:37:35.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2026769929639440830",
