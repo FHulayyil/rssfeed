@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2028203185383550992",
+    "source": "twitter",
+    "author": "RunMaestroAI",
+    "content": "@softcoda @FactoryAI It's as easy to use as it's addictive.",
+    "url": "https://x.com/RunMaestroAI/status/2028203185383550992",
+    "timestamp": "2026-03-01T20:18:16.000Z",
+    "metadata": {
+      "conversation_id": "2028203185383550992",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028202734998917477",
+    "source": "twitter",
+    "author": "eeshakhanna1",
+    "content": "my two cents from using these tools daily:\n\nas an individual dev, claude code is unmatched. i live in my terminal, i control the loop, i think alongside it.\n\nbut for our org? we're running @DevinAI with @sentry + @linear integrations and auto-triggers on issues. completely different value prop.\n\nthe mistake people make is evaluating agentic coding tools on \"which is smartest.\" wrong question.\n\nat the end of the day, all of these are just harnesses and the frontier models are reaching parity. \n\nthe right question: who is the user?\n\n- individual dev iterating fast? CLI tools like cc, codex win\n- org that wants to delegate scoped tasks at scale? cloud agents like @DevinAI and @FactoryAI's droids win\n\nthey're different products solving different problems.",
+    "url": "https://x.com/eeshakhanna1/status/2028202734998917477",
+    "timestamp": "2026-03-01T20:16:28.000Z",
+    "metadata": {
+      "conversation_id": "2028202734998917477",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028200602866700333",
     "source": "twitter",
     "author": "ninjaparticle",
@@ -62,6 +92,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028199666525815250",
+    "source": "twitter",
+    "author": "RayaneRachid_",
+    "content": "@FactoryAI if you build a bench that compares the plan mode harness, autonomous work, etc like you did for the compaction bench i will switch to you. With maybe a general harness score ? this is the only missing part",
+    "url": "https://x.com/RayaneRachid_/status/2028199666525815250",
+    "timestamp": "2026-03-01T20:04:17.000Z",
+    "metadata": {
+      "conversation_id": "2028199666525815250",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028199131232010715",
@@ -366,6 +411,21 @@
       "quotes": 0
     },
     "category": "mention"
+  },
+  {
+    "id": "twitter_2028196652197048342",
+    "source": "twitter",
+    "author": "fullpatstack",
+    "content": "@FactoryAI What’s the estimated api bill for a mission going on for 24h straight using opus 4.6?",
+    "url": "https://x.com/fullpatstack/status/2028196652197048342",
+    "timestamp": "2026-03-01T19:52:18.000Z",
+    "metadata": {
+      "conversation_id": "2028196652197048342",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028196627572281828",
@@ -30656,6 +30716,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1r1bepg",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.57.10 Released - `/skills` UX overhaul and more\n\n## New features\n\n* **`/skills` UX overhaul** - Tabbed layout with pagination and a dedicated detail view for browsing and importing skills\n* **Terminal tab titles** - Terminal tab now displays the session name so you can identify Droid sessions across multiple tabs\n* **`droid update` command** - New command to manually update the CLI, plus ability to disable autoupdate via `/settings`\n* **Session end hooks** - Hooks now fire when running `/clear` or `/new`, enabling custom cleanup workflows\n* **",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1r1bepg/factory_cli_v05710_released_skills_ux_overhaul/",
+    "timestamp": "2026-02-10T20:01:23.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2021311899413918207",
     "source": "twitter",
     "author": "ezDecode",
@@ -30858,6 +30931,19 @@
       "number": 641
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_641",
+    "source": "github",
+    "author": "igoor-asso",
+    "content": "[Issue] I've received confirmation that the specification has been approved and edited.\n\nIn Droid BYOK, on Windows 11 inside VSCode, with GLM-4.7, when I'm in spec mode and Droid creates a plan, I choose to edit manually in VSCode. As soon as I start editing, I get \n\nI've received confirmation that the specification has been approved and edited.\n\neven if I didn't even save the newly created file. \nSometimes it actually starts developing without me accepting any modification.",
+    "url": "https://github.com/Factory-AI/factory/issues/641",
+    "timestamp": "2026-02-10T16:38:31Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 641
+    }
   },
   {
     "id": "twitter_2021255606724932041",
