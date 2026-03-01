@@ -10,7 +10,8 @@
       "score": 1,
       "num_comments": 0,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2028210597649646047",
@@ -217,7 +218,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2028207531546321268",
@@ -248,7 +250,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2028206669423911309",
@@ -61891,7 +61894,8 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 588
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2011512018822746116",
