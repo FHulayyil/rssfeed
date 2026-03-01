@@ -1,5 +1,245 @@
 [
   {
+    "id": "twitter_2028167363062005878",
+    "source": "twitter",
+    "author": "HarryStuck77",
+    "content": "@anasibnanwar @OlivierDDR @FactoryAI @droid openrouter tests with diff providers - set in config file.",
+    "url": "https://x.com/HarryStuck77/status/2028167363062005878",
+    "timestamp": "2026-03-01T17:55:55.000Z",
+    "metadata": {
+      "conversation_id": "2028167363062005878",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028167105602810119",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@catalinmpit Only need a few: @GitHubCopilot @droid @OpenAI Codex @AmpCode and @claudeai.\n\n@geminicli should only really be used from another CLI. 2nd opinion analysis, web fetch, search, multi model analyze.",
+    "url": "https://x.com/erd0xbc/status/2028167105602810119",
+    "timestamp": "2026-03-01T17:54:54.000Z",
+    "metadata": {
+      "conversation_id": "2028167105602810119",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028167013898789161",
+    "source": "twitter",
+    "author": "anasibnanwar",
+    "content": "@HarryStuck77 @OlivierDDR @FactoryAI @droid I do that but I have a feeling that I don't get proper xhigh reasoning and it gets downgraded to low/medium reasoning.",
+    "url": "https://x.com/anasibnanwar/status/2028167013898789161",
+    "timestamp": "2026-03-01T17:54:32.000Z",
+    "metadata": {
+      "conversation_id": "2028167013898789161",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028166952506597738",
+    "source": "twitter",
+    "author": "terescavs",
+    "content": "@OleTimeHardball Graig Nettles\nBrooks Robinson",
+    "url": "https://x.com/terescavs/status/2028166952506597738",
+    "timestamp": "2026-03-01T17:54:17.000Z",
+    "metadata": {
+      "conversation_id": "2028166952506597738",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028166856452821126",
+    "source": "twitter",
+    "author": "djasnive",
+    "content": "@FactoryAI @gabegarcia @droid This GIF can be seen in the wrong way with all the things happening in the world right now.",
+    "url": "https://x.com/djasnive/status/2028166856452821126",
+    "timestamp": "2026-03-01T17:53:54.000Z",
+    "metadata": {
+      "conversation_id": "2028166856452821126",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028166681932255668",
+    "source": "twitter",
+    "author": "HarryStuck77",
+    "content": "@anasibnanwar @OlivierDDR @FactoryAI @droid BYO Codex Proxy.",
+    "url": "https://x.com/HarryStuck77/status/2028166681932255668",
+    "timestamp": "2026-03-01T17:53:13.000Z",
+    "metadata": {
+      "conversation_id": "2028166681932255668",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028166609471521246",
+    "source": "twitter",
+    "author": "ninjaparticle",
+    "content": "@EnoReyes @droid @FactoryAI ohh that’s cool. let me check that out.\nthanks :))",
+    "url": "https://x.com/ninjaparticle/status/2028166609471521246",
+    "timestamp": "2026-03-01T17:52:55.000Z",
+    "metadata": {
+      "conversation_id": "2028166609471521246",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028166402541052017",
+    "source": "twitter",
+    "author": "VerDroid",
+    "content": "Rudo Surebrec (Gachiakuta) - Lixo É Meu Vício | Ver Droid https://t.co/gfYXFgO3rZ",
+    "url": "https://x.com/VerDroid/status/2028166402541052017",
+    "timestamp": "2026-03-01T17:52:06.000Z",
+    "metadata": {
+      "conversation_id": "2028166402541052017",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028166366906515592",
+    "source": "twitter",
+    "author": "JHostage",
+    "content": "@thewinterdollx YES!",
+    "url": "https://x.com/JHostage/status/2028166366906515592",
+    "timestamp": "2026-03-01T17:51:58.000Z",
+    "metadata": {
+      "conversation_id": "2028166366906515592",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028165846879854648",
+    "source": "twitter",
+    "author": "anasibnanwar",
+    "content": "@OlivierDDR @HarryStuck77 @FactoryAI @droid yea we get 10:1 for cached but still cached are usually so much.They should add oAuth connectors to codex subs for their cli and should keep their Mission Control feature on 200$ so people can at least get their task done.Because Api usages are expensive..",
+    "url": "https://x.com/anasibnanwar/status/2028165846879854648",
+    "timestamp": "2026-03-01T17:49:54.000Z",
+    "metadata": {
+      "conversation_id": "2028165846879854648",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028165809827414503",
+    "source": "twitter",
+    "author": "HarryStuck77",
+    "content": "@anasibnanwar @FactoryAI @droid that is what i thought. BUT the moment the cache kicks in it makes a lot of sense. And Minimax 2.5 is so well weighted with them that i could not make it better myself.  Minimax at 10% of Sonnet. Super fast.",
+    "url": "https://x.com/HarryStuck77/status/2028165809827414503",
+    "timestamp": "2026-03-01T17:49:45.000Z",
+    "metadata": {
+      "conversation_id": "2028165809827414503",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028165786431307858",
+    "source": "twitter",
+    "author": "getofftether",
+    "content": "@boylifeTV @ARIA2XTRA Where did she say he was bigger than her",
+    "url": "https://x.com/getofftether/status/2028165786431307858",
+    "timestamp": "2026-03-01T17:49:39.000Z",
+    "metadata": {
+      "conversation_id": "2028165786431307858",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028165685436711379",
+    "source": "twitter",
+    "author": "achudaisilva",
+    "content": "@Izaizinhaizao Mas eu disse que é nojento, não que é ruim ☝🏻",
+    "url": "https://x.com/achudaisilva/status/2028165685436711379",
+    "timestamp": "2026-03-01T17:49:15.000Z",
+    "metadata": {
+      "conversation_id": "2028165685436711379",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028165616289599721",
+    "source": "twitter",
+    "author": "JHostage",
+    "content": "@honeymoon250 get off",
+    "url": "https://x.com/JHostage/status/2028165616289599721",
+    "timestamp": "2026-03-01T17:48:59.000Z",
+    "metadata": {
+      "conversation_id": "2028165616289599721",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028165545640747091",
+    "source": "twitter",
+    "author": "JHostage",
+    "content": "@EmilySm43 a man!🤣  oh no I wait I mean a beer!\n\nBTW I am a man!",
+    "url": "https://x.com/JHostage/status/2028165545640747091",
+    "timestamp": "2026-03-01T17:48:42.000Z",
+    "metadata": {
+      "conversation_id": "2028165545640747091",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028165410609078593",
+    "source": "twitter",
+    "author": "OMerashli",
+    "content": "@fancycubed Cheesy huh?well how about \"rusteana droid\"?",
+    "url": "https://x.com/OMerashli/status/2028165410609078593",
+    "timestamp": "2026-03-01T17:48:10.000Z",
+    "metadata": {
+      "conversation_id": "2028165410609078593",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028165131864072532",
     "source": "twitter",
     "author": "bitsizeshoes1",
