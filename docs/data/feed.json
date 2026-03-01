@@ -80,6 +80,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2028131702317396034",
+    "source": "twitter",
+    "author": "shanemonastero",
+    "content": "Yeah, it's awesome. I really like the context monitoring part, although I'm hacking around to make it use my llama.cpp server for summarization since /compress doesn't work with BYOK models yet.\n\nFor Qwen3.5-35B-A3B Q8, you'd need at least 3x 3090s — the file is 37GB, but actual VRAM usage is ~50GB with KV cache overhead. I run it on 4x 3090s to have headroom for a 512K context window.\n\nThat said, you could make 2x 3090s work with some trade-offs: partial GPU offload (spilling some layers to the CPU), a smaller context window (32K vs 262K), or more aggressive KV cache quantization (q4 instead of q8). All reduce VRAM at the cost of speed or context length, but it is technically possible with some trade-offs.",
+    "url": "https://x.com/shanemonastero/status/2028131702317396034",
+    "timestamp": "2026-03-01T15:34:13.000Z",
+    "metadata": {
+      "conversation_id": "2028131702317396034",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028131649452638355",
     "source": "twitter",
     "author": "droidbuilds",
@@ -30724,6 +30739,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
+  },
+  {
+    "id": "reddit_1qygv4w",
+    "source": "reddit",
+    "author": "Reasonable-Sector192",
+    "content": "Opus 4.6 not showing up in the CLI Vscode.\n\nWhy",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qygv4w/opus_46_not_showing_up_in_the_cli_vscode/",
+    "timestamp": "2026-02-07T15:36:18.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2020105887050854755",
