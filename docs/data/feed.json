@@ -1,5 +1,125 @@
 [
   {
+    "id": "twitter_2028048304336990247",
+    "source": "twitter",
+    "author": "GeorgeFloydDown",
+    "content": "I lowkey turned into the nigga from teen titans I am officially the droid now https://t.co/I3CZWHJOwx",
+    "url": "https://x.com/GeorgeFloydDown/status/2028048304336990247",
+    "timestamp": "2026-03-01T10:02:49.000Z",
+    "metadata": {
+      "conversation_id": "2028048304336990247",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028047332764184889",
+    "source": "twitter",
+    "author": "THedorah21",
+    "content": "@ghadaa231 . https://t.co/wr9RTnJvSs",
+    "url": "https://x.com/THedorah21/status/2028047332764184889",
+    "timestamp": "2026-03-01T09:58:58.000Z",
+    "metadata": {
+      "conversation_id": "2028047332764184889",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028046873827684360",
+    "source": "twitter",
+    "author": "THedorah21",
+    "content": "@mohkhi9 @Blaze_Knight95 @gazafunds @Hpotterfan20 @jukyyoongi @knowlesvatoo @nauticaldub @patfahy23 https://t.co/vgpnaKW8gD",
+    "url": "https://x.com/THedorah21/status/2028046873827684360",
+    "timestamp": "2026-03-01T09:57:08.000Z",
+    "metadata": {
+      "conversation_id": "2028046873827684360",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028046640162951374",
+    "source": "twitter",
+    "author": "temuka1286",
+    "content": "@neilorpen @Aranbaal @TerraOrBust I have evidence that 12% of postal votes are fraudulent based on on person voting. Moreover given the fraud is 'family voting' and families live at the same postal address, the % of fraud is higher.",
+    "url": "https://x.com/temuka1286/status/2028046640162951374",
+    "timestamp": "2026-03-01T09:56:12.000Z",
+    "metadata": {
+      "conversation_id": "2028046640162951374",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028046614527397995",
+    "source": "twitter",
+    "author": "THedorah21",
+    "content": "FUCK ICE\nFUCK THE US\nFUCK ISRAEL\nFUCK THE IDIOTIC BIGOTS THAT LED TO THIS\nFUCK TRANSPHOBES\nFUCK MY PIECE OF SHIT GOVERMENT\nFREE PALESTINE\nJUSTICE FOR IRAN",
+    "url": "https://x.com/THedorah21/status/2028046614527397995",
+    "timestamp": "2026-03-01T09:56:06.000Z",
+    "metadata": {
+      "conversation_id": "2028046614527397995",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028046586475954631",
+    "source": "twitter",
+    "author": "SonOfTheWinds",
+    "content": "Its Super Droid ! #cyclist #cycling https://t.co/J5jSIE29fA",
+    "url": "https://x.com/SonOfTheWinds/status/2028046586475954631",
+    "timestamp": "2026-03-01T09:56:00.000Z",
+    "metadata": {
+      "conversation_id": "2028046586475954631",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028046005262839922",
+    "source": "twitter",
+    "author": "PabloFrost4670",
+    "content": "@elonmusk I think a remotely piloted droid arm team or solar concentrator to EMF printer and assembler rings to the asteroid belt is a better option than moon base alpha. Sending people to space is cool and all… but let’s get society right before orbital Earth hotels. \nThere is no plan b.",
+    "url": "https://x.com/PabloFrost4670/status/2028046005262839922",
+    "timestamp": "2026-03-01T09:53:41.000Z",
+    "metadata": {
+      "conversation_id": "2028046005262839922",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028045659102675400",
+    "source": "twitter",
+    "author": "THedorah21",
+    "content": "@malakjalhoam2 https://t.co/kC3WTu3QS6",
+    "url": "https://x.com/THedorah21/status/2028045659102675400",
+    "timestamp": "2026-03-01T09:52:19.000Z",
+    "metadata": {
+      "conversation_id": "2028045659102675400",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028042406424158656",
     "source": "twitter",
     "author": "DroidCrypto",
@@ -15162,6 +15282,19 @@
       "number": 676
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_676",
+    "source": "github",
+    "author": "washanhanzi",
+    "content": "[Issue] Droid interactive CLI causes terminal window to resize on focus\n\n## Bug Description\n\nFocusing on the Droid interactive CLI causes the terminal window to resize unexpectedly.\n\n## Environment\n\n- **Droid version**: 0.61.0\n- **OS**: Arch Linux, Wayland\n- **Affected terminals**: Kitty, Ghostty (plain terminal, no tmux/IDE)\n\n## Steps to Reproduce\n\n1. Open Kitty or Ghostty terminal\n2. Launch Droid interactive CLI\n3. Switch focus away from the terminal\n4. Switch focus back to the terminal\n\n**Expected**: Terminal window size remains unchanged.\n**Actual**: Terminal win",
+    "url": "https://github.com/Factory-AI/factory/issues/676",
+    "timestamp": "2026-02-24T05:17:20Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 676
+    }
   },
   {
     "id": "twitter_2026126714020237626",
