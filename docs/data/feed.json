@@ -15000,6 +15000,19 @@
     "category": "mention"
   },
   {
+    "id": "reddit_1rglofn",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Factory CLI v0.65.0 Released - /diagnostics command and more\n\n## New features\n\n* **/diagnostics command** - New `/diagnostics` command with overlay menu and footer status for troubleshooting CLI issues\n* **Unstaged changes in diff viewer** - View and manage unstaged changes directly in the diff viewer panel (app)\n* **GitHub comments in diff viewer** - View GitHub PR comments alongside code changes in the diff viewer (app)\n* **Session deep linking** - Share and navigate directly to specific sessions via deep links (app)\n* **Diff preview for enterprise contr",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1rglofn/factory_cli_v0650_released_diagnostics_command/",
+    "timestamp": "2026-02-27T22:54:12.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2027517389479571759",
     "source": "twitter",
     "author": "ty_todd1",
