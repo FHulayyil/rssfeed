@@ -15194,6 +15194,19 @@
     "category": "bug"
   },
   {
+    "id": "github_issue_675",
+    "source": "github",
+    "author": "zwen64657",
+    "content": "[Issue] Chinese IME Candidate Window Position Issue: Fixed at Right Edge Instead of Following Cursor\n\nDescription:\nWhen using the Droid extension, the Chinese Input Method Editor (IME) candidate window fails to follow the input cursor and instead appears fixed at the far right of the screen (see screenshots below). In contrast, the VS Code integrated terminal and other extensions (such as Claude Code) correctly position the candidate window near the cursor.\nReproduction Steps:\nInstall and open the Droid extension in VS Code\nSwitch to a Chinese input method (Microsoft Pinyin, Sogou, etc.)\nType Ch",
+    "url": "https://github.com/Factory-AI/factory/issues/675",
+    "timestamp": "2026-02-22T05:37:40Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 675
+    }
+  },
+  {
     "id": "twitter_2025436179349561722",
     "source": "twitter",
     "author": "JoelDeTeves",
@@ -15334,6 +15347,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "mention"
+  },
+  {
+    "id": "reddit_1rb14ld",
+    "source": "reddit",
+    "author": "infys",
+    "content": "I made an similar to Claude Code Web but you can connect to any of your Codex or Claude Subscription\n\nThumbnail: default\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1rb14ld/i_made_an_similar_to_claude_code_web_but_you_can/",
+    "timestamp": "2026-02-21T20:09:01.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2025300642353250550",
@@ -77586,6 +77612,19 @@
       "number": 558
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_558",
+    "source": "github",
+    "author": "mfursov",
+    "content": "[Discussion] A shortcut to switch directly into the Planning mode\n\nI know Shift-Tab switches between modes, but there are a lot of them 5.\r\n\r\nIt would be great if we can switch into the Planning mode directly. Like Alt+P or something similar.",
+    "url": "https://github.com/Factory-AI/factory/discussions/558",
+    "timestamp": "2025-12-31T01:26:07Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 558
+    }
   },
   {
     "id": "twitter_2006173619584721060",
