@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_691",
+    "source": "github",
+    "author": "HaydenLundin",
+    "content": "[Issue] Subagents (Task tool) fail 100% on all BYOK models — \"No output received\" / \"Task failed\"\n\n\n## Summary\n\nThe Task tool fails to execute **any** subagent when using BYOK custom models. Tested across 5 different models, 2 different providers, and 2 different provider types — all produce the same `⚠ Task failed` with no output. The simplest possible task (\"respond with the word hello\") fails every time.\n\nThe default `worker` droid (shipped by Factory) fails on every BYOK model. This is not a droid configuration issue.\n\nThis appears related to closed #211 (same symptoms). The underlying is",
+    "url": "https://github.com/Factory-AI/factory/issues/691",
+    "timestamp": "2026-03-01T07:29:28Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 691
+    }
+  },
+  {
     "id": "github_issue_688",
     "source": "github",
     "author": "fanenr",
