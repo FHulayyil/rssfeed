@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2028542493965394419",
+    "source": "twitter",
+    "author": "ChaosCruxFL",
+    "content": "This is great! The session capture tied to commits is something I've been missing. I'm running four Factory droids in production for SaaS support automation.. an orchestrator daemon (Droid) polls every 5 min, classifies tickets, delegates to specialized droids for KB responses, log analysis, and deep code investigation that traces root cause to the line. Tiered monitoring stack auto-creates tickets from error trends before users even report them.. our team meeting transcripts feed through AI and auto-generate dev action items. But all that reasoning history lives in a database, not versioned with the code. Going to look at this for that traceability layer! Thanks for sharing!!",
+    "url": "https://x.com/ChaosCruxFL/status/2028542493965394419",
+    "timestamp": "2026-03-02T18:46:33.000Z",
+    "metadata": {
+      "conversation_id": "2028542493965394419",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028539238937956750",
     "source": "twitter",
     "author": "markzdroid",
@@ -30648,6 +30663,19 @@
       "number": 670
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_670",
+    "source": "github",
+    "author": "Pull2MAX",
+    "content": "[Issue] Table column alignment broken with CJK (Chinese/Japanese/Korean) characters\n\n## Description\n\nWhen the AI response contains a Markdown table with CJK (Chinese/Japanese/Korean) characters, the column alignment is completely broken in the terminal output.\n\n## Environment\n\n- OS: Windows 11\n- Terminal: PowerShell\n- Factory version: latest\n\n## Screenshot\n\n<!-- drag your screenshot here -->\n\n## Root Cause (likely)\n\nThe table rendering logic probably calculates column widths based on character count (`str.len()` or similar) rather than terminal display width. CJK characters are ",
+    "url": "https://github.com/Factory-AI/factory/issues/670",
+    "timestamp": "2026-02-19T10:04:17Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 670
+    }
   },
   {
     "id": "twitter_2024399067888091383",
