@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2028560641875976453",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2028560598623994173",
@@ -186,7 +188,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2028558019181572198",
@@ -233,7 +236,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2028557462505169303",
@@ -504,7 +508,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2028553708359889131",
@@ -535,7 +540,8 @@
       "retweets": 0,
       "replies": 2,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2028553165176553796",
@@ -30786,7 +30792,8 @@
       "score": 6,
       "num_comments": 12,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2024543389731926289",
