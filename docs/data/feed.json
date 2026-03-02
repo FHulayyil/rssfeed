@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028504814116606278",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028504796492140726",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028503906397913245",
@@ -57,7 +60,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028503678248751504",
@@ -72,7 +76,8 @@
       "retweets": 3,
       "replies": 6,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028503674138370514",
@@ -87,7 +92,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028503159803416749",
@@ -102,7 +108,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028502788460978415",
@@ -117,7 +124,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028502130106237398",
@@ -132,7 +140,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028502070307750393",
@@ -147,7 +156,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028501479624266162",
@@ -162,7 +172,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028500997480370285",
@@ -177,7 +188,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028500750746460452",
@@ -192,7 +204,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028500648229208264",
@@ -207,7 +220,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028499953300156560",
@@ -222,7 +236,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028499725486588210",
@@ -30983,7 +30998,8 @@
       "type": "issue",
       "labels": [],
       "number": 666
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2023831174523834482",
@@ -31296,7 +31312,8 @@
       "type": "issue",
       "labels": [],
       "number": 663
-    }
+    },
+    "category": "question"
   },
   {
     "id": "twitter_2023771791416803676",
