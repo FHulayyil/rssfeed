@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_694",
+    "source": "github",
+    "author": "zwen64657",
+    "content": "[Issue] Significant delay with Chinese input in droid\n\n Possibly related to the system\nWindows 11 Pro\n   •  Version: 25H2\n   •  Install Date: 2026/3/3\n   •  OS Build: 26200.7922\n   •  Experience: Windows Feature Experience Pack 1000.26100.300.0",
+    "url": "https://github.com/Factory-AI/factory/issues/694",
+    "timestamp": "2026-03-02T21:25:19Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 694
+    }
+  },
+  {
+    "id": "twitter_2028579300279214477",
+    "source": "twitter",
+    "author": "da_i_chi_dev",
+    "content": "@EntireHQ @claudeai @geminicli @opencode @cursor_ai @FactoryAI nice",
+    "url": "https://x.com/da_i_chi_dev/status/2028579300279214477",
+    "timestamp": "2026-03-02T21:12:49.000Z",
+    "metadata": {
+      "conversation_id": "2028579300279214477",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028578117896519751",
     "source": "twitter",
     "author": "andrewtjoslin",
