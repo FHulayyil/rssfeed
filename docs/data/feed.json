@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2028336503387218081",
+    "source": "twitter",
+    "author": "tak_ltc",
+    "content": "@FactoryAI @droid why not make it compatible with claude code and support the function of one click plugins import? Seeing droid still stick to the unique  \"droids\" agents folder and not make it naturally compatible with cc which increased the complexity for users to migrant from cc is so stupid.",
+    "url": "https://x.com/tak_ltc/status/2028336503387218081",
+    "timestamp": "2026-03-02T05:08:01.000Z",
+    "metadata": {
+      "conversation_id": "2028336503387218081",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028331463704211837",
     "source": "twitter",
     "author": "iPhone_Droid",
@@ -30788,6 +30803,19 @@
     "category": "bug"
   },
   {
+    "id": "reddit_1r3ucrn",
+    "source": "reddit",
+    "author": "johannes_bertens",
+    "content": "Raspberry PI 4 support dropped?\n\nRunning droid now gives:\n\n```bash\n❯ droid\nIllegal instruction\n```\n\nVersion 0.57.5 still works:\n`https://downloads.factory.ai/factory-cli/releases/0.57.5/linux/arm64/droid`\n\nBut obviously it's sad if that's (one of?) the last versions!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1r3ucrn/raspberry_pi_4_support_dropped/",
+    "timestamp": "2026-02-13T16:50:39.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2022350627439817012",
     "source": "twitter",
     "author": "slobkebap",
@@ -48368,6 +48396,19 @@
     "category": "bug"
   },
   {
+    "id": "reddit_1qnmzm4",
+    "source": "reddit",
+    "author": "Rouler4wd",
+    "content": "Factory AI Droid on CLI Issues - Error: Authentication failed &amp; Error 403\n\nEvery Instance that I run on Factory Droid says this. Every time I try to code something, after the first query, it ALWAYS says Error: Authentication fails and needs me to log in again, but once I log in again, it says  \n\nError: 403 {\"detail\":\"User not affiliated with an org. Please check that you have completed onboarding steps on  \n   the dashboard.\",\"status\":403,\"title\":\"Forbidden\",\"requestId\":\"cle1::ls8l4-1769448286394-41bcc806f4f2\"}\n\nThis keeps happening every single time I try to code\n\nhtt",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qnmzm4/factory_ai_droid_on_cli_issues_error/",
+    "timestamp": "2026-01-26T17:42:55.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_2015831738749214753",
     "source": "twitter",
     "author": "MeJohnC",
@@ -48712,6 +48753,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "bug"
+  },
+  {
+    "id": "reddit_1qn520n",
+    "source": "reddit",
+    "author": "Regular-Swordfish814",
+    "content": "Error: L is not an Object. (evaluating '\"object\"in L')\n\n\\&gt;  Error: A is not an Object. (evaluating '\"object\"in A')  \n  \n●  Error: Failed to compact and start a new session\n\n●  Creating bug report...  \n  \n●  Bug report created successfully!  \n  \n   Bug Report ID: 5f76b51d-918b-4736-90ac-02cbb3090925  \n  \n   Please share this ID with the Factory team for investigation.\n\n  \n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1qn520n/error_l_is_not_an_object_evaluating_objectin_l/",
+    "timestamp": "2026-01-26T03:41:30.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2015602896348303632",
