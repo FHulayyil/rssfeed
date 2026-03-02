@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_2028618286267871521",
+    "source": "twitter",
+    "author": "bargvakoobideh",
+    "content": "@arash_tehran @AliTerrenoire 🤣 The idea that that shape shifting lizard Maryam with her weird alternate lion flag, traumatised droid army &amp; endorsement from a fucking former Director of the CIA who oversaw killing Suleimani could maintain state continuity is by far the funniest take I have ever heard.",
+    "url": "https://x.com/bargvakoobideh/status/2028618286267871521",
+    "timestamp": "2026-03-02T23:47:44.000Z",
+    "metadata": {
+      "conversation_id": "2028618286267871521",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028616439763010031",
+    "source": "twitter",
+    "author": "ReaganDroidL337",
+    "content": "@realcopeaganda @CSinclairtv Best president ever.",
+    "url": "https://x.com/ReaganDroidL337/status/2028616439763010031",
+    "timestamp": "2026-03-02T23:40:23.000Z",
+    "metadata": {
+      "conversation_id": "2028616439763010031",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028615875943621088",
+    "source": "twitter",
+    "author": "YOUWAANN",
+    "content": "Tweeting something just to make tink look at her phone then realise it was a waste of time",
+    "url": "https://x.com/YOUWAANN/status/2028615875943621088",
+    "timestamp": "2026-03-02T23:38:09.000Z",
+    "metadata": {
+      "conversation_id": "2028615875943621088",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028615215487578458",
+    "source": "twitter",
+    "author": "varqskelethor",
+    "content": "@SWEE7MELODY Did you see the droid i posted yesterday",
+    "url": "https://x.com/varqskelethor/status/2028615215487578458",
+    "timestamp": "2026-03-02T23:35:31.000Z",
+    "metadata": {
+      "conversation_id": "2028615215487578458",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028614370088169607",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "Got @FactoryAI @droid working with Qwen3.5-35b-a3b on a @digitalocean RTX6000 droplet and it actually cooks\n\nFuture could be Missions with Droid models for orchestration + local inference models for the workers?",
+    "url": "https://x.com/JoelDeTeves/status/2028614370088169607",
+    "timestamp": "2026-03-02T23:32:10.000Z",
+    "metadata": {
+      "conversation_id": "2028614370088169607",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028613877588455433",
     "source": "twitter",
     "author": "NdroidRyan",
@@ -30732,6 +30807,19 @@
       "number": 675
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_675",
+    "source": "github",
+    "author": "zwen64657",
+    "content": "[Issue] Chinese IME Candidate Window Position Issue: Fixed at Right Edge Instead of Following Cursor\n\nDescription:\nWhen using the Droid extension, the Chinese Input Method Editor (IME) candidate window fails to follow the input cursor and instead appears fixed at the far right of the screen (see screenshots below). In contrast, the VS Code integrated terminal and other extensions (such as Claude Code) correctly position the candidate window near the cursor.\nReproduction Steps:\nInstall and open the Droid extension in VS Code\nSwitch to a Chinese input method (Microsoft Pinyin, Sogou, etc.)\nType Ch",
+    "url": "https://github.com/Factory-AI/factory/issues/675",
+    "timestamp": "2026-02-22T05:37:40Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 675
+    }
   },
   {
     "id": "twitter_2025436179349561722",
@@ -95942,6 +96030,19 @@
       "number": 384
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_384",
+    "source": "github",
+    "author": "dlukt",
+    "content": "[Discussion] How do I tell it to launch multiple parallel droids?\n\nI'm letting glm-4.6 translate English into 41 languages, and I'm currently doing that key by key, e.g. pages.landing and children\r\nAnd it's doing those languages in sequence.\r\n\r\nI would like that it does it in parallel with up to 8 threads.\r\nI told it to use a dedicated thread per language or use a droid or sub-droid per language, but it's still doing sequential processing.\r\n\r\nAny ideas?\r\n\r\n---\r\n\r\nBTW, glm is funny\r\n```\r\n⛬  🎉 INCREDIBLE ACHIEVEMENT! SECOND PARALLEL WAVE COMPLETED!\r\n\r\n   📊 **RE",
+    "url": "https://github.com/Factory-AI/factory/discussions/384",
+    "timestamp": "2025-11-19T04:32:58Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 384
+    }
   },
   {
     "id": "github_discussion_374",
