@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2028578117896519751",
+    "source": "twitter",
+    "author": "andrewtjoslin",
+    "content": "@EntireHQ @claudeai @geminicli @opencode @cursor_ai @FactoryAI your shit is laggy AF, slows down my codebase and makes my computer run out of memory. Had it installed for few days and ended up with 3gb of usage per project with entire. Had to delete.",
+    "url": "https://x.com/andrewtjoslin/status/2028578117896519751",
+    "timestamp": "2026-03-02T21:08:07.000Z",
+    "metadata": {
+      "conversation_id": "2028578117896519751",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028576327398555815",
+    "source": "twitter",
+    "author": "KalGrinberg",
+    "content": "@jturner @FactoryAI What are you cookin",
+    "url": "https://x.com/KalGrinberg/status/2028576327398555815",
+    "timestamp": "2026-03-02T21:01:00.000Z",
+    "metadata": {
+      "conversation_id": "2028576327398555815",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028572815469756553",
     "source": "twitter",
     "author": "cozmonika_art",
@@ -46,6 +76,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028571858610872644",
+    "source": "twitter",
+    "author": "jondalgir",
+    "content": "@EntireHQ @claudeai @geminicli @opencode @cursor_ai @FactoryAI The reasoning layer may converge.\nThe orchestration layer will differentiate.",
+    "url": "https://x.com/jondalgir/status/2028571858610872644",
+    "timestamp": "2026-03-02T20:43:14.000Z",
+    "metadata": {
+      "conversation_id": "2028571858610872644",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028570949444894733",
@@ -158,6 +203,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028566552585380105",
+    "source": "twitter",
+    "author": "JosephD",
+    "content": "@EntireHQ @claudeai @geminicli @opencode @cursor_ai @FactoryAI It's like everyone is in a race for the world's biggest token bill.",
+    "url": "https://x.com/JosephD/status/2028566552585380105",
+    "timestamp": "2026-03-02T20:22:09.000Z",
+    "metadata": {
+      "conversation_id": "2028566552585380105",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028565399789347006",
