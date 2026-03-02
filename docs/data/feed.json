@@ -12,7 +12,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028616439763010031",
@@ -27,7 +28,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028615875943621088",
@@ -42,7 +44,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028615215487578458",
@@ -57,7 +60,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "other"
   },
   {
     "id": "twitter_2028614370088169607",
@@ -72,7 +76,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
-    }
+    },
+    "category": "love"
   },
   {
     "id": "twitter_2028613877588455433",
@@ -30819,7 +30824,8 @@
       "type": "issue",
       "labels": [],
       "number": 675
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2025436179349561722",
@@ -96042,7 +96048,8 @@
       "type": "discussion",
       "category": "Questions",
       "number": 384
-    }
+    },
+    "category": "question"
   },
   {
     "id": "github_discussion_374",
