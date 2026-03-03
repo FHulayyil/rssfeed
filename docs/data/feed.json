@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_2028880273656676687",
+    "source": "twitter",
+    "author": "Eric_M_Stevens",
+    "content": "@petergyang @linear @tryramp @FactoryAI the codify expertise into reusable skills part is where it gets weird. you realize most of what you thought was intuition is actually a repeatable process. you just never had to write it down before",
+    "url": "https://x.com/Eric_M_Stevens/status/2028880273656676687",
+    "timestamp": "2026-03-03T17:08:46.000Z",
+    "metadata": {
+      "conversation_id": "2028880273656676687",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028880169130443026",
+    "source": "twitter",
+    "author": "mg",
+    "content": "@EnoReyes @FactoryAI @matanSF Always happy to put things through their paces and send y'all feedback. All the stuff telemetry won't tell you. 😄",
+    "url": "https://x.com/mg/status/2028880169130443026",
+    "timestamp": "2026-03-03T17:08:21.000Z",
+    "metadata": {
+      "conversation_id": "2028880169130443026",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028874925155455249",
     "source": "twitter",
     "author": "FaultyMotivator",
@@ -78,6 +108,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028873841179811903",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@mg @FactoryAI @matanSF This is great and appreciate you sharing. Going to loop all this back into the team so we can chip away at these improvements!",
+    "url": "https://x.com/EnoReyes/status/2028873841179811903",
+    "timestamp": "2026-03-03T16:43:13.000Z",
+    "metadata": {
+      "conversation_id": "2028873841179811903",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028873249430343968",
@@ -192,6 +237,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2028870476093866010",
+    "source": "twitter",
+    "author": "chrismadden_",
+    "content": "@petergyang @linear @tryramp @FactoryAI Codifying expertise is the real unlock, that’s leverage.",
+    "url": "https://x.com/chrismadden_/status/2028870476093866010",
+    "timestamp": "2026-03-03T16:29:50.000Z",
+    "metadata": {
+      "conversation_id": "2028870476093866010",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028870293280768257",
     "source": "twitter",
     "author": "SUNMOON69065181",
@@ -206,6 +266,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2028869990682861626",
+    "source": "twitter",
+    "author": "alexmorris10x",
+    "content": "@petergyang @linear @tryramp @FactoryAI everyone is a project manager. \n\ni wonder if there’s going to be a killer app for project management for ai agents.",
+    "url": "https://x.com/alexmorris10x/status/2028869990682861626",
+    "timestamp": "2026-03-03T16:27:55.000Z",
+    "metadata": {
+      "conversation_id": "2028869990682861626",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028869303768867171",
