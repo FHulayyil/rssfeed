@@ -10,7 +10,8 @@
       "score": 1,
       "num_comments": 0,
       "subreddit": "FactoryAi"
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2028802153624560067",
@@ -25,7 +26,8 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
-    }
+    },
+    "category": "mention"
   },
   {
     "id": "twitter_2028800818485338295",
