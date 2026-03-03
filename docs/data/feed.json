@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_2028857571000418572",
+    "source": "twitter",
+    "author": "just_pick_0ne",
+    "content": "@petergyang @linear @tryramp @FactoryAI vibe coding as a skill is mad",
+    "url": "https://x.com/just_pick_0ne/status/2028857571000418572",
+    "timestamp": "2026-03-03T15:38:33.000Z",
+    "metadata": {
+      "conversation_id": "2028857571000418572",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028856532205494353",
     "source": "twitter",
     "author": "porkytheking",
@@ -1374,6 +1389,21 @@
       "quotes": 0
     },
     "category": "love"
+  },
+  {
+    "id": "twitter_2028823345031000074",
+    "source": "twitter",
+    "author": "mg",
+    "content": "Hey Eno and @matanSF! The Mission feature is awesome, and went really well for me. Feedback:\n\n1) I'd love to integrate it with Graphite so agents stack branches vs individual commits. Quite possible it can do this with some specific instruction, I just didn't provide it as much, feeling like the AGENTS file might be enough. I was able to solve it with Graphite's split by commit later on, so it still worked out. Better yet, add in @gitbutler support and then the agents could parallelize without worktrees.\n\n2) During the plan review, if I accidentally hit enter or chose an option, I couldn't use Esc or any other key to trace back and correct my choice. That would be super helpful. Otherwise Esc just drops out of planning altogether.\n\n3) A mission-specific Slack integration would be killer, specifically if it can be invoked from my local machine. Mid-mission progress updates and questions delivered via Slack while I'm away from the machine would be incredible.\n\n4) Mission Retrospective creation by default. I prompted the agent to give me a retro of the full mission afterwards and it did an awesome job. But as a first-class feature it would really close the loop nicely.\n\n5) Some control over how it handles Linear issues would be nice. By default the agents just marked Done for status on completed issues, but the standard should be setting to In Progress or In Review, and letting the GitHub integration handle what's considered Done.\n\n6) Post-Mission \"upgrades\" to the agentic setup, based on the mission artifacts created. I'm doing this manually now, pointing agents to the stuff that got built up during the mission (verification artifacts) to create lint rules, hooks, skills, etc. that can be generalized to future work. This would compound over time and also be less required setup for future missions.\n\n7) Post-Mission efficiency review. Honestly this one is probably my top request. Over the course of the mission (three big sprints) I blew through 100% of my Max plan with no tokens left for the rest of the month. On one hand Missions took care of so much ceremony and setup that one might otherwise need for a Ralph (or similar) loop, but I'm pretty confident I could have done it for about 25% of a monthly Claude or Codex plan. So being able to do a retro on how the mission went, and where things could have been more token efficient, for the sake of the next mission run, would be incredible. If through each mission self improvement also meant a more reasonable token spend, that would be *chefs kiss*.\n\nAll around it's an awesome feature. Can't wait to use it again in *checks calendar* 24 days.",
+    "url": "https://x.com/mg/status/2028823345031000074",
+    "timestamp": "2026-03-03T13:22:33.000Z",
+    "metadata": {
+      "conversation_id": "2028823345031000074",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2028822786974625803",
