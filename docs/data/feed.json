@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2028762283065700563",
+    "source": "twitter",
+    "author": "temuka1286",
+    "content": "@DPJHodges @willieckerslike Not British, British Muslim, can mean nothing (just a label) or everything (faith before country)",
+    "url": "https://x.com/temuka1286/status/2028762283065700563",
+    "timestamp": "2026-03-03T09:19:55.000Z",
+    "metadata": {
+      "conversation_id": "2028762283065700563",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028759972998221985",
+    "source": "twitter",
+    "author": "droid254",
+    "content": "People really love misinformation",
+    "url": "https://x.com/droid254/status/2028759972998221985",
+    "timestamp": "2026-03-03T09:10:44.000Z",
+    "metadata": {
+      "conversation_id": "2028759972998221985",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028759323321528626",
+    "source": "twitter",
+    "author": "droid254",
+    "content": "@Eddu_G Can't be that high",
+    "url": "https://x.com/droid254/status/2028759323321528626",
+    "timestamp": "2026-03-03T09:08:09.000Z",
+    "metadata": {
+      "conversation_id": "2028759323321528626",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028757463491543528",
+    "source": "twitter",
+    "author": "Sci_Dalek",
+    "content": "@Kerrcarr01 @ChicaPeskitos Where is this droid from",
+    "url": "https://x.com/Sci_Dalek/status/2028757463491543528",
+    "timestamp": "2026-03-03T09:00:46.000Z",
+    "metadata": {
+      "conversation_id": "2028757463491543528",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028757301587226830",
+    "source": "twitter",
+    "author": "drDroid8",
+    "content": "@FoxNews Hmm",
+    "url": "https://x.com/drDroid8/status/2028757301587226830",
+    "timestamp": "2026-03-03T09:00:07.000Z",
+    "metadata": {
+      "conversation_id": "2028757301587226830",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2028757140735742425",
+    "source": "twitter",
+    "author": "drDroid8",
+    "content": "@DemosKratosCA This is not love. It’s merely a tool of pressure against the normal world. Read the book by Christopher Andrew &amp; Oleg Gordievsky.",
+    "url": "https://x.com/drDroid8/status/2028757140735742425",
+    "timestamp": "2026-03-03T08:59:29.000Z",
+    "metadata": {
+      "conversation_id": "2028757140735742425",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2028756163995591005",
     "source": "twitter",
     "author": "BattleDroidUK",
@@ -30430,6 +30520,19 @@
       "subreddit": "FactoryAi"
     },
     "category": "question"
+  },
+  {
+    "id": "reddit_1reqqdm",
+    "source": "reddit",
+    "author": "jrhabana",
+    "content": "Does factoryAi this enrich issues with codebase context?\n\nI want to  enrich the issues with codebase and doc context to create well done plans and reduce time and frustration  \nmy ideal flow is:\n\n1.- create issue -&gt;something in background read it, has static codebase context and reply asking 3 questions to gain context\n\n2. user answer -&gt; something in background do the research on behalf the user to create an issue prd or fixing plan well detailed\n\n3. something creates a PRD or Spec's plan based in the issue type and the information\n\nthe something",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1reqqdm/does_factoryai_this_enrich_issues_with_codebase/",
+    "timestamp": "2026-02-25T21:37:35.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
   },
   {
     "id": "twitter_2026769929639440830",
