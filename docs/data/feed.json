@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_2029100429959733731",
+    "source": "twitter",
+    "author": "ReaganDroidL337",
+    "content": "@lawrencelkso @Vision4theBlind Because he’s better than you.",
+    "url": "https://x.com/ReaganDroidL337/status/2029100429959733731",
+    "timestamp": "2026-03-04T07:43:36.000Z",
+    "metadata": {
+      "conversation_id": "2029100429959733731",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029100032285163588",
+    "source": "twitter",
+    "author": "ReaganDroidL337",
+    "content": "@TheExtremeMusi1 If these were my kids I’d put them up for adoption. \n\nWhat garbage.",
+    "url": "https://x.com/ReaganDroidL337/status/2029100032285163588",
+    "timestamp": "2026-03-04T07:42:01.000Z",
+    "metadata": {
+      "conversation_id": "2029100032285163588",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029099669377142824",
+    "source": "twitter",
+    "author": "ReaganDroidL337",
+    "content": "@pitlanelando Exactly. Live like an entitled coward while America protects you. Wouldn’t expect anything less from the Spanish.",
+    "url": "https://x.com/ReaganDroidL337/status/2029099669377142824",
+    "timestamp": "2026-03-04T07:40:34.000Z",
+    "metadata": {
+      "conversation_id": "2029099669377142824",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029099627278975049",
+    "source": "twitter",
+    "author": "droid254",
+    "content": "@MkenyaWalter torrents tu ...but if you find private trackers even better",
+    "url": "https://x.com/droid254/status/2029099627278975049",
+    "timestamp": "2026-03-04T07:40:24.000Z",
+    "metadata": {
+      "conversation_id": "2029099627278975049",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029098431768154178",
+    "source": "twitter",
+    "author": "markzdroid",
+    "content": "The jump in total unique listeners today was huge 😭 https://t.co/lTEKl6PCmM",
+    "url": "https://x.com/markzdroid/status/2029098431768154178",
+    "timestamp": "2026-03-04T07:35:39.000Z",
+    "metadata": {
+      "conversation_id": "2029098431768154178",
+      "likes": 7,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029098320640008672",
+    "source": "twitter",
+    "author": "YOUWAANN",
+    "content": "I LIVED BITCHES",
+    "url": "https://x.com/YOUWAANN/status/2029098320640008672",
+    "timestamp": "2026-03-04T07:35:13.000Z",
+    "metadata": {
+      "conversation_id": "2029098320640008672",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029097654647431610",
+    "source": "twitter",
+    "author": "ReaganDroidL337",
+    "content": "@ros2000ni @rallynate @moffett_derik You don’t even know what that means, loser.",
+    "url": "https://x.com/ReaganDroidL337/status/2029097654647431610",
+    "timestamp": "2026-03-04T07:32:34.000Z",
+    "metadata": {
+      "conversation_id": "2029097654647431610",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2029096258476945503",
     "source": "twitter",
     "author": "markzdroid",
@@ -107804,18 +107909,17 @@
     "category": "bug"
   },
   {
-    "id": "github_discussion_361",
+    "id": "github_discussion_374",
     "source": "github",
-    "author": "aaronschwartz",
-    "content": "[Discussion] Does using the CLI in BYOK mode send data to Factory.ai?\n\nIf we configure the cli to use our own model through BYOK, does any of our data get sent to Factory.ai servers before being submitted to the model for processing? e.g. is there any codebase indexing or embedding being created by Factory.ai in the cloud before prompting the BYOK third party providers?",
-    "url": "https://github.com/Factory-AI/factory/discussions/361",
-    "timestamp": "2025-11-14T21:17:40Z",
+    "author": "vibl",
+    "content": "[Discussion] 20M tokens promised, 1M tokens received...\n\nThe website https://factorycli.com/ promises free 20M tokens. After clicking on the link and signing up, I only received 1M tokens . ",
+    "url": "https://github.com/Factory-AI/factory/discussions/374",
+    "timestamp": "2025-11-17T00:05:46Z",
     "metadata": {
       "type": "discussion",
-      "category": "Questions",
-      "number": 361
-    },
-    "category": "question"
+      "category": "General",
+      "number": 374
+    }
   },
   {
     "id": "github_discussion_361",
@@ -107886,6 +107990,33 @@
       "number": 361
     },
     "category": "question"
+  },
+  {
+    "id": "github_discussion_361",
+    "source": "github",
+    "author": "aaronschwartz",
+    "content": "[Discussion] Does using the CLI in BYOK mode send data to Factory.ai?\n\nIf we configure the cli to use our own model through BYOK, does any of our data get sent to Factory.ai servers before being submitted to the model for processing? e.g. is there any codebase indexing or embedding being created by Factory.ai in the cloud before prompting the BYOK third party providers?",
+    "url": "https://github.com/Factory-AI/factory/discussions/361",
+    "timestamp": "2025-11-14T21:17:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 361
+    },
+    "category": "question"
+  },
+  {
+    "id": "github_discussion_361",
+    "source": "github",
+    "author": "aaronschwartz",
+    "content": "[Discussion] Does using the CLI in BYOK mode send data to Factory.ai?\n\nIf we configure the cli to use our own model through BYOK, does any of our data get sent to Factory.ai servers before being submitted to the model for processing? e.g. is there any codebase indexing or embedding being created by Factory.ai in the cloud before prompting the BYOK third party providers?",
+    "url": "https://github.com/Factory-AI/factory/discussions/361",
+    "timestamp": "2025-11-14T21:17:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 361
+    }
   },
   {
     "id": "github_discussion_309",
