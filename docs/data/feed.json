@@ -112,6 +112,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2029059730950504565",
+    "source": "twitter",
+    "author": "AmolParikh40001",
+    "content": "@MatthewBerman @FactoryAI @matanSF a perfect example of AI + interface elegance — powerful tech that just feels effortless to use.",
+    "url": "https://x.com/AmolParikh40001/status/2029059730950504565",
+    "timestamp": "2026-03-04T05:01:52.000Z",
+    "metadata": {
+      "conversation_id": "2029059730950504565",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2029059397494751319",
     "source": "twitter",
     "author": "Droid_Skool",
@@ -126,6 +141,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2029059366717145148",
+    "source": "twitter",
+    "author": "MatthewBerman",
+    "content": "Is that @FactoryAI I see?? Beautiful @matanSF",
+    "url": "https://x.com/MatthewBerman/status/2029059366717145148",
+    "timestamp": "2026-03-04T05:00:25.000Z",
+    "metadata": {
+      "conversation_id": "2029059366717145148",
+      "likes": 9,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2029059039745982543",
@@ -286,6 +316,36 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2029049599906988328",
+    "source": "twitter",
+    "author": "odyzhou",
+    "content": "@petergyang @linear @tryramp @FactoryAI Every role is a management role now",
+    "url": "https://x.com/odyzhou/status/2029049599906988328",
+    "timestamp": "2026-03-04T04:21:37.000Z",
+    "metadata": {
+      "conversation_id": "2029049599906988328",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029049425180672086",
+    "source": "twitter",
+    "author": "spencernorman",
+    "content": "@FactoryAI continuing to move through the steps and back to not committing or creating new PRs /shrug",
+    "url": "https://x.com/spencernorman/status/2029049425180672086",
+    "timestamp": "2026-03-04T04:20:55.000Z",
+    "metadata": {
+      "conversation_id": "2029049425180672086",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2029049212336259391",
@@ -1098,6 +1158,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2029027241733271595",
+    "source": "twitter",
+    "author": "spencernorman",
+    "content": "I was able to interrupt it and it has now created a 24 PR deep stack, but it didn't restart itself. It's promised to create more PRs in the stack along the way, but I'm skeptical based on what I've seen so far.\n\nSeems like maybe the orchestrator isn't able to operate at the same time as workers? Not sure, but next time I'll see if we can create specific tasks and ensure this happens along the way (maybe farm PR creation to a worker)? \n\nSomehow even though there are no active workers and everything seems paused, the droid process is still using a lot of CPU - seems like much of the CPU is going to rendering the TUI? \n\nResuming and we'll see where this goes",
+    "url": "https://x.com/spencernorman/status/2029027241733271595",
+    "timestamp": "2026-03-04T02:52:46.000Z",
+    "metadata": {
+      "conversation_id": "2029027241733271595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2029027076234215600",
