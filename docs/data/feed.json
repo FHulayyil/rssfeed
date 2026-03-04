@@ -14892,7 +14892,8 @@
       "type": "issue",
       "labels": [],
       "number": 693
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2028450524475937039",
