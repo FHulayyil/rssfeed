@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_2029266287906701595",
+    "source": "twitter",
+    "author": "HarryStuck77",
+    "content": "Just for the record: DROID Missions is an unbelievable pleasure to work with. @FactoryAI @droid especially with @MiniMax_AI M2.5 https://t.co/91OKLFvDAR",
+    "url": "https://x.com/HarryStuck77/status/2029266287906701595",
+    "timestamp": "2026-03-04T18:42:39.000Z",
+    "metadata": {
+      "conversation_id": "2029266287906701595",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029266190330212668",
+    "source": "twitter",
+    "author": "0xHarbs",
+    "content": "@petergyang @linear @tryramp @FactoryAI @thenanyu Great video! Would love to see you cover the best agentic AI coding setups or a 100x engineer walking through their workflow",
+    "url": "https://x.com/0xHarbs/status/2029266190330212668",
+    "timestamp": "2026-03-04T18:42:16.000Z",
+    "metadata": {
+      "conversation_id": "2029266190330212668",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029264392559444320",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "still so early",
+    "url": "https://x.com/matanSF/status/2029264392559444320",
+    "timestamp": "2026-03-04T18:35:07.000Z",
+    "metadata": {
+      "conversation_id": "2029264392559444320",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029263492163776522",
+    "source": "twitter",
+    "author": "Stygianwind",
+    "content": "@AshwinRamaswami @FactoryAI 🔥🔥🔥",
+    "url": "https://x.com/Stygianwind/status/2029263492163776522",
+    "timestamp": "2026-03-04T18:31:33.000Z",
+    "metadata": {
+      "conversation_id": "2029263492163776522",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029263355953988010",
+    "source": "twitter",
+    "author": "jackhcable",
+    "content": "Excited to partner with @FactoryAI on this!",
+    "url": "https://x.com/jackhcable/status/2029263355953988010",
+    "timestamp": "2026-03-04T18:31:00.000Z",
+    "metadata": {
+      "conversation_id": "2029263355953988010",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029263346139365660",
+    "source": "twitter",
+    "author": "AshwinRamaswami",
+    "content": "excited for our launch with @FactoryAI!!!",
+    "url": "https://x.com/AshwinRamaswami/status/2029263346139365660",
+    "timestamp": "2026-03-04T18:30:58.000Z",
+    "metadata": {
+      "conversation_id": "2029263346139365660",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2029261725925818402",
     "source": "twitter",
     "author": "droidbuilds",
@@ -318,6 +408,21 @@
       "quotes": 0
     },
     "category": "other"
+  },
+  {
+    "id": "twitter_2029259635904147789",
+    "source": "twitter",
+    "author": "corridor",
+    "content": "Corridor + @FactoryAI just got stronger.\n\nThanks to Factory’s Droid Hooks, Corridor can now continuously review code as Droids generate it to make sure it’s secure.\n\nAutonomous development is ushering in the most secure era of software yet!\n\nRead more here: https://t.co/VZJJGe3KjC",
+    "url": "https://x.com/corridor/status/2029259635904147789",
+    "timestamp": "2026-03-04T18:16:13.000Z",
+    "metadata": {
+      "conversation_id": "2029259635904147789",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 2
+    }
   },
   {
     "id": "twitter_2029256563848814999",
@@ -45722,6 +45827,19 @@
       "number": 680
     },
     "category": "bug"
+  },
+  {
+    "id": "github_issue_680",
+    "source": "github",
+    "author": "didasy",
+    "content": "[Issue] Error: 400 status code (no body)\n\nBug report ID: c6586ef6-9e5f-4313-9756-bec6e179c5a9\n\nProblem:\n\nI use cli-proxy-api, set the default model to gpt-5.3-codex. Works fine, but when I switch to gpt-5.2, it shows that error instead.\n\nAfter consulting with GPT, it told me it is because session lock set to fireworks even though it should be openai like I explicitly set in the settings.json. Then it told me to submit bug report.\n\nIt works fine in the previous versions 0.5x.x",
+    "url": "https://github.com/Factory-AI/factory/issues/680",
+    "timestamp": "2026-02-25T15:39:01Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 680
+    }
   },
   {
     "id": "twitter_2026679599032074404",
