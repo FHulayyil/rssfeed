@@ -80,6 +80,21 @@
     "category": "other"
   },
   {
+    "id": "twitter_2029316379837354427",
+    "source": "twitter",
+    "author": "_maxdshaw",
+    "content": "@petergyang @linear @tryramp @FactoryAI @thenanyu Love this article. I wrote a whitepaper that goes into depth on how to drive AI adoption that might be interesting to this audience https://t.co/fWqaTDnSYj",
+    "url": "https://x.com/_maxdshaw/status/2029316379837354427",
+    "timestamp": "2026-03-04T22:01:42.000Z",
+    "metadata": {
+      "conversation_id": "2029316379837354427",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2029316026886754812",
     "source": "twitter",
     "author": "KallusQuotes",
@@ -510,6 +525,21 @@
       "quotes": 0
     },
     "category": "question"
+  },
+  {
+    "id": "twitter_2029309130800812170",
+    "source": "twitter",
+    "author": "ClementPillette",
+    "content": "@ivanfioravanti Perhaps you should try Missions from @FactoryAI . They have a magic sauce",
+    "url": "https://x.com/ClementPillette/status/2029309130800812170",
+    "timestamp": "2026-03-04T21:32:54.000Z",
+    "metadata": {
+      "conversation_id": "2029309130800812170",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
   },
   {
     "id": "twitter_2029303223081746754",
