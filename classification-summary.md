@@ -2,12 +2,12 @@
 
 **Date:** 2026-03-04 11:19 UTC
 
-**New items classified:** 15
+**New items classified:** 2
 
 | Category | Count | Percentage |
 |----------|-------|------------|
 | mention  | 0     | 0.0%       |
-| bug      | 1     | 6.7%       |
-| love     | 1     | 6.7%       |
-| question | 0     | 0.0%       |
-| other    | 13    | 86.7%      |
+| bug      | 1     | 50.0%      |
+| love     | 0     | 0.0%       |
+| question | 1     | 50.0%      |
+| other    | 0     | 0.0%       |
