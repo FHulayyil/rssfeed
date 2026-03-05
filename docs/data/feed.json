@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_717",
+    "source": "github",
+    "author": "JochenYang",
+    "content": "[Issue] [Feature Request] Support custom statusline\n\nPlease add support for custom statusline like Claude Code has. This would improve UX for power users.\n\nClaude Code supports this via settings.json:\n```\n{\n  \"statusline\": [\n    { \"text\": \"model: ${server::model}\" }\n  ]\n}\n```",
+    "url": "https://github.com/Factory-AI/factory/issues/717",
+    "timestamp": "2026-03-05T08:15:38Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 717
+    }
+  },
+  {
     "id": "github_issue_716",
     "source": "github",
     "author": "LuncyBloont",
