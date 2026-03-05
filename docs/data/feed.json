@@ -30602,7 +30602,8 @@
       "type": "issue",
       "labels": [],
       "number": 692
-    }
+    },
+    "category": "bug"
   },
   {
     "id": "twitter_2028190826053202024",
