@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_719",
+    "source": "github",
+    "author": "LuncyBloont",
+    "content": "[Issue] CRLF make diff view broken.\n\nFor a file that uses CRLF line endings, modifying it breaks the diff view in the command line. It looks fine when creating the file or in the conversation above, but the diff view when confirming changes is messed up.\n\n<img width=\"1113\" height=\"830\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/71f98c32-7ddc-4c6c-a81b-383e741f3b59\" />\n\n<img width=\"1113\" height=\"830\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d7ae888b-6c9e-4a62-80ac-76b62e40c392\" />\n\n Bug Report ID:",
+    "url": "https://github.com/Factory-AI/factory/issues/719",
+    "timestamp": "2026-03-05T12:25:53Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 719
+    }
+  },
+  {
     "id": "github_issue_718",
     "source": "github",
     "author": "JochenYang",
