@@ -1,5 +1,123 @@
 [
   {
+    "id": "github_issue_716",
+    "source": "github",
+    "author": "LuncyBloont",
+    "content": "[Issue] Enter key not working in latest VS Code Terminal\n\n**Enter, Delete, Tab keys not working in VS Code 1.110 terminal when running droid**\n\nIn VS Code version 1.110 (February 2026), after launching `droid` in the integrated terminal, the Enter, Delete, and Tab keys stop working. Regular character input works fine.\n\n- This issue does not occur in an older VS Code version (January 2026) or in another derivative (TRAE) I tested.\n- It reproduces in a clean environment with no extensions installed.\n- I tested with multiple recent versions of droid (from",
+    "url": "https://github.com/Factory-AI/factory/issues/716",
+    "timestamp": "2026-03-05T06:00:32Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 716
+    }
+  },
+  {
+    "id": "twitter_2029436849756811372",
+    "source": "twitter",
+    "author": "droid254",
+    "content": "And the other subtribes still call you Kikuyu or Kisii",
+    "url": "https://x.com/droid254/status/2029436849756811372",
+    "timestamp": "2026-03-05T06:00:24.000Z",
+    "metadata": {
+      "conversation_id": "2029436849756811372",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029436443693855176",
+    "source": "twitter",
+    "author": "sankposting",
+    "content": "@brainrotpostig thanos droid funny moments",
+    "url": "https://x.com/sankposting/status/2029436443693855176",
+    "timestamp": "2026-03-05T05:58:47.000Z",
+    "metadata": {
+      "conversation_id": "2029436443693855176",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029435849805369508",
+    "source": "twitter",
+    "author": "droid254",
+    "content": "I'm neither and SHA didn't work for me when I needed it",
+    "url": "https://x.com/droid254/status/2029435849805369508",
+    "timestamp": "2026-03-05T05:56:26.000Z",
+    "metadata": {
+      "conversation_id": "2029435849805369508",
+      "likes": 7,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029434184104628371",
+    "source": "twitter",
+    "author": "NdroidRyan",
+    "content": "@PapaSwiftyy @mutoAJ LMAOOOO megumi wishes https://t.co/HG1s7iyiaT",
+    "url": "https://x.com/NdroidRyan/status/2029434184104628371",
+    "timestamp": "2026-03-05T05:49:49.000Z",
+    "metadata": {
+      "conversation_id": "2029434184104628371",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029432627531555310",
+    "source": "twitter",
+    "author": "emu_droid",
+    "content": "@sanakazmi36 Aerith",
+    "url": "https://x.com/emu_droid/status/2029432627531555310",
+    "timestamp": "2026-03-05T05:43:38.000Z",
+    "metadata": {
+      "conversation_id": "2029432627531555310",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029432391475798032",
+    "source": "twitter",
+    "author": "MrB1BattleDroid",
+    "content": "@bvbu__ Girl kissing? This droid loving!!!! Roger Roger 🥹🙏❤️",
+    "url": "https://x.com/MrB1BattleDroid/status/2029432391475798032",
+    "timestamp": "2026-03-05T05:42:41.000Z",
+    "metadata": {
+      "conversation_id": "2029432391475798032",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_2029431670898606330",
+    "source": "twitter",
+    "author": "thissitesucksFU",
+    "content": "@TheShoshon @WokeBeyond Hey, I don’t want to alarm you brace yourself, but your boy’s vice president has an Indian wife and children",
+    "url": "https://x.com/thissitesucksFU/status/2029431670898606330",
+    "timestamp": "2026-03-05T05:39:50.000Z",
+    "metadata": {
+      "conversation_id": "2029431670898606330",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_2029431143754547477",
     "source": "twitter",
     "author": "faezen_ai",
