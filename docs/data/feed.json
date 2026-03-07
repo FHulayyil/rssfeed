@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_756",
+    "source": "github",
+    "author": "KitaYoshihiro",
+    "content": "[Issue] BYOK Error: OpenAI response failed for Azure OpenAI models (GPT-5.3-codex/GPT-5.4)\n\nHi,\n\nI am encountering an issue where only `gpt-5.2` works correctly, while other models (`gpt-5.3-codex` and `gpt-5.4`) fail in my current setup.\nNotably, all of these models work without issues when using `codex-cli`.\n\nError Message:\n```BYOK Error: OpenAI response failed: OpenAI response failed```\n\nEnvironment:\n- Droid v0.70.0\n\nConfiguration (~/.factory/settings.json):\n\n```\n{\n  \"customModels\": [\n    {\n      \"model\": \"gpt-5.4\",\n      \"id\": \"custom:GPT-5.4-0\",\n      \"index\": 0,\n      \"baseUrl\": ",
+    "url": "https://github.com/Factory-AI/factory/issues/756",
+    "timestamp": "2026-03-07T14:50:30Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 756
+    }
+  },
+  {
     "id": "github_issue_745",
     "source": "github",
     "author": "alexhooketh",
