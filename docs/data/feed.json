@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_757",
+    "source": "github",
+    "author": "a112121788",
+    "content": "[Issue] support orchestrationModel\n\n  \"missionModelSettings\": {\n    \"orchestrationModel\": \"custom:GPT-5.4-6\",",
+    "url": "https://github.com/Factory-AI/factory/issues/757",
+    "timestamp": "2026-03-08T12:24:00Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 757
+    }
+  },
+  {
     "id": "github_issue_756",
     "source": "github",
     "author": "KitaYoshihiro",
