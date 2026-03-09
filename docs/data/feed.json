@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_759",
+    "source": "github",
+    "author": "alexhooketh",
+    "content": "[Issue] Mission manager seems to become unavailable to orchestrator after some point\n\nBug Report ID: c0840450-226e-4363-a57b-f376b64e8f3a\n\nNot sure if this is a bug or orchestrator's (Kimi K2.5) misunderstanding of how the tooling works, but decided to publish just in case. Better to create a wrong issue than never create a real one because you thought it was wrong\n\n<img width=\"1419\" height=\"879\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/378ff50f-c176-477e-b529-0765aadc9a5b\" />\n\n<img width=\"1433\" height=\"817\" alt=\"Image\" src=\"https://github.com/user-attachments/",
+    "url": "https://github.com/Factory-AI/factory/issues/759",
+    "timestamp": "2026-03-09T17:11:19Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 759
+    }
+  },
+  {
     "id": "github_issue_758",
     "source": "github",
     "author": "Jay4242",
