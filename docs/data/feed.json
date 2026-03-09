@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_760",
+    "source": "github",
+    "author": "hermesthecat",
+    "content": "[Issue] Bug: SessionStart hook with \"compact\" matcher not firing after compaction\n\n### Environment\n- Droid CLI version: 0.70.0\n- OS: macOS (darwin 25.3.0)\n- Shell: zsh\n\n### Description\nAccording to the [hooks reference documentation](https://docs.factory.ai/reference/hooks-reference#sessionstart), the `SessionStart` event should support a `\"compact\"`\nmatcher that fires after auto or manual compaction:\n\n> **Matchers:**\n> - `startup` - Invoked from startup\n> - `resume` - Invoked from `--resume`, `--continue`, or `/resume`\n> - `clear` - Invoked from `/clear`\n> - `compact` - Invok",
+    "url": "https://github.com/Factory-AI/factory/issues/760",
+    "timestamp": "2026-03-09T19:47:32Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 760
+    }
+  },
+  {
     "id": "github_issue_759",
     "source": "github",
     "author": "alexhooketh",
