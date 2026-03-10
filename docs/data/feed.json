@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_768",
+    "source": "github",
+    "author": "silvasomnia",
+    "content": "[Issue] Subagent 180s inactivity timeout kills agents during extended thinking — makes BYOK thinking models unusable\n\n## Summary\n\nSubagents spawned via the Task tool are killed after ~180 seconds of inactivity. **Extended thinking (e.g. Claude Opus with thinking tokens, o-series models with reasoning) counts as inactivity**, because the thinking phase produces no visible tool calls or text output. This makes BYOK thinking models effectively unusable for any non-trivial subagent task.\n\n## The Problem\n\nWhen a subagent receives a complex prompt and uses a thinking model (e.g. `claude-opus-4-6-thinking-32000` via B",
+    "url": "https://github.com/Factory-AI/factory/issues/768",
+    "timestamp": "2026-03-10T14:18:25Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 768
+    }
+  },
+  {
     "id": "github_issue_765",
     "source": "github",
     "author": "a112121788",
