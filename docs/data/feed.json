@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_786",
+    "source": "github",
+    "author": "oldium",
+    "content": "[Issue] MCP server resources cannot be queried\n\nI have a custom DB query tool MCP Server, which executes SQL queries and returns artifact URI in the JSON response with the resource link to the actual query results in JSONL format. I also have an resource URI to be read mentioned in the initial MCP Server `instructions` field, I duplicated that information also into the tool descriptions to confirm the AI Agents behaviour.\n\nI tried my MCP server via STDIO protocol with Codex CLI, Claude CLI and Factory Droid CLI. Both Codex and Claude follow t",
+    "url": "https://github.com/Factory-AI/factory/issues/786",
+    "timestamp": "2026-03-12T20:29:38Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 786
+    }
+  },
+  {
     "id": "github_issue_784",
     "source": "github",
     "author": "z80dev",
