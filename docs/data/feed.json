@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_784",
+    "source": "github",
+    "author": "z80dev",
+    "content": "[Issue] Daemon never binds to TCP port — missions fail with \"factoryd is not reachable\"\n\n## Summary\n\nThe `droid daemon` process starts successfully but **never creates a TCP LISTEN socket**, causing all mission worker spawns to fail with:\n\n```\nSpawn error: factoryd is not reachable (failed to start). Ask the user to restart Droid to recover.\n```\n\nReproduced on **two different machines, two different OS platforms, two different droid versions**. The daemon produces zero log output and no error messages.\n\n---\n\n## Environment\n\n### Machine 1 (macOS)\n- **OS**: macOS 26.3 (Darwin 25.3.0),",
+    "url": "https://github.com/Factory-AI/factory/issues/784",
+    "timestamp": "2026-03-12T04:33:16Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 784
+    }
+  },
+  {
     "id": "github_issue_768",
     "source": "github",
     "author": "silvasomnia",
