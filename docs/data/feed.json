@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_787",
+    "source": "github",
+    "author": "mikez93",
+    "content": "[Issue] droid exec --model rejects all custom model IDs (BYOK)\n\n## Summary\n\n`droid exec --model <custom-model-id>` rejects all custom model IDs with \"Invalid model\" even though they are listed as available in the error output. Only the current session default custom model works via `--model`. Built-in model IDs route through Factory's API (returning 402 for non-subscribers) instead of the user's BYOK proxy.\n\n## Environment\n\n- **Droid CLI version**: 0.70.0, 0.74.0 (tested both)\n- **OS**: macOS (Darwin 23.6.0, arm64)\n- **Custom models**: Configured in `~/.fact",
+    "url": "https://github.com/Factory-AI/factory/issues/787",
+    "timestamp": "2026-03-13T04:33:32Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 787
+    }
+  },
+  {
     "id": "github_issue_786",
     "source": "github",
     "author": "oldium",
