@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_788",
+    "source": "github",
+    "author": "JlNW00",
+    "content": "[Issue] API-wide outage -- all endpoints returning connection failures\n\n\nSummary:\nComplete API failure across all Factory endpoints starting approximately 12:50 AM CDT on March 13, 2026. No endpoints are reachable -- this is not a partial degradation, the entire API surface is down.\nAffected Endpoints\nGET /api/sessions/v2?limit=20 -- Failed to fetch (api.factory.ai)\nGET /api/organization/members?limit=10000 -- Failed to fetch (api.factory.ai)\nBoth the CLI and the web dashboard are impacted. The billing/organization page returns the same connection failure as the ses",
+    "url": "https://github.com/Factory-AI/factory/issues/788",
+    "timestamp": "2026-03-13T05:52:07Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 788
+    }
+  },
+  {
     "id": "github_issue_787",
     "source": "github",
     "author": "mikez93",
