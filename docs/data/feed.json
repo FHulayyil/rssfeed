@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_794",
+    "source": "github",
+    "author": "markeljc",
+    "content": "[Issue] `droid exec --mission` fails to connect to daemon in headless environments\n\n`/mission` works fine in the GUI, but `droid exec --mission` consistently fails in headless/non-interactive environments with:\n\n```\nError during droid execution: Failed to start factoryd. Mission mode requires the daemon to spawn worker sessions.\n```\n\n`droid daemon` starts and runs fine when launched manually — the issue is that `droid exec --mission` neither discovers a pre-existing daemon instance nor successfully auto-starts one in this environment.\n\n### Environment\n\n| | |\n|---|---|\n| **Droid",
+    "url": "https://github.com/Factory-AI/factory/issues/794",
+    "timestamp": "2026-03-16T14:42:56Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 794
+    }
+  },
+  {
     "id": "github_issue_793",
     "source": "github",
     "author": "SamKacer",
