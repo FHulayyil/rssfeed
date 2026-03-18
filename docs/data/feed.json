@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_817",
+    "source": "github",
+    "author": "leolopez007",
+    "content": "[Issue] Calling Git commands causes a crash and exit.\n\n<img width=\"105\" height=\"202\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c48aedd5-480e-4f03-b901-667cc5612791\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/817",
+    "timestamp": "2026-03-18T10:08:05Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 817
+    }
+  },
+  {
     "id": "github_issue_816",
     "source": "github",
     "author": "HeCHieh",
