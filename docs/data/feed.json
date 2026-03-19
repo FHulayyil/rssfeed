@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_822",
+    "source": "github",
+    "author": "zwen64657",
+    "content": "[Issue] I really love using Droid! Could you further improve the fluency of Chinese input display?\n\n I notice some improvement in v0.8, but there's still room to grow compared to Qwen Code. It would be great\n    if you could reference how they handle stdin input in their KeypressContext.tsx (QwenLM/qwen-code repo).",
+    "url": "https://github.com/Factory-AI/factory/issues/822",
+    "timestamp": "2026-03-19T19:01:47Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 822
+    }
+  },
+  {
     "id": "github_issue_821",
     "source": "github",
     "author": "Tyler-Factory",
