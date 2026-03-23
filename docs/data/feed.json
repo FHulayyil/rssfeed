@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_833",
+    "source": "github",
+    "author": "oldschoola",
+    "content": "[Issue] Mission control causes crash when viewing\n\n src/components/mission-control/utils/text.ts:7:26\n - bB (src/components/mission-control/utils/text.ts:7:26)\n - <anonymous> (src/components/mission-control/views/MainView.tsx:644:14)\n - yn (../../node_modules/react-reconciler/cjs/react-reconciler.development.js:6427:23)\n - useMemo (../../node_modules/react-reconciler/cjs/react-reconciler.development.js:17913:18)\n - _zf (src/components/mission-control/views/MainView.tsx:587:23)\n - react_stack_bottom_frame (../../node_modules/react-reconciler/cjs/",
+    "url": "https://github.com/Factory-AI/factory/issues/833",
+    "timestamp": "2026-03-23T11:37:21Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 833
+    }
+  },
+  {
     "id": "github_issue_832",
     "source": "github",
     "author": "chenglun17-0",
