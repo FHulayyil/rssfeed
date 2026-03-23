@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_831",
+    "source": "github",
+    "author": "primmer",
+    "content": "[Issue] Mission runner resumes stale worker session after orchestrator overrides feature to completed\n\n## Bug Description\n\nWhen the orchestrator overrides a mission feature from `in_progress` to `completed` (e.g., to skip a failing validator), the mission runner ignores the features.json status change and keeps resuming the old worker session on subsequent `StartMissionRun` calls.\n\n## Root Cause\n\n`state.json` in the mission directory retains `currentFeatureId` and `currentWorkerSessionId` pointing to the overridden feature's worker session. The runner reads `state.json` first and resumes that ses",
+    "url": "https://github.com/Factory-AI/factory/issues/831",
+    "timestamp": "2026-03-23T07:56:35Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 831
+    }
+  },
+  {
     "id": "github_issue_830",
     "source": "github",
     "author": "jason-dark",
