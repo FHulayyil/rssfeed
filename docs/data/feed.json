@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_850",
+    "source": "github",
+    "author": "harshit-aristocrat",
+    "content": "[Issue] Desktop App: Daemon crashes on startup (exit code 1) - liveness-fd pipe closes prematurely on Windows\n\n## Environment\r\n- **OS:** Windows 10 (10.0.26100)\r\n- **Factory Desktop:** v0.41.0 (also reproduced on v0.40.0)\r\n- **Droid binary:** v0.86.0\r\n- **CLI droid:** v0.86.0 (works fine)\r\n\r\n## Symptom\r\nThe desktop app spawns the daemon with:\r\n```\r\ndroid.exe daemon --droid-path <path> --enable-code-server --remote-access --liveness-fd 3\r\n```\r\nThe daemon crashes with exit code 1 within 6-8 seconds of spawning. The desktop retries 3 times then gives up with **\"Crashed too many times, giving up\"**.\r\n\r\nThe d",
+    "url": "https://github.com/Factory-AI/factory/issues/850",
+    "timestamp": "2026-03-26T02:57:13Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 850
+    }
+  },
+  {
     "id": "github_issue_849",
     "source": "github",
     "author": "ogulcancelik",
