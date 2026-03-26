@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_851",
+    "source": "github",
+    "author": "seeyou19992006",
+    "content": "[Issue] Feature Request: Support context window for BYOK custom models\n\n## Problem\n\nWhen using BYOK (Bring Your Own Key) custom models, Droid does not display context length and usage percentage in the UI. This information is only available for built-in models.\n\n## Current Behavior\n\n- The `customModels` configuration in `settings.json` supports `maxOutputTokens` but has no field for context window size\n- Droid does not query the proxy server to retrieve model metadata\n\n## Proposed Solutions\n\n### Option 1: Add `contextWindow` field to customModels\n\n```json\n{\n  \"custo",
+    "url": "https://github.com/Factory-AI/factory/issues/851",
+    "timestamp": "2026-03-26T03:35:11Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 851
+    }
+  },
+  {
     "id": "github_issue_850",
     "source": "github",
     "author": "harshit-aristocrat",
