@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_856",
+    "source": "github",
+    "author": "riftzen-bit",
+    "content": "[Issue] Image paste (Ctrl+V) fails on Wayland with 'target STRING not available'\n\n## Description\n\nPasting images from clipboard via Ctrl+V in Droid CLI fails on Wayland with error:\n\n```\nError: target STRING not available\n```\n\nAfter installing `xsel`, text paste works but image paste still fails with the same error.\n\n## Root Cause\n\nDroid's clipboard handler calls `xsel --clipboard --output` which only supports text (`STRING` target). When the clipboard contains an image (`image/png`), `xsel` cannot read it.\n\n**Claude Code CLI handles this correctly** by detecting the clipboard",
+    "url": "https://github.com/Factory-AI/factory/issues/856",
+    "timestamp": "2026-03-27T04:29:59Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 856
+    }
+  },
+  {
     "id": "github_issue_852",
     "source": "github",
     "author": "towry",
