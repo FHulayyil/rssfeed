@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_857",
+    "source": "github",
+    "author": "Rubyj",
+    "content": "[Issue] [Bug] Context usage indicator always shows <1% with BYOK models via LiteLLM proxy\n\n## Description\n\nWhen using BYOK custom models routed through a LiteLLM proxy (v1.81.15), the context usage indicator in the CLI status bar always shows `<1%` regardless of actual context consumption. The `/cost` command also shows `Input: 0 tokens` (related to #157).\n\n## Environment\n- Droid CLI: v0.81.0\n- macOS (arm64)\n- BYOK config: `provider: \"anthropic\"` pointing to a LiteLLM proxy backed by Azure/Bedrock\n- LiteLLM version: 1.81.15\n- Models affected: All custom BYOK models (both Anthropic and",
+    "url": "https://github.com/Factory-AI/factory/issues/857",
+    "timestamp": "2026-03-27T04:59:36Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 857
+    }
+  },
+  {
     "id": "github_issue_856",
     "source": "github",
     "author": "riftzen-bit",
