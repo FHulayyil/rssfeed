@@ -1,5 +1,31 @@
 [
   {
+    "id": "github_issue_859",
+    "source": "github",
+    "author": "harshav167",
+    "content": "[Issue] Mission/subagent worker processes become orphaned at 100% CPU when TUI session dies — daemon never cleans up U2H transports\n\n## Summary\n\nWhen a Droid TUI session terminates (terminal crash, force-quit, window close), all `droid exec --input-format stream-jsonrpc` worker processes spawned by the daemon continue running indefinitely at 100% CPU each. They are never cleaned up and can crash the host machine.\n\n## Reproduction\n\n1. Start a Droid session, launch a Mission or use subagents that spawn multiple workers\n2. Force-quit the terminal (or let it crash under memory pressure from worker output)\n3. Workers survive and s",
+    "url": "https://github.com/Factory-AI/factory/issues/859",
+    "timestamp": "2026-03-27T14:19:04Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 859
+    }
+  },
+  {
+    "id": "github_issue_858",
+    "source": "github",
+    "author": "harshav167",
+    "content": "[Issue] Squad/Mission worker processes become orphaned and spin at 100% CPU when TUI session dies\n\n## Summary\n\nWhen a Droid TUI session terminates unexpectedly (terminal crash, window close, network drop), all `droid exec --input-format stream-jsonrpc` worker processes spawned by the daemon for Squad/Mission sessions continue running indefinitely. They consume 100% CPU each, are not cleaned up, and can crash the host machine by exhausting all CPU and memory.\n\n## Reproduction\n\n1. Start a Droid session in any terminal\n2. Launch a Squad (`/squad`) or Mission (`/enter-mission`) that spawns multip",
+    "url": "https://github.com/Factory-AI/factory/issues/858",
+    "timestamp": "2026-03-27T14:12:26Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 858
+    }
+  },
+  {
     "id": "github_issue_857",
     "source": "github",
     "author": "Rubyj",
