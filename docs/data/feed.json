@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_866",
+    "source": "github",
+    "author": "AliverAnme",
+    "content": "[Issue] Bash mode returns the result as raw JSON text instead of rendering it normally.\n\n<img width=\"1002\" height=\"122\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/d5577394-97e2-4193-9107-8b26f874c601\" />\nThis is unexpected.",
+    "url": "https://github.com/Factory-AI/factory/issues/866",
+    "timestamp": "2026-03-28T11:24:35Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 866
+    }
+  },
+  {
     "id": "github_issue_865",
     "source": "github",
     "author": "zwen64657",
