@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_868",
+    "source": "github",
+    "author": "Algorith0n",
+    "content": "[Issue] Mission mode orchestrator defaults to Claude Opus 4.6 instead of default model if default model is BYOK/custom\n\nSteps to reproduce:\n1. Set default model to BYOK/Custom model\n2. Start Factory Droid\n3. Type `/enter-mission`\n4. Orchestrator model sets to Claude Opus 4.6\n\nIf default model != BYOK/Custom model, Orchestrator model = default model instead.",
+    "url": "https://github.com/Factory-AI/factory/issues/868",
+    "timestamp": "2026-03-29T16:38:01Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 868
+    }
+  },
+  {
     "id": "github_issue_867",
     "source": "github",
     "author": "zipeilee",
