@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_870",
+    "source": "github",
+    "author": "wskel",
+    "content": "[Issue] Repo-local git config ignores cloud template environment variables, uses account-derived identity instead\n\nIn Factory cloud environments, the repo-local `.git/config` is always populated with account-derived values, even when the cloud template defines environment variables intended to override the git identity.\n\n### Setup\n\nThe cloud template defines custom environment variables for git identity and a setup script that applies them:\n\n```sh\ngit -C \"${FACTORY_PROJECT_DIR:-$(pwd)}\" config user.name \"$MY_GIT_NAME\"\ngit -C \"${FACTORY_PROJECT_DIR:-$(pwd)}\" config user.email \"$MY_GIT_EMAIL\"\n```\n\n### Current ",
+    "url": "https://github.com/Factory-AI/factory/issues/870",
+    "timestamp": "2026-03-29T23:33:38Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 870
+    }
+  },
+  {
     "id": "github_issue_869",
     "source": "github",
     "author": "bakhtiersizhaev",
