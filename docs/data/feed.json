@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_869",
+    "source": "github",
+    "author": "bakhtiersizhaev",
+    "content": "[Issue] Cyrillic (Russian) text not visible in input field on Windows\n\n## Bug Description",
+    "url": "https://github.com/Factory-AI/factory/issues/869",
+    "timestamp": "2026-03-29T20:51:50Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 869
+    }
+  },
+  {
     "id": "github_issue_868",
     "source": "github",
     "author": "Algorith0n",
