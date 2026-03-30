@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_871",
+    "source": "github",
+    "author": "Chutpazh",
+    "content": "[Issue] [CRITICAL/BILLING FAILURE] Taking Payment Without Providing Service - Paid Account Locked for 4+ Days (Support Ignoring Tickets)\n\n \n\n### 标题  \n`[CRITICAL/BILLING FAILURE] Taking Payment Without Providing Service - Paid Account Locked for 4+ Days (Support Ignoring Tickets)`\n\n### \n\n**Describe the critical failure**\nThis is a public escalation regarding a severe billing system failure and unacceptable business practice by Factory/Droid. \n\nYour system has taken my money, confirmed my payments, and yet continues to unlawfully restrict my account to the \"Free Tier.\" My development workflow has been completely paralyzed for **4 da",
+    "url": "https://github.com/Factory-AI/factory/issues/871",
+    "timestamp": "2026-03-30T17:36:08Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 871
+    }
+  },
+  {
     "id": "github_issue_870",
     "source": "github",
     "author": "wskel",
