@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_874",
+    "source": "github",
+    "author": "dkmnx",
+    "content": "[Issue] Edit tool bug\n\nI'm experiencing this issue with the `Edit` tool, after finishing the edit, it doesn't show the diff/changes in the terminal. It will only show after pressing `ctrl+o` or restarting droid.\n\n<img width=\"964\" height=\"206\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ca7a7138-f885-4883-9ebd-f3b3afaae585\" />\n\npressing `ctrl+o` 2x\n<img width=\"964\" height=\"740\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bab5d196-8c90-4991-a3a8-f730cb352e70\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/874",
+    "timestamp": "2026-03-31T01:22:07Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 874
+    }
+  },
+  {
     "id": "github_issue_873",
     "source": "github",
     "author": "Kampouse",
