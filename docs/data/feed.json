@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_873",
+    "source": "github",
+    "author": "Kampouse",
+    "content": "[Issue] BOYK on dekstop\n\n<img width=\"959\" height=\"831\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/a406ea38-8fcc-4c45-bbfb-107f4266a3ae\" />\nis this  a bug or a feature?\nbyok mean the whole app wont work even if you able to prompt once",
+    "url": "https://github.com/Factory-AI/factory/issues/873",
+    "timestamp": "2026-03-31T00:44:40Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 873
+    }
+  },
+  {
     "id": "github_issue_871",
     "source": "github",
     "author": "Chutpazh",
