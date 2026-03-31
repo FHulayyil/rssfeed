@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_875",
+    "source": "github",
+    "author": "leolopez007",
+    "content": "[Issue] Flashing when replying\n\nAfter updating to the latest version, the flickering is extremely severe.",
+    "url": "https://github.com/Factory-AI/factory/issues/875",
+    "timestamp": "2026-03-31T07:32:22Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 875
+    }
+  },
+  {
     "id": "github_issue_874",
     "source": "github",
     "author": "dkmnx",
