@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_878",
+    "source": "github",
+    "author": "Tigres2526",
+    "content": "[Issue] Screen flicker with TMUX on long-running sessions/missions (5+ hours) — Mac Mini M4 / Warp Terminal\n\n## Description\n\nExperiencing persistent screen flickering when running Factory sessions/missions that exceed approximately 5 hours. The issue appears to be strongly correlated with TMUX usage and becomes increasingly noticeable the longer a session runs.\n\n## Environment\n\n| Component | Details |\n|-----------|---------|\n| **Machine** | Mac Mini M4 |\n| **macOS** | Sequoia 15.4 (latest) |\n| **Terminal** | Warp |\n| **Multiplexer** | TMUX |\n| **Session Duration** | 5+ hours when issue manifests |\n\n## ",
+    "url": "https://github.com/Factory-AI/factory/issues/878",
+    "timestamp": "2026-04-01T19:23:28Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 878
+    }
+  },
+  {
     "id": "github_issue_875",
     "source": "github",
     "author": "leolopez007",
