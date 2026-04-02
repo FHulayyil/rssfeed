@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_880",
+    "source": "github",
+    "author": "zwen64657",
+    "content": "[Issue] Feedback: v0.90.1 update push issue & GLM-5V-Turbo image input not working\n\nIssue 1: v0.90.1 Update Push Problem\n   •  Has the v0.90.1 version been released and pushed for update?\n   •  The CLI tool does not show any available download, while previous versions could auto-download updates\n      normally.\n   •  Please confirm whether this version has been fully distributed/pushed.\n\n   Issue 2: GLM-5V-Turbo Multimodal Image Reading Failure\n   •  GLM-5V-Turbo was officially released on 2026-04-02 as a multimodal vision-language model supporting native\n      image/video inpu",
+    "url": "https://github.com/Factory-AI/factory/issues/880",
+    "timestamp": "2026-04-02T11:16:29Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 880
+    }
+  },
+  {
     "id": "github_issue_879",
     "source": "github",
     "author": "381181295",
