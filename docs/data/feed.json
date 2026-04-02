@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_879",
+    "source": "github",
+    "author": "381181295",
+    "content": "[Issue] [Bug] BYOK openai models fail against CLIProxyAPIPlus v6.9.8 with SSE parse error\n\n## summary\n\nwith droid `0.90.0` and an `openai` BYOK model pointed at local `CLIProxyAPIPlus v6.9.8-0-plus`, `droid exec` fails before any useful output with:\n\n- `Exec failed`\n- `SyntaxError: JSON Parse error: Unexpected EOF`\n\nlocal logs show the parser choking on SSE event framing:\n\n- `Could not parse message into JSON:`\n- `From chunk: [ 'event: response.created' ]`\n\nthis looks like droid's OpenAI streaming parser not tolerating valid SSE event lines from an OpenAI-compatible proxy.\n\n## environ",
+    "url": "https://github.com/Factory-AI/factory/issues/879",
+    "timestamp": "2026-04-02T07:53:46Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 879
+    }
+  },
+  {
     "id": "github_issue_878",
     "source": "github",
     "author": "Tigres2526",
