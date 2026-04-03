@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_886",
+    "source": "github",
+    "author": "LyHug",
+    "content": "[Issue] BYOK OpenAI custom models: /compact fails (OpenAI Responses stream parse TypeError)\n\n## Summary\nWhen using **BYOK custom OpenAI models** (provider: `openai`, custom `baseUrl`) in Factory CLI/Droid, the **/compact (compression/compaction) flow fails** with a runtime exception coming from the OpenAI JS SDK `responses` streaming parser.\n\nThis is extremely disruptive because compaction is needed to keep long sessions usable. I'm seriously reconsidering whether to continue my subscription if this can't be fixed soon.\n\n## Affected\n- Factory CLI / Droid TUI (observed)\n- BYOK custom mod",
+    "url": "https://github.com/Factory-AI/factory/issues/886",
+    "timestamp": "2026-04-03T17:51:44Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 886
+    }
+  },
+  {
     "id": "github_issue_885",
     "source": "github",
     "author": "ltx15382710886-png",
