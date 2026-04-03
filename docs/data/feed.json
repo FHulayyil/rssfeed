@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_885",
+    "source": "github",
+    "author": "ltx15382710886-png",
+    "content": "[Issue] Xiaomi Mimo thinking content exposed in response output\n\n## Bug Description\nWhen using Xiaomi Mimo (mimo-v2-pro) model via custom provider, the model's thinking/reasoning content is directly exposed to the user in the response output. The thinking tags appear as raw text in the chat:\n\n<thinking>\n   The user is asking \"what model are you?\"...\n</thinking>\n\n## Steps to Reproduce\n1. Configure Xiaomi Mimo as a custom model in settings.json\n2. Set model to Xiaomi Mimo in Droid CLI\n3. Send any prompt\n4. Model's thinking content appears in the response\n\n## Ex",
+    "url": "https://github.com/Factory-AI/factory/issues/885",
+    "timestamp": "2026-04-03T14:35:29Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 885
+    }
+  },
+  {
     "id": "github_issue_880",
     "source": "github",
     "author": "zwen64657",
