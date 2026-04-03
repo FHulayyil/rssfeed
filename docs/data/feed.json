@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_887",
+    "source": "github",
+    "author": "shrimpwtf",
+    "content": "[Issue] Mission view \"Focus\" can suspend the CLI with suspended (tty input) and crash/lose the app session on macOS\n\nOn macOS, clicking Focus from mission view can leave the shell in a suspended-job state and effectively crash/lose the active app session.\n\nThis appears specific to mission view. I have not seen the same behavior in normal non-mission usage.\n\nWhat happens\nAfter clicking Focus, zsh prints something like:\n\n[1]  + 26763 suspended (tty input) -\n\nI’ve also seen the same pattern with resumed mission sessions, for example:\n\n[1]  + 98202 suspended (tty input)  droid --resume <session-id>\n\nOnce this happ",
+    "url": "https://github.com/Factory-AI/factory/issues/887",
+    "timestamp": "2026-04-03T20:33:04Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 887
+    }
+  },
+  {
     "id": "github_issue_886",
     "source": "github",
     "author": "LyHug",
