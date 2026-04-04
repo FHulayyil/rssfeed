@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_891",
+    "source": "github",
+    "author": "integrITsolutions",
+    "content": "[Issue] Feature Request: Default workspace and machine type settings to skip Linear inline prompts\n\n## Problem\n\nWhen Factory receives a delegated task from Linear (issue assigned to Factory), it asks **two consecutive interactive prompts** via Linear's inline questionnaire UI:\n\n1. **\"Please select how you want to run this session:\"** → \"Use Cloud Template\" / \"Use Computer\"\n2. **\"Please select a workspace below or configure your workspaces\"** → workspace selection\n\nThese prompts **cannot be answered programmatically**. They use Linear's inline interactive form widgets, not regular comments. Thi",
+    "url": "https://github.com/Factory-AI/factory/issues/891",
+    "timestamp": "2026-04-04T15:13:14Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 891
+    }
+  },
+  {
     "id": "github_issue_889",
     "source": "github",
     "author": "rlgrpe",
