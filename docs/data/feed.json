@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_889",
+    "source": "github",
+    "author": "rlgrpe",
+    "content": "[Issue] Mission runner worker exits before feature execution with exit code 0\n\n## Summary\n\nWhen starting a mission run, the selected worker can exit before executing any feature work. The runner returns control with:\n\n`Worker process exited unexpectedly: Droid process exited unexpectedly (exit code 0)`\n\n## Impact\n\nA mission with valid artifacts cannot start. Retrying the run does not recover.\n\n## Reproduction\n\n1. Create and accept a mission with valid mission artifacts (`validation-contract.md`, `validation-state.json`, `features.json`, mission `AGENTS.md`, and required `.",
+    "url": "https://github.com/Factory-AI/factory/issues/889",
+    "timestamp": "2026-04-04T10:55:13Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 889
+    }
+  },
+  {
     "id": "github_issue_887",
     "source": "github",
     "author": "shrimpwtf",
