@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_893",
+    "source": "github",
+    "author": "jvantuyl",
+    "content": "[Issue] End of thinking response sometimes missed.\n\nSometimes my session just stops with an unusual message.  There doesn't seem to be any rhyme or reason that I can tell about what exactly triggers the response.  But the response is pretty consistent.\n\nI'm using GLM-5 with \"Show Thinking\" enabled.  When these stops happen, I always see a `Thinking:` output followed by what's obviously it's inner monologue.  However, eventually there will be a `</thinking>` which I presume should've been detected and caused it to continue its loop.\n\nTypically, th",
+    "url": "https://github.com/Factory-AI/factory/issues/893",
+    "timestamp": "2026-04-05T21:09:02Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 893
+    }
+  },
+  {
     "id": "github_issue_892",
     "source": "github",
     "author": "Shamunr",
