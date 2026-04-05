@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_892",
+    "source": "github",
+    "author": "Shamunr",
+    "content": "[Issue] Windows App - Chat set to read-only after 1 message even with BYOK\n\n### Problem: BYOK is limited to 1 message even though docs say shouldnt be limited\n\nPretty much as title.  I have BYOK setup with 2 different models via fireworks.ai .  When sending a message to either I get in the top area: \"Your subscription has ended.  Sending new messages is disabled\" .  In the message window there is \"Credit limit reached.  Use /limits to manage your usage preferences or visit https://app.factory.ai/settings/usage\"\n\n### Expected: No rate limit\n\n### Environment\nWindows 10 Pr",
+    "url": "https://github.com/Factory-AI/factory/issues/892",
+    "timestamp": "2026-04-04T23:59:57Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 892
+    }
+  },
+  {
     "id": "github_issue_891",
     "source": "github",
     "author": "integrITsolutions",
